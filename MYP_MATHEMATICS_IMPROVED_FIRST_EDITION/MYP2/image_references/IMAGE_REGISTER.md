@@ -1,0 +1,49 @@
+# Image register — MYP Mathematics 2, Improved First Edition
+
+Every photograph used in this edition was retrieved through an image search restricted to
+free-licence collections (Pexels, Pixabay, StockCake, Wikimedia Commons public domain), then
+opened and inspected at full size before being accepted. Watermarked or paid collections
+(Shutterstock, Vecteezy, Adobe Stock, Getty/iStock, Dreamstime, Freepik) were rejected on sight.
+
+The **file in this edition** column gives the path inside `MYP2/images/photos/`. The
+**candidate file** column gives the retained download inside `image-search/` at repository root,
+so the provenance of every picture can be re-checked.
+
+| # | Chapter / where it appears | File in this edition | Candidate file (repository root) | Collection | Licence | Subject and why it is there |
+|---|---|---|---|---|---|---|
+| 1 | 1.1 — Engage (lemonade) | `ch01_lemonade.jpg` | `image-search/lemonade-glass-jars-outdoor-table-pixaba-2.jpg` | Pixabay (via Pexels mirror) | Pixabay / Pexels free licence | Three jugs of lemonade; the opening problem of equivalent ratios is a recipe scaled without changing taste. |
+| 2 | 1.4 — Sharing (facade grid) | `ch01_tiles.jpg` | `image-search/concrete-building-facade-repeating-geome-3.jpg` | Pexels | Pexels licence | A gridded concrete facade; repeated bays show how a part-to-whole comparison predicts a whole surface. |
+| 3 | 2.1 — Engage (scale model) | `ch02_model.jpg` | `image-search/architect-scale-model-house-wooden-studi-1.jpg` | Pexels | Pexels licence | An architectural scale model: the physical embodiment of a constant scale factor. |
+| 4 | 2.3 — Scale drawings | `ch02_map.jpg` | `image-search/wikimedia-commons-public-domain-photogra-1.jpg` | Wikimedia Commons | Public domain | A compass on a map; introduces map scale and the decisions a model leaves out. |
+| 5 | 3.1 — Engage (pouring) | `ch03_pour.jpg` | `image-search/water-pouring-from-tap-into-measuring-ju-1.jpg` | Pixabay | Pixabay licence | Water poured into a measuring jug: the clearest everyday picture of a rate (volume per second). |
+| 6 | 3.3 — Speed, density, flow | `ch03_pump.jpg` | `image-search/pexels-free-photo-fuel-pump-petrol-stati-3.jpg` | Pexels | Pexels licence | A fuel pump: litres delivered and price per litre make a rate that is read off a display. |
+| 7 | 4.1 — Engage (thermometer) | `ch04_thermometer.jpg` | `image-search/pexels-free-photo-thermometer-winter-sno-3.jpg` | Pexels | Pexels licence | A thermometer in snow; the scale continues below zero, which is why integers exist. |
+| 8 | 4.1 — Explain (steps) | `ch04_stairs.jpg` | `image-search/pexels-free-photo-staircase-steps-geomet-1.jpg` | Pexels | Pexels licence | A flight of steps: equal risers make a physical number line. |
+| 9 | 5.1 — Engage (notation) | `ch05_notebook.jpg` | `image-search/pexels-free-photo-notebook-pen-mathemati-1.jpg` | Pexels | Pexels licence | Algebra written by hand; notation exists so that every step can be checked. |
+| 10 | 5.2 — Equivalent expressions | `ch05_study.jpg` | `image-search/pexels-free-photo-notebook-pen-mathemati-3.jpg` | Pexels | Pexels licence | Two students working through written steps; the topic is showing equivalence line by line. |
+| 11 | 6.1 — Explore (brick bond) | `ch06_brick.jpg` | `image-search/pexels-free-photo-brick-wall-pattern-row-2.jpg` | Pexels | Pexels licence | A running-bond brick wall: each course is the previous one translated by half a brick. |
+| 12 | 6.1 — Engage (facade) | `ch06_facade.jpg` | `image-search/concrete-building-facade-repeating-geome-2.jpg` | Pexels | Pexels licence | A repeating facade; the rule that generates the repetition describes the whole elevation. |
+| 13 | 7.1 — Engage (bridge) | `ch07_bridge.jpg` | `image-search/pexels-free-photo-steel-bridge-truss-tri-1.jpg` | Pexels | Pexels licence | A steel truss bridge; triangulation is a geometric argument about rigidity. |
+| 14 | 7.6 — Investigate (hexagons) | `ch07_hexagons.jpg` | `image-search/pexels-free-photo-wooden-mosaic-tiles-fl-4.jpg` | Pexels | Pexels licence | Hexagonal paving; three 120° angles make exactly 360°, which is why the tiling closes. |
+| 15 | 8.1 — Engage (cartons) | `ch08_boxes.jpg` | `image-search/pexels-free-photo-stacked-cardboard-boxe-1.jpg` | Pexels | Pexels licence | Stacked cartons; one measured volume predicts the space a stack occupies. |
+| 16 | 8.3 — Volume and capacity | `ch08_tank.jpg` | `image-search/pexels-free-photo-large-water-storage-ta-2.jpg` | Pexels | Pexels licence | A cylindrical storage tank: capacity is πr²h, material cost is the surface area. |
+| 17 | 9.3 — Rotation | `ch09_wheel.jpg` | `image-search/pexels-free-photo-ferris-wheel-symmetry--1.jpg` | Pexels | Pexels licence | A Ferris wheel; every cabin is carried through the same rotation about the hub. |
+| 18 | 9.5 — Tessellation | `ch09_mosaic.jpg` | `image-search/pexels-free-photo-wooden-mosaic-tiles-fl-1.jpg` | Pexels | Pexels licence | Mosaic tiles on a diagonal grid; the pattern is generated by translations along two directions. |
+| 19 | 10.2 — Sample spaces (dice) | `ch10_dice.jpg` | `image-search/pexels-free-photo-dice-on-table-board-ga-1.jpg` | Pexels | Pexels licence | Two dice; thirty-six ordered pairs, and totals that are not equally likely. |
+| 20 | 10.3 — Tree diagrams (coins) | `ch10_coins.jpg` | `image-search/pexels-free-photo-coins-tossed-on-wooden-2.jpg` | Pexels | Pexels licence | Tossed coins; HT and TH are different outcomes, which is the classic counting trap. |
+| 21 | 11.1 — Explore (charts) | `ch11_charts.jpg` | `image-search/pexels-free-photo-spreadsheet-charts-on--1.jpg` | Pexels | Pexels licence | A dashboard of charts; each chart answers a question and none answers every question. |
+| 22 | 11.2 — Averages | `ch11_screen.jpg` | `image-search/pexels-free-photo-spreadsheet-charts-on--3.jpg` | Pexels | Pexels licence | A spreadsheet of readings with summary charts; a summary is a choice. |
+
+## Rejected material
+
+All candidates whose thumbnails carried a visible watermark or a paid-licence mark were discarded
+without use: Shutterstock, Vecteezy, Adobe Stock, Getty Images, iStock, Dreamstime, Freepik and
+Magnific sets. They remain in `image-search/` only as evidence of the search; **none of them
+appears in this book**.
+
+## Diagrams
+
+Every figure in the book that is not a photograph is original vector artwork generated by
+`build/diagrams2.py` (33 distinct diagram functions, all drawn from primitives in reportlab).
+No diagram is traced or copied from another publication. Diagrams are listed by name in the
+figure captions (Figure 1.1 … Figure 11.x), and each may be regenerated from source at any size.

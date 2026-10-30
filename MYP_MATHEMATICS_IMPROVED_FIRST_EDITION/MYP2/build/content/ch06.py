@@ -1,0 +1,536 @@
+"""Chapter 6 - Numerical patterns and generalisation (Algebra and pattern)."""
+from chbase import *
+
+PLATE = dict(
+    part="Part II \u00b7 Algebra and pattern", part_numeral="II", chapter_no=6,
+    kicker="Algebra and pattern", motif="patterns",
+    title_lines=["Numerical patterns", "and generalisation"],
+    lead_lines=["A sequence is a list with a rule. The interesting question",
+                "is never \u201cwhat comes next?\u201d but \u201cwhat is the rule,",
+                "and how do you know it holds for every term?\u201d"],
+    key_concept="Change", related=["Patterns", "Models"],
+    context="Personal and cultural expression",
+    inquiry_lines=["How can a rule describe every term of a sequence at",
+                   "once, including the ones you never write down?"])
+
+TITLE = "Numerical patterns and generalisation"
+SHORT = "Numerical patterns and generalisation"
+
+BLOCKS = [
+    ST("01", "MYP UNIT PLANNER",
+       "From a list of numbers to a rule that generates all of them."),
+    GAP(10),
+    STATEMENT("Statement of inquiry",
+              "A pattern becomes mathematics when its rule is written in terms of the "
+              "term's position, because a rule can predict terms that have never been "
+              "counted."),
+    GAP(6),
+    BOX("keyidea", "Key and related concepts",
+        "**Key concept \u00b7 Change.** A sequence records how a quantity changes from "
+        "step to step, and a linear sequence changes by a constant amount.\n"
+        "**Related \u00b7 Patterns.** The `n`th term is the pattern expressed as a "
+        "formula in `n`.\n"
+        "**Related \u00b7 Models.** A function machine, a table and a graph are three "
+        "models of the same rule."),
+    BOX("note", "Global context \u00b7 Personal and cultural expression",
+        "Exploration: ornament, tilework and building patterns that repeat and grow. "
+        "A pattern that can be described is one that can be continued, taught and "
+        "criticised."),
+    GAP(8),
+    H("Inquiry questions"),
+    UL(["**Factual:** How do you find the next term of a sequence?",
+        "**Conceptual:** Why does the `n`th term make the term-to-term rule "
+        "unnecessary?",
+        "**Debatable:** Is a pattern established by three terms, or does it need a "
+        "reason?"]),
+    GAP(6),
+    TABLE(["Criterion", "Strands", "Evidence in this chapter"], [
+        ["A \u00b7 Knowing and understanding", "i, ii",
+         "Find term-to-term rules, nth terms, and use function machines."],
+        ["B \u00b7 Investigating patterns", "i, ii, iii",
+         "Investigate growing patterns, describe and justify the general rule."],
+        ["C \u00b7 Communicating", "ii, iii, iv",
+         "Move between a diagram, a table, a formula and a graph."],
+        ["D \u00b7 Applying mathematics", "i, ii, iii, iv, v",
+         "Model a lantern arch and justify a construction decision."],
+    ], widths=[1.25, 0.55, 2.55]),
+    GAP(6),
+    ATL("In order for a student to justify a generalisation, students must show that "
+        "the rule reproduces the terms already checked and explain the structure of "
+        "the pattern that makes it hold for all terms."),
+    GAP(10),
+    ST("02", "LEARNING INTENTIONS AND SUCCESS CRITERIA"),
+    GAP(6),
+    TABLE(["You are learning to", "You have succeeded when you can"], [
+        ["Continue a sequence and state its term-to-term rule.",
+         "Give the rule for 5, 8, 11, 14, \u2026 and the next two terms."],
+        ["Find the `n`th term of a linear sequence.",
+         "Write 4, 7, 10, 13, \u2026 as 3`n` + 1 and check the first three terms."],
+        ["Use a function machine forwards and backwards.",
+         "Find the input that gives a stated output."],
+        ["Plot the terms of a sequence and describe the graph.",
+         "Say why a linear sequence's points lie on a straight line."],
+        ["Describe a growing shape pattern with a rule.",
+         "Count the sticks in a pattern and write the rule for `n` shapes."],
+        ["Justify a generalisation.",
+         "Explain why the rule must hold for all `n`, not only the terms tested."],
+    ], widths=[1.6, 1.8]),
+    GAP(8),
+    BOX("note", "Prerequisite check \u00b7 10 minutes, no calculator",
+        None, ["Write the next three terms of \u00a0 2, 5, 8, 11, \u2026",
+               "Calculate \u00a0 3 \u00d7 10 + 1.",
+               "Calculate \u00a0 4\u00b2.",
+               "Complete the table for `y` = 2`x` + 3 when `x` = 1, 2, 3.",
+               "Plot the points (1, 2), (2, 4), (3, 6) and describe them.",
+               "Simplify \u00a0 5`n` \u2212 2`n`."]),
+    P("If three or more answers are wrong, revisit section 5.2 before continuing."),
+
+    # ------------------------------------------------------------------ 6.1
+    S("6.1", "Sequences and term-to-term rules", "A \u00b7 I  \u00b7  "
+      "B \u00b7 I", ["Patterns", "Change"]),
+    L("A sequence is an ordered list of numbers generated by a rule. The term-to-term "
+      "rule says how to get from one term to the next; it is the simplest description, "
+      "but not the most powerful."),
+    ST("03", "ENGAGE",
+       "The staircase that grows by one square each time."),
+    PHOTO("ch06_facade.jpg", 1.5,
+          "A building facade. Rows, columns and offsets repeat, and a rule that "
+          "describes the repetition describes the whole elevation.",
+          "Photograph: Pexels, free licence (see the image register)."),
+    P("A staircase is built from square tiles. The first has 1 tile, the second 3, the "
+      "third 6, the fourth 10. Before reading on, work out how many tiles the fifth "
+      "staircase has, then the tenth, and write down the method you used."),
+    ST("04", "EXPLORE",
+       "Count, tabulate, generalise."),
+    PHOTO("ch06_brick.jpg", 1.5,
+          "A running bond brick wall. Every course is the last one shifted by half a "
+          "brick: a translation, applied again and again.",
+          "Photograph: Pexels, free licence (see the image register)."),
+    DIAG(190, "staircase",
+         "The first five triangular numbers as tile staircases. Each new staircase is "
+         "the previous one plus a row one tile longer."),
+    TABLE(["Staircase, `n`", "1", "2", "3", "4", "5", "6"],
+          [["Tiles, `t`", "1", "3", "6", "10", "15", "21"],
+           ["Difference", "", "2", "3", "4", "5", "6"]],
+          widths=[1.3, 0.55, 0.55, 0.55, 0.55, 0.55, 0.55]),
+    OL(["Describe how the number of tiles changes from one staircase to the next.",
+        "Is the change constant? What does the difference row show you?",
+        "Find a way to compute the tenth staircase without listing all the earlier "
+        "ones.",
+        "Compare the sequence with the constant-difference sequence 4, 7, 10, 13. "
+        "What is different about the two patterns of growth?",
+        "Write a conjecture about the sequences whose difference row is constant.",
+        "Find the 100th term of 4, 7, 10, 13, \u2026 and explain why your method "
+        "cannot simply be repeated 100 times by hand."]),
+    ST("05", "EXPLAIN"),
+    DEF("A `sequence` is an ordered list of numbers, each called a `term`. A "
+        "`term-to-term rule` describes how to get from one term to the next. A "
+        "sequence whose terms increase or decrease by a constant amount is "
+        "`linear`, and that constant amount is the `common difference`."),
+    DIAG(160, "matchstick",
+         "A growing matchstick pattern. Four sticks make the first square and each "
+         "extra square needs three more, giving 3`n` + 1 sticks for `n` squares."),
+    P("The matchstick pattern is worth studying because the rule can be read from the "
+      "picture. The first square takes 4 sticks; each extra square shares one side and "
+      "adds 3 sticks. So `n` squares take 4 + 3(`n` \u2212 1) sticks, which simplifies "
+      "to 3`n` + 1. A rule found from a picture can be checked against a rule found "
+      "from a table, and agreement is evidence."),
+    WE("6.1.1", "Find the term-to-term rule",
+       "Write the term-to-term rule for (a) 7, 12, 17, 22, \u2026 and (b) 64, 32, 16, "
+       "8, \u2026 and give the next two terms.",
+       ["(a) The differences are 5 each time, so the rule is \u201cadd 5\u201d.",
+        "Next terms: 27, 32.",
+        "(b) Each term is half the one before, so the rule is \u201cdouble or "
+        "halve\u201d: multiply by 1/2.",
+        "Next terms: 4, 2."],
+       "(a) add 5; 27, 32   (b) multiply by 1/2; 4, 2",
+       "Check (b) backwards: doubling 4 gives 8, which is in the list."),
+    WE("6.1.2", "A picture to a rule",
+       "A pattern of equilateral triangles is made from sticks: 3 sticks for 1 "
+       "triangle, 5 for 2, 7 for 3. Find the rule and the number of sticks for 20 "
+       "triangles.",
+       ["The differences are 2 each time, so the rule is \u201cadd 2\u201d.",
+        "Write the rule in terms of `n`: 2`n` + 1, since `n` = 1 gives 3.",
+        "For `n` = 20: 2(20) + 1 = 41.",
+        "Check `n` = 3: 2(3) + 1 = 7, as counted."],
+       "2`n` + 1; 41 sticks",
+       "The first term fixes the constant: 2(1) + `c` = 3 gives `c` = 1."),
+    WE("6.1.3", "Two rules, one sequence",
+       "For 5, 9, 13, 17, \u2026 state the term-to-term rule and a rule for the `n`th "
+       "term. Which is more useful for finding the 50th term?",
+       ["The common difference is 4, so the term-to-term rule is \u201cadd 4\u201d.",
+        "The `n`th term is 4`n` + 1, since 4(1) + 1 = 5.",
+        "The 50th term is 4(50) + 1 = 201, found in one step.",
+        "The term-to-term rule would need 49 additions; the `n`th term needs one "
+        "calculation."],
+       "Add 4; `n`th term 4`n` + 1; 201",
+       "Check the 50th by the equivalent formula 5 + 4(50 \u2212 1) = 201."),
+    ERR("\u201cThe sequence is 3, 6, 9, \u2026 so the next term must be 12; the rule "
+        "is \u2018add 3\u2019 and that is the only possibility.\u201d Any three terms "
+        "can be continued in many ways \u2014 3, 6, 9 could be followed by 12 or by "
+        "18 (doubling) or by 9 (repeating). A rule becomes a generalisation only when "
+        "there is a reason for it, usually the structure of a diagram or the "
+        "context."),
+    PRAC("6.1", "SUPPORT 1\u20135  \u00b7  CORE 6\u20139  \u00b7  EXTENSION "
+                "10\u201312", [
+        Q("Write the next three terms and the term-to-term rule: (a) 6, 10, 14, "
+          "\u2026  (b) 40, 36, 32, \u2026  (c) 3, 6, 12, \u2026", "F"),
+        Q("Find the common difference: (a) 9, 14, 19, \u2026  (b) 100, 87, 74, "
+          "\u2026", "F"),
+        Q("A sequence starts 2, 7, 12, \u2026 Find the 10th term by continuing the "
+          "pattern.", "F"),
+        Q("A matchstick pattern uses 5 sticks for 1 shape, 8 for 2 and 11 for 3. Find "
+          "the number of sticks for 12 shapes.", "F"),
+        Q("Write the first four terms of the sequence with `n`th term (a) 2`n` + 3  "
+          "(b) 5`n` \u2212 1  (c) `n`\u00b2.", "F"),
+        Q("A sequence is 4, 11, 18, 25, \u2026 Write its term-to-term rule and find "
+          "the 15th term.", "P"),
+        Q("A tiling pattern uses 6 tiles in the first row, 10 in the second, 14 in the "
+          "third. How many tiles are in the tenth row?", "P"),
+        Q("Two students describe 3, 5, 7, 9. One says \u201cadd 2\u201d; the other "
+          "says \u201codd numbers from 3\u201d. Are both rules valid? Which is more "
+          "useful, and why?", "R"),
+        Q("A sequence has `n`th term 4`n` \u2212 3. Which term is 41?", "P"),
+        Q("A savings account starts at \u00a3120 and gains \u00a325 each month. Write "
+          "the balance after `n` months as an expression, and find when it reaches "
+          "\u00a3320.", "E"),
+        Q("The first three terms of a sequence are 7, 12, 17. Write the "
+          "term-to-term rule and the `n`th term, then explain why three terms "
+          "are not enough to be certain of the fourth.", "E"),
+        Q("Find the 100th term of 5, 9, 13, 17, \u2026 and explain in one sentence "
+          "why the `n`th term is a stronger description than the term-to-term "
+          "rule.", "E"),
+    ]),
+
+    # ------------------------------------------------------------------ 6.2
+    S("6.2", "The nth term of a linear sequence", "A \u00b7 II  \u00b7  "
+      "B \u00b7 II", ["Patterns", "Generalisation"]),
+    L("The `n`th term is a formula that gives any term directly from its position. It "
+      "turns a list into a rule."),
+    DEF("For a linear sequence with first term `a` and common difference `d`, the "
+        "`n`th term is `a` + (`n` \u2212 1)`d`, which simplifies to `d n` + (`a` "
+        "\u2212 `d`). The coefficient of `n` is always the common difference."),
+    H("A reliable method"),
+    OL(["Find the common difference `d`; it becomes the coefficient of `n`.",
+        "Write `d n` and compare it with the sequence to see what must be added or "
+        "subtracted.",
+        "Fix the constant by testing the first term.",
+        "Check the formula on the second and third terms before trusting it."]),
+    WE("6.2.1", "Find the nth term",
+       "Find the `n`th term of 6, 10, 14, 18, \u2026",
+       ["The common difference is 4, so the rule begins 4`n`.",
+        "For `n` = 1, 4(1) = 4, but the first term is 6, so add 2.",
+        "The `n`th term is 4`n` + 2.",
+        "Check: `n` = 2 gives 10 and `n` = 3 gives 14, as listed."],
+       "4`n` + 2",
+       "Take the difference first, fix the constant second, and always check two "
+       "terms."),
+    WE("6.2.2", "A decreasing sequence",
+       "Find the `n`th term of 30, 26, 22, 18, \u2026",
+       ["The common difference is \u22124, so the rule begins \u22124`n`.",
+        "For `n` = 1, \u22124(1) = \u22124, but the first term is 30, so add 34.",
+        "The `n`th term is 34 \u2212 4`n`, or \u22124`n` + 34.",
+        "Check: `n` = 2 gives 26 and `n` = 4 gives 18."],
+       "34 \u2212 4`n`",
+       "A decreasing sequence has a negative coefficient of `n`; that is expected, not "
+       "an error."),
+    WE("6.2.3", "Which term is it?",
+       "The `n`th term of a sequence is 5`n` \u2212 2. Is 88 a term of the sequence?",
+       ["Set 5`n` \u2212 2 = 88 and solve.",
+        "Add 2: 5`n` = 90, so `n` = 18.",
+        "Since 18 is a whole number, 88 is the 18th term.",
+        "Check: 5(18) \u2212 2 = 90 \u2212 2 = 88, as required."],
+       "Yes \u2014 88 is the 18th term",
+       "If the solution for `n` were not a whole number, the value would not be in the "
+       "sequence."),
+    DIAG(200, "sequence_graph",
+         "The terms of 4, 7, 10, 13, \u2026 plotted against their position. The points "
+         "lie on a straight line whose gradient is the common difference."),
+    WE("6.2.4", "From a graph to a rule",
+       "The terms of a sequence plotted against `n` lie on a straight line through "
+       "(1, 7) and (3, 15). Find the `n`th term.",
+       ["The gradient is (15 \u2212 7) \u00f7 (3 \u2212 1) = 8 \u00f7 2 = 4, so the "
+        "rule begins 4`n`.",
+        "At `n` = 1 the value is 7, so 4(1) + `c` = 7, giving `c` = 3.",
+        "The `n`th term is 4`n` + 3.",
+        "Check: `n` = 3 gives 15, which is the second point."],
+       "4`n` + 3",
+       "The gradient of the term-number graph is the common difference."),
+    ERR("\u201cThe `n`th term of 5, 8, 11, \u2026 is 3`n`, because the difference is "
+        "3.\u201d The difference gives the coefficient, not the whole rule: 3`n` gives "
+        "3, 6, 9, not 5, 8, 11. The constant must be adjusted by testing the first "
+        "term, giving 3`n` + 2."),
+    PRAC("6.2", "SUPPORT 1\u20135  \u00b7  CORE 6\u201310  \u00b7  EXTENSION "
+                "11\u201313", [
+        Q("Find the `n`th term: (a) 3, 7, 11, \u2026  (b) 8, 13, 18, \u2026  "
+          "(c) 2, 9, 16, \u2026", "F"),
+        Q("Find the `n`th term: (a) 20, 18, 16, \u2026  (b) 50, 44, 38, \u2026", "F"),
+        Q("The `n`th term is 4`n` + 1. Write the first four terms.", "F"),
+        Q("The `n`th term is 7`n` \u2212 4. Find the 12th term.", "F"),
+        Q("Is 100 a term of the sequence with `n`th term 6`n` + 4? Justify.", "F"),
+        Q("Find the `n`th term of 11, 15, 19, 23, \u2026 and use it to find the 30th "
+          "term.", "P"),
+        Q("A sequence has `n`th term 3`n` + 5. Which term equals 56?", "P"),
+        Q("A tiling pattern has `n`th row containing 5`n` + 2 tiles. How many tiles "
+          "are in the 20th row, and in which row are there 97 tiles?", "P"),
+        Q("A line passes through the points (1, 9) and (4, 21) of a sequence graph. "
+          "Find the `n`th term.", "P"),
+        Q("Two sequences are 6, 10, 14, \u2026 and 4, 9, 14, \u2026 Will any term "
+          "appear in both? Find the smallest such value.", "R"),
+        Q("A sequence has `n`th term `k n` + 3. The fifth term is 23. Find `k` and "
+          "the tenth term.", "E"),
+        Q("Explain why the graph of a linear sequence's terms against `n` is a "
+          "straight line, and what its gradient represents.", "E"),
+        Q("The `n`th term of a sequence is 2`n`\u00b2 \u2212 1. Write the first four "
+          "terms and describe how the differences behave.", "E"),
+    ]),
+
+    # ------------------------------------------------------------------ 6.3
+    S("6.3", "Function machines and linear graphs", "C \u00b7 II  \u00b7  "
+      "B \u00b7 III", ["Models", "Representation"]),
+    L("A function machine is a sequence rule written as a process: it takes an input, "
+      "applies the rule once, and gives an output. Its graph shows every input and "
+      "output at once."),
+    DIAG(180, "function_machine",
+         "A function machine applying \u00d7 3 + 1. Working backwards undoes the "
+         "operations in reverse order."),
+    P("A machine can be read in three directions: forwards from input to output; "
+      "backwards from output to input, undoing each operation in reverse order; and "
+      "sideways, as the graph of `y` = 3`x` + 1, which is a straight line."),
+    WE("6.3.1", "Forwards and backwards",
+       "A machine applies the rule \u00d7 3 + 1. Find the output for input 7, and the "
+       "input that gives output 25.",
+       ["Forwards: 7 \u00d7 3 = 21, then 21 + 1 = 22.",
+        "Backwards: undo \u201c+ 1\u201d by subtracting 1, giving 24.",
+        "Undo \u201c\u00d7 3\u201d by dividing by 3: 24 \u00f7 3 = 8.",
+        "Check forwards: 8 \u00d7 3 + 1 = 25, as required."],
+       "Output 22; input 8",
+       "Undoing in reverse order is essential: subtracting 1 before dividing would "
+       "give the wrong input."),
+    WE("6.3.2", "Plot and describe",
+       "Plot the outputs of `y` = 2`x` + 1 for `x` = 0, 1, 2, 3 and describe the graph.",
+       ["Compute the pairs: (0, 1), (1, 3), (2, 5), (3, 7).",
+        "Plot them on axes with `x` horizontal and `y` vertical.",
+        "The points lie on a straight line; extending it cuts the `y`-axis at 1.",
+        "The gradient is 2: each step of 1 across gives a step of 2 up."],
+       "A straight line through (0, 1) with gradient 2",
+       "The constant in the rule is the intercept; the coefficient is the gradient."),
+    WE("6.3.3", "Interpret a real graph",
+       "A plumber's charge is `C` = 25`h` + 40 for `h` hours. Interpret the numbers "
+       "and find the charge for 3.5 hours.",
+       ["40 is the charge when `h` = 0: the call-out fee.",
+        "25 is the gradient: the charge per hour.",
+        "For `h` = 3.5: 25(3.5) + 40 = 87.5 + 40 = 127.5.",
+        "The charge is \u00a3127.50."],
+       "\u00a340 call-out plus \u00a325 per hour; \u00a3127.50",
+       "Check `h` = 1: \u00a365, which is the call-out plus one hour's work."),
+    ERR("\u201cThe graph of `y` = 3`x` + 1 passes through the origin because the rule "
+        "is linear.\u201d It passes through (0, 1), not (0, 0). Only a proportional "
+        "rule has no constant term, and only its graph goes through the origin."),
+    PRAC("6.3", "SUPPORT 1\u20135  \u00b7  CORE 6\u201310  \u00b7  EXTENSION "
+                "11\u201313", [
+        Q("A machine applies \u00d7 4 \u2212 3. Find the output for inputs 2, 5 and "
+          "10.", "F"),
+        Q("A machine applies + 6 then \u00f7 2. Find the output for input 14, and the "
+          "input for output 10.", "F"),
+        Q("Complete the table for `y` = 3`x` \u2212 2 when `x` = 0, 1, 2, 3, 4.", "F"),
+        Q("State the gradient and intercept of (a) `y` = 5`x` + 2  (b) `y` = 8 "
+          "\u2212 `x`.", "F"),
+        Q("Does the graph of `y` = 4`x` \u2212 1 pass through the origin? Explain.",
+          "F"),
+        Q("A taxi charge is `C` = 3.5`k` + 6. Find the charge for 12 km and the "
+          "distance travelled for \u00a341.", "P"),
+        Q("A machine's output is 4`x` + 7. Find the input that gives 43.", "P"),
+        Q("Plot `y` = `x` + 4 and `y` = 2`x` + 1 for `x` = 0 to 4 on the same axes. "
+          "At which point do the lines cross?", "P"),
+        Q("A student says \u201cthe graph of `y` = 2`x` is a straight line through the "
+          "origin, so every straight line goes through the origin\u201d. Give a "
+          "counterexample.", "R"),
+        Q("A phone plan costs \u00a312 plus \u00a30.08 per text. Write the cost "
+          "function, find the cost of 250 texts, and the number of texts for a "
+          "\u00a340 bill.", "E"),
+        Q("Two machines: A applies \u00d7 2 + 3, B applies + 3 then \u00d7 2. Do they "
+          "give the same output for every input? Test with 4 and 1.", "E"),
+        Q("The graph of a linear rule passes through (0, 5) and (4, 17). Write the "
+          "rule.", "E"),
+    ]),
+
+    CARD_D("The lantern arch", [
+        ("p", "A community arch is built from lantern posts set at equal horizontal "
+              "spacing along a curve. The height of the `n`th post (from the left, "
+              "counting from 0) follows the rule `h` = 0.5`n`\u00b2 \u2212 4`n` + 8 "
+              "metres for the first section of the arch."),
+        ("ol", ["Complete a table of heights for `n` = 0 to 6.",
+                "Sketch the points. What shape does the arch take?",
+                "Find the lowest point of this section and the value of `n` at which "
+                "it occurs.",
+                "The posts are 0.8 m apart horizontally. How wide is the section "
+                "modelled?",
+                "The builders need a rule for the rising half of the arch only. "
+                "Describe the values of `n` for which the arch is rising.",
+                "Explain why a linear rule would be unsuitable for the arch, using "
+                "your table as evidence."]),
+    ]),
+
+    # ----------------------------------------------------------- investigate
+    ST("06", "INVESTIGATE AND APPLY",
+       "The growing staircase and the mosaic border."),
+    CARD_I("The growing staircase", [
+        ("p", "The staircases in section 6.1 use 1, 3, 6, 10, 15 tiles. These are the "
+              "triangular numbers, and their rule is not linear."),
+        ("ol", ["Extend the table to `n` = 8 and record the first differences.",
+                "Record the second differences. What do you notice?",
+                "Test the rule `t` = `n`(`n` + 1) \u00f7 2 on `n` = 1 to 6.",
+                "Find a way to see the rule in the picture: what happens if two "
+                "identical staircases are fitted together?",
+                "Use your method to find the 20th triangular number without listing "
+                "the earlier ones.",
+                "Write a generalisation about sequences whose second differences are "
+                "constant.",
+                "Compare the triangular numbers with the square numbers 1, 4, 9, 16 "
+                "and describe the relationship between them."]),
+    ]),
+    CARD_I("The mosaic tile border", [
+        ("p", "A mosaic border is built from square tiles arranged in a rectangle "
+              "around a central panel. A border one tile wide around a 5 by 5 panel "
+              "uses 24 tiles; around a 6 by 6 panel it uses 28."),
+        ("ol", ["Draw the two borders described and count the tiles to verify the "
+                "numbers.",
+                "Make a table of tiles for panels of side 3, 4, 5, 6 and 7.",
+                "Find the first differences and hence the `n`th term.",
+                "Explain the rule from the picture: why is the number of tiles always "
+                "a multiple of 4?",
+                "How many tiles are needed for a panel of side 40?",
+                "The mosaic artist has 200 tiles. What is the largest panel side that "
+                "can be bordered?",
+                "Write one sentence explaining why the rule holds for every panel "
+                "size, not only the ones counted."]),
+    ]),
+
+    # --------------------------------------------------------------- review
+    ST("07", "REFLECT AND CONSOLIDATE"),
+    S("6.6", "Summary, revision and reflection", None, []),
+    H("What this chapter established"),
+    UL(["A sequence is a list generated by a rule; the term-to-term rule describes "
+        "the step, the `n`th term describes any term directly.",
+        "A linear sequence has a constant common difference, which becomes the "
+        "coefficient of `n` in its formula.",
+        "The constant in the formula is fixed by testing the first term.",
+        "A function machine can be worked forwards and backwards; backwards means "
+        "undoing in reverse order.",
+        "The graph of a linear rule is a straight line whose gradient is the common "
+        "difference and whose intercept is the value at `n` = 0.",
+        "A generalisation needs a reason, not just three matching terms."]),
+    VOCAB("**sequence** \u00b7 **term** \u00b7 **term-to-term rule** \u00b7 "
+          "**common difference** \u00b7 **linear sequence** \u00b7 **`n`th term** "
+          "\u00b7 **function machine** \u00b7 **input** \u00b7 **output** \u00b7 "
+          "**gradient** \u00b7 **intercept** \u00b7 **generalise**"),
+    H("Misconceptions to close"),
+    TABLE(["The mistake", "What is really happening"], [
+        ["\u201cThe common difference is the `n`th term.\u201d",
+         "The difference gives the coefficient: 3`n` + 2, not 3`n`."],
+        ["\u201cThree terms prove the rule.\u201d",
+         "Many rules fit three terms. A generalisation needs a structural reason, "
+         "usually from the diagram or context."],
+        ["\u201cA linear graph passes through the origin.\u201d",
+         "Only a proportional rule does. `y` = 3`x` + 1 meets the `y`-axis at 1."],
+        ["\u201cWorking backwards means undoing the operations in the same "
+         "order.\u201d",
+         "Undo them in reverse order: subtract before dividing if the machine added "
+         "before multiplying."],
+    ], widths=[1.5, 2.0]),
+    H("Revision questions"),
+    OL(["Find the `n`th term of 7, 11, 15, 19, \u2026",
+        "A machine applies \u00d7 5 \u2212 2. Find the input that gives 43.",
+        "The `n`th term of a sequence is 6`n` \u2212 1. Find the 15th term and say "
+        "whether 80 is a term.",
+        "State the gradient and intercept of `y` = 9 \u2212 2`x`.",
+        "A pattern uses 4 sticks for 1 shape and 7 for 2. Find the number of sticks "
+        "for 15 shapes and the rule for `n` shapes."]),
+    GAP(6),
+    H("Self-assessment"),
+    TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
+        ["continue a sequence and state its term-to-term rule", "\u25a1", "\u25a1",
+         "\u25a1"],
+        ["find the `n`th term of a linear sequence", "\u25a1", "\u25a1", "\u25a1"],
+        ["work a function machine forwards and backwards", "\u25a1", "\u25a1",
+         "\u25a1"],
+        ["plot a linear rule and read its gradient", "\u25a1", "\u25a1", "\u25a1"],
+        ["find a rule from a shape pattern", "\u25a1", "\u25a1", "\u25a1"],
+        ["justify why a rule holds for all terms", "\u25a1", "\u25a1", "\u25a1"],
+    ], widths=[2.6, 0.55, 0.65, 0.65], fs=8.6),
+    GAP(8),
+    MYP("**Criterion A:** which rule can you now find without a table?\n"
+        "**Criterion B:** what did the second differences tell you that the first "
+        "differences could not?\n"
+        "**Criterion C:** which representation \u2014 picture, table, formula, graph "
+        "\u2014 carried your argument best?\n"
+        "**Criterion D:** where did a rule let you predict something you never "
+        "counted?",
+        "Reflect on the criteria"),
+    ATL("In order for a student to defend a generalisation, students must show the "
+        "rule reproduces the terms already known and explain the structure that "
+        "guarantees the rest.", "ATL \u00b7 Critical thinking"),
+    H("Mixed practice \u00b7 consolidate and extend"),
+    PRAC("6.M", "MIXED 1\u201312", [
+        Q("Find the `n`th term: 9, 14, 19, \u2026", "F"),
+        Q("Find the `n`th term: 40, 34, 28, \u2026", "F"),
+        Q("The `n`th term is 8`n` + 3. Find the 9th term.", "F"),
+        Q("A machine applies \u00d7 6 + 1. Find the output for input 4.", "F"),
+        Q("State the gradient of `y` = 7`x` \u2212 4.", "F"),
+        Q("A sequence has `n`th term 5`n` \u2212 3. Which term is 62?", "P"),
+        Q("A tiling row has 3`n` + 4 tiles. How many tiles in the 12th row?", "P"),
+        Q("A student says the `n`th term of 4, 8, 12, \u2026 is 4 because the "
+          "difference is 4. Correct the reasoning.", "R"),
+        Q("Plot `y` = 3`x` \u2212 1 for `x` = 0 to 4 and state where the line crosses "
+          "the `y`-axis.", "F"),
+        Q("A savings plan pays \u00a350 in month 1 and increases by \u00a315 each "
+          "month. Write the amount in month `n` and find the month in which it first "
+          "exceeds \u00a3200.", "E"),
+        Q("The first three terms of a sequence are 3, 8, 15. Find a rule in `n` "
+          "involving `n`\u00b2 and check it on all three terms.", "E"),
+        Q("Two sequences: A is 5`n` + 2, B is 3`n` + 10. Find the smallest `n` for "
+          "which A exceeds B, and the value of both at that `n`.", "E"),
+    ]),
+]
+
+ANSWERS = {
+    "6.1": ["(a) 18, 22, 26; add 4 (b) 28, 24, 20; subtract 4 (c) 24, 48, 96; "
+            "double.", "(a) 5 (b) \u221213.", "47.", "38.",
+            "(a) 5, 7, 9, 11 (b) 4, 9, 14, 19 (c) 1, 4, 9, 16.", "Add 7; 102.",
+            "42.", "Both describe the same list, but \u201cadd 2\u201d explains how "
+            "to continue it, while \u201codd numbers from 3\u201d is a description.",
+            "The 11th term.", "\u00a3120 + 25`n`; after 8 months.",
+            "Add 5, so the `n`th term is 5`n` + 2 and the fourth term is 22. But "
+            "\u201cadd 5, add 5, then add 9\u201d also gives 7, 12, 17 and a "
+            "different fourth term, 26; three terms fit many rules, so only a "
+            "reason from the context fixes the sequence.",
+            "5 + 4(99) = 401; the `n`th term needs one calculation for any term, "
+            "while the term-to-term rule needs every step in between."],
+    "6.2": ["(a) 4`n` \u2212 1 (b) 5`n` + 3 (c) 7`n` \u2212 5.",
+            "(a) 22 \u2212 2`n` (b) 56 \u2212 6`n`.", "5, 9, 13, 17.", "80.",
+            "Yes: 6`n` + 4 = 100 gives `n` = 16, a whole number.",
+            "4`n` + 7; 127.", "`n` = 17.", "102 tiles; row 19.",
+            "4`n` + 5.", "Yes: sequence A is 4`n` + 2 and sequence B is 5`m` "
+            "\u2212 1. The terms are 6, 10, 14, 18, 22, 26, 30, 34 for A and 4, 9, "
+            "14, 19, 24, 29, 34 for B, so 14 is the smallest value in both.",
+            "`k` = 4; tenth term 43.",
+            "The gradient is the common difference, because each increase of 1 in `n` "
+            "adds the same amount to the term.",
+            "1, 7, 17, 31; the differences are 6, 10, 14, so the second differences "
+            "are constant at 4."],
+    "6.3": ["5, 17, 37.", "Output 10; input 14.", "Table \u22122, 1, 4, 7, 10.",
+            "(a) gradient 5, intercept 2 (b) gradient \u22121, intercept 8.",
+            "No: at `x` = 0, `y` = \u22121, so it crosses below the origin.",
+            "\u00a348; 10 km.", "9.", "They cross at (3, 7).",
+            "`y` = 2`x` + 1 is straight but meets the `y`-axis at 1.",
+            "`C` = 0.08`m` + 12; \u00a332; 350 texts.",
+            "No: A gives 11 from 4 and 5 from 1; B gives 14 and 8.",
+            "`y` = 3`x` + 5."],
+    "6.M": ["5`n` + 4.", "46 \u2212 6`n`.", "75.", "25.", "7.",
+            "`n` = 13.", "40 tiles.",
+            "The difference gives the coefficient of `n`, not the whole rule: 4`n` "
+            "gives 4, 8, 12 when `n` = 1, 2, 3.",
+            "Crosses the `y`-axis at \u22121.", "50 + 15(`n` \u2212 1); month 12, when the payment is \u00a3215.",
+            "`n`\u00b2 + 2`n`: 3, 8, 15.", "`n` = 5; A gives 27 and B gives 25, so A first exceeds B at `n` = 5."],
+}
