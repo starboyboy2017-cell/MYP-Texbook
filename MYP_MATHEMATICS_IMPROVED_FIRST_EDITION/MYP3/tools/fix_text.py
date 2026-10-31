@@ -661,7 +661,14 @@ def fit_figure(doc, pno, left, right, base, apex, label, origin, pitch, width, a
     stop = data.index("Figure", cut)
     body = data[cut:stop]
 
-    k = (right - left) / (3 * pitch + width)
+    # the groups get wider as the figure grows, so the scale is set from the
+    # row's real extent rather than from a nominal group width
+    xs = [float(m.group(1)) for m in
+          re.finditer(r"(-?\d+\.\d{4}) (?:%s|%s) [ml]\b" % (base, apex), body)]
+    if not xs:
+        return None
+    actual = min(xs), max(xs)
+    k = (right - left) / (actual[1] - actual[0])
     step = pitch * k
 
     legs = re.compile(r"(-?\d+\.\d{4}) (%s|%s)( [ml]\b)" % (base, apex))
