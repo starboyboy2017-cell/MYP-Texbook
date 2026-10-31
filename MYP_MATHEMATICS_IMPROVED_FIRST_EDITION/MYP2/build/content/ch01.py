@@ -564,6 +564,17 @@ BLOCKS = [
     P("Answers to the revision questions are in the answer section, with the method "
       "for each."),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Write a ratio in simplest form and explain what the division preserved.",
+        "Share a total in a given ratio and check that the parts recombine to the total.",
+        "Scale a recipe, a plan or a map, stating the units at every step.",
+        "Choose between a part-to-part and a part-to-whole comparison and say why.",
+    ]),
+    KEY("A ratio is a comparison; the simplest form is the comparison with the numbers removed."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["write a ratio from a description and say what each term counts",

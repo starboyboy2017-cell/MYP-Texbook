@@ -527,6 +527,17 @@ Bees build hexagonal cells and pavements are often laid in hexagons. The reason 
 4. A circle has radius 9 cm. Find its area and circumference.
 5. A rectangle 10 m by 4 m has a semicircle of radius 2 m removed from one long side. Find the remaining area.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Use angle facts on lines, at points and between parallel lines, naming the fact.
+- Use the angle sums of triangles and polygons.
+- Find the circumference and area of a circle, choosing the right formula.
+- Break a composite shape into parts without counting an internal edge twice.
+
+Every angle fact comes from a small number of starting assumptions; name the one you used.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |

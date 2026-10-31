@@ -247,7 +247,7 @@ def build_orientation(bk, labels=None):
                "concepts and representations needed to answer it. You practise until "
                "the method is reliable. Then you investigate, communicate, apply and "
                "reflect. The answer key at the back supports this cycle; it should "
-               "confirm your reasoning, not replace it.", space=8))
+               "confirm your reasoning, not replace it.", space_before=8))
     p.add(H3("Mathematical habits this course builds"))
     p.add(DataTable(
         ["Habit", "What it looks like in your book"],
@@ -432,6 +432,165 @@ def build_orientation(bk, labels=None):
                      "first, students must read the tag, recall what that kind of "
                      "thinking demands, and choose a deliberate starting point."))
 
+    # ----- pathways: one page setting out the three bands
+    bk.new_page("body")
+    p = Pager(bk)
+    labels["Three pathways through the course"] = bk.page_label
+    p.add(PageTitle("Three pathways through the course",
+                    "Differentiation"))
+    p.add(Lead("Every chapter can be worked at three depths without changing the "
+               "mathematics it teaches. The pathway decides how much a student "
+               "generalises, not which topics they meet."))
+    p.add(Spacer(6))
+    p.add(Body("The three bands are printed beside every practice heading as a "
+               "range of question numbers, and each question carries a letter for "
+               "the kind of thinking it asks for. The two systems answer different "
+               "questions: the band says *how far to go*, the letter says *what "
+               "kind of work this is*. A support-route student still meets "
+               "reasoning questions; a core-route student is not expected to reach "
+               "the generalisation items without help."))
+    p.add(Spacer(8))
+    p.add(DataTable(["Pathway", "What the student does", "What to look for in the book"], [
+        ["Support",
+         "Rehearses the method in the form it was taught, with the worked "
+         "example open, then repeats it on a near-identical question.",
+         "The F items, the first two worked examples of each section, and the "
+         "\u201cTry this first\u201d line in the COMMON ERROR panel."],
+        ["Core",
+         "Chooses a method, applies it to an unfamiliar context, and writes one "
+         "sentence of justification.",
+         "The P items, all worked examples, the investigation card, and the "
+         "mixed practice at the end of the chapter."],
+        ["Extension",
+         "Generalises, compares two representations, or constructs a "
+         "counterexample; often writes the reasoning for someone else.",
+         "The E items, the second investigation card, and the Criterion D task "
+         "with its hand-in checklist."],
+    ], widths=[0.7, 1.75, 1.75], caption="The three pathways and where each one "
+                                        "lives on the page."))
+    p.add(Spacer(8))
+    p.add(H3("Choosing a route through a chapter"))
+    p.add(DataTable(["If this is true of the student\u2026", "Start here"], [
+        ["The prerequisite check has gaps",
+         "Read the worked examples, do the support items in sections x.1 and x.2, "
+         "then attempt the first investigation with a partner."],
+        ["The methods are reliable but the contexts are new",
+         "Skip straight to the core items and the mixed practice; use the "
+         "summary page as a checklist before the Criterion D task."],
+        ["The methods and the contexts are secure",
+         "Work the extension items and both investigations; then write the "
+         "Criterion D task as a short report in the form a reader would need."],
+    ], widths=[1.55, 2.65]))
+    p.add(Spacer(8))
+    p.add(Panel("note", title="What is not differentiated",
+                text="The concepts, the global context, the statement of inquiry "
+                     "and the criteria are the same for every student. A support "
+                     "route is not a reduced curriculum; it is the same curriculum "
+                     "travelled with more support and fewer generalisations."))
+
+    # ----- pathways: chapter by chapter
+    p.add(H3("The three pathways, chapter by chapter"))
+    p.add(Body("The table names, for each chapter, the idea a support route should "
+               "secure, the choice a core route should be able to make, and the "
+               "generalisation an extension route should reach."))
+    p.add(Spacer(4))
+    p.add(DataTable(["Ch", "Support: secure this", "Core: choose this",
+                     "Extension: generalise this"], [
+        ["1", "Simplify a ratio by dividing both parts",
+         "Share a total in a given ratio and check the parts recombine",
+         "Explain why equivalent ratios describe the same comparison"],
+        ["2", "Read a constant of proportionality from a table",
+         "Solve a proportion in either direction, with units",
+         "Derive a relationship from two data points and test it on a third"],
+        ["3", "Find a unit rate by dividing",
+         "Compare two offers by a common unit and say which is better value",
+         "Combine rates, including a rate that works against another"],
+        ["4", "Order integers on a number line",
+         "Add, subtract, multiply and divide signed numbers with a reason",
+         "Justify the sign rules from a pattern rather than a mnemonic"],
+        ["5", "Substitute into an expression",
+         "Expand a bracket and solve a two-step equation",
+         "Show that two expressions are or are not equivalent, and prove it"],
+        ["6", "Continue a sequence by its term-to-term rule",
+         "Find the `n`th term of a linear sequence and use it",
+         "Model a context with a linear rule and interpret the gradient"],
+        ["7", "Name angles and use the straight-line fact",
+         "Find missing angles and areas in a composite figure",
+         "Decide which facts a figure does and does not determine"],
+        ["8", "Count faces, edges and vertices; find a volume",
+         "Find surface area of a prism or cylinder and explain each face",
+         "Compare two packagings that use the same material differently"],
+        ["9", "Read and plot coordinates",
+         "Carry out and describe a single transformation",
+         "Combine two transformations and describe the single equivalent one"],
+        ["10", "Write a probability as a fraction",
+         "Use a sample space or tree diagram for two events",
+         "Decide whether a set of trials is evidence of bias, and why"],
+        ["11", "Find the mean and range of a small list",
+         "Compare two distributions using an average and a measure of spread",
+         "Judge a published claim from the display that supports it"],
+    ], widths=[0.25, 1.35, 1.6, 1.65], font_size=7.8,
+        caption="A route through each chapter at three depths."))
+    p.add(Body("Three rules keep the pathways honest in use. Decide the route "
+               "after the prerequisite check, never before it, because the check "
+               "exists to make the decision evidence-based. Keep every student on "
+               "the same concept and the same context: the route changes the "
+               "amount of structure, not the mathematics. And move a student "
+               "between routes at a section boundary rather than inside a practice "
+               "set, so that the evidence from a whole section stays comparable.",
+               space_before=10))
+
+    # ----- command terms
+    bk.new_page("body")
+    p = Pager(bk)
+    labels["Command terms used in this book"] = bk.page_label
+    p.add(PageTitle("Command terms used in this book", "Assessment language"))
+    p.add(Lead("A command term tells you what a complete answer contains. Marks are "
+               "lost more often by answering a different verb than by calculating "
+               "wrongly."))
+    p.add(Spacer(4))
+    p.add(DataTable(["Command term", "A complete answer"], [
+        ["State", "The value or fact, with its unit. No working is required, but a "
+                  "wrong value scores nothing."],
+        ["Describe", "The features of the object or result in order, in words, with "
+                     "the values named."],
+        ["Explain", "A reason that connects the result to a fact, definition or "
+                    "earlier step: because \u2026, so \u2026"],
+        ["Calculate", "The working, with the substitution shown, and the result in "
+                      "the unit the question used."],
+        ["Determine", "The value reached by a stated method, with the choice of "
+                      "method made explicit."],
+        ["Show that", "A chain of steps that ends at the given result; the final "
+                      "line must match the statement exactly."],
+        ["Verify", "A substitution or second route that confirms a stated claim."],
+        ["Estimate", "A reasoned approximate value, with the rounding or benchmark "
+                     "used named."],
+        ["Compare", "Both values or distributions described, then a judgement that "
+                    "says on what basis they differ."],
+        ["Justify", "Evidence for a claim: a counterexample, a test on the general "
+                    "case, or a property that must hold."],
+        ["Construct / Draw", "Accurate work with instruments; labelled vertices, "
+                             "lengths and angles."],
+        ["Sketch", "The essential shape and labelled key features; not to scale."],
+        ["Solve", "The value of the unknown, with the equation shown at each "
+                  "stage and the answer checked."],
+        ["Interpret", "What the number means in the context, in a sentence a "
+                      "non-mathematician could act on."],
+        ["Generalise", "A rule in symbols that holds for every case, justified "
+                       "rather than illustrated by one example."],
+        ["Investigate", "A systematic set of cases, a conjecture, a test, and a "
+                        "statement of what the evidence supports."],
+    ], widths=[0.85, 3.35], font_size=7.9,
+        caption="The command terms used in questions, investigations and the "
+                "Criterion D tasks."))
+    p.add(Spacer(8))
+    p.add(Panel("keyidea", title="One verb, one shape of answer",
+                text="Before writing, underline the command term. If it says "
+                     "**explain**, a bare number cannot earn the mark; if it says "
+                     "**state**, a page of working does not earn more. The worked "
+                     "examples model the shape of each term, so the shortest route "
+                     "to a full answer is to copy that shape."))
+
     # ----- course map
     bk.new_page("body")
     p = Pager(bk)
@@ -518,4 +677,54 @@ def build_orientation(bk, labels=None):
                 text="A student computes 7 \u00f7 3 \u2248 2.3, then multiplies by 3 "
                      "and reports 6.9. The exact value is 7. Round only when the "
                      "value is reported, and keep the exact form in the working."))
+
+    # ----- calculator and rounding
+    bk.new_page("body")
+    p = Pager(bk)
+    labels["Calculators, rounding and accuracy"] = bk.page_label
+    p.add(PageTitle("Calculators, rounding and accuracy",
+                    "Working accurately"))
+    p.add(Lead("A calculator answers the arithmetic you typed, not the question you "
+               "meant. These are the conventions this book uses."))
+    p.add(Spacer(4))
+    p.add(H3("How the questions expect an answer to be given"))
+    p.add(DataTable(["The question says", "Give the answer", "Example"], [
+        ["\u201cgive your answer to 1 decimal place\u201d",
+         "One digit after the decimal point, rounded from the exact value",
+         "7.46 \u2192 7.5"],
+        ["\u201cto 2 significant figures\u201d",
+         "Two meaningful digits, counting from the first non-zero digit",
+         "0.004 837 \u2192 0.0048"],
+        ["\u201cto the nearest whole number\u201d / \u201cnearest penny\u201d",
+         "Rounded at the last step only",
+         "\u00a312.376 \u2192 \u00a312.38"],
+        ["\u201cleave your answer in exact form\u201d",
+         "A fraction, a surd or \u03c0, not a decimal",
+         "\u03c0`r`\u00b2, 22/7, \u221a50"],
+        ["no instruction and the value is not exact",
+         "Two decimal places, with the exact form shown first in the working",
+         "\u2248 3.14"],
+    ], widths=[1.45, 1.55, 0.9], font_size=8.0,
+        caption="The rounding instructions used in the practice sets."))
+    p.add(Spacer(6))
+    p.add(H3("Three habits with a calculator"))
+    p.add(Body("**Estimate first.** Write a rough value before the keystrokes: 4.9 "
+               "\u00d7 21 is about 5 \u00d7 20 = 100, so a display of 1 029 is a "
+               "keystroke error, not a surprise."))
+    p.add(Body("**Keep the exact value.** Rounding at every step turns a small error "
+               "into a wrong answer: 3 \u00d7 2.33 = 6.99, while 3 \u00d7 7/3 = 7.",
+               space_before=6))
+    p.add(Body("**Use the sign key for a negative number.** (\u22123)\u00b2 is 9, "
+               "while \u22123\u00b2 is \u22129; the two keystroke sequences "
+               "differ and the display will not warn you.", space_before=6))
+    p.add(Spacer(4))
+    p.add(Panel("keyidea", title="What the calculator is for, and what it is not",
+                text="A calculator removes the arithmetic, not the reasoning. It is "
+                     "expected in the chapters on circles, solids, probability and "
+                     "data, where numbers are messy by design; it is never a "
+                     "substitute for choosing the operation, stating the units or "
+                     "checking that the size of the answer is plausible. A student "
+                     "who computes the area of a circle of radius 4.5 cm as "
+                     "63.61725124 is arithmetically right and wrong as an answer: "
+                     "to 1 decimal place it is 63.6 cm\u00b2."))
     return labels

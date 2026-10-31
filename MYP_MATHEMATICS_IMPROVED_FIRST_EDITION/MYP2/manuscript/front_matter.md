@@ -53,8 +53,11 @@ Half title, title page and imprint
 How to use this coursebook
 The MYP framework in this course
 Assessment criteria in practice
+Three pathways through the course
+Command terms used in this book
 Course map and progression
 Notation, working and habits
+Calculators, rounding and accuracy
 Ratios and equivalent ratios
 1.1 Understanding ratio language
 1.2 Equivalent ratios and simplest form
@@ -78,6 +81,7 @@ Integers and operations
 4.2 Adding and subtracting integers
 4.3 Multiplying and dividing integers
 4.6 Summary, revision and reflection
+Part I review
 Algebraic expressions and equations
 5.1 The language of algebra
 5.2 Equivalent expressions
@@ -88,6 +92,7 @@ Numerical patterns and generalisation
 6.2 The nth term of a linear sequence
 6.3 Function machines and linear graphs
 6.6 Summary, revision and reflection
+Part II review
 2D geometry: angles, perimeter and area
 7.1 Angle relationships and parallel lines
 7.2 Triangles
@@ -99,17 +104,18 @@ Numerical patterns and generalisation
 8.1 Solids, faces and nets
 8.2 Surface area
 8.3 Volume of prisms and cylinders
+
+<!-- printed page 7 -->
 8.4 Composite solids
 8.6 Summary, revision and reflection
 Transformations and symmetry
 9.1 Translation
-
-<!-- printed page 7 -->
 9.2 Reflection and line symmetry
 9.3 Rotation and rotational symmetry
 9.4 Enlargement
 9.5 Tessellation and symmetry in design
 9.6 Summary, revision and reflection
+Part III review
 10 Probability and simulation
 10.1 Probability and its scale
 10.2 Sample spaces
@@ -122,6 +128,7 @@ Transformations and symmetry
 11.3 Displaying data
 11.4 Quartiles, spread and comparing groups
 11.6 Summary, revision and reflection
+Part IV review
 R
 Answers, formula bank, glossary and index
 
@@ -290,116 +297,159 @@ ATL · Critical thinking
 In order for a student to judge which practice items to attempt first, students must read the tag, recall what that kind of thinking demands, and choose a deliberate starting point.
 
 <!-- printed page 13 -->
-Course map and progression
-Eleven chapters form a cumulative course. Each chapter names the knowledge it assumes, the structure it builds, and the territory that Year 2 deliberately does not enter.
-Ch
-Chapter
-Assumes
-Builds
-Ratios and equivalent ratios
-Equivalent fractions, units
-Ratio language, simplest form, sharing, comparison
-Proportional reasoning
-Chapter 1
-Constant of proportionality, solving proportions,
-scale
-Rates and unit rates
-Chapters 1–2
-Unit rates, best buys, speed, density, flow
-Integers and operations
-Chapter 1
-Order on the number line, signed arithmetic, order
-of operations
-Algebraic expressions and
-equations
-Chapter 4
-Notation, substitution, equivalent expressions, linear equations
-Numerical patterns and generalisation
-Chapter 5
-Term-to-term rules, nth term, function machines,
-linear graphs
-2D geometry: angles, perimeter and area
-Measurement language
-Angle relationships, triangles, quadrilaterals,
-circles, composites
-3D geometry: solids, surface
-area and volume
-Chapter 7
-Nets, surface area, volume, capacity, composite
-solids
-Transformations and symmetry
-Coordinates,
-chapter 7
-Translation, reflection, rotation, enlargement, tessellation
-Probability and simulation
-Fractions, chapter 3
-Sample spaces, theoretical and experimental probability, fairness
-Univariate data
-Chapters 3 and 10
-Frequency tables, averages, quartiles, box plots,
-claims
-The eleven chapters, what each assumes and what each builds.
-How the four criteria accumulate
-Criterion A grows as the toolkit grows: by chapter 11 a student is choosing among several methods, not applying one. Criterion B appears in every investigation, from the scaling rule of chapter
-1 to the relationship between a cylinder's radius and its volume. Criterion C is practised in every
-written explanation. Criterion D appears in every chapter's application, where the answer has to
-be judged as well as calculated.
+Three pathways through the
+course
+Every chapter can be worked at three depths without changing the mathematics it
+teaches. The pathway decides how much a student generalises, not which topics they
+meet.
+The three bands are printed beside every practice heading as a range of question numbers, and
+each question carries a letter for the kind of thinking it asks for. The two systems answer different questions: the band says how far to go, the letter says what kind of work this is. A support-route student still meets reasoning questions; a core-route student is not expected to reach
+the generalisation items without help.
+Pathway
+What the student does
+What to look for in the book
+Support
+Rehearses the method in the form it was
+taught, with the worked example open,
+then repeats it on a near-identical question.
+The F items, the first two worked examples
+of each section, and the “Try this first” line
+in the COMMON ERROR panel.
+Core
+Chooses a method, applies it to an unfamiliar context, and writes one sentence of justification.
+The P items, all worked examples, the investigation card, and the mixed practice at
+the end of the chapter.
+Extension
+Generalises, compares two representations, or constructs a counterexample; often writes the reasoning for someone else.
+The E items, the second investigation card,
+and the Criterion D task with its hand-in
+checklist.
+The three pathways and where each one lives on the page.
+Choosing a route through a chapter
+If this is true of the student…
+Start here
+The prerequisite check has gaps
+Read the worked examples, do the support items in sections x.1
+and x.2, then attempt the first investigation with a partner.
+The methods are reliable but the contexts are new
+Skip straight to the core items and the mixed practice; use the summary page as a checklist before the Criterion D task.
+The methods and the contexts are secure
+Work the extension items and both investigations; then write the
+Criterion D task as a short report in the form a reader would need.
 
 <!-- printed page 14 -->
-Notation, working and habits
-Notation is not a code to memorise; it is a way of making meaning unambiguous. These
-are the conventions this book uses.
-Notation
-Read as
-Used for
-a : b
-the ratio of a to b
-comparing two quantities multiplicatively
-a/ b
-a divided by b
-a fraction of a whole, or a quotient for comparison
-k
-the constant of proportionality
-y = k x for a proportional relationship
-≈
-is approximately equal to
-a rounded or estimated value
-×, ÷, +, −
-the four operations
-with the order of operations applied
-∠ABC
-angle ABC
-the angle at vertex B
-°
-degrees
-the measure of an angle
-π
-pi
-the ratio of circumference to diameter, ≈ 3.142
-P(A)
-the probability of event A
-a value from 0 to 1
-£, $, km, kg, L, cm³
-units
-always written with the number
-Notation used throughout the course.
-Five habits that prevent most lost marks
-1.
-Write the unit on every quantity, including intermediate results.
-2. Show the substitution before the arithmetic: “y = 3(4) + 1”, then the value.
-3. Keep equals signs aligned down the page; one equals sign per line means one true statement.
-4. Do not round in the middle of a calculation. Keep full accuracy and round at the end.
-5. Answer the question that was asked: a length, a cost, a comparison or a decision, in the unit
-the question used.
-Rounding too early
-A student computes 7 ÷ 3 ≈ 2.3, then multiplies by 3 and reports 6.9. The exact value is 7. Round
-only when the value is reported, and keep the exact form in the working.
+What is not differentiated
+The concepts, the global context, the statement of inquiry and the criteria are the same for every
+student. A support route is not a reduced curriculum; it is the same curriculum travelled with
+more support and fewer generalisations.
+The three pathways, chapter by chapter
+The table names, for each chapter, the idea a support route should secure, the choice a core
+route should be able to make, and the generalisation an extension route should reach.
+Ch
+Support: secure this
+Core: choose this
+Extension: generalise this
+Simplify a ratio by dividing
+both parts
+Share a total in a given ratio and
+check the parts recombine
+Explain why equivalent ratios describe the same comparison
+Read a constant of proportionality from a table
+Solve a proportion in either direction, with units
+Derive a relationship from two data
+points and test it on a third
+Find a unit rate by dividing
+Compare two offers by a common
+unit and say which is better value
+Combine rates, including a rate that
+works against another
+Order integers on a number
+line
+Add, subtract, multiply and divide
+signed numbers with a reason
+Justify the sign rules from a pattern
+rather than a mnemonic
+Substitute into an expression
+Expand a bracket and solve a twostep equation
+Show that two expressions are or are
+not equivalent, and prove it
+Continue a sequence by its
+term-to-term rule
+Find the nth term of a linear sequence and use it
+Model a context with a linear rule
+and interpret the gradient
+Name angles and use the
+straight-line fact
+Find missing angles and areas in a
+composite figure
+Decide which facts a figure does and
+does not determine
+Count faces, edges and vertices; find a volume
+Find surface area of a prism or cylinder and explain each face
+Compare two packagings that use the
+same material differently
+Read and plot coordinates
+Carry out and describe a single
+transformation
+Combine two transformations and
+describe the single equivalent one
+Write a probability as a fraction
+Use a sample space or tree diagram
+for two events
+Decide whether a set of trials is evidence of bias, and why
+Find the mean and range of a
+small list
+Compare two distributions using an
+average and a measure of spread
+Judge a published claim from the display that supports it
+A route through each chapter at three depths.
+Three rules keep the pathways honest in use. Decide the route after the prerequisite check,
+never before it, because the check exists to make the decision evidence-based. Keep every student on the same concept and the same context: the route changes the amount of structure, not
+the mathematics. And move a student between routes at a section boundary rather than inside
+a practice set, so that the evidence from a whole section stays comparable.
 
 <!-- printed page 15 -->
-Ratios and equivalent
-ratios
-A ratio can describe an entire family of situations:
-the same relationship at a different size, in different
-units, or on a different scale.
-How can one comparison describe many different-sized
-situations without losing what matters?
+Command terms used in this
+book
+A command term tells you what a complete answer contains. Marks are lost more often
+by answering a different verb than by calculating wrongly.
+Command term
+A complete answer
+State
+The value or fact, with its unit. No working is required, but a wrong value scores nothing.
+Describe
+The features of the object or result in order, in words, with the values named.
+Explain
+A reason that connects the result to a fact, definition or earlier step: because …, so …
+Calculate
+The working, with the substitution shown, and the result in the unit the question used.
+Determine
+The value reached by a stated method, with the choice of method made explicit.
+Show that
+A chain of steps that ends at the given result; the final line must match the statement exactly.
+Verify
+A substitution or second route that confirms a stated claim.
+Estimate
+A reasoned approximate value, with the rounding or benchmark used named.
+Compare
+Both values or distributions described, then a judgement that says on what basis they differ.
+Justify
+Evidence for a claim: a counterexample, a test on the general case, or a property that must
+hold.
+Construct / Draw
+Accurate work with instruments; labelled vertices, lengths and angles.
+Sketch
+The essential shape and labelled key features; not to scale.
+Solve
+The value of the unknown, with the equation shown at each stage and the answer checked.
+Interpret
+What the number means in the context, in a sentence a non-mathematician could act on.
+Generalise
+A rule in symbols that holds for every case, justified rather than illustrated by one example.
+Investigate
+A systematic set of cases, a conjecture, a test, and a statement of what the evidence supports.
+The command terms used in questions, investigations and the Criterion D tasks.
+One verb, one shape of answer
+Before writing, underline the command term. If it says explain, a bare number cannot earn the
+mark; if it says state, a page of working does not earn more. The worked examples model the
+shape of each term, so the shortest route to a full answer is to copy that shape.

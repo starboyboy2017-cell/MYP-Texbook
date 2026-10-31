@@ -184,7 +184,12 @@ def render(p, blocks, chapter_no=1):
             p.add(Statement(b[1], b[2]))
         elif kind == "chips":
             p.add(ChipRow(b[1]))
+        elif kind == "head":
+            p.book.chapter_label = b[1]
+            SECTIONS.append((chapter_no, b[1], p.book.page_label))
         elif kind == "pagetitle":
+            if str(b[1]).startswith("Part ") and "review" in str(b[1]):
+                p.book.chapter_label = b[1]
             p.add(PageTitle(b[1], b[2] if len(b) > 2 else None))
         elif kind == "gap":
             p.add(Spacer(b[1]))

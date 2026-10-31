@@ -10,21 +10,21 @@ with an HTML comment marking the printed page number before every page:
 
 | File | Words | Covers |
 |---|---|---|
-| `front_matter.md` | 2 711 | cover, half-title, title, imprint, contents, how to use, MYP framework, assessment criteria, course map, notation (pp. 1–14) |
-| `chapter_01.md` | 6 481 | Ratios and equivalent ratios (pp. 15–35) |
-| `chapter_02.md` | 4 960 | Proportional reasoning (pp. 36–53) |
-| `chapter_03.md` | 4 591 | Rates and unit rates (pp. 54–70) |
-| `chapter_04.md` | 4 136 | Integers and operations (pp. 71–85) |
-| `chapter_05.md` | 4 346 | Algebraic expressions and equations (pp. 86–102) |
-| `chapter_06.md` | 4 949 | Numerical patterns and generalisation (pp. 103–119) |
-| `chapter_07.md` | 5 954 | 2D geometry: angles, perimeter and area (pp. 120–142) |
-| `chapter_08.md` | 5 063 | 3D solids, surface area and volume (pp. 143–162) |
-| `chapter_09.md` | 5 694 | Transformations and symmetry (pp. 163–184) |
-| `chapter_10.md` | 4 742 | Probability and simulation (pp. 185–203) |
-| `chapter_11.md` | 5 277 | Univariate data (pp. 204–224) |
-| `back_matter.md` | 8 682 | answers and worked solutions, formula bank, glossary, index, references, back cover (pp. 225–245) |
+| `front_matter.md` | 3 356 | cover, half-title, title, imprint, contents, how to use, MYP framework, assessment criteria, three pathways, command terms, course map, notation, calculators (pp. 1–18) |
+| `chapter_01.md` | 6 744 | Ratios and equivalent ratios (pp. 19–40) |
+| `chapter_02.md` | 5 218 | Proportional reasoning (pp. 41–58) |
+| `chapter_03.md` | 4 837 | Rates and unit rates (pp. 59–76) |
+| `chapter_04.md` | 4 854 | Integers and operations, Part I review (pp. 77–92) |
+| `chapter_05.md` | 4 633 | Algebraic expressions and equations (pp. 93–109) |
+| `chapter_06.md` | 5 653 | Numerical patterns and generalisation, Part II review (pp. 110–127) |
+| `chapter_07.md` | 6 261 | 2D geometry: angles, perimeter and area (pp. 128–150) |
+| `chapter_08.md` | 5 357 | 3D solids, surface area and volume (pp. 151–170) |
+| `chapter_09.md` | 6 377 | Transformations and symmetry, Part III review (pp. 171–193) |
+| `chapter_10.md` | 4 975 | Probability and simulation (pp. 194–212) |
+| `chapter_11.md` | 5 914 | Univariate data, Part IV review (pp. 213–233) |
+| `back_matter.md` | 11 998 | answers and worked solutions, formula bank, glossary, index, references, back cover (pp. 234–265) |
 
-Total ≈ 67 600 words.
+Total ≈ 74 500 words.
 
 ## What the extracts contain
 

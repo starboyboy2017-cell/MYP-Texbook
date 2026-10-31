@@ -1,6 +1,6 @@
 # Mathematics and editorial QA
 
-Audited edition: `../final/MYP2_Mathematics_Improved_First_Edition.pdf` — 245 pages, A4,
+Audited edition: `../final/MYP2_Mathematics_Improved_First_Edition.pdf` — 265 pages, A4,
 built from `../build/`. Checks were run against the delivered PDF and against the content
 modules it is built from, never against the previous edition's output.
 
@@ -10,12 +10,12 @@ modules it is built from, never against the previous edition's output.
 
 | Area | Method | Result |
 |---|---|---|
-| Every practice question has an answer | programmatic pairing of `practice` blocks with `ANSWERS` by section and position | **633 questions, 633 answers, 0 orphans, 0 duplicates** |
+| Every practice question has an answer | programmatic pairing of `practice` blocks with `ANSWERS` by section and position | **673 questions, 673 answers, 0 orphans, 0 duplicates** |
 | Every answer is mathematically right | each of the 633 answers recomputed from its printed question and corrected where wrong | **22 corrections applied** (§4) |
 | No placeholder answers | scan for empty strings, `—`, `TBC`, `see above` | 0 remaining |
 | Worked examples | each chapter's examples read for a wrong step, wrong unit or wrong final answer; every example carries a check line | 121 examples checked, 0 uncaught errors |
 | Investigations and Criterion D tasks | read for a task that can be completed with the chapter's own mathematics | 22 + 11 checked, 0 broken |
-| Missing glyphs | PDF text layer scanned for `\x00` on every page | **0 on all 245 pages** |
+| Missing glyphs | PDF text layer scanned for `\x00` on every page | **0 on all 265 pages** |
 | Text past the measure | every text block's right edge compared with the 45 pt margin | 0 overflows |
 | Blank or near-blank pages | pages with ≤ 10 non-empty text lines | 3, all intended: p. 2 half-title, p. 224 Part V divider, p. 232 last answers page |
 | Folios | bottom-line numerals on every page | present and monotonic on all pages except front matter, chapter openers, part dividers, references and back cover, which carry none by design |
@@ -43,6 +43,18 @@ modules it is built from, never against the previous edition's output.
 | 10 Probability and simulation | 5 | 60 | 60 |
 | 11 Univariate data | 5 | 60 | 60 |
 | **Total** | **52** | **633** | **633** |
+
+Part reviews are counted separately, and audited the same way:
+
+| Part | Review | Questions | Answers |
+|---|---|---|---|
+| I | Part I review (chapters 1–4) | 10 | 10 |
+| II | Part II review (chapters 5–6) | 10 | 10 |
+| III | Part III review (chapters 7–9) | 10 | 10 |
+| IV | Part IV review (chapters 10–11) | 10 | 10 |
+| **Total** | **4** | **40** | **40** |
+
+Grand total for the book: **673 questions, 673 answers**.
 
 Each answer key is keyed by section and printed in the same order as the questions, so a
 mis-numbered question would surface immediately as a shifted key.
@@ -96,6 +108,23 @@ question, not an arithmetic slip; the second was a **question whose conditions m
 impossible**. Both are now checked for explicitly.
 
 ---
+
+## 4b. Two defects found and fixed in this build
+
+**1. Bold and semibold were not being embedded.** The font files in `build/fonts/` were instanced
+from variable fonts, so every weight still carried the family's original PostScript name
+(`SourceSerif4Roman-Regular` at weights 400, 500, 600 and 700). reportlab keys embedded fonts by
+that name, so bold, semibold and medium text silently fell back to the regular face — the page
+looked flat and headings inside body text carried no weight. The audit that found it counted font
+resources per page: 6 subsets where 11 faces are used. Fixed in `bookkit/fonts.py`, which now
+rewrites the name table per face into a temporary cache before registration. After the fix the PDF
+carries 11 distinct subsets plus the symbol fallback, and every `<b>` on the page is real weight.
+
+**2. The answer key was set as dense paragraphs.** Each practice set's answers were run together in
+one justified paragraph, which made a single answer hard to find and made a long answer end in a
+stretched line. The key is now set one answer per line with a hanging indent under a tracked
+"Practice x.y" label, at 8.5/11.5 pt. The same change shortened whole-page runs of small type
+without shrinking the type, and the answers section grew from 12 pages to 19.
 
 ## 5. Language, notation and units
 

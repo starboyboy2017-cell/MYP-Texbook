@@ -1123,3 +1123,71 @@ class Formula(Flow):
         self._p.drawOn(c, x + 12, top - 4 - self._ph)
         if self._n:
             self._n.drawOn(c, x + 12, top - 6 - self._ph - self._n.height)
+
+
+# ------------------------------------------------------------- answer setting
+class AnswerLabel(Flow):
+    """A tracked practice label above a block of answers."""
+
+    def __init__(self, text, space_before=11.0, colour=None):
+        self.text = text
+        self.space_before = space_before
+        self.colour = colour or spec.TERRACOTTA
+        self.h = 15.0
+
+    def wrap(self, w):
+        return 15.0
+
+    def draw(self, c, x, top, w):
+        y = top - 6.4
+        label(c, x, y, self.text, self.colour, 6.3, "Inter-Semi", 1.35)
+        tw = typeset.width(plain(self.text).upper(), "Inter-Semi", 6.3,
+                           tracking=1.35)
+        c.saveState()
+        c.setStrokeColor(spec.RULE_SOFT)
+        c.setLineWidth(0.5)
+        c.line(x + tw + 12, y + 2.0, x + w, y + 2.0)
+        c.restoreState()
+
+
+class AnswerEntry(Flow):
+    """One numbered answer on its own line, with a hanging indent."""
+
+    splittable = True
+
+    def __init__(self, number, text, space_before=0.0):
+        self.number = number
+        self.text = text
+        self.space_before = space_before
+        self.par = self._make(inline(text))
+        self.h = 0
+
+    def _make(self, body):
+        num = ('<font name="Inter-Semi" size="6.9" color="#A64B27">'
+               f"{self.number}.</font>" + "\u2002")
+        return Paragraph(num + body, style(
+            "ans", fontName="SourceSerif", fontSize=8.5, leading=11.5,
+            textColor=spec.INK, alignment=0, leftIndent=15.5,
+            firstLineIndent=-15.5))
+
+    def wrap(self, w):
+        self.par = self._make(inline(self.text)) if getattr(self, "_split", False) is False else self.par
+        self.h = self.par.wrap(w, 1e6)[1] + 1.0
+        return self.h
+
+    def draw(self, c, x, top, w):
+        self.par.drawOn(c, x, top - self.par.height)
+
+    def split(self, w, avail):
+        parts = self.par.split(w, avail)
+        if len(parts) < 2:
+            return None
+        head, tail = parts
+        if head.wrap(w, avail)[1] <= 0.1:
+            return None
+        a = AnswerEntry(self.number, "")
+        a.par = head
+        b = AnswerEntry("", "")
+        b.par = tail
+        b._split = True
+        return a, b

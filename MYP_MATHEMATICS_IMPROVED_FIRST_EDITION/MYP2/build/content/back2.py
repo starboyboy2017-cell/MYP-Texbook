@@ -2,13 +2,16 @@
 import importlib
 
 from bookkit import spec, typeset
-from bookkit.blocks import (PageTitle, DataTable, Panel, H3, Body, ListBlock, Lead)
+from bookkit.blocks import (PageTitle, DataTable, Panel, H3, Body, ListBlock, Lead,
+                            AnswerLabel, AnswerEntry)
 from bookkit.flow import Pager, Spacer, Rule
 from bookkit.markup import plain
 from bookkit.plates import _line
 
 T = typeset.draw
 L, R = spec.MARGIN_OUTER, spec.PAGE_W - spec.MARGIN_OUTER
+
+ROMAN = {"R1": "I", "R2": "II", "R3": "III", "R4": "IV"}
 
 CHAPTERS = [("ch01", "Ratios and equivalent ratios"),
             ("ch02", "Proportional reasoning"),
@@ -266,21 +269,27 @@ def build_answers(bk, chapters):
                "the reason tells you whether you understood."))
     p.add(Spacer(6))
     p.add(Panel("note", title="How to use this section",
-                text="Compare the first line that differs, not the last. If your "
+                text="Each chapter's answers begin on a new page, and every answer "
+                     "stands on its own line under its practice heading, so an "
+                     "answer can be found without reading past the one before it. "
+                     "Compare the first line that differs, not the last. If your "
                      "answer is right but the route was different, that is worth "
-                     "noting: two correct methods are evidence of understanding, not "
-                     "a problem. If the answer is wrong, find the first wrong line "
-                     "before reading on."))
-    p.add(Spacer(4))
-    for mod_name, title in chapters:
+                     "noting: two correct methods are evidence of understanding, "
+                     "not a problem. If the answer is wrong, find the first wrong "
+                     "line before reading on."))
+    for n, (mod_name, title) in enumerate(chapters):
         mod = importlib.import_module(mod_name)
+        if n and p.frame.remaining < 120:
+            p.break_page()
         p.add(H3(f"{title}"))
         for ref, answers in mod.ANSWERS.items():
-            items = []
+            if ref.startswith("R"):
+                p.add(AnswerLabel(f"Part review {ROMAN.get(ref, ref)}"))
+            else:
+                p.add(AnswerLabel(f"Practice {ref}"))
             for i, a in enumerate(answers, start=1):
-                items.append(f"**{i}.** {a}")
-            p.add(Body(f"**Practice {ref}**  " + "  ".join(items), space=4))
-        p.add(Spacer(3))
+                p.add(AnswerEntry(i, a))
+        p.add(Spacer(10))
 
 
 def build_formula_bank(bk):

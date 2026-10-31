@@ -89,10 +89,10 @@ with a `CRITERION · related concept` kicker, an italic lead, a definition, work
 
 | Part | Chapters | Pages in this edition |
 |---|---|---|
-| Front matter | — | 1–14 |
-| Part I · Number and proportion | 1–4 | 15–85 |
-| Part II · Algebra and pattern | 5–6 | 86–119 |
-| Part III · Geometry and space | 7–9 | 120–184 |
-| Part IV · Probability and data | 10–11 | 185–223 |
-| Part V · Reference | answers, formulas, glossary, index, sources | 224–244 |
-| Back cover | — | 245 |
+| Front matter | — | 1–18 |
+| Part I · Number and proportion | 1–4 + Part I review | 19–92 |
+| Part II · Algebra and pattern | 5–6 + Part II review | 93–127 |
+| Part III · Geometry and space | 7–9 + Part III review | 128–193 |
+| Part IV · Probability and data | 10–11 + Part IV review | 194–233 |
+| Part V · Reference | answers, formulas, glossary, index, sources | 234–264 |
+| Back cover | — | 265 |

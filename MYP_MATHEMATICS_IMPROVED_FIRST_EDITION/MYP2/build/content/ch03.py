@@ -426,6 +426,17 @@ BLOCKS = [
         "Two printers print 60 pages in 4 minutes and 105 pages in 6 minutes. Which "
         "is faster, and by how much per minute?"]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Convert any rate into a unit rate and name the compound unit.",
+        "Compare two offers by a common unit and justify the choice.",
+        "Combine two rates working together, and one working against another.",
+        "Use speed, density or flow rate in a problem where the unit decides the method.",
+    ]),
+    KEY("A rate compares quantities with different units; the unit rate is the comparison per one."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["write and interpret a rate with a compound unit", "\u25a1", "\u25a1",

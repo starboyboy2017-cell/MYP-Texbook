@@ -427,6 +427,17 @@ BLOCKS = [
         "A hire firm charges \u00a325 plus \u00a38 per hour. Write an expression for "
         "`h` hours and find the cost of 6 hours."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Write an expression from a description and substitute into it.",
+        "Collect like terms and expand a bracket correctly.",
+        "Show that two expressions are or are not equivalent.",
+        "Solve a linear equation and check the solution in the original equation.",
+    ]),
+    KEY("A letter stands for a number, so every rule of arithmetic still applies to it."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["write an expression from a description", "\u25a1", "\u25a1", "\u25a1"],

@@ -494,6 +494,17 @@ BLOCKS = [
         "Two classes have medians 55 and 58 and IQRs 4 and 15. Write one sentence "
         "comparing them."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Choose a sensible sample and say what could bias it.",
+        "Find the mean, median, mode and range and explain which is typical.",
+        "Read and construct a dot plot, bar chart or histogram appropriately.",
+        "Compare two distributions with an average and a measure of spread.",
+    ]),
+    KEY("A statistic answers a question about a population; a display answers a question about a distribution."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["classify data and spot a biased sample", "\u25a1", "\u25a1", "\u25a1"],
@@ -613,3 +624,51 @@ ANSWERS = {
              "to the total; the mode counts frequency, which a single new value may "
              "not change."],
 }
+
+
+# ------------------------------------------------------------------ part review
+BLOCKS += [
+    GAP(14),
+    ("head", "Part IV review"),
+    ("pagetitle", "Part IV review", "Consolidation \u00b7 chapters 10\u201311"),
+    L("Ten questions on probability and data. Each one asks for a decision as well "
+      "as a number: a probability is only useful once you say what it means for the "
+      "situation."),
+    P("Write each probability as a fraction in its simplest form unless the question "
+      "asks for a decimal.", 6),
+    PRAC("R4", "SUPPORT 1\u20133  \u00b7  CORE 4\u20137  \u00b7  EXTENSION 8\u201310", [
+        Q("A bag holds 5 red, 3 green and 2 yellow counters. One counter is taken. "
+          "Find `P`(not yellow).", "F"),
+        Q("Two fair dice are rolled. Find `P`(total 8).", "F"),
+        Q("Two fair coins are tossed. Find `P`(at least one tail).", "F"),
+        Q("A bag holds 4 red and 6 blue counters. Two are taken without "
+          "replacement. Find `P`(both blue).", "P"),
+        Q("A die is rolled 250 times. How many fours would you expect, and why is "
+          "the exact number not fixed?", "P"),
+        Q("Find the mean of 12, 15, 9, 18 and 16.", "F"),
+        Q("Find the median and the range of 7, 3, 9, 12, 5 and 8.", "F"),
+        Q("Find the IQR of 4, 7, 8, 10, 12, 15 and 20.", "R"),
+        Q("A class of 18 students has mean mark 64; a class of 12 students has mean "
+          "mark 74. Find the mean mark of all 30 students.", "R"),
+        Q("A spinner lands on green 108 times in 240 spins. Find the experimental "
+          "probability, and decide whether the spinner is fair if green has one "
+          "quarter of the sectors.", "E"),
+    ]),
+    GAP(8),
+]
+
+ANSWERS["R4"] = [
+    "8/10 = 4/5, since 8 of the 10 counters are not yellow.",
+    "5/36: the pairs (2, 6), (3, 5), (4, 4), (5, 3) and (6, 2).",
+    "3/4.",
+    "6/10 \u00d7 5/9 = 30/90 = 1/3.",
+    "About 42, since 250 \u00d7 1/6 \u2248 41.7. Each roll is independent, so the "
+    "number of fours varies from one run of 250 rolls to another; the expected "
+    "value is an average, not a prediction for a single run.",
+    "14: the total is 70 and there are five values.",
+    "Median 7.5 (the mean of 7 and 8); range 12 \u2212 3 = 9.",
+    "LQ 7, UQ 15, so IQR = 8.",
+    "68: (18 \u00d7 64 + 12 \u00d7 74) \u00f7 30 = 2 040 \u00f7 30.",
+    "108/240 = 0.45. One quarter of the sectors would give about 0.25, so 0.45 is "
+    "far above what chance explains and the spinner looks biased towards green.",
+]

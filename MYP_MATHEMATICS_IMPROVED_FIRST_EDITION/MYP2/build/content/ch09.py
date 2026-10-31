@@ -562,6 +562,17 @@ BLOCKS = [
         "A regular nonagon: state its order of rotational symmetry and its number of "
         "lines of symmetry."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Carry out a translation, reflection, rotation and enlargement on a grid.",
+        "Describe a transformation completely: type, centre or line, and amount.",
+        "Combine two transformations and name the single equivalent one.",
+        "Use the area and volume scale factors of an enlargement, not just the length factor.",
+    ]),
+    KEY("A transformation is a rule that moves every point; describing it fully is the mathematical work."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["translate a shape using a column vector", "\u25a1", "\u25a1", "\u25a1"],
@@ -678,3 +689,56 @@ ANSWERS = {
             "Answers vary; a motif with a single mirror line has order 1, and adding "
             "a copy rotated by 180\u00b0 raises the order to 2."],
 }
+
+
+# ------------------------------------------------------------------ part review
+BLOCKS += [
+    GAP(14),
+    ("head", "Part III review"),
+    ("pagetitle", "Part III review", "Consolidation \u00b7 chapters 7\u20139"),
+    L("Ten questions on shape, space and movement. Take \u03c0 = 3.14. Draw a "
+      "sketch before you calculate: in Part III an unlabelled figure is the most "
+      "common cause of a wrong value."),
+    P("Questions 7\u20139 ask for a transformation. Give the single transformation "
+      "that maps the object onto the image, with every number it needs.", 6),
+    PRAC("R3", "SUPPORT 1\u20133  \u00b7  CORE 4\u20137  \u00b7  EXTENSION 8\u201310", [
+        Q("Two angles on a straight line are (2`x` + 15)\u00b0 and (3`x` + 10)\u00b0. "
+          "Find `x` and both angles.", "F"),
+        Q("A regular polygon has an exterior angle of 20\u00b0. Find its number of "
+          "sides and each interior angle.", "F"),
+        Q("Find the area and the circumference of a circle of diameter 18 cm "
+          "(\u03c0 = 3.14).", "F"),
+        Q("A semicircle of radius 7 cm sits on a rectangle 14 cm by 5 cm. Find the "
+          "total area.", "P"),
+        Q("A cuboid is 9 cm by 6 cm by 4 cm. Find its surface area and its volume.",
+          "P"),
+        Q("A cylinder has radius 6 cm and height 10 cm. Find its volume "
+          "(\u03c0 = 3.14).", "P"),
+        Q("Translate the point (3, \u22125) by the vector (\u22124, 7).", "F"),
+        Q("Reflect (6, \u22122) in the line `y` = `x`, then in the `x`-axis. Give "
+          "both images.", "R"),
+        Q("Enlarge (3, 4) by scale factor 2 from the centre (1, 2).", "R"),
+        Q("A shape of area 15 cm\u00b2 is enlarged by scale factor 4. Find the new "
+          "area, and explain why it is not 4 times 15 cm\u00b2.", "E"),
+    ]),
+    GAP(8),
+]
+
+ANSWERS["R3"] = [
+    "5`x` + 25 = 180, so `x` = 31; the angles are 77\u00b0 and 103\u00b0.",
+    "18 sides, since 360 \u00f7 20 = 18; each interior angle is 180 \u2212 20 = "
+    "160\u00b0.",
+    "Area 3.14 \u00d7 9\u00b2 = 254.34 cm\u00b2; circumference 3.14 \u00d7 18 = "
+    "56.52 cm.",
+    "146.93 cm\u00b2: the semicircle is 3.14 \u00d7 49 \u00f7 2 = 76.93 cm\u00b2 "
+    "and the rectangle is 70 cm\u00b2.",
+    "Surface area 228 cm\u00b2; volume 216 cm\u00b3.",
+    "3.14 \u00d7 36 \u00d7 10 = 1 130.4 cm\u00b3.",
+    "(\u22121, 2).",
+    "In `y` = `x` the image is (\u22122, 6); reflecting that in the `x`-axis gives "
+    "(\u22122, \u22126).",
+    "(5, 6): the vector from the centre is (2, 2), which doubles to (4, 4), and "
+    "(1, 2) + (4, 4) = (5, 6).",
+    "240 cm\u00b2. Under an enlargement every length multiplies by 4, and an area "
+    "is a product of two lengths, so the area multiplies by 4\u00b2 = 16.",
+]

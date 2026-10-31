@@ -19,7 +19,7 @@ where it does not, is the difference defensible?*
 
 | Element | Verdict | Evidence |
 |---|---|---|
-| Cover board colour `#0F1F2D`, back cover same | preserved | page 1 and page 245 |
+| Cover board colour `#0F1F2D`, back cover same | preserved | page 1 and page 265 |
 | Cover title arrangement (three lines, rule, subtitle, author foot) | preserved | page 1 |
 | Chapter opener plate `#15263A` with part label, chapter numeral, key/related concepts, global context, inquiry line | preserved | 11 plates, pp. 15, 36, 54, 71, 86, 103, 120, 143, 163, 185, 204 |
 | Gold hairline rules under kickers and part heads | preserved | all section heads |
@@ -112,7 +112,7 @@ shapes), and the sample-space grid (originally too small to read).
 
 | Check | Result |
 |---|---|
-| Every body page carries the running head and the folio in the same position | pass, 245 pages |
+| Every body page carries the running head and the folio in the same position | pass, 265 pages |
 | No text crosses the 121 mm measure | pass, 0 overflows above y = 788 pt |
 | No text crosses the outer margin | pass, 0 overflows beyond x = 512 pt |
 | Every panel uses one of the five defined fills | pass |
@@ -123,8 +123,10 @@ shapes), and the sample-space grid (originally too small to read).
 
 ## 5. Where this edition still differs from the original, honestly
 
-1. **Page count** is 245 rather than 260. The difference is the removal of the original's
-   part-empty pages, not a loss of content.
+1. **Page count** is 265, five pages more than the original's 260. The teaching pages are still
+   tighter than the original's, but four Part reviews, eleven chapter checkpoints and three extra
+   front-matter pages more than make up the difference — so the edition is longer than the book it
+   improves on, not shorter.
 2. **The typefaces are different files** (Playfair Display, Source Serif 4, Inter) with the same
    character as the original's faces. They are open-licence fonts that can legally be embedded and
    redistributed with the book; the original's exact faces could not be.

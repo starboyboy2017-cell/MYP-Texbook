@@ -438,6 +438,17 @@ Every graph is a choice. This investigation looks at what a graph decides for th
 4. Find the IQR of 5, 7, 8, 10, 12, 14, 15.
 5. Two classes have medians 55 and 58 and IQRs 4 and 15. Write one sentence comparing them.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Choose a sensible sample and say what could bias it.
+- Find the mean, median, mode and range and explain which is typical.
+- Read and construct a dot plot, bar chart or histogram appropriately.
+- Compare two distributions with an average and a measure of spread.
+
+A statistic answers a question about a population; a display answers a question about a distribution.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |
@@ -476,6 +487,25 @@ In order for a student to report data honestly, students must state the sample, 
 10. A class of 24 students has mean height 152 cm; a class of 16 has mean height 160 cm. Find the mean height of all 40 students.  [E]
 11. Two shops record daily sales for a week: A 40, 42, 41, 43, 40, 41, 42; B 20, 60, 35, 70, 25, 50, 38. Compare them using an average and a measure of spread.  [E]
 12. Explain, using the formulas, why adding one very large value raises the mean but may leave the mode unchanged.  [E]
+
+# Part IV review
+
+> Ten questions on probability and data. Each one asks for a decision as well as a number: a probability is only useful once you say what it means for the situation.
+
+Write each probability as a fraction in its simplest form unless the question asks for a decimal.
+
+**Practice R4** · SUPPORT 1–3  ·  CORE 4–7  ·  EXTENSION 8–10
+
+1. A bag holds 5 red, 3 green and 2 yellow counters. One counter is taken. Find *P*(not yellow).  [F]
+2. Two fair dice are rolled. Find *P*(total 8).  [F]
+3. Two fair coins are tossed. Find *P*(at least one tail).  [F]
+4. A bag holds 4 red and 6 blue counters. Two are taken without replacement. Find *P*(both blue).  [P]
+5. A die is rolled 250 times. How many fours would you expect, and why is the exact number not fixed?  [P]
+6. Find the mean of 12, 15, 9, 18 and 16.  [F]
+7. Find the median and the range of 7, 3, 9, 12, 5 and 8.  [F]
+8. Find the IQR of 4, 7, 8, 10, 12, 15 and 20.  [R]
+9. A class of 18 students has mean mark 64; a class of 12 students has mean mark 74. Find the mean mark of all 30 students.  [R]
+10. A spinner lands on green 108 times in 240 spins. Find the experimental probability, and decide whether the spinner is fair if green has one quarter of the sectors.  [E]
 
 ## Answers · chapter 11
 
@@ -553,3 +583,16 @@ In order for a student to report data honestly, students must state the sample, 
 10. 155.2 cm.
 11. A has mean about 41.3 and range 3; B has mean about 42.6 and range 50. A is consistent, B is erratic.
 12. The mean divides the total by the count, so one large value adds a lot to the total; the mode counts frequency, which a single new value may not change.
+
+**R4**
+
+1. 8/10 = 4/5, since 8 of the 10 counters are not yellow.
+2. 5/36: the pairs (2, 6), (3, 5), (4, 4), (5, 3) and (6, 2).
+3. 3/4.
+4. 6/10 × 5/9 = 30/90 = 1/3.
+5. About 42, since 250 × 1/6 ≈ 41.7. Each roll is independent, so the number of fours varies from one run of 250 rolls to another; the expected value is an average, not a prediction for a single run.
+6. 14: the total is 70 and there are five values.
+7. Median 7.5 (the mean of 7 and 8); range 12 − 3 = 9.
+8. LQ 7, UQ 15, so IQR = 8.
+9. 68: (18 × 64 + 12 × 74) ÷ 30 = 2 040 ÷ 30.
+10. 108/240 = 0.45. One quarter of the sectors would give about 0.25, so 0.45 is far above what chance explains and the spinner looks biased towards green.

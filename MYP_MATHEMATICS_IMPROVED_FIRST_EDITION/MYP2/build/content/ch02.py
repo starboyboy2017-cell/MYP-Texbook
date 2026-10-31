@@ -463,6 +463,17 @@ BLOCKS = [
         "Explain in two sentences why a scale plan cannot preserve both lengths and "
         "areas by the same factor."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Decide from a table, a graph or a description whether two quantities are proportional.",
+        "Find the constant of proportionality and state its unit.",
+        "Solve a proportion in either direction without cross-multiplying blindly.",
+        "Use a scale factor on a drawing and say what stays the same.",
+    ]),
+    KEY("Proportional means one quantity is a constant multiple of the other; the constant is the whole relationship."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["test whether a relationship is proportional and say why",

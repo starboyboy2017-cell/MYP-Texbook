@@ -493,6 +493,17 @@ BLOCKS = [
         "Two cubes of edge 5 cm are joined face to face. Find the surface area of the "
         "result."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Count faces, edges and vertices and check Euler's relationship.",
+        "Unfold a solid into a net and use the net to find surface area.",
+        "Find the volume of a prism, cylinder, cone or sphere.",
+        "Handle a composite solid by adding or subtracting the parts.",
+    ]),
+    KEY("Surface area is a two-dimensional measurement of a three-dimensional object; volume is the space it encloses."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["count faces, edges and vertices and use Euler's relationship", "\u25a1",

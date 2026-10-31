@@ -380,6 +380,17 @@ A trick that always gives 3 is convincing once, but a proof is what makes it cer
 4. Solve 2(*x* + 4) = 5*x* − 1.
 5. A hire firm charges £25 plus £8 per hour. Write an expression for *h* hours and find the cost of 6 hours.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Write an expression from a description and substitute into it.
+- Collect like terms and expand a bracket correctly.
+- Show that two expressions are or are not equivalent.
+- Solve a linear equation and check the solution in the original equation.
+
+A letter stands for a number, so every rule of arithmetic still applies to it.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |

@@ -22,7 +22,7 @@ The PDF build is **three-pass**:
    with the page it landed on;
 2. render again with the contents and the index filled from that registry;
 3. re-render if the new contents/index changed the pagination, and stop when the page count is
-   stable (it converges on the second pass: `pass 2: 245 pages`, `pass 3: 245 pages`).
+   stable (it converges on the second pass: `pass 2: 265 pages`, `pass 3: 265 pages`).
 
 Page numbers in the contents, the index and every cross-reference therefore always match the
 printed folios. The registry is dumped to `/tmp/myp2_entries.json` and the index map to
@@ -40,7 +40,7 @@ build/
   diagrams2.py           45 numbered figures drawn from 52 registered functions (vector)
   bookkit/
     spec.py              page geometry, palette, type scale, tag and criterion colours
-    fonts.py             font registration and the symbol fallback
+    fonts.py             font registration, per-face renaming and the symbol fallback
     markup.py            inline markup -> reportlab (bold, italic, sup/sub, `math`, symbols)
     flow.py              Pager: reading column, page breaks, keep-with-next
     typeset.py           letterspaced labels, display numerals, tracked setting

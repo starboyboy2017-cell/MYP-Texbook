@@ -448,6 +448,17 @@ BLOCKS = [
         "A pattern uses 4 sticks for 1 shape and 7 for 2. Find the number of sticks "
         "for 15 shapes and the rule for `n` shapes."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Continue a sequence from its term-to-term rule and state the rule.",
+        "Find the nth term of a linear sequence and use it for any position.",
+        "Read a function machine forwards and backwards.",
+        "Interpret the gradient and intercept of a linear graph in context.",
+    ]),
+    KEY("A pattern becomes mathematics when the rule is written for the general case, not just the next term."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["continue a sequence and state its term-to-term rule", "\u25a1", "\u25a1",
@@ -534,3 +545,50 @@ ANSWERS = {
             "Crosses the `y`-axis at \u22121.", "50 + 15(`n` \u2212 1); month 12, when the payment is \u00a3215.",
             "`n`\u00b2 + 2`n`: 3, 8, 15.", "`n` = 5; A gives 27 and B gives 25, so A first exceeds B at `n` = 5."],
 }
+
+
+# ------------------------------------------------------------------ part review
+BLOCKS += [
+    GAP(14),
+    ("head", "Part II review"),
+    ("pagetitle", "Part II review", "Consolidation \u00b7 chapters 5\u20136"),
+    L("Ten questions on expression, equation and generalisation. Every item can be "
+      "answered by the methods of Part II; several need two of them in sequence."),
+    P("Show the substitution or the equation at each stage. An answer without the "
+      "line that produced it cannot be checked, by you or by anyone else.", 6),
+    PRAC("R2", "SUPPORT 1\u20134  \u00b7  CORE 5\u20137  \u00b7  EXTENSION 8\u201310", [
+        Q("Expand and simplify 4(2`a` \u2212 3) \u2212 2(`a` \u2212 5).", "F"),
+        Q("Solve 5`x` \u2212 7 = 3`x` + 11.", "F"),
+        Q("Solve 3(`x` + 4) = 2(`x` + 9).", "F"),
+        Q("Find the `n`th term of 6, 10, 14, \u2026 and use it to find the 25th "
+          "term.", "F"),
+        Q("Which term of the sequence with `n`th term 5`n` \u2212 3 equals 92?", "P"),
+        Q("A machine applies \u00d7 3 then + 4. Write the output for input `t`, and "
+          "find the input that gives an output of 25.", "P"),
+        Q("A straight line passes through (0, \u22122) and (5, 13). Write its rule.",
+          "P"),
+        Q("Evaluate 2`x`\u00b2 \u2212 3`y` when `x` = \u22122 and `y` = 5.", "R"),
+        Q("The sum of three consecutive even numbers is 84. Form an equation, solve "
+          "it, and state the three numbers.", "R"),
+        Q("Show that 4(2`n` + 3) \u2212 3(2`n` + 4) always equals 2`n`, and explain "
+          "why a single numerical check would not be enough to prove it.", "E"),
+    ]),
+    GAP(8),
+]
+
+ANSWERS["R2"] = [
+    "6`a` \u2212 2: 8`a` \u2212 12 \u2212 2`a` + 10.",
+    "`x` = 9: 5`x` \u2212 3`x` = 11 + 7, so 2`x` = 18.",
+    "`x` = 6: 3`x` + 12 = 2`x` + 18.",
+    "4`n` + 2; the 25th term is 4 \u00d7 25 + 2 = 102.",
+    "`n` = 19, since 5`n` = 95.",
+    "Output 3`t` + 4; 3`t` + 4 = 25 gives `t` = 7.",
+    "`y` = 3`x` \u2212 2: the gradient is (13 \u2212 (\u22122)) \u00f7 5 = 3 and "
+    "the intercept is \u22122.",
+    "\u22127: 2 \u00d7 4 = 8 and 3 \u00d7 5 = 15, so 8 \u2212 15 = \u22127.",
+    "`n` + (`n` + 2) + (`n` + 4) = 84, so 3`n` + 6 = 84 and `n` = 26: the numbers "
+    "are 26, 28 and 30.",
+    "8`n` + 12 \u2212 6`n` \u2212 12 = 2`n`, which holds for every `n` because "
+    "the constant terms cancel. One numerical check only shows that the two "
+    "expressions agree for that value, so it cannot establish the general claim.",
+]

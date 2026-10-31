@@ -376,6 +376,17 @@ A community orchard is planned as a rectangle 60 m by 45 m, divided into equal s
 4. Two similar rectangles have sides 9 cm and 15 cm corresponding. The smaller has area 54 cm². Find the area of the larger.
 5. Explain in two sentences why a scale plan cannot preserve both lengths and areas by the same factor.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Decide from a table, a graph or a description whether two quantities are proportional.
+- Find the constant of proportionality and state its unit.
+- Solve a proportion in either direction without cross-multiplying blindly.
+- Use a scale factor on a drawing and say what stays the same.
+
+Proportional means one quantity is a constant multiple of the other; the constant is the whole relationship.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |

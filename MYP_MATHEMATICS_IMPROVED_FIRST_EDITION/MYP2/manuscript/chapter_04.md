@@ -1,6 +1,6 @@
 # Chapter 4 · Integers and operations
 
-*Part II · Algebra and pattern* · key concept **Logic** · related concepts: Quantity, Change
+*Part I · Number and proportion* · key concept **Logic** · related concepts: Quantity, Change
 
 Global context: Scientific and technical innovation
 
@@ -351,6 +351,17 @@ The rule (−) × (−) = + is often given as something to memorise. This invest
 4. Evaluate −2² + (−3)².
 5. The temperature is −4°C and falls 7°C. Find the new temperature, and state the absolute value of the change.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Order signed numbers and explain the order on a number line.
+- Add and subtract signed numbers without a rule you cannot justify.
+- Multiply and divide signed numbers and give the sign before the value.
+- Apply the order of operations where a negative sign and a power compete.
+
+The sign is part of the number; the operations extend the number line rather than replace it.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |
@@ -389,6 +400,25 @@ In order for a student to explain a rule that others memorise, students must pro
 10. The sum of two integers is −5 and their product is 6. Find them.  [E]
 11. A shop's balance is −£240. Three payments of £95 each are received. Find the new balance.  [E]
 12. Find all integer values of *n* such that −3 < *n* ≤ 2, and state the sum of their absolute values.  [E]
+
+# Part I review
+
+> Ten questions that draw on the whole of Part I. Nothing here is new: each item mixes two ideas that were taught in different chapters, which is what an examination does.
+
+Work without notes first; an item you cannot start is a signal to reread one section, not to guess. Compare your answers with the key only after the whole set is finished.
+
+**Practice R1** · SUPPORT 1–4  ·  CORE 5–7  ·  EXTENSION 8–10
+
+1. Simplify the ratio 45 minutes : 2 hours.  [F]
+2. Share £252 in the ratio 4 : 5.  [F]
+3. A recipe for 5 people uses 350 g of rice. Find the mass needed for 8 people.  [F]
+4. A map has scale 1 : 40 000. Two towns are 6.5 cm apart on the map. Find the real distance in kilometres.  [P]
+5. A car travels 135 km in 1 hour 30 minutes. Find its average speed.  [P]
+6. Which is better value: 750 g for £2.70 or 1.25 kg for £4.25? Show the unit prices you compare.  [P]
+7. Convert 54 km/h to metres per second.  [R]
+8. Calculate (−7) + 12 − (−5).  [F]
+9. Evaluate (−3)² − 4 × (−2).  [R]
+10. The temperature at 06:00 was −4 °C. It rose 9 °C by noon and then fell 6 °C by 18:00. Find the temperature at 18:00, and explain which of the two changes mattered more.  [E]
 
 ## Answers · chapter 4
 
@@ -453,3 +483,16 @@ In order for a student to explain a rule that others memorise, students must pro
 10. −2 and −3.
 11. £45.
 12. −2, −1, 0, 1, 2; sum of absolute values 6.
+
+**R1**
+
+1. 3 : 8 (45 : 120, dividing both parts by 15).
+2. One part is £28, so the shares are £112 and £140.
+3. 560 g: the mass per person is 350 ÷ 5 = 70 g, and 8 × 70 = 560 g.
+4. 2.6 km: 6.5 × 40 000 = 260 000 cm = 2 600 m.
+5. 90 km/h: 1 hour 30 minutes is 1.5 hours, and 135 ÷ 1.5 = 90.
+6. The 1.25 kg pack: £0.36 per 100 g for 750 g, against £0.34 per 100 g (£4.25 ÷ 12.5) for 1.25 kg.
+7. 15 m/s: 54 km/h is 54 000 m ÷ 3 600 s = 15 m/s.
+8. 10: (−7) + 12 = 5, and 5 − (−5) = 5 + 5 = 10.
+9. 17: (−3)² = 9 and 4 × (−2) = −8, so 9 − (−8) = 17.
+10. −1 °C: −4 + 9 = 5, then 5 − 6 = −1. The two changes have different sizes (9° and 6°), so the rise counts for more; adding them as if they were equal would misreport the day.

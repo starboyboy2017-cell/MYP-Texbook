@@ -505,6 +505,17 @@ Choose a design you can see in the room or in the photograph: a tile layout, a w
 4. Enlarge (3, 2) by scale factor −2 from the origin.
 5. A regular nonagon: state its order of rotational symmetry and its number of lines of symmetry.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Carry out a translation, reflection, rotation and enlargement on a grid.
+- Describe a transformation completely: type, centre or line, and amount.
+- Combine two transformations and name the single equivalent one.
+- Use the area and volume scale factors of an enlargement, not just the length factor.
+
+A transformation is a rule that moves every point; describing it fully is the mathematical work.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |
@@ -543,6 +554,25 @@ In order for a student to justify a design, students must name the transformatio
 10. A regular polygon has 12 lines of symmetry. Name it and give its order of rotational symmetry.  [E]
 11. A map scale is 1 : 50 000. Find the real length represented by 6 cm, in kilometres.  [E]
 12. A design has one line of symmetry and rotational symmetry of order 1. Describe a motif that would produce it and one change that would raise its order of symmetry to 2.  [E]
+
+# Part III review
+
+> Ten questions on shape, space and movement. Take π = 3.14. Draw a sketch before you calculate: in Part III an unlabelled figure is the most common cause of a wrong value.
+
+Questions 7–9 ask for a transformation. Give the single transformation that maps the object onto the image, with every number it needs.
+
+**Practice R3** · SUPPORT 1–3  ·  CORE 4–7  ·  EXTENSION 8–10
+
+1. Two angles on a straight line are (2*x* + 15)° and (3*x* + 10)°. Find *x* and both angles.  [F]
+2. A regular polygon has an exterior angle of 20°. Find its number of sides and each interior angle.  [F]
+3. Find the area and the circumference of a circle of diameter 18 cm (π = 3.14).  [F]
+4. A semicircle of radius 7 cm sits on a rectangle 14 cm by 5 cm. Find the total area.  [P]
+5. A cuboid is 9 cm by 6 cm by 4 cm. Find its surface area and its volume.  [P]
+6. A cylinder has radius 6 cm and height 10 cm. Find its volume (π = 3.14).  [P]
+7. Translate the point (3, −5) by the vector (−4, 7).  [F]
+8. Reflect (6, −2) in the line *y* = *x*, then in the *x*-axis. Give both images.  [R]
+9. Enlarge (3, 4) by scale factor 2 from the centre (1, 2).  [R]
+10. A shape of area 15 cm² is enlarged by scale factor 4. Find the new area, and explain why it is not 4 times 15 cm².  [E]
 
 ## Answers · chapter 9
 
@@ -636,3 +666,16 @@ In order for a student to justify a design, students must name the transformatio
 10. A regular dodecagon; order 12.
 11. 3 km.
 12. Answers vary; a motif with a single mirror line has order 1, and adding a copy rotated by 180° raises the order to 2.
+
+**R3**
+
+1. 5*x* + 25 = 180, so *x* = 31; the angles are 77° and 103°.
+2. 18 sides, since 360 ÷ 20 = 18; each interior angle is 180 − 20 = 160°.
+3. Area 3.14 × 9² = 254.34 cm²; circumference 3.14 × 18 = 56.52 cm.
+4. 146.93 cm²: the semicircle is 3.14 × 49 ÷ 2 = 76.93 cm² and the rectangle is 70 cm².
+5. Surface area 228 cm²; volume 216 cm³.
+6. 3.14 × 36 × 10 = 1 130.4 cm³.
+7. (−1, 2).
+8. In *y* = *x* the image is (−2, 6); reflecting that in the *x*-axis gives (−2, −6).
+9. (5, 6): the vector from the centre is (2, 2), which doubles to (4, 4), and (1, 2) + (4, 4) = (5, 6).
+10. 240 cm². Under an enlargement every length multiplies by 4, and an area is a product of two lengths, so the area multiplies by 4² = 16.

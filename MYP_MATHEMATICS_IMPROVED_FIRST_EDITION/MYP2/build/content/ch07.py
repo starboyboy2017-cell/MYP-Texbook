@@ -585,6 +585,17 @@ BLOCKS = [
         "A rectangle 10 m by 4 m has a semicircle of radius 2 m removed from one long "
         "side. Find the remaining area."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Use angle facts on lines, at points and between parallel lines, naming the fact.",
+        "Use the angle sums of triangles and polygons.",
+        "Find the circumference and area of a circle, choosing the right formula.",
+        "Break a composite shape into parts without counting an internal edge twice.",
+    ]),
+    KEY("Every angle fact comes from a small number of starting assumptions; name the one you used."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["use the straight-line and point angle facts", "\u25a1", "\u25a1", "\u25a1"],

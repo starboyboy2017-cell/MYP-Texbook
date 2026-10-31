@@ -39,8 +39,8 @@ CHAPTERS = [
 ]
 
 PARTS = [
-    ("I", "Number and proportion", [1, 2, 3]),
-    ("II", "Algebra and pattern", [4, 5, 6]),
+    ("I", "Number and proportion", [1, 2, 3, 4]),
+    ("II", "Algebra and pattern", [5, 6]),
     ("III", "Geometry and space", [7, 8, 9]),
     ("IV", "Probability and data", [10, 11]),
 ]
@@ -53,8 +53,11 @@ for _num, _name, _chs in PARTS:
         PART_OF[_c] = (_num, _name)
 
 FRONT_PAGES = ["How to use this coursebook", "The MYP framework in this course",
-               "Assessment criteria in practice", "Course map and progression",
-               "Notation, working and habits"]
+               "Assessment criteria in practice",
+               "Three pathways through the course",
+               "Command terms used in this book",
+               "Course map and progression", "Notation, working and habits",
+               "Calculators, rounding and accuracy"]
 
 
 def build(path, contents=None, index_map=None):

@@ -2,7 +2,7 @@
 from chbase import *
 
 PLATE = dict(
-    part="Part II \u00b7 Algebra and pattern", part_numeral="II", chapter_no=4,
+    part="Part I \u00b7 Number and proportion", part_numeral="I", chapter_no=4,
     kicker="Algebra and pattern", motif="integers",
     title_lines=["Integers and", "operations"],
     lead_lines=["Negative numbers extend the number line in both directions.",
@@ -425,6 +425,17 @@ BLOCKS = [
         "The temperature is \u22124\u00b0C and falls 7\u00b0C. Find the new "
         "temperature, and state the absolute value of the change."]),
     GAP(6),
+    H("Before you move on"),
+    P("Four things you should be able to do without help before the next "
+      "chapter. If one of them is not yet secure, reread the section that "
+      "taught it before attempting the mixed practice again.", 4),
+    UL([
+        "Order signed numbers and explain the order on a number line.",
+        "Add and subtract signed numbers without a rule you cannot justify.",
+        "Multiply and divide signed numbers and give the sign before the value.",
+        "Apply the order of operations where a negative sign and a power compete.",
+    ]),
+    KEY("The sign is part of the number; the operations extend the number line rather than replace it."),
     H("Self-assessment"),
     TABLE(["I can \u2026", "Not yet", "Getting there", "Confident"], [
         ["order integers and find absolute values", "\u25a1", "\u25a1", "\u25a1"],
@@ -513,3 +524,52 @@ ANSWERS = {
             "18.", "\u22122 and \u22123.",
             "\u00a345.", "\u22122, \u22121, 0, 1, 2; sum of absolute values 6."],
 }
+
+
+# ------------------------------------------------------------------ part review
+BLOCKS += [
+    GAP(14),
+    ("head", "Part I review"),
+    ("pagetitle", "Part I review", "Consolidation \u00b7 chapters 1\u20134"),
+    L("Ten questions that draw on the whole of Part I. Nothing here is new: "
+      "each item mixes two ideas that were taught in different chapters, which is "
+      "what an examination does."),
+    P("Work without notes first; an item you cannot start is a signal to reread "
+      "one section, not to guess. Compare your answers with the key only after "
+      "the whole set is finished.", 6),
+    PRAC("R1", "SUPPORT 1\u20134  \u00b7  CORE 5\u20137  \u00b7  EXTENSION 8\u201310", [
+        Q("Simplify the ratio 45 minutes : 2 hours.", "F"),
+        Q("Share \u00a3252 in the ratio 4 : 5.", "F"),
+        Q("A recipe for 5 people uses 350 g of rice. Find the mass needed for 8 "
+          "people.", "F"),
+        Q("A map has scale 1 : 40 000. Two towns are 6.5 cm apart on the map. Find "
+          "the real distance in kilometres.", "P"),
+        Q("A car travels 135 km in 1 hour 30 minutes. Find its average speed.", "P"),
+        Q("Which is better value: 750 g for \u00a32.70 or 1.25 kg for \u00a34.25? "
+          "Show the unit prices you compare.", "P"),
+        Q("Convert 54 km/h to metres per second.", "R"),
+        Q("Calculate (\u22127) + 12 \u2212 (\u22125).", "F"),
+        Q("Evaluate (\u22123)\u00b2 \u2212 4 \u00d7 (\u22122).", "R"),
+        Q("The temperature at 06:00 was \u22124 \u00b0C. It rose 9 \u00b0C by noon "
+          "and then fell 6 \u00b0C by 18:00. Find the temperature at 18:00, and "
+          "explain which of the two changes mattered more.", "E"),
+    ]),
+    GAP(8),
+]
+
+ANSWERS["R1"] = [
+    "3 : 8 (45 : 120, dividing both parts by 15).",
+    "One part is \u00a328, so the shares are \u00a3112 and \u00a3140.",
+    "560 g: the mass per person is 350 \u00f7 5 = 70 g, and 8 \u00d7 70 = 560 g.",
+    "2.6 km: 6.5 \u00d7 40 000 = 260 000 cm = 2 600 m.",
+    "90 km/h: 1 hour 30 minutes is 1.5 hours, and 135 \u00f7 1.5 = 90.",
+    "The 1.25 kg pack: \u00a30.36 per 100 g for 750 g, against \u00a30.34 per "
+    "100 g (\u00a34.25 \u00f7 12.5) for 1.25 kg.",
+    "15 m/s: 54 km/h is 54 000 m \u00f7 3 600 s = 15 m/s.",
+    "10: (\u22127) + 12 = 5, and 5 \u2212 (\u22125) = 5 + 5 = 10.",
+    "17: (\u22123)\u00b2 = 9 and 4 \u00d7 (\u22122) = \u22128, so 9 \u2212 "
+    "(\u22128) = 17.",
+    "\u22121 \u00b0C: \u22124 + 9 = 5, then 5 \u2212 6 = \u22121. The two "
+    "changes have different sizes (9\u00b0 and 6\u00b0), so the rise counts for "
+    "more; adding them as if they were equal would misreport the day.",
+]

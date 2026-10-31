@@ -48,12 +48,52 @@ FACES = {
 }
 
 
+def _instanced(name, fn):
+    """Return a path to this face with a unique PostScript name.
+
+    The subset files in fonts/ were instanced from variable fonts, so every
+    weight still carries the family's original PostScript name. reportlab keys
+    embedded fonts by that name, which silently collapses bold, semibold and
+    medium onto the regular face. Rewriting the name table per face keeps the
+    weights distinct in the PDF.
+    """
+    src = os.path.join(FONT_DIR, fn)
+    import tempfile
+    out_dir = os.path.join(tempfile.gettempdir(), "myp2_fonts")
+    out = os.path.join(out_dir, fn)
+    stamp = os.path.join(out_dir, "." + fn + ".stamp")
+    key = f"{name}|{os.path.getmtime(src)}|{os.path.getsize(src)}"
+    try:
+        if open(stamp).read().strip() == key:
+            return out
+    except OSError:
+        pass
+    try:
+        from fontTools.ttLib import TTFont as FTFont
+    except ImportError:
+        return src
+    os.makedirs(out_dir, exist_ok=True)
+    f = FTFont(src)
+    family = name.replace("-", " ")
+    ps = name.replace("-", "")
+    names = {1: family, 4: family, 6: ps, 16: family, 17: name}
+    nt = f["name"]
+    for rec in list(nt.names):
+        if rec.nameID in names:
+            nt.setName(names[rec.nameID], rec.nameID, rec.platformID,
+                       rec.platEncID, rec.langID)
+    f.save(out)
+    with open(stamp, "w") as fh:
+        fh.write(key)
+    return out
+
+
 def register():
     global _REGISTERED
     if _REGISTERED:
         return
     for name, fn in FACES.items():
-        pdfmetrics.registerFont(RLTTFont(name, os.path.join(FONT_DIR, fn)))
+        pdfmetrics.registerFont(RLTTFont(name, _instanced(name, fn)))
 
     from reportlab.lib.fonts import addMapping
     addMapping("Playfair", 0, 0, "Playfair")

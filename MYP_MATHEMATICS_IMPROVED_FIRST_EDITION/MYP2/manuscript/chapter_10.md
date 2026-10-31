@@ -429,6 +429,17 @@ Two players each roll a die. Player A scores the difference between the two numb
 4. *P*(rain) = 0.4 each day. Find *P*(no rain on two independent days).
 5. A die is rolled 240 times. How many threes would you expect?
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Write a probability as a fraction, decimal and percentage within 0 to 1.
+- List a sample space systematically and count favourable outcomes.
+- Use a tree diagram for two events, with and without replacement.
+- Decide whether experimental results are evidence of bias.
+
+Probability measures how much of the possible outcomes a description covers.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |

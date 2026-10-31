@@ -381,6 +381,17 @@ A breakfast club serves 120 students. A supplier offers two contracts for milk.
 4. A block of mass 810 g has volume 300 cm³. Find its density.
 5. Two printers print 60 pages in 4 minutes and 105 pages in 6 minutes. Which is faster, and by how much per minute?
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Convert any rate into a unit rate and name the compound unit.
+- Compare two offers by a common unit and justify the choice.
+- Combine two rates working together, and one working against another.
+- Use speed, density or flow rate in a problem where the unit decides the method.
+
+A rate compares quantities with different units; the unit rate is the comparison per one.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |

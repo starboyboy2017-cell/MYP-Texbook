@@ -436,6 +436,17 @@ A drinks can must hold 330 cm³. Its radius and height can vary, but the volume 
 4. A tank holds 2.4 m³. How many litres is that?
 5. Two cubes of edge 5 cm are joined face to face. Find the surface area of the result.
 
+### Before you move on
+
+Four things you should be able to do without help before the next chapter. If one of them is not yet secure, reread the section that taught it before attempting the mixed practice again.
+
+- Count faces, edges and vertices and check Euler's relationship.
+- Unfold a solid into a net and use the net to find surface area.
+- Find the volume of a prism, cylinder, cone or sphere.
+- Handle a composite solid by adding or subtracting the parts.
+
+Surface area is a two-dimensional measurement of a three-dimensional object; volume is the space it encloses.
+
 ### Self-assessment
 
 | I can … | Not yet | Getting there | Confident |

@@ -1,7 +1,7 @@
 # Report 2 — Pedagogical improvement
 
 **Deliverable:** *MYP Mathematics 2 — Student Coursebook, Improved First Edition*
-**Comparison:** original First Edition (260 pp) against this edition (245 pp)
+**Comparison:** original First Edition (260 pp) against this edition (265 pp)
 
 The purpose of this report is to say, concretely, what changed in the *teaching* and why each
 change is an improvement rather than a preference.
@@ -72,8 +72,10 @@ student to distinguish the two.
 **Original.** Practice lists were tagged Support/Core/Extension, but the answer section was a dense
 block of numbers per section.
 
-**This edition.** 633 questions across 11 chapters, each tagged, and 633 answers, each of which is
-either a value or a short explanation. Where a question asks *why* or *explain*, the answer gives
+**This edition.** 673 questions — 633 across the 11 chapters plus 40 in the four Part reviews —
+each tagged, and 673 answers, each of which is either a value or a short explanation. Answers are
+set one per line under a "Practice x.y" heading, so an answer is found by looking, not by reading
+a paragraph. Where a question asks *why* or *explain*, the answer gives
 the reasoning rather than a verdict. For example, question 7.1.9 ("A student says two angles of 50°
 and 130° must be co-interior. Is that reasoning valid?") is answered: "No — many pairs add to 180°
 without being co-interior; the reason must be the parallel lines."
@@ -123,11 +125,11 @@ referred back to them. In this edition:
 
 | Measure | Original | This edition |
 |---|---|---|
-| Pages | 260 | 245 |
+| Pages | 260 | 265 |
 | Chapters | 11 | 11 |
 | Sections (teaching + review) | 49 | 52 (41 teaching + 11 review) |
 | Worked examples | ~40 (mostly two-step) | 121 (all with steps, answer and check) |
-| Practice questions | ~560 | 633 |
+| Practice questions | ~560 | 673 (633 chapter + 40 part review) |
 | Answers with reasoning | few | all reasoning-type questions |
 | Named misconceptions | 0 | 40 panels |
 | Investigation cards | 11 | 22 |
