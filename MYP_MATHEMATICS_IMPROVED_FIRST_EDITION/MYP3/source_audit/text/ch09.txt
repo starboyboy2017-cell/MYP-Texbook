@@ -1,0 +1,2069 @@
+
+
+===== [source page 179] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+179
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Classify solids and count faces, edges and
+vertices.
+1 / 2 / 3
+Interpret nets, plans and elevations.
+1 / 2 / 3
+Calculate surface area of prisms, cylinders,
+pyramids and cones.
+1 / 2 / 3
+Calculate volume, including pyramids, cones,
+spheres and composites.
+1 / 2 / 3
+Use capacity, density and bounds to evaluate a
+design.
+1 / 2 / 3
+Reflection
+A can is labelled “330 mL”, but the true capacity depends on manufacturing tolerances
+and the shape of the base and lid. Should the label state an exact figure or a guaranteed
+minimum? How should a manufacturer communicate uncertainty without losing the
+customer's trust?
+
+
+===== [source page 180] =====
+P A R T I V · I N T E R P R E T I N G E V I D E N C E
+Data, chance and
+evidence
+Data do not speak for themselves. A scatter plot can
+suggest a relationship; a correlation coefficient can
+measure its strength; neither can establish that one
+variable causes another. This part develops the tools of
+bivariate analysis and probability, then turns them on
+the questions that matter: What does the evidence
+support, how was the sample chosen, and how should
+uncertainty be communicated?
+IV
+09
+Bivariate data, correlation and causation
+10
+Probability, sampling and evidence
+
+
+===== [source page 181] =====
+PA R T I V · I N T E R P R E T I N G E V I D E N C E
+M Y P Y E A R 3
+C H A P T E R 0 9
+9
+D ATA , C H A N C E A N D E V I D E N C E
+Bivariate data, correlation
+and causation
+Two measurements on the same person, place or day
+form a pair. Plot the pairs and a shape may appear: a
+rising cloud, a falling cloud, or no pattern at all. The
+shape is evidence, but it is not yet an explanation.
+KEY CONCEPT · RELATIONSHIPS
+RELATED · MODELS
+RELATED · JUSTIFICATION
+CONTEXT · FAIRNESS AND DEVELOPMENT
+I N Q U I R Y
+When does a pattern in paired data justify a prediction — and when does
+it justify a claim about cause?
+AT L · R E S E A R C H A N D C R I T I CA L T H I N K I N G
+A correlation arrives with a history: who was measured, how the variables were defined, which cases
+were left out and who paid for the study. Before interpreting a coefficient, locate the data's
+provenance. A number can be arithmetically correct and still support a conclusion that the study
+design cannot bear.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 182] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+182
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 9 · A P P R OX . 1 4 H O U R S
+AT L F O C U S · R E S E A R C H
+KEY AND RELATED CONCEPTS
+Relationships. Bivariate data records two
+variables on the same unit. A scatter plot shows
+whether the variables vary together, in what
+direction and how tightly.
+Models. A line of best fit is a simple model of a
+relationship. Its gradient and intercept have
+meaning only in the context and range of the
+data that produced them.
+Justification. Association is not causation. A
+causal claim needs a mechanism, correct
+temporal order and the elimination of plausible
+alternative explanations.
+GLOBAL CONTEXT AND EXPLORATION
+Fairness and development. Exploration:
+evaluating a public claim — how a statistic
+about schools, health or income is selected,
+summarised and presented, and whether
+the evidence supports the conclusion drawn
+from it.
+Public decisions are often argued with
+correlations: class size and attainment,
+screen time and sleep, income and life
+expectancy. The mathematics cannot settle
+the policy, but it can show whether the
+comparison is fair, whether a third variable
+could explain the pattern, and how much
+confidence the data warrant.
+FACTUAL
+What is a scatter plot? How is
+the correlation coefficient
+calculated and interpreted?
+What is a line of best fit, and
+how is it used to predict?
+CONCEPTUAL
+How does a single number
+summarise the strength of a
+linear relationship? Why can
+a strong association fail to
+establish cause? How do
+outliers and subgroups
+change an interpretation?
+DEBATABLE
+Should a correlation be
+enough to justify a public
+health recommendation?
+How should a newspaper
+report a study that shows
+association but not
+causation?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Identify variables and associations; calculate and interpret a
+correlation coefficient; use a line of best fit.
+B · Investigating patterns
+i, ii, iii
+Collect paired measurements, describe the scatter, calculate r, fit a
+line and test the model against new data.
+C · Communicating
+i, ii, iii, iv
+Draw labelled scatter plots and lines; report r and predictions
+with units; state the limits of a model.
+D · Applying mathematics
+i, ii, iii, iv, v
+Evaluate a public claim by separating association from causation
+and proposing a stronger study design.
+S TAT E M E N T O F I N Q U I R Y
+Relationships between two variables can be displayed, measured and
+modelled to support prediction; a model becomes evidence for
+causation only when alternative explanations have been tested and
+ruled out.
+
+
+===== [source page 183] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+183
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Plot the points 
+, 
+, 
+, 
+ on a grid with axes from  to .
+2. Find the mean of 
+.
+3. Find the equation of the line through 
+ and 
+.
+4. Calculate the gradient of the line 
+ and state its intercept.
+5. Evaluate 
+ and 
+ to two decimal places.
+6. A student scores 
+ on a test. The class mean is 
+. Find the difference from the mean.
+Answers are in the Chapter 9 answer section. If more than two are incorrect, review plotting points, means and the
+equation of a straight line before continuing.
+BEFORE YEAR 3
+Reading and plotting coordinates;
+mean, median and range; drawing
+straight-line graphs; calculating a
+gradient from two points.
+YEAR 3 · THIS CHAPTER
+Scatter plots; correlation coefficient;
+line of best fit; prediction;
+correlation, causation and
+confounding; critical reading of
+claims.
+LATER
+Regression with least squares and
+residual analysis; Spearman's rank
+correlation; multiple regression;
+causal inference and experimental
+design.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Claims about
+schools, health
+and behaviour are
+often based on
+two variables
+measured
+together.
+2
+QUESTION
+How strong is the
+relationship, what
+does it predict,
+and does it show
+cause?
+3
+CONCEPT
+Association,
+correlation, linear
+models,
+confounding and
+justification.
+4
+INVESTIGATION
+Measure paired
+data, calculate the
+correlation, fit a
+line and test the
+model against a
+hold-out sample.
+5
+COMMUNICATION
+Plot and label
+accurately; report
+the correlation
+and predictions
+with units; state
+the range of valid
+inference.
+6
+REFLECTION
+What would it
+take to turn this
+association into
+evidence for a
+causal claim?
+Understand the structure of bivariate data and
+the meaning of association.
+Be able to draw, describe and compare scatter
+plots.
+Know how to calculate and interpret Pearson's
+correlation coefficient .r
+Be able to construct and use a line of best fit,
+including interpolation and extrapolation.
+Understand the difference between correlation
+and causation, and recognise confounding and
+reverse causation.
+Be able to evaluate a public claim built on
+bivariate data and recommend a stronger
+design.
+I can identify the explanatory and response
+variables and plot them on correctly
+labelled axes.
+I can describe direction, strength, form and
+unusual features of a scatter plot.
+I can calculate  from a small table and
+interpret its sign and size.
+r
+I can fit a line, state its equation and use it
+to predict within the data range.
+I can explain why a correlation may not be
+causal, naming at least one plausible
+alternative explanation.
+I can judge whether a graph or headline
+overstates the evidence.
+(1, 3) (2, 5) (3, 4) (4, 7)
+0
+8
+4, 6, 7, 9, 14
+(1, 5)
+(3, 11)
+y = 4x −7
+​
+2.5
+​
+0.64
+62%
+70%
+
+
+===== [source page 184] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+184
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Two variables at once
+CRITERION A · I, II
+CRITERION C · I, II
+RELATIONSHIPS
+A single-variable data set answers “how big?”. A bivariate data set answers “how do two
+measurements move together?”. Each observation contributes a pair, and the pair is
+plotted as one point.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+x
+y
+positive association: as study time increases, score tends to increase
+study time (hours)
+score
+Each point represents one observation: two numerical variables measured on the same individual.
+Figure 9.1 Each point is one student: study time and score measured together. The points rise from left to right, so the association is
+positive. The highlighted point sits above the pattern for its study time.
+Label the axes with the quantity and its unit, and choose scales that use the available space without
+distorting the pattern. The explanatory variable is usually placed on the horizontal axis because we
+are asking how the response depends on it. When neither variable is clearly prior, either axis may
+be used, but the choice must be stated and kept consistent when comparing plots.
+Describe a scatter plot in four moves: direction (positive, negative or none), form (linear or
+curved), strength (how closely the points follow the form) and unusual features (outliers, clusters
+or gaps). “Positive, linear and strong, with one high outlier” is a complete description; “it goes up” is
+not.
+9.1
+D E F I N I T I O N S
+Bivariate data consists of two measurements made on the same individual, object or
+occasion. The explanatory variable is the one we use to explain or predict; the response
+variable is the one we measure as an outcome. A scatter plot displays each pair as a point,
+with the explanatory variable on the horizontal axis. An association is a pattern in which the
+response tends to change as the explanatory variable changes. An outlier is a point that does
+not fit the overall pattern. A cluster is a separated group of points.
+
+
+===== [source page 185] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+185
+positive
+negative
+no association
+nonlinear
+Correlation describes the direction and strength of a linear association, not its cause.
+Figure 9.2 Direction and form are different questions. The bottom-right plot has a clear pattern but no overall linear trend: it rises
+and then falls.
+WO R K E D E X A M P L E 9.1 .1
+DESCRIBING A SCATTER PLOT
+PROBLEM
+A researcher records the age in years and the resting heart rate in beats per minute of 20
+adults. The scatter plot slopes downwards and the points lie fairly close to a straight line,
+except for one 22-year-old with a heart rate of 96 bpm. Describe the association and identify
+any unusual features.
+ANSWER Moderately strong negative linear association, with one possible outlier at age 22
+and heart rate 96 bpm.
+Direction: as age increases, resting heart rate tends to decrease, so the association is negative.
+1
+Form: the points cluster around a downward-sloping straight line, so the form is
+approximately linear.
+2
+Strength: the points are fairly close to the line, so the association is moderately strong.
+3
+Unusual features: the point 
+ lies well above the downward trend for its age, so it is a
+possible outlier. Before removing it, check whether it is a recording error or a genuine
+unusual case.
+4
+(22, 96)
+
+
+===== [source page 186] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+186
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 9.1 . 2
+CHOOSING VARIABLES AND AXES
+PROBLEM
+A shop records, for each of 30 days, the outdoor temperature in °C and the number of cold
+drinks sold. Identify the explanatory and response variables, state which belongs on each
+axis, and predict the direction of the association.
+ANSWER Explanatory: temperature; response: drinks sold; positive association expected,
+with scatter from other influences.
+PRACTICE 9.1 · TWO VARIABLES AT ONCE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. For each pair, identify the explanatory and response variables: (a) hours of revision and test score; (b)
+age of a car and its resale value; (c) daily rainfall and umbrella sales. 
+F
+2. Describe the direction of each association: (a) altitude and air pressure; (b) distance from a city centre
+and house price; (c) practice time and typing speed. 
+F
+3. Plot these points: 
+, 
+, 
+, 
+, 
+, 
+, 
+. Describe direction, form and
+strength. 
+F
+4. Explain why “the points go up” is not a complete description of a scatter plot. 
+R
+5. A scatter plot of plant height against daily sunlight is strong and positive for the first four weeks, then
+flattens. Explain why a single straight line would describe the whole period poorly. 
+R
+6. A data set contains the point 
+ while the other points lie between  and  on the horizontal axis.
+Explain why this point may be influential as well as unusual. 
+R
+7. A school records, for 25 students, the number of minutes spent on homework and the score on a test.
+One student reports 600 minutes, far above the rest. Suggest two checks before treating this as a
+genuine observation. 
+P
+8. A shop’s sales data show two separate clusters: weekday sales and weekend sales. Explain how
+plotting a single line of best fit through both clusters could give a misleading summary. 
+E
+Temperature is the variable used to explain the number of drinks sold, so temperature is
+explanatory and drinks sold is the response.
+1
+Temperature goes on the horizontal axis; drinks sold goes on the vertical axis. Label them
+“temperature (°C)” and “cold drinks sold”.
+2
+Warmer days are likely to produce more cold-drink sales, so expect a positive association. It
+need not be perfectly linear: very hot days may reach a practical limit set by stock or the
+number of customers.
+3
+Because sales also depend on day of the week, price and weather, the points will be scattered
+rather than lying exactly on a line.
+4
+C O M M O N E R R O R · P LOT T I N G PA I R S T H AT D O N OT B E LO N G TO G E T H E R
+Each point must join two measurements of the same individual or occasion. Sorting the two
+lists separately before plotting destroys the pairing and can create a pattern that does not
+exist. Also check units: a height recorded in centimetres and an arm span in metres will
+produce a meaningless cluster near the vertical axis. Convert to a common unit first.
+(1, 4) (2, 5) (2.5, 4.6) (3, 6) (4, 6.8) (5, 7.2) (6, 8.1)
+(14, 3)
+2
+6
+
+
+===== [source page 187] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+187
+ Measuring linear association
+CRITERION A · I, II
+CRITERION B · I, II
+MODELS
+A scatter plot shows strength by eye. The correlation coefficient turns that impression into
+a number between 
+ and , so that different data sets can be compared on the same scale.
+r = 0.99
+strong positive
+r = 0.54
+moderate positive
+r = 0.00
+no linear trend
+r = −0.54
+moderate negative
+r = −0.99
+strong negative
+The same six x-values, five different relationships
+r measures linear strength from −1 to 1; a curved relationship can have r near 0 even when the pattern is strong.
+Figure 9.3 The same horizontal values with different vertical values. The sign gives the direction; the distance from  gives the
+linear strength. The middle plot has no linear trend, but that does not mean the two variables are unrelated.
+The calculation is easiest in a table. Subtract each mean, multiply the paired deviations, square
+each deviation, and total. The numerator measures whether the variables deviate in the same
+direction; the denominator scales the result so that it always lies between 
+ and .
+9.2
+−1
+1
+D E F I N I T I O N S · P E A R S O N ' S C O R R E L AT I O N C O E F F I C I E N T
+For paired data 
+ with means  and , the correlation coefficient is
+It measures the direction and strength of a linear association. 
+ means positive
+association, 
+ means negative association, and  close to  means little linear association.
+The value is unchanged if either variable is rescaled or if the two variables are swapped.
+(x
+​, y
+​)
+i
+i
+xˉ
+​yˉ
+r =
+​.
+​
+(x
+​ −)
+(y
+​ −
+​)
+∑
+i
+xˉ 2 ∑
+i
+yˉ 2
+(x
+​ −)(y
+​ −
+​)
+∑
+i
+xˉ
+i
+yˉ
+r > 0
+r < 0
+r
+0
+0
+−1
+1
+
+
+===== [source page 188] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+188
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+CALCULATING 
+ FOR FIVE STUDENTS
+Dev. 
+Dev. 
+Product
+Dev. ²
+Dev. ²
+1
+52
+−2
+−12
+24
+4
+144
+2
+58
+−1
+−6
+6
+1
+36
+3
+64
+0
+0
+0
+0
+0
+4
+68
+1
+4
+4
+1
+16
+5
+78
+2
+14
+28
+4
+196
+Total
+0
+0
+62
+10
+392
+WO R K E D E X A M P L E 9. 2 .1
+A POSITIVE CORRELATION
+PROBLEM
+Five students recorded hours of study  and test score : 
+, 
+, 
+, 
+, 
+.
+Calculate  and interpret it.
+ANSWER
+: a very strong positive linear association.
+WO R K E D E X A M P L E 9. 2 . 2
+A NEGATIVE CORRELATION
+PROBLEM
+At a café, the mean outdoor temperature  (°C) and hot drinks sold  (hundreds) were
+recorded on five days: 
+, 
+, 
+, 
+, 
+. Calculate  and interpret it.
+ANSWER
+: a very strong negative linear association.
+R
+x
+y
+x
+y
+x
+y
+x
+y (1, 52) (2, 58) (3, 64) (4, 68) (5, 78)
+r
+Means: 
+ and 
+.
+1
+=
+xˉ
+3
+​ =
+yˉ
+64
+From the table, 
+, 
+ and 
+.
+2
+(x −
+∑
+)(y −
+xˉ
+​) =
+yˉ
+62
+(x −
+∑
+) =
+xˉ 2
+10
+(y −
+∑
+​) =
+yˉ 2
+392
+.
+3
+r =
+​ =
+​
+10 × 392
+62
+​ =
+​
+3920
+62
+​ ≈
+62.61
+62
+0.990
+The sign is positive and the value is very close to : a strong positive linear association.
+Students who studied more tended to score higher.
+4
+1
+r ≈0.990
+x
+y
+(5, 9) (10, 8) (15, 6) (20, 4) (25, 3)
+r
+Means: 
+ and 
+.
+1
+=
+xˉ
+15
+​ =
+yˉ
+6
+Deviations for : 
+; for : 
+.
+2
+x −10, −5, 0, 5, 10
+y 3, 2, 0, −2, −3
+.
+3
+(x −
+∑
+)(y −
+xˉ
+​) =
+yˉ
+−30 −10 + 0 −10 −30 = −80
+ and 
+.
+4
+(x −
+∑
+) =
+xˉ 2
+250
+(y −
+∑
+​) =
+yˉ 2
+26
+.
+5
+r =
+​ =
+​
+250 × 26
+−80
+​ =
+​
+6500
+−80
+​ ≈
+80.62
+−80
+−0.992
+The negative sign shows that hotter days tend to have fewer hot-drink sales; the size shows
+the linear pattern is very strong in these five days.
+6
+r ≈−0.992
+
+
+===== [source page 189] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+189
+WO R K E D E X A M P L E 9. 2 .3
+READING THE COEFFICIENT
+PROBLEM
+Interpret each value of : (a) 
+, (b) 
+, (c) 
+, (d) 
+. Then explain how a strong
+curved relationship could produce 
+.
+ANSWER Sign gives direction; distance from  gives linear strength. 
+ rules out a linear
+trend, not every relationship.
+A related summary is the coefficient of determination
+, the square of the correlation. It gives the
+proportion of the variation in the response that the linear model accounts for: 
+ gives
+, so about 
+ of the variation in  is associated with the linear pattern in , leaving 
+unexplained. Squaring removes the sign, so 
+ measures fit but not direction.
+PRACTICE 9.2 · MEASURING LINEAR ASSOCIATION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Calculate  for 
+, 
+, 
+, 
+. 
+F
+2. Calculate  for 
+, 
+, 
+, 
+, 
+. 
+F
+3. Calculate  for 
+, 
+, 
+, 
+, 
+. 
+F
+4. Interpret 
+ in context: “hours of television watched per day” and “minutes of moderate
+exercise per day”. 
+R
+5. Explain why swapping the two variables in a data set does not change . 
+R
+6. A student says 
+ means the relationship is “half as strong as 
+”. Criticise this statement and
+describe a better interpretation. 
+R
+7. Add one point to the data in question 1 so that  becomes negative. Explain your choice and calculate
+the new value. 
+P
+8. Two data sets both have 
+. In one, the points are tightly grouped around a line; in the other, one
+extreme point creates most of the correlation. Explain how a scatter plot distinguishes the two cases.
+E
+r
+0.92
+−0.35
+0.08
+−0.99
+r ≈0
+(a) 
+: strong positive linear association; the response tends to rise as the explanatory
+variable rises.
+1
+0.92
+(b) 
+: weak negative linear association; there is a slight downward tendency but
+considerable scatter.
+2
+−0.35
+(c) 
+: essentially no linear association.
+3
+0.08
+(d) 
+: very strong negative linear association; the points lie close to a downward-sloping
+line.
+4
+−0.99
+A curved relationship can rise and then fall symmetrically. A straight line through it has no
+overall slope, so the positive and negative deviations cancel and  can be near  even though
+the pattern is strong.
+5
+r
+0
+0
+r ≈0
+r2
+r = 0.8
+r =
+2
+0.64
+64%
+y
+x
+36%
+r2
+C O M M O N E R R O R · T R E AT I N G 
+ AS A P E R C E N TAG E O R AS P R O O F
+An  of 
+ does not mean “80% of the variation is explained” — 
+ is the proportion, and it is
+. Nor does 
+ mean the relationship is 80% reliable.  describes how closely the points
+follow a straight line. It is sensitive to outliers, it can be close to  for a strong curve, and it
+says nothing about causation. Always plot the data before trusting the number.
+R
+r
+0.8
+r2
+0.64
+r = 0.8
+r
+0
+r
+(1, 2) (2, 4) (3, 5) (4, 8)
+r
+(1, 10) (2, 12) (3, 11) (4, 15) (5, 17)
+r
+(1, 20) (2, 18) (3, 19) (4, 14) (5, 13)
+r = −0.78
+r
+r = 0.5
+r = 1
+r
+r = 0.85
+
+
+===== [source page 190] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+190
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ The line of best fit
+CRITERION A · II
+CRITERION C · III, IV
+MODELS
+A line of best fit is a model of the trend. It smooths the scatter into a single statement: a
+starting value and a rate of change. Its usefulness depends on how well the points fit and
+on where the prediction is made.
+To draw a line by eye, plot the mean point, choose two points on the line that are far apart, and
+check that the number of points above and below the line is roughly balanced. A ruler placed
+through the mean point can be rotated until the vertical distances of the points from the line look
+as small as possible. The least-squares line makes the sum of the squared residuals as small as
+possible; software and spreadsheets compute it directly.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+x
+y
+interpolation
+extrapolation
+last observation
+A line of best fit summarises a linear trend; its predictions are only meaningful near the observed range.
+Figure 9.4 The line summarises the trend. Interpolation borrows strength from nearby data; extrapolation extends the model into a
+region where nothing was observed, so it is less reliable.
+9.3
+D E F I N I T I O N S
+A line of best fit is the straight line that best summarises a linear association on a scatter plot.
+It passes through the mean point 
+ and balances the points above and below it. A
+prediction inside the range of observed -values is interpolation; a prediction outside that
+range is extrapolation. The vertical difference between an observed point and the line is a
+residual: 
+.
+( ,
+​)
+xˉ yˉ
+x
+residual = y
+​ −
+observed
+y
+​
+predicted
+
+
+===== [source page 191] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+191
+WO R K E D E X A M P L E 9.3.1
+EQUATION AND PREDICTION
+PROBLEM
+A line of best fit passes through 
+ and 
+, where  is hours of practice and  is score.
+Find the equation of the line, predict the score after  hours, and state whether the prediction
+is interpolation or extrapolation.
+ANSWER
+; predicted score 
+; interpolation.
+WO R K E D E X A M P L E 9.3. 2
+RESIDUALS
+PROBLEM
+For the study data in Section 9.2, a line of best fit is 
+. Calculate the residual for each
+observation and comment on the fit.
+ANSWER Residuals 
+; small and balanced, so the linear model fits closely.
+WO R K E D E X A M P L E 9.3.3
+INTERPRETING INTERCEPT AND GRADIENT
+PROBLEM
+A company models the monthly cost 
+ (in units) of producing  items by 
+.
+Interpret the intercept and gradient, find the cost of 400 items, and explain why using the
+model for 100 000 items may be unreliable.
+ANSWER Fixed cost 
+; 
+ per item; 
+ units; extrapolation far beyond the data is
+unsafe.
+(2, 14)
+(8, 32)
+x
+y
+6
+Gradient: 
+. Each extra hour of practice is associated with about  more
+points.
+1
+m =
+​ =
+8 −2
+32 −14
+​ =
+6
+18
+3
+3
+Use 
+ with 
+: 
+, so 
+. Hence 
+.
+2
+y = mx + c
+(2, 14) 14 = 3(2) + c
+c = 8
+y = 3x + 8
+At 
+: 
+.
+3
+x = 6 y = 3(6) + 8 = 26
+ lies between  and , so this is interpolation. A prediction at 
+ would give 
+, but it
+would be extrapolation beyond the observed range.
+4
+6
+2
+8
+x = 11
+41
+y = 3x + 8
+26
+y = 6x + 46
+At 
+, predicted 
+; observed 
+; residual .
+1
+x = 1
+52
+52
+0
+At 
+, predicted 
+; observed 
+; residual .
+2
+x = 2
+58
+58
+0
+At 
+, predicted 
+; observed 
+; residual .
+3
+x = 3
+64
+64
+0
+At 
+, predicted 
+; observed 
+; residual 
+. The point lies  below the line.
+4
+x = 4
+70
+68
+−2
+2
+At 
+, predicted 
+; observed 
+; residual 
+. The point lies  above the line.
+5
+x = 5
+76
+78
++2
+2
+The residuals sum to , as they should for a line through the mean point. All are small relative
+to the scores, so the line summarises these five points well.
+6
+0
+0, 0, 0, −2, +2
+C
+n
+C = 1800 + 7.5n
+The intercept 
+ is the fixed cost when no items are produced: rent, equipment or salaries
+that do not depend on output.
+1
+1800
+The gradient 
+ is the variable cost per item: each additional item adds about 
+ units to the
+monthly cost.
+2
+7.5
+7.5
+For 
+: 
+ units.
+3
+n = 400 C = 1800 + 7.5(400) = 1800 + 3000 = 4800
+The model assumes the same variable cost per item at every scale, but at very high output,
+bulk discounts, extra shifts or capacity limits may change the gradient. A 100 000-item
+prediction is far outside the data used to build the model.
+4
+1800 7.5
+C(400) = 4800
+
+
+===== [source page 192] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+192
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 9.3 · THE LINE OF BEST FIT
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. A line of best fit passes through 
+ and 
+. Find its equation. 
+F
+2. Using 
+, predict  when 
+ and when 
+. 
+F
+3. A model 
+ is built from data with  between  and 
+. State whether each prediction is
+interpolation or extrapolation: (a) 
+; (b) 
+; (c) 
+. 
+F
+4. A line 
+ is fitted to five points. Calculate the residuals for 
+, 
+, 
+, 
+, 
+. 
+R
+5. Explain why the line of best fit passes through the mean point, using the idea of balancing residuals.
+R
+6. A student predicts a country’s population in 2200 by extending a line fitted to data from 1950 to 2020.
+Explain two reasons why this prediction is unreliable. 
+R
+7. The cost of a taxi is modelled by 
+, where  is distance in kilometres. Interpret both
+numbers, find the cost of a 12 km journey, and explain whether the model is valid for a 1 km journey.
+P
+8. Two lines are proposed for the same data: 
+ and 
+. Explain how residuals could be
+used to choose between them, without calculating every value. 
+E
+ Correlation, cause and consequence
+CRITERION A · II
+CRITERION D · I, II, IV
+JUSTIFICATION
+A correlation is a statement about how two variables vary together in a sample. A causal
+claim is a statement about what would happen if one variable were changed. The second is
+much stronger than the first, and much harder to establish.
+C O M M O N E R R O R · SAY I N G “ T H E L I N E P R OV E S …”
+A line of best fit is a summary, not a law. It does not prove that  causes , it does not
+guarantee that a new observation will lie on the line, and it should not be extended far
+beyond the observed values. The intercept may also be meaningless: a model predicting test
+scores from hours of study may have a sensible intercept, but a model using age in years to
+predict height has an intercept at age  that lies outside the data and outside the context.
+x
+y
+0
+(1, 7)
+(5, 19)
+y = 4x + 3
+y
+x = 6
+x = 10
+y = 2.4x + 11
+x
+5
+25
+x = 12
+x = 30
+x = 4
+y = 3x −2
+(1, 2) (2, 3) (3, 8) (4, 9) (5, 14)
+C = 4 + 2.1d
+d
+y = 2x + 5
+y = 1.8x + 8
+9.4
+D E F I N I T I O N S
+Causation means that a change in one variable produces a change in the other. A
+confounding variable is a third variable that influences both the explanatory and response
+variables, creating an association that is not due to a direct causal link. Reverse causation
+occurs when the response variable actually influences the explanatory variable. An
+observational study records variables without intervening; a controlled experiment
+deliberately changes the explanatory variable and compares outcomes under otherwise
+similar conditions.
+
+
+===== [source page 193] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+193
+ice-cream sales
+swimming incidents
+correlation (not causation)
+hot weather
+common cause
+A strong correlation between X and Y does not prove X causes Y.
+A third variable can drive both. Controlled experiments or additional evidence are needed for causal claims.
+Figure 9.5 Ice-cream sales and swimming incidents rise together, but buying ice cream does not cause swimming incidents. Hot
+weather is a common cause of both. The correlation is real; the causal direction is not.
+The classic alternative explanations are worth checking systematically. Is there a common cause,
+such as temperature, income or age? Could the direction be reversed, with the response
+influencing the explanatory variable? Could the pattern arise from selection, because the people in
+the data chose themselves or were chosen in a non-random way? Could it be a coincidence,
+especially in a small sample or when many possible pairs were examined? Could the variables be
+measuring the same underlying quantity, such as height and arm span?
+WO R K E D E X A M P L E 9. 4.1
+A PLAUSIBLE CONFOUNDER
+PROBLEM
+A study finds that children who own more books score higher on a reading test. A newspaper
+concludes that buying books raises reading scores. Identify a plausible confounding variable,
+an alternative explanation involving selection, and a way to test the claim more fairly.
+ANSWER Income and parental education confound the association; selection is also plausible;
+random allocation or a controlled longitudinal design would test the claim.
+A plausible confounder is family income or parental education. Families with more books
+may also have more resources, more time for reading and more educated parents, all of
+which could raise scores independently of the books.
+1
+Selection: families that buy many books may already value reading; the children may differ
+from those with few books before any book is bought.
+2
+A fairer test would randomly allocate books to some families and not others, then compare
+reading scores after a fixed period, keeping other support similar.
+3
+If a controlled trial is impossible, a longitudinal study could track children before and after
+books arrive, controlling for income and parental education. The conclusion would still be
+tentative.
+4
+
+
+===== [source page 194] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+194
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 9. 4. 2
+DESIGNING A CAUSAL TEST
+PROBLEM
+A teacher believes that listening to quiet instrumental music during independent work
+improves concentration. Design an experiment to test the claim, identifying the explanatory
+and response variables, a control, and two variables to keep constant.
+ANSWER A randomised comparison of music and no music, same task and conditions,
+repeated over several sessions, with a pre-specified concentration measure.
+WO R K E D E X A M P L E 9. 4.3
+EVALUATING A CAUSAL CLAIM
+PROBLEM
+A report states: “Schools with more library books have higher examination scores, so
+increasing a school’s book stock will raise its results.” The correlation is 
+ across 200
+schools. Evaluate the claim.
+ANSWER The correlation is real but moderate; confounding by school resources and the
+ecological nature of the data undermine the causal claim. A randomised intervention would
+be stronger evidence.
+Explanatory variable: whether music is played (two conditions: music or no music).
+Response variable: a measure of concentration, such as the number of correctly completed
+problems in 20 minutes or the number of off-task glances recorded by an observer.
+1
+Control: a no-music condition using the same task, time and classroom conditions.
+2
+Random allocation: assign students to the order of conditions at random, or use a crossover
+design in which each student experiences both conditions in random order. This reduces the
+chance that one group is already more focused.
+3
+Keep constant: the task, time of day, teacher instructions, seating and noise level apart from
+the music. Use the same measure and the same observer, or blind the observer to the
+condition.
+4
+Repeat: a single session cannot rule out coincidence. Repeat across several sessions and
+compare average performance, reporting variability as well as the mean.
+5
+r = 0.61
+The association is moderately strong and positive, but it is based on schools, not on
+individual students. A school-level correlation does not show that individual students who
+read more books score higher.
+1
+Wealthier schools may have more books, better facilities, smaller classes and more
+experienced teachers. These are plausible confounders, so the correlation could reflect
+advantage rather than books.
+2
+The claim “increasing stock will raise results” asserts causation and predicts the effect of an
+intervention. The study is observational, so it cannot establish that changing the stock would
+change the scores.
+3
+A stronger design would allocate additional books to a random subset of comparable schools
+and compare score changes over time, while monitoring how the books are used.
+4
+A reasonable conclusion is that book stock is associated with results, but the evidence does
+not justify the causal recommendation.
+5
+
+
+===== [source page 195] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+195
+PRACTICE 9.4 · CORRELATION AND CAUSE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. For each association, name a plausible common cause: (a) shoe size and reading age in primary
+school children; (b) ice-cream sales and drowning incidents; (c) number of firefighters and damage at
+a fire. 
+F
+2. Explain the difference between an observational study and a controlled experiment in one sentence.
+F
+3. Give an example of reverse causation for the association “people who use fitness apps tend to be
+healthier”. 
+R
+4. A study finds that students who eat breakfast score higher on average. Suggest two confounders and
+one way to reduce their influence. 
+R
+5. Explain why a correlation calculated from group averages can differ from the correlation calculated
+from individuals. 
+R
+6. A headline says “Playing video games makes teenagers less sociable”. Describe the evidence you
+would need before accepting the causal claim. 
+R
+7. Design a simple experiment to test whether a plant food increases tomato yield. Include a control, a
+response variable and two variables to keep constant. 
+P
+8. A city introduces a new tram line and later finds that house prices near the line have risen faster than
+elsewhere. Explain why this does not prove that the tram caused the rise. 
+E
+ Reading claims critically
+CRITERION C · I, IV
+CRITERION D · III, IV, V
+JUSTIFICATION
+A graph can be accurate and still mislead. The scale, the range, the summary chosen and
+the cases omitted all shape what a reader concludes. Critical reading is a mathematical
+skill, not a suspicion of all numbers.
+C O M M O N E R R O R · “ C O R R E L AT I O N D O E S N OT I M P LY CAU SAT I O N ” AS A F U L L A N S W E R
+The phrase is a warning, not an explanation. A complete evaluation names the specific
+alternative explanation that matters in the context — a confounder, reverse causation,
+selection or chance — and explains how it could produce the observed association. It also
+says what evidence would distinguish the causal explanation from the alternatives.
+9.5
+
+
+===== [source page 196] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+196
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+full scale
+0%
+20%
+40%
+60%
+80%
+2019
+2020
+2021
+2022
+2023
+axis from 0: a modest rise
+truncated scale
+64%
+68%
+72%
+76%
+2019
+2020
+2021
+2022
+2023
+axis from 64: looks dramatic
+Same five values, same bars: only the starting point of the vertical axis has changed.
+Figure 9.6 The same five values plotted twice. Truncating the vertical axis does not change the data, but it changes the impression:
+a rise of about 
+ looks like a dramatic climb.
+WO R K E D E X A M P L E 9. 5.1
+A TRUNCATED GRAPH
+PROBLEM
+A bar chart shows a school’s pass rate rising from 
+ to 
+ over five years, with the vertical
+axis starting at 
+ and ending at 
+. The bars nearly double in height. Evaluate the
+presentation.
+ANSWER A  percentage-point rise (about 
+) is presented as an almost-doubling of bar
+height; the truncation exaggerates the change.
+9%
+68%
+74%
+64%
+76%
+The actual increase is 
+ percentage points, or 
+ relative to the starting
+value.
+1
+74 −68 = 6
+​ ×
+68
+6
+100 ≈8.8%
+On an axis from 
+ to 
+, the same bars would differ by a small amount. Starting at 
+magnifies the visual difference without changing the numbers.
+2
+0%
+100%
+64%
+Truncating an axis is not always dishonest: it can make small changes visible when the
+baseline is far from zero. But the axis must be labelled clearly, and the visual impression
+should not be described as a doubling.
+3
+A fair presentation would either start at zero or state the change in percentage points and
+show the truncated axis with an explicit break.
+4
+6
+8.8%
+
+
+===== [source page 197] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+197
+WO R K E D E X A M P L E 9. 5. 2
+WHEN SUBGROUPS REVERSE THE SUMMARY
+PROBLEM
+Two clinics report recovery rates. Clinic A: 
+ of 
+ minor cases and 
+ of 
+ major cases
+recovered. Clinic B: 
+ of 
+ minor cases and 
+ of 
+ major cases recovered. Compare the
+overall rates and the rates within each type of case.
+ANSWER A: 
+ overall and higher in both subgroups; B: 
+ overall. B’s higher overall
+rate is explained by its larger proportion of minor cases, not by better care.
+WO R K E D E X A M P L E 9. 5.3
+RELATIVE RISK AND BASE RATES
+PROBLEM
+A headline reports that teenagers who drink energy drinks are “twice as likely” to feel tired
+at school. In the study, 
+ of energy-drink users felt tired, compared with 
+ of non-users.
+Interpret the claim and suggest two alternative explanations.
+ANSWER Relative risk , absolute difference 
+ percentage points; reverse causation and sleep
+or lifestyle confounders are plausible, so the causal implication is not established.
+Ask four questions of any quantitative claim. What is being compared? A change from 
+ to 
+ is 
+percentage points or about 
+, depending on the comparison; both can be correct, but the
+wording should say which. What is the baseline? “Twice the risk” is alarming if the risk rises from
+ in 
+ to  in 
+, and less alarming if it rises from  in 
+ to  in 
+. Who is in the data? A
+sample of volunteers, a single school or a group with a particular age profile may not represent the
+population named in the headline. What is left out? Outliers, subgroups, non-response and missing
+data can reverse or erase an apparent pattern.
+81
+87
+192
+263
+234
+270
+55
+80
+Clinic A overall: 
+, or 
+.
+1
+​ =
+87+263
+81+192
+​ =
+350
+273
+0.780
+78.0%
+Clinic B overall: 
+, or 
+.
+2
+=
+270+80
+234+55
+​ =
+350
+289
+0.826
+82.6%
+Minor cases: A 
+; B 
+. A is higher.
+3
+​ ≈
+87
+81
+93.1%
+​ ≈
+270
+234
+86.7%
+Major cases: A 
+; B 
+. A is higher again.
+4
+​ ≈
+263
+192
+73.0%
+​ =
+80
+55
+68.8%
+Clinic A has the higher rate in both subgroups, yet Clinic B has the higher overall rate. Clinic
+B treated mostly minor cases, which have a higher recovery rate; its case mix raises the
+overall figure.
+5
+Comparing overall rates without accounting for case mix is misleading. A fair comparison
+reports rates within each type of case, or standardises the rates to a common case mix.
+6
+78.0%
+82.6%
+20%
+10%
+The relative risk is 
+, so “twice as likely” is arithmetically correct in this sample.
+1
+​ =
+10
+20
+2
+The absolute difference is 
+ percentage points. Reporting only the ratio hides the
+size of the effect; reporting only the difference hides the baseline.
+2
+20 −10 = 10
+Reverse causation: teenagers who are already tired may use energy drinks to compensate, so
+tiredness could precede and cause the drink use.
+3
+Confounding: users may sleep less, play more sport, work longer hours or have different
+health conditions. These could raise tiredness independently of the drinks.
+4
+The headline also generalises from one sample to “teenagers” without stating who was
+studied. The causal word “makes” would not be justified by an observational survey.
+5
+2
+10
+68
+74
+6
+8.8%
+1
+10
+2
+10
+1
+10 000
+2
+10 000
+
+
+===== [source page 198] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+198
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 9.5 · READING CLAIMS CRITICALLY
+SUPPORT 1–3 · CORE 1–8 · EXTENSION 11–12
+1. Convert each change into percentage points and a relative change: (a) 
+ to 
+; (b) 
+ to 
+; (c)
+ to 
+. 
+F
+2. Explain why a bar chart with a vertical axis starting at 
+ can make a change from 
+ to 
+ look large.
+F
+3. A headline says “Risk of injury doubles on wet days”. The risk rises from 
+ to 
+. Explain what
+“doubles” hides. 
+R
+4. Explain how an outlier can create a strong correlation that disappears when the outlier is removed.
+R
+5. In Worked example 9.5.2, calculate the proportion of minor cases at each clinic and explain how the
+case mix produces the reversal. 
+R
+6. A survey of 500 readers of a fitness magazine finds that 90% exercise daily. Explain why this result
+should not be generalised to all adults. 
+R
+7. A remedial programme is offered to the students with the lowest scores in a test. Their mean score
+rises when they are retested. Explain why this rise alone does not show that the programme worked.
+R
+8. A study reports that people who walk more steps per day have lower blood pressure. Suggest one
+confounding variable and one possible reverse-causation explanation. 
+R
+9. A company reports that its new training programme raised average sales by 
+, but does not report
+the number of staff or the previous average. List three questions you would ask before accepting the
+claim. 
+P
+10. A dual-axis graph plots mean monthly temperature and ice-cream sales on the same chart; the two
+lines rise and fall almost together. Explain how the choice of scales could exaggerate the match, and
+state what you would plot instead. 
+P
+11. A small trial of 40 patients reports a 
+ improvement, while a large trial of 4,000 reports a 
+improvement. Explain which result is more trustworthy, and why a larger measured effect is not
+automatically a more important finding. 
+E
+12. Find or invent a headline that reports a correlation as a cause. Rewrite it so that it accurately
+describes the evidence, and explain the changes you made. 
+E
+C O M M O N E R R O R · C O N F U S I N G P E R C E N TAG E P O I N T S W I T H P E R C E N T
+A rise from 
+ to 
+ is  percentage points, but it is a 
+ relative increase, because  is
+ of 
+. A fall from 
+ to 
+ is 
+ percentage points and a 
+ relative decrease. Say
+which one you mean; a headline that says only “
+” leaves the reader to guess.
+40%
+44%
+4
+10%
+4
+10%
+40
+50%
+40%
+10
+20%
+10%
+30%
+36%
+80%
+72%
+2.0%
+2.5%
+90
+92
+95
+0.2%
+0.4%
+12%
+30%
+4%
+
+
+===== [source page 199] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+199
+Investigation · Arm span and height
+CRITERION B
+Leonardo da Vinci observed that a person’s arm span is approximately equal to their height. How
+strong is that relationship, and can one measurement predict the other?
+SAMPLE DATA FROM TWELVE YEAR 3 STUDENTS
+Student
+Arm span  (cm)
+Height  (cm)
+1
+152
+155
+2
+158
+159
+3
+161
+163
+4
+165
+166
+5
+168
+168
+6
+170
+172
+7
+173
+174
+8
+176
+178
+9
+179
+180
+10
+182
+183
+11
+186
+187
+12
+190
+191
+1. Measure. Work in pairs. Measure arm span from fingertip to fingertip with arms outstretched,
+and height from the floor to the top of the head, both to the nearest centimetre. Keep each
+student’s two values on one row.
+2. Plot. Put arm span on the horizontal axis and height on the vertical axis. Label both axes with
+units and choose a scale that uses most of the grid. Describe the direction, form and strength
+of the scatter.
+3. Calculate. Estimate the two means and mark the mean point on your plot. Calculate  with a
+spreadsheet or calculator and state what it says about the strength of the linear relationship.
+4. Model. Draw a line of best fit through the mean point. Find its equation from two well-
+separated points on the line, and interpret the gradient and intercept in context.
+5. Predict. Use your line to predict the height of a student with arm span 
+ cm. Is this
+interpolation or extrapolation for your sample? Then predict for 
+ cm and for 
+ cm, and
+comment on reliability.
+6. Test. Swap data with another pair. Predict three of their students’ heights, compare with the
+measured heights, and calculate the residuals to decide whether your model generalises.
+7. Conjecture. If arm span equals height on average, what gradient would you expect? Does your
+fitted gradient support the conjecture? Explain why individual variation and measurement
+error prevent an exact match.
+8. Evaluate. Identify two limitations of the data — for example, the age range, the sample size,
+posture, shoes or who volunteered. Suggest one change that would make the conclusion more
+reliable, and one claim the data cannot support.
+A high  shows only that the two measurements vary together in this sample; both are driven by growth. This is
+a model-building exercise, not a biological explanation.
+x
+y
+r
+170
+120
+210
+r
+
+
+===== [source page 200] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+200
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Application · The screen-time claim
+CRITERION D · I, II, III, IV
+MODELS
+FAIRNESS AND DEVELOPMENT
+A school surveys 40 students about their average nightly screen time before bed and their average
+hours of sleep. The data produce a correlation of 
+ and a line of best fit 
+,
+where  is screen time in hours and  is sleep in hours. The student newspaper wants to publish the
+headline “Screens steal your sleep”.
+SUMMARY OF THE SURVEY
+Quantity
+Value
+Note
+Students surveyed
+40
+volunteers from Years 3–5
+Mean screen time
+2.6 hours
+self-reported, typical night
+Mean sleep
+8.0 hours
+self-reported
+Correlation
+moderate negative linear association
+Line of best fit
+ in hours,  in hours
+Range of 
+0.5 to 5.5 hours
+observed values
+Outlier
+one student reported both extremes
+1. Interpret the gradient 
+ in context. Does it mean that one extra hour of screen time
+causes 
+ hours less sleep? Explain.
+2. Interpret the intercept 
+. Is a prediction at 
+ meaningful for this data set? Explain.
+3. Predict the sleep of a student with  hours of screen time and one with  hours. State whether
+each prediction is interpolation or extrapolation.
+4. Calculate the residual for the outlier 
+. Does the point lie above or below the line?
+What effect might it have on the correlation and the line?
+5. Calculate 
+. Interpret it as the proportion of variation in sleep associated with the linear
+model, and explain why it does not prove that screen time causes lost sleep.
+6. The survey relied on volunteers and self-report. Describe two ways these choices could bias
+the result, and suggest a better sampling method.
+7. Name two plausible confounders and explain how each could produce the negative
+association without screen time causing less sleep.
+8. Rewrite the headline for the student newspaper so that it is accurate, informative and still
+interesting. Justify each change in a short editorial note.
+9. Design a follow-up study that could provide stronger evidence about causation. State the
+explanatory and response variables, the comparison, and one thing you would keep
+constant.
+C R I T E R I O N D F O C U S
+Use the model to quantify the association, then separate three questions: How strong is the pattern?
+What does it predict inside the data? What would it take to show that changing one variable changes
+the other? The third question is not answered by .
+r = −0.62
+s = 9.1 −0.42t
+t
+s
+r = −0.62
+s = 9.1 −0.42t
+t
+s
+t
+(5.5, 5.0)
+−0.42
+0.42
+9.1
+t = 0
+2
+5
+(5.5, 5.0)
+r2
+r
+
+
+===== [source page 201] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+201
+Criterion task · The breakfast claim
+CRITERIA C AND D
+COMMUNICATING AND APPLYING
+24 MARKS
+A newspaper reports: “Students who eat breakfast score 12 points higher in end-of-year tests.
+Schools should provide breakfast to raise attainment.” The report is based on a survey of 600
+students in 12 schools. Students were asked whether they usually eat breakfast; test scores were
+supplied by the schools. The correlation between breakfast frequency (days per week) and score
+is 
+. Students who ate breakfast on five or more days averaged 
+ points; those who ate it on
+fewer than five days averaged 
+ points. The overall average was 
+ points.
+1. Identify the explanatory and response variables, and state whether the study is observational
+or experimental. (2 marks)
+2. Describe the association using the correlation and the group averages. Include the difference
+in points and comment on its size relative to the overall average. (4 marks)
+3. Explain why 
+ is consistent with a real but modest linear association, and why the
+headline’s “12 points higher” is a comparison of group averages rather than a causal effect. (4
+marks)
+4. Name three plausible confounding variables and explain how each could raise both breakfast
+consumption and test scores. (5 marks)
+5. Explain how selection could affect who eats breakfast and who does not. Suggest one way to
+reduce selection bias. (3 marks)
+6. Design a stronger study to test whether providing breakfast raises attainment. Include
+allocation, comparison, response variable and two controls. (4 marks)
+7. Write a 120-word summary for a school newsletter. Report the evidence accurately, avoid
+causal language that the design cannot support, and recommend one reasonable action. (2
+marks)
+PLANNING FRAME
+Identify: breakfast frequency explains; test score responds; no intervention, so observational.
+Describe:
+ is weak-to-moderate positive; 
+ points is 
+ of the overall mean of 
+. Separate:
+group difference is not the same as an individual causal effect. Challenge: income, parental support,
+sleep, prior attainment, school quality. Design: random allocation of breakfast provision, compare
+score change, same test and attendance conditions. Communicate: “associated with” not “causes”;
+state the sample and the limits.
+BAND
+DESCRIPTOR
+MARKS
+4
+Variables and design identified correctly; association described with  and
+group difference; three specific confounders and selection explained; strong
+randomised design; newsletter accurate and appropriately cautious.
+19–24
+3
+Most identification and description correct; some confounders named with
+partial explanation; design mostly sound; newsletter mostly accurate with
+minor overstatement.
+13–18
+2
+Basic description; confounders listed without explanation; design weak or
+incomplete; newsletter repeats the causal claim.
+7–12
+1
+Little correct interpretation; no clear distinction between association and
+cause; design unusable.
+1–6
+CRITERIA: C, D
+ATL: RESEARCH
+TIME: 60 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ C strands i–iv and D strands i–v. The rubric is a course summary, not an official IB descriptor.
+r = 0.31
+68
+56
+64
+r = 0.31
+r = 0.31
+12
+18.75%
+64
+r
+
+
+===== [source page 202] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+202
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+KEY IDEAS
+Bivariate data pairs two measurements on
+the same unit; a scatter plot displays the
+pairs.
+Describe a scatter plot by direction, form,
+strength and unusual features.
+Pearson's  measures the direction and
+strength of a linear association, from 
+ to .
+ is unchanged by rescaling or swapping
+variables, but it is sensitive to outliers and
+blind to curved patterns.
+A line of best fit passes through the mean
+point and balances residuals; its gradient
+and intercept need contextual
+interpretation.
+Interpolation is safer than extrapolation; a
+model should not be extended far beyond
+the observed range.
+Correlation is not causation: common
+causes, reverse causation, selection and
+chance are alternative explanations.
+A causal claim is supported by controlled
+experiments, correct temporal order, a
+mechanism and the ruling out of
+confounders.
+Graphs and headlines can mislead through
+truncated axes, relative versus absolute risk,
+selection and subgroup reversal.
+Always report the sample, the measure, the
+range and the uncertainty alongside a
+correlation.
+REVISION CHECKLIST
+VOCABULARY
+bivariate data
+Two measurements made on the same unit.
+explanatory variable
+The variable used to explain or predict.
+response variable
+The outcome measured in a study.
+scatter plot
+A graph of paired data as points.
+association
+A tendency for two variables to vary together.
+positive association
+As one variable increases, the other tends to increase.
+negative association
+As one variable increases, the other tends to decrease.
+outlier
+A point that does not fit the overall pattern.
+cluster
+A separated group of points.
+correlation coefficient
+A number from 
+ to  measuring linear association.
+line of best fit
+The line that best summarises a linear trend.
+residual
+Observed value minus predicted value.
+interpolation
+Prediction inside the observed range.
+extrapolation
+Prediction outside the observed range.
+causation
+A change in one variable produces a change in
+another.
+confounding variable
+A third variable influencing both variables in an
+association.
+r
+−1
+1
+r
+I can identify explanatory and response
+variables and label axes with units.
+I can describe direction, form, strength
+and outliers.
+I can calculate  from a small table.
+r
+I can interpret the sign and size of ,
+including its limits.
+r
+I can draw and interpret a line of best fit.
+I can calculate residuals and use them to
+judge a model.
+I can distinguish interpolation from
+extrapolation.
+I can name a plausible confounder and
+explain reverse causation.
+I can design a simple controlled
+experiment.
+I can evaluate a graph or headline for
+exaggeration and missing context.
+−1
+1
+
+
+===== [source page 203] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+203
+reverse causation
+The response variable influences the explanatory
+variable.
+controlled experiment
+A study that deliberately changes one variable and
+compares outcomes.
+observational study
+A study that records variables without intervening.
+relative risk
+The ratio of two risks or probabilities.

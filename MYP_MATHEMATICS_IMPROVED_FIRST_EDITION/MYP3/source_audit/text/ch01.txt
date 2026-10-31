@@ -1,0 +1,2161 @@
+
+
+===== [source page 19] =====
+PA R T I · T H E S T R U C T U R E B E N E AT H T H E S Y M B O L S
+M Y P Y E A R 3
+C H A P T E R 0 1
+1
+N U M B E R , S T R U C T U R E A N D P R O O F
+The real number system
+A number line drawn with a ruler looks continuous,
+yet the numbers that fill it are of strikingly different
+kinds. Some can be written as exact fractions; some
+cannot be written as fractions at all. Understanding
+that difference changes what “exact” means.
+KEY CONCEPT · FORM
+RELATED · QUANTITY
+RELATED · EQUIVALENCE
+CONTEXT · ORIENTATION IN SPACE AND TIME
+√2
+√2
+I N Q U I R Y
+If every point on a line corresponds to a number, how can we describe
+the numbers that lie between the fractions — and how can we prove that
+some of them can never be written as fractions?
+AT L · C R I T I CA L T H I N K I N G I N AC T I O N
+Consider the claim “every number can be written as a fraction”. Test it on integers, terminating
+decimals and repeating decimals. Then try 
+. When a single counterexample appears, decide
+whether the claim is false, or whether the definition of “number” needs to be widened. In this chapter
+you will do both: reject the universal claim and extend the number system.
+​2
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 20] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+20
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 1 · A P P R OX . 1 4 H O U R S
+AT L F O C U S · C R I T I C A L T H I N K I N G
+KEY AND RELATED CONCEPTS
+Form. A number has more than one possible
+written form: fraction, terminating decimal,
+repeating decimal, surd or approximation. The
+form reveals which operations are exact and
+which are limited.
+Quantity. The real number line assigns a position
+to every decimal, including those with infinitely
+many digits. Order and distance can be described
+without listing every digit.
+Equivalence. Different decimals, fractions and
+radical expressions can name the same real
+number. Recognising equivalence is central to
+simplifying and to proving.
+GLOBAL CONTEXT AND EXPLORATION
+Orientation in space and time. Exploration:
+how different cultures represented and
+approximated quantities, and why the
+discovery of incommensurable lengths
+challenged the idea that all lengths could be
+expressed as whole-number ratios.
+Greek mathematicians initially assumed
+that any two lengths could be compared
+using a common unit. The diagonal of a
+square exposed a length with no such
+common unit. That discovery did not break
+mathematics; it forced a broader
+conception of number. Today, irrational
+numbers appear in geometry, music theory,
+engineering tolerances and computer
+graphics.
+FACTUAL
+What is a rational number?
+How can a repeating decimal
+be written as a fraction?
+What does the square-root
+symbol mean?
+CONCEPTUAL
+Why is the square root of 2
+not rational, and how does a
+proof by contradiction
+establish that claim?
+DEBATABLE
+When engineers use 1.414 for
+, are they working with
+the number itself or with a
+different, rational number?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii, iii
+Classify numbers; convert between forms; simplify surds; order
+values; solve interval and tolerance problems.
+B · Investigating patterns
+i, ii, iii
+Investigate decimal expansions and successive rational
+approximations to 
+; describe and verify the pattern.
+C · Communicating
+i, ii, iii, iv
+Write a structured proof; use set, interval and radical notation;
+explain the meaning of an approximation.
+D · Applying mathematics
+i, ii, iii, iv, v
+Interpret a manufacturing tolerance as an interval and justify
+accept/reject decisions.
+S TAT E M E N T O F I N Q U I R Y
+The real number system contains both rational and irrational
+numbers; precise definitions and logical proof let us distinguish exact
+forms from approximations and reason about quantities that cannot
+be written as fractions.
+​2
+​2
+
+
+===== [source page 21] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+21
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Simplify 
+.
+2. Write 
+ as a fraction in lowest terms.
+3. Calculate 
+ and 
+.
+4. Which is greater,  or ? Show a reason.
+5. Calculate 
+.
+6. Write the first five square numbers.
+Answers are in the Chapter 1 answer section. If more than two are incorrect, review fraction equivalence and square
+numbers before continuing.
+BEFORE YEAR 3
+Integers, fractions, decimals,
+percentages; square numbers;
+simple roots; ordering positive
+numbers.
+YEAR 3 · THIS CHAPTER
+Rational and irrational numbers;
+decimal expansions; surds;
+intervals; absolute value; proof by
+contradiction.
+LATER
+Real exponents, logarithms, limits of
+sequences, rigorous - arguments
+and the completeness of the real
+numbers.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Ancient
+measurement and
+the diagonal of a
+square expose a
+length with no
+common unit.
+2
+QUESTION
+Which numbers
+can be written as
+fractions, and
+which cannot?
+3
+CONCEPT
+Rational form,
+decimal
+expansion,
+irrationality,
+order and
+interval.
+4
+INVESTIGATION
+Approximate 
+by rationals and
+examine the
+error.
+5
+COMMUNICATION
+Write a proof by
+contradiction and
+interpret a
+tolerance
+interval.
+6
+REFLECTION
+What does “exact”
+mean when the
+decimal
+expansion never
+ends?
+Understand the relationships among natural,
+integer, rational and real numbers.
+Know how to recognise terminating and
+repeating decimal expansions.
+Be able to convert between fractions, decimals
+and simple surd forms.
+Be able to order real numbers, including
+irrational values, using exact reasoning or
+careful approximation.
+Be able to interpret and use intervals, absolute
+value and tolerance.
+Be able to construct a short proof, including a
+proof by contradiction.
+I can classify a number as natural, integer,
+rational or irrational and justify the
+classification.
+I can decide whether a fraction terminates
+or repeats without performing a long
+division.
+I can convert a simple repeating decimal to
+a fraction.
+I can simplify a surd and rationalise a one-
+term denominator.
+I can place values such as 
+,  and 
+ in
+order on a number line.
+​5 π
+−
+​3
+7
+I can write a tolerance statement as an
+inequality and as an absolute-value
+statement.
+I can explain why 
+ is irrational using a
+valid chain of reasoning.
+​2
+​
+24
+18
+0.35
+72
+(−7)2
+​4
+3
+​7
+5
+2.5 × 4
+ε δ
+​2
+
+
+===== [source page 22] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+22
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Rational numbers and decimal form
+CRITERION A · I, II
+FRACTIONS
+TERMINATING AND REPEATING DECIMALS
+A rational number is a quotient of two integers. That simple definition unifies whole
+numbers, fractions, terminating decimals and repeating decimals: they are different
+surface forms of the same underlying structure.
+Every integer is rational: 
+ and 
+. Every terminating decimal is rational because it can
+be written over a power of 10: 
+. A repeating decimal is also rational, although that is
+less obvious. The repetition is the clue: it allows a finite algebraic calculation to recover an exact
+fraction.
+Not all rational numbers have terminating decimals. In lowest terms, the denominator decides. If
+the denominator has only prime factors 2 and 5, the decimal terminates, because multiplying
+numerator and denominator by a suitable power of 10 produces an equivalent fraction with
+denominator 
+. If the denominator has any other prime factor, the decimal repeats forever.
+TERMINATING
+Denominators 
+, 
+, 
+ have
+only 2 and 5 as prime factors.
+REPEATING
+Denominators 
+, 
+, 
+ contain a
+prime factor other than 2 or 5.
+WO R K E D E X A M P L E 1 .1 .1
+FROM REPEATING DECIMAL TO FRACTION
+PROBLEM
+Write 
+ as a fraction in lowest terms.
+ANSWER
+Check.
+, so the result is consistent with the original decimal.
+1.1
+D E F I N I T I O N
+A rational number is a number that can be written in the form , where  and  are integers
+and 
+. The set of rational numbers is denoted .
+​q
+p
+p
+q
+q =0
+Q
+5 =
+​1
+5
+−12 =
+​
+1
+−12
+0.375 =
+=
+1000
+375
+​8
+3
+10n
+​ =
+8
+3
+0.375
+​ =
+40
+7
+0.175
+​ =
+25
+9
+0.36
+8 = 23 40 = 2 ×
+3
+5 25 = 52
+​ =
+6
+5
+0.83
+​ =
+11
+2
+0.18
+​ =
+9
+7
+0.7
+6 = 2 × 3 11 9 = 32
+0.36
+Let 
+.
+1
+x = 0.
+=
+36
+0.363636 …
+Two digits repeat, so multiply by 100: 
+.
+2
+100x = 36.363636 …
+Subtract the first equation from the second: 
+.
+3
+100x −x = 36.
+−
+36
+0.
+=
+36
+36
+So 
+, giving 
+.
+4
+99x = 36
+x =
+​
+99
+36
+Divide numerator and denominator by 9: 
+.
+5
+x =
+​
+11
+4
+​
+11
+4
+4 ÷ 11 = 0.363636 …
+
+
+===== [source page 23] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+23
+WO R K E D E X A M P L E 1 .1 . 2
+A DECIMAL WITH A NON-REPEATING PREFIX
+PROBLEM
+Write 
+ as a fraction in lowest terms.
+ANSWER
+Alternative.
+.
+PRACTICE 1.1 · RATIONAL FORM AND DECIMAL EXPANSION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+Where a decimal repeats, use bar notation, for example 
+.
+1. Classify each number as natural, integer or rational. More than one label may apply: (a) 
+   (b)    (c)
+   (d) 
+. 
+F
+2. Write each fraction as a terminating decimal: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Write each fraction as a repeating decimal using bar notation: (a)    (b) 
+   (c) 
+. 
+F
+4. Without dividing, decide whether each fraction terminates or repeats: (a) 
+   (b) 
+   (c) 
+   (d) 
+.
+Explain your method. 
+R
+5. Convert each repeating decimal to a fraction in lowest terms: (a) 
+   (b) 
+   (c) 
+. 
+F
+6. Find a rational number strictly between  and . Then find a second rational between your answer
+and . 
+R
+7. Explain why 
+ is equal to 1, not “just less than 1”. Use the same algebraic method as Worked
+example 1.1.1. 
+R
+8. A student claims that every fraction with a denominator less than 10 has a terminating decimal. Find
+a counterexample and explain why the claim fails. 
+E
+0.27
+Let 
+. The repeating block has one digit, but it starts after the first decimal place.
+1
+x = 0.27777 …
+Multiply by 10 to move the non-repeating part: 
+.
+2
+10x = 2.7777 …
+Multiply the original by 100: 
+.
+3
+100x = 27.7777 …
+Subtract: 
+.
+4
+100x −10x = 27.7777 … −2.7777 … = 25
+So 
+ and 
+.
+5
+90x = 25
+x =
+​ =
+90
+25
+​
+18
+5
+​
+18
+5
+0.2 =
+7
+0.2 + 0.0 =
+7
+​ +
+5
+1
+​ =
+90
+7
+​ +
+90
+18
+​ =
+90
+7
+​ =
+90
+25
+​
+18
+5
+C O M M O N E R R O R
+Writing 
+ as 
+ treats a repeating decimal as if it terminated. The value 
+ is slightly
+smaller than 
+. When the digits repeat forever, the denominator must be 9, 99, 999, … or a
+related value, not a power of 10.
+0.36
+​
+100
+36
+​ =
+100
+36
+0.36
+0.36
+K E Y I D E A · D E N S I T Y
+Between any two distinct rational numbers there is another rational number. If 
+, the
+midpoint 
+ is rational and lies strictly between them. Repeating the process shows there
+are infinitely many rationals in any interval, however small. Yet the number line is not
+exhausted by rationals; irrational numbers fill the remaining positions.
+a < b
+​
+2
+a+b
+0.16
+−8
+​3
+7
+0.25
+15
+​
+20
+7
+​
+8
+13
+​
+50
+9
+​3
+2
+​
+11
+5
+​
+12
+7
+​
+14
+3
+​
+40
+11
+​
+30
+17
+​
+64
+9
+0.5
+0.27
+0.41
+​3
+1
+​2
+1
+​3
+1
+0.999 …
+
+
+===== [source page 24] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+24
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Irrational numbers and surds
+CRITERION A · I
+IRRATIONALITY
+RADICALS
+A rational number has a decimal expansion that eventually terminates or repeats. An
+irrational number does neither: its decimal continues forever without a repeating block.
+This is not a limitation of our notation but a property of the number itself.
+Familiar examples include 
+, 
+,  and . Their decimal expansions never terminate and never
+settle into a repeating block. A calculator display such as 
+ is an approximation, not the
+number itself. No finite string of digits can equal 
+, because a finite decimal is rational.
+0
+1
+2
+3
+4
+√2
+√2
+diagonal
+1
+1
+√2
+The diagonal of a 1 × 1 square has length √2.
+Drawing an arc of radius √2 drops the exact
+length onto the number line — a point that
+cannot be written as a fraction.
+The square root of 2 is irrational: its decimal expansion neither terminates nor repeats.
+Figure 1.1 A square of side 1 has diagonal length 
+. Copying that diagonal onto the number line locates an irrational point using
+only a straight edge and compass.
+The construction in Figure 1.1 makes the existence of 
+ visible. A unit square has diagonal 
+satisfying 
+, so 
+. The length is not a measurement error or an artefact of
+drawing: it is forced by the geometry. The next question is whether that length can be expressed as
+a ratio of integers.
+1.2
+D E F I N I T I O N
+An irrational number is a real number that cannot be written as a fraction of two integers.
+The square root of a positive integer is irrational unless that integer is a perfect square. The
+set of real numbers  consists of all rational and irrational numbers.
+R
+​2
+​3 π
+e
+1.414213562
+​2
+​2
+​2
+d
+d =
+2
+1 +
+2
+1 =
+2
+2
+d =
+​2
+
+
+===== [source page 25] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+25
+T H E O R E M · I R R AT I O N A L I T Y O F 
+There are no integers  and , with 
+, such that 
+.
+P R O O F B Y C O N T R A D I C T I O N
+Suppose, for contradiction, that 
+ is rational. Then we can write 
+, where  and 
+are integers, 
+, and the fraction is in lowest terms:  and  are not both even.
+Squaring both sides gives 
+, so 
+. This means 
+ is even. The square of an odd
+integer is odd, so  must be even. Write 
+ for some integer .
+Substituting: 
+, so 
+, and therefore 
+. This means 
+ is even, so  is
+even. But  and  cannot both be even if the fraction is in lowest terms. Contradiction.
+Therefore the assumption that 
+ is rational must be false. Hence 
+ is irrational. 
+The proof uses three ideas worth naming: a clear assumption, valid algebraic consequences, and a
+contradiction with an established fact. It also uses a parity argument — an integer is either even or
+odd, and the square of an odd number is odd. That small fact does real work.
+WO R K E D E X A M P L E 1 . 2 .1
+ESTIMATING AND COMPARING SURDS
+PROBLEM
+Without a calculator, estimate 
+ to one decimal place and place 
+, 
+ and 
+ in order.
+ANSWER
+; the order is 
+.
+WO R K E D E X A M P L E 1 . 2 . 2
+SIMPLIFYING A SURD
+PROBLEM
+Simplify 
+ and 
+, then write 
+ in the form 
+.
+ANSWER
+, 
+, and 
+.
+MISCONCEPTION
+ for all non-negative  and .
+CORRECT
+Test 
+, 
+: 
+, but 
+.
+The sum rule fails. Use 
+ for products
+and quotients only.
+​2
+a
+b
+b =0
+​ =
+2
+​b
+a
+​2
+​ =
+2
+​b
+a
+a
+b
+b =0
+a
+b
+2 =
+​
+b2
+a2
+a =
+2
+2b2
+a2
+a
+a = 2k
+k
+(2k) =
+2
+2b2
+4k =
+2
+2b2
+b =
+2
+2k2
+b2
+b
+a
+b
+​2
+​2
+□
+​
+50
+7.1
+​
+50
+7.05
+The perfect squares either side of 50 are 
+ and 
+, so 
+.
+1
+49 = 72
+64 = 82
+7 <
+​ <
+50
+8
+Because 50 is much closer to 49 than to 64, 
+ is close to 7. A first estimate is 
+.
+2
+​
+50
+7.07
+Check: 
+, which is slightly below 50. Try 
+, which is above 50. So
+.
+3
+7.07 =
+2
+49.9849
+7.08 =
+2
+50.1264
+7.07 <
+​ <
+50
+7.08
+Therefore 
+.
+4
+7.05 <
+​ <
+50
+7.1
+​ ≈
+50
+7.07
+7.05 <
+​ <
+50
+7.1
+​
+72
+​
+50
+3
+​ +
+2
+​
+50
+k
+​2
+Look for the largest perfect-square factor: 
+, so 
+.
+1
+72 = 36 × 2
+​ =
+72
+​
+​ =
+36
+2
+6
+​2
+Similarly 
+, so 
+.
+2
+50 = 25 × 2
+​ =
+50
+5
+​2
+Add like surds: 
+.
+3
+3
+​ +
+2
+5
+​ =
+2
+8
+​2
+​ =
+72
+6
+​2
+​ =
+50
+5
+​2
+3
++
+2
+​ =
+50
+8
+​2
+​ =
+a + b
+​ +
+a
+​b
+a
+b
+a = 9 b = 16
+​ =
+9 + 16
+5
+​ +
+9
+​ =
+16
+7
+​ =
+ab
+​
+​
+a
+b
+
+
+===== [source page 26] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+26
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 1.2 · IRRATIONAL NUMBERS AND SURDS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+Give exact answers unless an approximation is requested.
+1. State whether each number is rational or irrational: (a) 
+   (b) 
+   (c) 
+   (d) . 
+F
+2. Between which two consecutive integers does each surd lie? (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Simplify: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+4. Order from least to greatest: 
+, 
+, 
+, 
+. Justify each comparison briefly. 
+R
+5. Explain why 
+ is rational while 
+ is irrational. 
+R
+6. Use the proof of 
+ as a model to prove that 
+ is irrational. State clearly where you use the fact that if
+ is divisible by 3 then  is divisible by 3. 
+P
+7. Find two irrational numbers whose product is rational. Explain why your example works. 
+E
+8. The number 
+ contains a growing block of zeros between ones. Explain why it is
+irrational, even though its pattern is describable. 
+E
+ Order, absolute value and intervals
+CRITERION A · II, III
+NUMBER LINE
+INEQUALITIES
+Real numbers are ordered: for any two distinct values, exactly one is smaller. A number
+line turns that order into geometry, so comparisons become statements about position
+and distance.
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+−½
+−½
+√2 ≈ 1.414
+√2 ≈ 1.414
+π ≈ 3.142
+π ≈ 3.142
+2.25 = 9/4
+2.25 = 9/4
+every point on the line is a real number
+rational numbers terminate or repeat; irrational numbers never do
+Figure 1.2 Every real number corresponds to exactly one point on the number line. The rational numbers are dense, but they do not
+fill the line; irrational points such as 
+ occupy positions between them.
+To compare numbers, locate them. The number further to the right is greater. This rule covers
+negative numbers as well: 
+ lies to the left of 
+, so 
+, even though 7 is greater than 2. The
+symbol always points to the smaller value, like an arrowhead pointing downhill.
+​9
+​
+10
+0.4
+π
+​
+20
+​
+75
+​
+103
+​
+18
+​
+48
+​
+200
+​
+45
+​8 2.9
+7 2.65
+​
+25
+​
+26
+​2
+​3
+a2
+a
+0.101001000100001 …
+1.3
+​2
+−7
+−2
+−7 < −2
+D E F I N I T I O N S
+The absolute value of a real number , written 
+, is its distance from zero on the number
+line. Thus 
+, 
+ and 
+. The distance between real numbers  and  is 
+.
+An interval is a connected portion of the number line. The interval of values between  and 
+is written with brackets: 
+ excludes both endpoints; 
+ includes both; 
+ includes 
+but not . Unbounded intervals use 
+ or 
+, always with a parenthesis because infinity is
+not a number.
+x
+∣x∣
+∣5∣= 5 ∣−5∣= 5
+∣0∣= 0
+a
+b
+∣a −b∣
+a
+b
+(a, b)
+[a, b]
+(a, b]
+b
+a
+−∞
+∞
+
+
+===== [source page 27] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+27
+Intervals are a compact language for constraints. “The temperature stayed above 
+ but never
+exceeded 
+” is 
+. “The load must be at least 400 kg” is 
+. Absolute value expresses a
+symmetric constraint: 
+ means that  is at most 2 units from 30, so 
+.
+x > −2
+−1 ≤ x < 3
+x ≤ 1.5
+x = −3
+Filled circle: endpoint included. Open circle: endpoint excluded.
+Figure 1.3 Open circles mark excluded endpoints; filled circles mark included endpoints. An absolute-value inequality describes a
+symmetric interval around a centre.
+WO R K E D E X A M P L E 1 .3.1
+DISTANCE AND ABSOLUTE VALUE
+PROBLEM
+Find all real numbers  such that 
+, and write the solution as an interval.
+ANSWER
+WO R K E D E X A M P L E 1 .3. 2
+ORDERING A MIXED SET
+PROBLEM
+Order 
+, 
+, 
+, 
+ and 
+ from least to greatest.
+ANSWER
+18 C
+∘
+25 C
+∘
+(18, 25]
+[400, ∞)
+∣x −30∣≤2
+x
+28 ≤x ≤32
+x
+∣x −12∣≤3
+The expression 
+ is the distance from  to 12.
+1
+∣x −12∣
+x
+The inequality says that this distance is at most 3, so  lies from 
+ to 
+.
+2
+x
+12 −3
+12 + 3
+Thus 
+, or 
+.
+3
+9 ≤x ≤15
+x ∈[9, 15]
+[9, 15]
+−
+​3
+7 −2.2
+​5 2.3
+π −1
+Approximate the non-decimal values: 
+, 
+ and 
+.
+1
+−
+​ =
+3
+7
+−2.3
+​ ≈
+5
+2.236
+π −1 ≈2.142
+Compare the negatives first: 
+, because 
+ lies further left.
+2
+−2. <
+3
+−2.2
+−2.333 …
+Compare the positives: 
+, so 
+.
+3
+2.142 < 2.236 < 2.3
+π −1 <
+​ <
+5
+2.3
+Combine the two groups.
+4
+−,  −2.2,  π −
+3
+7
+1, 
+​,  2.3
+5
+C O M M O N E R R O R
+Assuming that a longer decimal is larger. Digits beyond the first differing place cannot
+reverse an inequality. 
+ is less than 
+ even though it has more digits. Compare place by
+place, or place both values approximately on a number line before deciding.
+2.0999
+2.1
+
+
+===== [source page 28] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+28
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 1.3 · ORDER, DISTANCE AND INTERVALS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Replace each box with ,  or : (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Find each distance on the number line: (a) between 
+ and 7   (b) between 
+ and 
+   (c) 
+.
+F
+3. Write each statement as an inequality and as an interval: (a)  is at least 
+ and less than 5   (b)  is
+greater than 4   (c)  is within 1.5 of 10. 
+F
+4. Order from least to greatest: 
+, 
+, 
+, 
+. 
+R
+5. A machine part must have length  satisfying 
+ mm. Write the acceptable interval and
+state whether lengths 44.75 mm and 45.15 mm are acceptable. 
+P
+6. Explain why 
+ and 
+ describe the same set of numbers. 
+R
+7. Find two irrational numbers between 3 and 4. Justify that each lies in the interval and that each is
+irrational. 
+E
+8. Is it true that if 
+ then 
+? Give a counterexample or prove the statement. 
+E
+ Working with surds
+CRITERION A · II
+EXACT ARITHMETIC
+RATIONALISING
+A surd is an irrational root left in exact form. Writing 
+ instead of 
+ preserves
+information that rounding destroys. Surd arithmetic follows the ordinary rules of
+multiplication and division, with one extra skill: removing roots from denominators.
+Multiplying surds is straightforward because the product rule works in both directions. Adding
+them requires the radicands to match. This is exactly analogous to algebra: 
+, but
+ cannot be simplified. The radicand plays the role of the variable.
+< >
+=
+−6 □  −1
+∣−9∣ □ 9
+​ □ 4.1
+17
+−4
+−2.5
+−8
+∣3 −11∣
+x
+−3
+x
+x
+−3.5 −
+​
+10 −3 −
+​
+7
+22
+L
+∣L −45∣≤0.2
+∣x −5∣≤2
+3 ≤x ≤7
+a < b
+a <
+2
+b2
+1.4
+​2
+1.414
+R U L E S F O R R A D I CA L S
+For non-negative real numbers  and :
+Like surds have the same radicand and can be added or subtracted: 
+. Surds
+with different radicands cannot be combined by addition, although they may simplify to like
+surds first.
+a
+b
+​
+​ =
+a
+b
+​,
+​ =
+ab
+​b
+​a
+​ (b =
+​b
+a
+0),
+(
+​) =
+a 2
+a.
+3
+​ +
+5
+2
+​ =
+5
+5
+​5
+3x + 2x = 5x
+3x + 2y
+
+
+===== [source page 29] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+29
+WO R K E D E X A M P L E 1 . 4.1
+PRODUCTS AND QUOTIENTS
+PROBLEM
+Simplify: (a) 
+   (b) 
+.
+ANSWER (a) 24   (b) 5
+WO R K E D E X A M P L E 1 . 4. 2
+RATIONALISING A DENOMINATOR
+PROBLEM
+Write 
+ and 
+ with rational denominators.
+ANSWER
+ and 
+ST R AT E GY · S I M P L I F Y B E F O R E YO U C O M B I N E
+When a surd expression looks complicated, simplify each radical first. For example,
+. Without simplification, the terms look unlike and the sum appears
+impossible. The same principle applies to algebraic expressions: factor first, then combine.
+PRACTICE 1.4 · SURD ARITHMETIC
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Rationalise each denominator: (a) 
+   (b) 
+   (c) 
+. 
+F
+4. Expand and simplify: (a) 
+   (b) 
+. 
+F
+5. A student writes 
+. Is the student correct? Explain by simplifying 
+. 
+R
+6. Show that 
+ is an integer, and explain which radical rule you used. 
+R
+7. Rationalise 
+ by multiplying by 
+. Show that the result is 
+. 
+E
+8. Find the exact area of a square whose side length is 
+ cm. Then find the side length of a square
+with area 
+ cm² and explain your reasoning. 
+E
+3
+​ ×
+2
+2
+​8
+​
+​3
+​
+75
+(a) Multiply the coefficients and the radicands separately: 
+.
+1
+3 × 2 ×
+​ =
+2 × 8
+6
+​
+16
+, so the product is 
+.
+2
+​ =
+16
+4
+6 × 4 = 24
+(b) Combine the roots: 
+.
+3
+​ =
+​3
+​
+75
+​ =
+​
+3
+75
+​ =
+25
+5
+​
+​3
+6
+​
+2
+​7
+5
+For the first, multiply numerator and denominator by 
+: 
+.
+1
+​3
+​ =
+​
+​
+3
+3
+6
+​3
+​ =
+3
+6
+​3
+2
+​3
+For the second, multiply by 
+: 
+.
+2
+​7
+​ =
+2×7
+5
+​7
+​
+14
+5
+​7
+Multiplying by 
+ is multiplying by 1, so the value is unchanged.
+3
+​
+​7
+​7
+2
+​3
+​
+14
+5
+​7
+​ +
+12
+​ =
+27
+2
+​ +
+3
+3
+​ =
+3
+5
+​3
+​ +
+12
+​
+27
+5
+​ −
+2
+​8
+​ +
+50
+​
+18
+​ ×
+3
+​
+12
+2
+​ ×
+5
+3
+​
+10
+​
+​6
+​
+96
+​
+​2
+4
+​
+​6
+9
+​
+3
+​5
+7
+(
+​ +
+3
+2)(
+​ −
+3
+2)
+(2 +
+​)
+5 2
+​ +
+8
+​ =
+2
+4
+​8
+​
+​5
+​
+20
+​
+​−1
+5
+1
+​
+​+1
+5
+​+1
+5
+​
+4
+​+1
+5
+3 +
+​2
+14 + 6
+​5
+
+
+===== [source page 30] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+30
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Sets, logic and proof
+CRITERION A · I
+CRITERION C · I, III
+CLASSIFICATION
+Mathematical statements are not judged by how plausible they sound. They are judged by
+whether they follow from definitions and previously established results. This section
+makes the rules of that judgment explicit.
+ℝ real numbers
+ℚ rational numbers
+ℤ integers
+ℕ natural numbers
+irrational
+√2, π, ∛5, e
+not rational,
+but still real
+1, 2, 3, …
+0, −1, 2.5, ⅔, −7
+Every natural number is an integer; every integer is rational; every rational number is real.
+Figure 1.4 The number sets are nested: 
+. Irrational numbers lie in  but outside 
+, so the real numbers are the union
+of the rational and irrational numbers.
+A counterexample is a single case that makes a universal statement false. The statement “every
+prime number is odd” is refuted by 2. One counterexample is enough because “every” claims all
+cases without exception. A proof, by contrast, must cover every case allowed by the definitions.
+Checking several examples can suggest a proof; it cannot replace one.
+1.5
+N ⊂Z ⊂Q ⊂R
+R
+Q
+D E F I N I T I O N S
+The natural numbers are 
+. The integers are 
+. The
+rational numbers are 
+. The irrational numbers are the real numbers
+not in . The real numbers
+ are all rational and irrational numbers together.
+N = {1, 2, 3, …}
+Z = {… , −2, −1, 0, 1, 2, …}
+Q =
+​ : p, q ∈Z,  q = 0
+{ q
+p
+}
+Q
+R
+
+
+===== [source page 31] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+31
+WO R K E D E X A M P L E 1 . 5.1
+A DIRECT PROOF
+PROBLEM
+Prove that the sum of two rational numbers is rational.
+ANSWER The proof is complete: the sum has the required form.
+WO R K E D E X A M P L E 1 . 5. 2
+DISPROVING A UNIVERSAL CLAIM
+PROBLEM
+Is the statement “the square of every irrational number is irrational” true? Justify your
+answer.
+ANSWER The statement is false. Counterexample: 
+ is irrational but 
+ is rational.
+PRACTICE 1.5 · CLASSIFICATION, COUNTEREXAMPLE AND
+PROOF
+SUPPORT 1–3 · CORE 1–6 · EXTENSION
+7–8
+1. Place each number in the smallest set that contains it: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+2. Decide whether each statement is always true, sometimes true or never true. Give a reason or
+counterexample: (a) The product of two integers is an integer. (b) The quotient of two integers is an
+integer. (c) The sum of two irrational numbers is irrational. 
+R
+3. Write the negation of “all rational numbers have terminating decimals”. Is the negation true? 
+R
+4. Prove that the product of two rational numbers is rational. 
+P
+5. Prove that the sum of a rational number and an irrational number is irrational. Use proof by
+contradiction. 
+P
+6. Explain why 
+ cannot be simplified into a single surd of the form 
+ for an integer . Test by
+squaring. 
+P
+7. Find a counterexample to “if 
+ is rational then  is rational”. Explain what your example shows about
+the converse of a true statement. 
+E
+8. Investigate the claim “the sum of two irrational numbers is always irrational”. Find two different
+counterexamples and state the strongest revised claim you can support. 
+E
+Let  and  be rational. By definition, 
+ and 
+, where 
+ are integers and 
+,
+.
+1
+x
+y
+x =
+​b
+a
+y =
+​d
+c
+a, b, c, d
+b =0
+d =0
+Then 
+.
+2
+x + y =
+​ +
+b
+a
+​ =
+d
+c
+​
+bd
+ad+bc
+The numerator 
+ is an integer because integers are closed under addition and
+multiplication. The denominator 
+ is a nonzero integer because neither  nor  is zero.
+3
+ad + bc
+bd
+b
+d
+Therefore 
+ is a quotient of integers, so it is rational. 
+4
+x + y
+□
+Try a simple irrational number: 
+. Its square is 
+, which is rational.
+1
+​2
+(
+​) =
+2 2
+2
+So an irrational number can have a rational square.
+2
+The claim is universal (“every”), so one counterexample is enough to show it is false.
+3
+​2
+(
+​) =
+2 2
+2
+C O M M O N E R R O R · P R OV I N G B Y E X A M P L E
+Showing that a statement works for 2, 5 and 17 does not prove it works for every number. It
+may reveal a pattern, but a proof must use the definitions in a way that covers all permitted
+values. Conversely, a single counterexample is sufficient to disprove a universal statement.
+Know which direction your evidence supports.
+−4
+0.75
+​
+16
+​7
+​ +
+2
+​3
+​n
+n
+x2
+x
+
+
+===== [source page 32] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+32
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Application · Tolerance is an interval
+CRITERION D · I, II, III
+MANUFACTURING
+ACCURACY
+A bicycle workshop produces seat posts with a nominal diameter of 27.2 mm. A post that is too wide
+will not fit; one that is too narrow will slip. The specification allows a deviation of at most 0.05 mm
+in either direction.
+Measured diameter (mm)
+Device resolution (mm)
+Recorded value
+Decision
+27.24
+0.01
+27.24
+accept
+27.16
+0.01
+27.16
+accept
+27.252
+0.01
+27.25
+borderline
+27.148
+0.01
+27.15
+borderline
+1. Write the acceptable interval using inequalities and using absolute value.
+Investigation · Chasing 
+ with fractions
+CRITERION B
+Long before calculators, mathematicians approximated square roots using only fractions and
+arithmetic. A Babylonian method starts with a guess 
+, then repeatedly computes
+The method is a feedback process: if 
+ is too large, then 
+ is too small, and the average moves
+closer to 
+.
+ (8 decimal places)
+1
+1.50000000
+2.25000000
+0.08578644
+2
+1.41666667
+2.00694445
+0.00245311
+3
+1.41421569
+2.00000601
+0.00000212
+4
+1.41421356
+2.00000000
+0.00000000
+1. Compute. Verify the value of 
+ from 
+. Then calculate 
+ yourself and compare with
+the table.
+2. Describe. How does the error change from one row to the next? Is the change approximately
+the same each time, or does the error shrink much faster?
+3. Explain. Why does the method require 
+ and 
+ to lie on opposite sides of 
+? Use the fact
+that their product is 2.
+4. Generalise. Adapt the method to approximate 
+. Start with 
+ and compute three
+iterations.
+5. Verify. Use your generalised formula to approximate 
+. Compare with a calculator and
+describe the size of the error after three iterations.
+6. Conclude. The sequence produces rational numbers forever. Explain why no term can ever
+equal 
+, even though the terms get arbitrarily close. What does this show about the
+completeness of the rational numbers on the number line?
+Report your table, your formula for the general case, and a conclusion of three or four sentences. A strong
+conclusion distinguishes evidence from proof.
+​2
+x
+​1
+x
+​ =
+n+1
+​
+x
+​ +
+​
+.
+2
+1 (
+n
+x
+​n
+2 )
+x
+​n
+2/x
+​n
+​2
+n
+x
+​n
+x
+​n
+2
+∣
+​ −
+2
+x
+​∣
+n
+x
+​2
+x
+​ =
+1
+1.5
+x
+​3
+x
+​n
+2/x
+​n
+​2
+​7
+x
+​ =
+1
+3
+​
+10
+​2
+
+
+===== [source page 33] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+33
+2. Which recorded values in the table are definitely acceptable? Which are definitely rejects?
+Explain using the interval.
+3. Why does the device resolution matter for the borderline cases? If the true value is 27.252 and
+the display rounds to 27.25, can the workshop be certain the part is acceptable? What
+measurement or rule would remove the ambiguity?
+4. A second workshop specifies the same nominal diameter with a tolerance of 
+ mm.
+Compare the two intervals. Is the second specification stricter? How many parts from the
+table would be acceptable under each specification?
+5. Suggest two reasons why a manufacturer might choose a tolerance that is wider than the
+precision of its measuring device. Relate your answer to cost, function and the difference
+between exact values and measured values.
+C R I T E R I O N D F O C U S
+Interpret the situation, select a mathematical representation, justify the accuracy of the decision and
+evaluate whether the decision makes sense in the workshop context.
+Criterion task · Why 
+ cannot be written as a fraction
+CRITERION C
+COMMUNICATING
+24 MARKS
+Write a short mathematical exposition for a student who has met fractions and square roots but
+has never seen a proof by contradiction. Your exposition should explain, with a diagram and a
+proof, why 
+ is not rational.
+1. Introduce the question with a diagram of a unit square and its diagonal. State the length of the
+diagonal and explain why it is 
+. (4 marks)
+2. State the definition of a rational number and explain what it would mean for 
+ to be rational.
+(4 marks)
+3. Present the proof by contradiction. Define every symbol, justify each algebraic step, and make
+the contradiction explicit. (8 marks)
+4. Explain why the proof also shows that no finite decimal can equal 
+. (4 marks)
+5. Write a concluding paragraph that distinguishes between “
+” and “
+”. (4
+marks)
+PLANNING FRAME
+Audience: a Year 2 student. Purpose: to convince, not merely to state. Structure: question → diagram
+→ definition → assumption → contradiction → conclusion. Notation: define , , . Check: every
+sentence either defines, justifies or concludes.
+BAND
+DESCRIPTOR
+MARKS
+4
+Complete, coherent exposition with correct definitions and a fully justified
+proof. Diagram and conclusion are integrated and notation is precise.
+19–24
+3
+Sound proof with minor gaps in justification or notation. Explanation is clear
+and mostly complete.
+13–18
+2
+Correct outline of the proof with significant gaps in logic or explanation.
+Some correct notation and structure.
+7–12
+1
+States the result or reproduces fragments without a coherent argument.
+1–6
+CRITERIA: C
+ATL: CRITICAL THINKING
+TIME: 45 MINUTES
+CONDITIONS: NOTES ALLOWED
+MAPPED TO:
+ Criterion C strands i–iv. This task also provides evidence for A i, because it requires accurate classification and
+use of definitions. The rubric is a course summary, not an official IB descriptor.
+±0.04
+​2
+​2
+​2
+​2
+​2
+​ ≈
+2
+1.414
+​ =
+2
+1.414
+a b k
+
+
+===== [source page 34] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+34
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+KEY IDEAS
+A rational number can be written as  with
+integers 
+ and 
+.
+Fractions terminate in decimal form exactly
+when the denominator in lowest terms has
+no prime factor other than 2 or 5.
+A repeating decimal can be converted to a
+fraction by subtracting two multiples of the
+decimal.
+Irrational numbers are real numbers that
+are not rational; their decimals neither
+terminate nor repeat.
+ is irrational. A proof by contradiction
+assumes the opposite and derives an
+impossibility.
+Surds can be multiplied and divided using
+radical rules; only like surds can be added
+or subtracted.
+Absolute value measures distance;
+ describes an interval centred at 
+with radius .
+REVISION CHECKLIST
+VOCABULARY
+rational number
+A number of the form  with integers 
+ and 
+.
+irrational number
+A real number that is not rational.
+surd
+An irrational root, such as 
+, left in exact form.
+radicand
+The number under a radical sign.
+terminating decimal
+A decimal that ends after finitely many digits.
+repeating decimal
+A decimal with a block of digits that repeats forever.
+absolute value
+The distance of a number from zero.
+interval
+A connected set of real numbers described by
+endpoints.
+counterexample
+A case that makes a universal statement false.
+proof by contradiction
+A proof that assumes the negation and derives a
+contradiction.
+dense
+Having another element between any two distinct
+elements.
+rationalise
+Rewrite a quotient so that no surd remains in the
+denominator.
+​q
+p
+p, q
+q =0
+​2
+∣x −a∣≤r
+a
+r
+I can classify numbers using
+.
+N ⊂Z ⊂Q ⊂R
+I can convert a repeating decimal to a
+fraction and check it.
+I can simplify surds and rationalise a one-
+term denominator.
+I can order a mixed set of rational and
+irrational values.
+I can express a tolerance as an interval
+and make an accept/reject decision.
+I can distinguish a counterexample from a
+proof.
+I can reproduce the proof that 
+ is
+irrational with justification at each step.
+​2
+​q
+p
+p, q
+q =0
+​2
+
+
+===== [source page 35] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+1 · The real number system
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+35
+M I X E D P R AC T I C E · C H A P T E R 1
+Connecting the ideas
+FLUENCY Core procedures
+1. Write 
+ as a decimal and 
+ as a repeating decimal. 
+F
+2. Convert 
+ to a fraction in lowest terms. 
+F
+3. Simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+4. Write 
+ as an inequality. 
+F
+REASONING Justify and connect
+1. Without calculating, decide whether 
+ is closer to 6.3 or 6.4. Explain. 
+R
+2. Order 
+, 
+, 
+ and 
+. 
+R
+3. Explain why the product of a nonzero rational number and an irrational number is irrational. 
+R
+4. A student says “
+, so  is terminating.” Identify the error and give the correct decimal expansion.
+R
+APPLICATION Use and evaluate
+1. A cylindrical pin must have diameter  satisfying 
+ mm. Write the acceptable interval and
+state whether a pin of diameter 7.96 mm should be accepted. 
+P
+2. A rectangular tile has sides 
+ cm and 
+ cm. Find its exact area and its area to one decimal place. 
+P
+3. An online shop rounds parcel weights to the nearest 0.1 kg. A parcel is displayed as 2.4 kg. Write an
+interval of possible true weights. If postage is charged for weights above 2.35 kg, can you be certain
+which band applies? Explain. 
+E
+4. Find a rational number between 
+ and 
+, and an irrational number between the same two values.
+Justify both. 
+E
+Check your progress
+Use the table to record your own judgment. A skill marked “not yet” should be paired with a
+specific action: revisit a worked example, redo three practice questions without notes, or ask for a
+different explanation.
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Classify numbers and justify the classification.
+1 / 2 / 3
+Convert between fractions and decimal
+expansions.
+1 / 2 / 3
+Simplify and combine surds.
+1 / 2 / 3
+Order and interpret intervals.
+1 / 2 / 3
+Write a proof by contradiction.
+1 / 2 / 3
+Reflection
+The decimal expansion of 
+ never ends. What does this imply about the possibility of
+writing 
+ exactly in decimal notation, and why is the symbol 
+ still useful?
+​
+8
+11
+​
+12
+7
+0.45
+​
+98
+2
+​ −
+18
+​8
+​
+​5
+10
+x ∈[−4, 9)
+​
+40
+−
+​3 −1.7 −
+​3
+5
+−1.65
+​ =
+3
+1
+0.333
+​3
+1
+d
+∣d −8∣≤0.03
+​5
+​
+20
+​2
+​3
+​2
+​2
+​2

@@ -1,0 +1,2490 @@
+
+
+===== [source page 133] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+133
+6. Show that no regular polygon with seven or more sides can tessellate by itself. Use the interior angle
+formula and the fact that at least three tiles must meet at a vertex. 
+E
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Translate, reflect and rotate a shape and describe
+the transformation completely.
+1 / 2 / 3
+Calculate image coordinates and recover a
+mirror line or vector.
+1 / 2 / 3
+Prove congruence using SSS, SAS, ASA, AAS or
+RHS.
+1 / 2 / 3
+Explain why AAA and SSA are insufficient.
+1 / 2 / 3
+Analyse symmetry and decide whether a regular
+polygon tessellates.
+1 / 2 / 3
+Reflection
+A pattern can be reproduced exactly by applying transformations, but reproducing a
+tradition's pattern is not the same as understanding it. Where should a designer draw the
+line between mathematical inspiration and cultural appropriation?
+
+
+===== [source page 134] =====
+PA R T I I I · G E O M E T R Y , P R O O F A N D S PA C E
+M Y P Y E A R 3
+C H A P T E R 0 7
+7
+G E O M E T R Y , P R O O F A N D S PA C E
+Similarity, proof and
+trigonometry
+A photograph, a map and a shadow all keep a shape
+while changing its size. Similarity explains why. It also
+turns the right triangle into an instrument: one
+measured angle and one measured length can reveal a
+height no one can reach with a tape.
+KEY CONCEPT · RELATIONSHIPS
+RELATED · JUSTIFICATION
+RELATED · MEASUREMENT
+CONTEXT · ORIENTATION IN SPACE AND TIME
+θ
+I N Q U I R Y
+How can an angle and a single length tell you the height of something
+you cannot reach?
+AT L · R E S E A R C H A N D C R I T I CA L T H I N K I N G
+Indirect measurement is an argument built from assumptions: level ground, a vertical tower, a sun
+angle that does not change during the measurement. Record what you assume, choose instruments
+whose precision matches the claim, and calculate how far an error in one measurement can move the
+answer. A number is only as trustworthy as the reasoning and the evidence behind it.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 135] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+135
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 7 · A P P R OX . 1 6 H O U R S
+AT L F O C U S · R E S E A R C H
+KEY AND RELATED CONCEPTS
+Relationships. Similarity is a relationship
+between shapes: angles stay equal while lengths
+change by a common factor. Trigonometric ratios
+are relationships between an angle and two sides
+of a right triangle, and they hold for every
+triangle with that angle.
+Justification. AA, SSS and SAS similarity criteria
+licence a proportion; Pythagoras' theorem and its
+converse licence a right-angle claim. Each result
+has conditions that must be checked before it is
+used.
+Measurement. Indirect measurement replaces
+an inaccessible length with an accessible one
+plus an angle. Precision, rounding and model
+assumptions decide how much the answer can be
+trusted.
+GLOBAL CONTEXT AND EXPLORATION
+Orientation in space and time. Exploration:
+how surveyors, navigators and builders
+have measured inaccessible heights and
+distances, and how angle-based methods
+changed maps, buildings and travel.
+Before satellites, a surveyor climbed a hill
+with a theodolite, read an angle and
+calculated. The mathematics has not
+changed: a ratio, a right triangle and a
+careful record. What has changed is the
+precision of the instruments and the scale
+of the claims we can justify.
+FACTUAL
+What does it mean for two
+figures to be similar? What
+are the sine, cosine and
+tangent of an angle? What
+does Pythagoras' theorem
+state, and what is its
+converse?
+CONCEPTUAL
+Why do trigonometric ratios
+depend only on the angle and
+not on the size of the
+triangle? Why does
+multiplying every length by
+ multiply area by 
+? When
+is a calculated length
+justified?
+DEBATABLE
+How precise should a
+measurement claim be?
+When a model rests on
+uncertain assumptions,
+should its answer be
+reported as a fact or as an
+estimate with a range?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Identify similar figures; apply scale factors; use Pythagoras and
+the three trigonometric ratios; select the correct ratio.
+B · Investigating patterns
+i, ii, iii
+Investigate the constancy of height-to-shadow ratios, tabulate
+results, generalise the shadow rule and test its limits.
+C · Communicating
+i, ii, iii, iv
+Write similarity statements in corresponding order; show each
+step of a trigonometric solution with units; justify rounding.
+D · Applying mathematics
+i, ii, iii, iv, v
+Measure an inaccessible height; design and cost an accessible
+ramp; evaluate assumptions, precision and fitness for purpose.
+S TAT E M E N T O F I N Q U I R Y
+Similar figures preserve shape through proportional change, and
+right-triangle ratios depend only on the angle; together they make
+indirect measurement possible and justifiable.
+k
+k2
+
+
+===== [source page 136] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+136
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Simplify the ratio 
+ and write it as a fraction.
+2. Solve 
+.
+3. Calculate 
+, 
+ and 
+.
+4. Round 
+ to one decimal place and to two significant figures.
+5. State the angle sum of a triangle and the size of each angle in an equilateral triangle.
+6. In a right triangle, which side is the hypotenuse?
+Answers are in the Chapter 7 answer section. If more than two are incorrect, review ratio, rounding and the vocabulary
+of right triangles before continuing.
+BEFORE YEAR 3
+Ratio and proportion; fractions and
+rounding; angle facts; properties of
+right triangles; area of rectangles
+and triangles; congruence criteria.
+YEAR 3 · THIS CHAPTER
+Similarity and scale factors;
+similarity criteria; Pythagoras'
+theorem and its converse;
+trigonometric ratios; indirect
+measurement.
+LATER
+The sine and cosine rules;
+trigonometric graphs and identities;
+coordinate geometry of circles;
+vectors; three-dimensional
+trigonometry.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Surveyors,
+navigators and
+builders measure
+distances they
+cannot walk.
+2
+QUESTION
+How can a ratio in
+a small triangle
+predict a length in
+a much larger
+one?
+3
+CONCEPT
+Similarity,
+proportional
+sides, Pythagoras
+and the
+trigonometric
+ratios.
+4
+INVESTIGATION
+Test whether
+height-to-shadow
+ratios stay
+constant, and use
+the pattern to
+measure a tree.
+5
+COMMUNICATION
+Record the
+diagram, the ratio
+selected and the
+units at every
+stage.
+6
+REFLECTION
+How should an
+answer built on
+measurements
+communicate its
+uncertainty?
+Understand what similarity preserves and how
+scale factors affect length and area.
+Know and use the AA, SSS and SAS criteria for
+similar triangles.
+Be able to apply Pythagoras' theorem and its
+converse to lengths, distances and right-angle
+tests.
+Be able to choose and apply sine, cosine or
+tangent to find a side or an angle in a right
+triangle.
+Be able to use angles of elevation and
+depression to measure indirectly.
+Be able to evaluate the assumptions and
+precision of a measurement model.
+I can find a missing side in similar figures
+using a scale factor and state the area ratio.
+I can prove two triangles similar and write
+the similarity statement in matching order.
+I can calculate an unknown side or a
+distance using Pythagoras' theorem.
+I can use the converse to decide whether a
+triangle is right-angled.
+I can solve a right triangle using sin, cos
+and tan, including finding an angle with an
+inverse ratio.
+I can interpret an angle of elevation or
+depression in a diagram and report an
+indirect measurement with sensible
+precision.
+12 : 18
+​ =
+4
+3
+​
+12
+x
+72 122
+132
+6.847
+
+
+===== [source page 137] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+137
+ Similar figures and scale factors
+CRITERION A · I
+CRITERION C · I
+RELATIONSHIPS
+Two figures are similar when one is a scaled copy of the other. Every length changes by
+the same factor, every angle stays the same, and the shape is not distorted. A photograph
+enlarged without cropping, a map and a scale drawing are all similar to what they
+represent.
+For a rectangle, it is enough that the ratio of length to width is the same: a 
+ rectangle is similar
+to a 
+ rectangle with 
+. For a general polygon, both conditions are needed. A rectangle 
+and a parallelogram with the same angles but sides  and  have equal angles but different side
+ratios, so they are not similar.
+3 cm × 2 cm
+6 cm × 4 cm
+area 6 cm²
+area 24 cm²
+lengths ×2
+area ×4
+Figure 7.1 Lengths scale by 
+, but area scales by 
+. The larger rectangle is not “twice as big” in every sense.
+7.1
+D E F I N I T I O N S
+Two figures are similar if their corresponding angles are equal and their corresponding sides
+are in the same ratio. The scale factor
+ is the ratio 
+. An enlargement is a
+transformation with a centre and a scale factor; it is not an isometry unless 
+. For
+triangles, the similarity statement 
+ asserts 
+, 
+ and 
+, in that
+order.
+k
+​
+object length
+image length
+k = 1
+△ABC ∼△DEF
+A ↔D B ↔E
+C ↔F
+3 × 2
+6 × 4
+k = 2
+3 × 2
+4
+3
+k = 2
+k =
+2
+4
+K E Y R E L AT I O N S H I P · L E N GT H , A R E A A N D VO L U M E
+If two similar figures have scale factor , then corresponding lengths have ratio ,
+corresponding areas have ratio 
+, and corresponding volumes have ratio 
+. The area result
+follows because area is the product of two lengths, each multiplied by .
+k
+k
+k2
+k3
+k
+
+
+===== [source page 138] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+138
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 7.1 .1
+ENLARGING FROM A CENTRE
+PROBLEM
+A rectangle has vertices 
+, 
+, 
+ and 
+. It is enlarged by scale factor  from the
+centre 
+. Find the image vertices, the dimensions of the image, and the ratio of the areas.
+ANSWER Images 
+, 
+, 
+, 
+; dimensions 
+; area ratio 
+.
+WO R K E D E X A M P L E 7.1 . 2
+FINDING A SCALE FACTOR AND MISSING SIDES
+PROBLEM
+Triangles 
+ and 
+ are similar, with 
+ cm, 
+ cm and 
+ cm
+corresponding to 
+, 
+ and 
+. Given 
+ cm, find the scale factor, the other two
+sides of 
+, and the ratio of their areas.
+ANSWER
+; 
+ cm, 
+ cm; area ratio 
+.
+WO R K E D E X A M P L E 7.1 .3
+A MAP AND ITS SCALE
+PROBLEM
+A map has scale 
+. (a) A path measures 
+ cm on the map. Find its real length in
+kilometres. (b) A lake has area 
+ cm² on the map. Find its real area in square kilometres.
+ANSWER (a) 
+ km   (b) 
+ km², which is 
+ m².
+(1, 1) (4, 1) (4, 3)
+(1, 3)
+3
+(1, 1)
+The centre is fixed. For each vertex, multiply its displacement from 
+ by :
+.
+1
+(1, 1)
+3
+(x, y) →(1 + 3(x −1), 1 + 3(y −1))
+The vertices map to 
+, 
+, 
+ and 
+.
+2
+(1, 1) (10, 1) (10, 7)
+(1, 7)
+The object is  by , so its area is . The image is  by , so its area is 
+.
+3
+3
+2
+6
+9
+6
+54
+Area ratio 
+, which agrees with the scale factor squared.
+4
+= 54 ÷ 6 = 9 = 32
+(1, 1) (10, 1) (10, 7) (1, 7)
+9 × 6
+9 : 1
+ABC
+DEF
+AB = 5
+BC = 7
+CA = 9
+DE EF
+FD
+DE = 7.5
+DEF
+The scale factor is 
+.
+1
+​ =
+AB
+DE
+​ =
+5
+7.5
+1.5
+Multiply each side of 
+ by 
+: 
+ cm and 
+ cm.
+2
+ABC
+1.5 EF = 7 × 1.5 = 10.5
+FD = 9 × 1.5 = 13.5
+Check the ratio: 
+, the same ratio as 
+.
+3
+7.5 : 10.5 : 13.5 = 5 : 7 : 9
+ABC
+The area ratio is 
+. The larger triangle has 
+ times the area, not 
+ times.
+4
+k =
+2
+1.5 =
+2
+2.25
+2.25
+1.5
+k = 1.5 EF = 10.5
+FD = 13.5
+2.25 : 1
+1 : 25 000
+4.8
+3.2
+The scale means  cm on the map represents 
+ cm 
+ m 
+ km.
+1
+1
+25 000
+= 250
+= 0.25
+(a) 
+ km.
+2
+4.8 × 0.25 = 1.2
+(b) Areas scale by the square of the length scale:  cm² represents 
+ km².
+3
+1
+0.25 =
+2
+0.0625
+ km².
+4
+3.2 × 0.0625 = 0.2
+1.2
+0.2
+200 000
+C O M M O N E R R O R · A D D I N G T H E SA M E A M O U N T I N S T E A D O F M U LT I P LY I N G
+Adding  cm to every side does not create a similar figure: a 
+ rectangle would become
+, and 
+. Similarity requires a common multiplier. Also do not use  for area: if
+lengths double, area quadruples. And when finding , compare corresponding sides, not any
+two sides.
+2
+3 × 2
+5 × 4
+5 : 4 =3 : 2
+k
+k
+
+
+===== [source page 139] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+139
+PRACTICE 7.1 · SIMILARITY AND SCALE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. These rectangles are similar. Find the scale factor and the missing side: 
+ and 
+. 
+F
+2. Triangles 
+ and 
+ are similar with 
+ cm, 
+ cm, 
+ cm and 
+ cm. Find
+ and 
+. 
+F
+3. A photograph 
+ cm by 
+ cm is enlarged so that its shorter side becomes 
+ cm. Find the new longer
+side and the ratio of the areas. 
+F
+4. A plan uses scale 
+. A room is 
+ cm by  cm on the plan. Find its real dimensions in metres and
+its real area. 
+R
+5. Two similar triangles have areas 
+ cm² and 
+ cm². Find the scale factor from the smaller to the
+larger. Explain your reasoning. 
+R
+6. A photograph is enlarged by 
+ and then by 
+. What is the single equivalent scale factor? What
+is the overall area multiplier? Justify both answers. 
+P
+7. A map has scale 
+. A forest on the map has area 
+ cm². Find its area in square kilometres and
+in hectares ( km² 
+ ha). 
+P
+8. Rectangle  is  cm by  cm and rectangle 
+ is  cm by 
+ cm. Find the value of  that makes the two
+rectangles similar, and state the scale factor. 
+E
+ Similar triangles and indirect measurement
+CRITERION A · I, II
+CRITERION C · II
+JUSTIFICATION
+Triangles are the easiest shapes to test for similarity, because three angles and three sides
+are tightly linked. If two angles match, the third must match too, and the sides are forced
+into a fixed ratio. That is why a small triangle can predict the dimensions of a large one.
+4 × 6
+10 × x
+PQR
+STU
+PQ = 8
+QR = 10
+RP = 14
+ST = 12
+TU
+US
+10
+15
+25
+1 : 200
+7.5
+5
+36
+81
+k = 1.5
+k = 2
+1 : 50 000
+18
+1
+= 100
+A
+8
+d
+B
+d
+18
+d
+7.2
+C R I T E R I A F O R S I M I L A R T R I A N G L E S
+AA: two angles of one triangle equal two angles of another. The third pair is then equal
+because angles sum to 
+. SSS: all three pairs of corresponding sides are in the same ratio.
+SAS: two pairs of corresponding sides are in the same ratio and the included angles are equal.
+Any one of these is enough to conclude that the triangles are similar and that all
+corresponding sides share the ratio.
+180∘
+
+
+===== [source page 140] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+140
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+θ
+θ
+8
+12
+12
+18
+A
+B
+Figure 7.2 Both triangles contain the angle , so they are similar by AA. The base ratio 
+ equals the height ratio
+.
+Parallel lines are a reliable source of equal angles. If a line parallel to one side of a triangle cuts the
+other two sides, the corresponding angles it makes with those sides are equal. The small triangle
+cut off at the top is therefore similar to the whole triangle.
+WO R K E D E X A M P L E 7. 2 .1
+A LINE PARALLEL TO THE BASE
+PROBLEM
+In triangle 
+, 
+ lies on 
+ and 
+ lies on 
+, with 
+. Given 
+ cm, 
+ cm
+and 
+ cm, find 
+ and the ratio of the area of 
+ to the area of 
+.
+ANSWER
+ cm; area ratio 
+ (small : whole).
+WO R K E D E X A M P L E 7. 2 . 2
+THE SHADOW METHOD
+PROBLEM
+A vertical post 
+ m high casts a shadow 
+ m long at the same time that a tree casts a
+shadow 
+ m long. Assume the ground is level and the sun's rays are parallel. Find the height
+of the tree.
+ANSWER The tree is  m tall.
+θ
+12 : 8 = 1.5
+18 : 12 = 1.5
+ABC D
+AB
+E
+AC
+DE ∥BC
+AD = 4
+DB = 2
+DE = 3
+BC
+△ADE
+△ABC
+Because 
+, 
+ and 
+ (corresponding angles). Hence
+ by AA.
+1
+DE ∥BC ∠ADE = ∠ABC
+∠AED = ∠ACB
+△ADE ∼△ABC
+The scale factor from 
+ to 
+ is 
+.
+2
+△ADE
+△ABC
+​ =
+AD
+AB
+​ =
+4
+4+2
+1.5
+So 
+ cm.
+3
+BC = DE × 1.5 = 4.5
+The area ratio is 
+, so the small triangle has area 
+ of the whole triangle.
+4
+1.5 =
+2
+2.25
+​ =
+2.25
+1
+​9
+4
+BC = 4.5
+4 : 9
+1.8
+2.7
+12
+The post and its shadow, and the tree and its shadow, form two right triangles.
+1
+The sun's rays make the same angle with the ground in both triangles, and both have a right
+angle, so the triangles are similar by AA.
+2
+Match the vertical sides and the shadows: 
+.
+3
+​ =
+1.8
+h
+​
+2.7
+12
+ m.
+4
+h = 1.8 ×
+​ =
+2.7
+12
+8
+8
+
+
+===== [source page 141] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+141
+WO R K E D E X A M P L E 7. 2 .3
+THE MIRROR METHOD
+PROBLEM
+A student's eye is 
+ m above the ground. She stands 
+ m from a mirror lying flat on the
+ground and sees the top of a tree reflected in it. The mirror is 
+ m from the base of the tree.
+Find the height of the tree.
+ANSWER The tree is 
+ m tall.
+PRACTICE 7.2 · SIMILAR TRIANGLES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. State whether each pair is similar, and if so by which criterion: (a) two angles 
+ and 
+ in both; (b)
+sides 
+ and 
+; (c) sides 
+ with included angle 
+ and sides 
+ with included angle 
+. 
+F
+2. In 
+, 
+ with 
+ cm, 
+ cm and 
+ cm. Find 
+ and 
+. 
+F
+3. Triangles 
+ and 
+ are similar with 
+ cm, 
+ cm and 
+ cm. Find 
+ and the
+ratio of their areas. 
+F
+4. A 
+ m post casts a 
+ m shadow. At the same time a building casts a 
+ m shadow. Find the height of
+the building and explain which assumptions you used. 
+R
+5. Explain why two triangles with equal angles are always similar, but two triangles with three
+proportional sides are not always congruent. Use an example. 
+R
+6. A student uses the mirror method and measures 
+ m, 
+ m and 
+ m. Find the height. If the mirror-
+to-tree distance is measured 
+ m too short, how much does the answer change? 
+P
+7. A ramp is 
+ times as long and 
+ times as high as a model. The model's triangular side has area
+ m². Find the real side's area. 
+P
+8. Two similar triangles have perimeter ratio 
+ and area of the smaller 
+ cm². Find the area of the
+larger. Then find the ratio of their heights. 
+E
+ Pythagoras' theorem
+CRITERION A · II
+CRITERION C · II
+RELATIONSHIPS
+A right angle turns two lengths into a third. Given any two sides of a right-angled triangle,
+Pythagoras' theorem fixes the third exactly. The theorem is also reversible: a numerical
+check can prove that an angle is, or is not, a right angle.
+1.6
+2.4
+9.6
+The angle at which the student looks down equals the angle at which the reflection appears to
+come from the tree (equal angles at the mirror).
+1
+Both triangles are right-angled at the ground, so they are similar by AA.
+2
+Match heights to horizontal distances: 
+.
+3
+​ =
+1.6
+h
+​ =
+2.4
+9.6
+4
+ m.
+4
+h = 1.6 × 4 = 6.4
+6.4
+C O M M O N E R R O R · W R O N G C O R R E S P O N D E N C E
+In 
+, side 
+ corresponds to 
+, not to 
+. Write the similarity statement
+before forming any ratio: the order of the letters is the correspondence. Also check that you
+are comparing like with like — two heights, or a height with a shadow — and never subtract
+corresponding sides when the relationship is multiplicative.
+△ABC ∼△DEF
+AB
+DE
+EF
+48∘
+67∘
+3, 4, 5
+6, 8, 10
+4, 6
+50∘
+6, 9
+50∘
+△ABC DE ∥BC
+AD = 6
+DB = 3
+AE = 8
+EC
+AC
+ABC
+XY Z
+AB = 9
+BC = 12
+XY = 6
+Y Z
+1.5
+2.1
+28
+1.7
+3.0
+12.0
+0.2
+k = 1.25
+1.25
+0.24
+3 : 5
+27
+7.3
+
+
+===== [source page 142] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+142
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+The theorem is a statement about areas. Draw a square of side 
+ and place four copies of the
+right triangle around its edge. The four triangles leave an uncovered square in the middle, and that
+square has side , so its area is 
+. Equating two expressions for the large area gives the theorem:
+.
+c²
+a
+b
+b
+a
+Figure 7.3 Four copies of one triangle leave a central square of area 
+. The algebra holds for every positive  and , even though
+the drawing shows one particular pair.
+The diagram alone does not prove the theorem: it shows one arrangement, and a drawing can be
+inaccurate. The proof is the calculation that the two expressions for the large area must be equal.
+This is a useful pattern — a visual argument supplies insight, and algebra supplies the general
+justification.
+WO R K E D E X A M P L E 7.3.1
+FINDING THE HYPOTENUSE
+PROBLEM
+A right-angled triangle has legs  cm and 
+ cm. Find the length of the hypotenuse.
+ANSWER The hypotenuse is 
+ cm.
+D E F I N I T I O N S
+In a right-angled triangle, the side opposite the right angle is the hypotenuse. It is always the
+longest side. If the other two sides (the legs) have lengths  and , and the hypotenuse has
+length , then Pythagoras' theorem states that 
+. The converse is also true: if a
+triangle with longest side  satisfies 
+, then the angle opposite  is a right angle. A
+Pythagorean triple is a set of three positive whole numbers that satisfy the equation, such as
+; 
+; 
+ and 
+.
+a
+b
+c
+a +
+2
+b =
+2
+c2
+c
+a +
+2
+b =
+2
+c2
+c
+3, 4, 5 5, 12, 13 8, 15, 17
+7, 24, 25
+a + b
+c
+c2
+(a + b) =
+2
+4
+​ab +
+( 2
+1
+)
+c
+⇒
+2
+a +
+2
+2ab + b =
+2
+2ab + c
+⇒
+2
+a +
+2
+b =
+2
+c2
+c2
+a
+b
+9
+12
+The hypotenuse  is opposite the right angle, so 
+.
+1
+c
+9 +
+2
+12 =
+2
+c2
+, so 
+.
+2
+81 + 144 = 225
+c =
+2
+225
+, taking the positive root because a length is positive.
+3
+c =
+​ =
+225
+15
+Check: 
+ is greater than both  and 
+, as the hypotenuse must be.
+4
+15
+9
+12
+15
+
+
+===== [source page 143] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+143
+WO R K E D E X A M P L E 7.3. 2
+FINDING A LEG, TWICE
+PROBLEM
+A 
+ m ladder leans against a vertical wall with its foot 
+ m from the wall. (a) How far up
+the wall does it reach? (b) How far from the wall must the foot be placed for the top to reach
+exactly 
+ m?
+ANSWER (a) 
+ m   (b) about 
+ m from the wall.
+WO R K E D E X A M P L E 7.3.3
+DISTANCE AND THE CONVERSE
+PROBLEM
+(a) Find the distance between 
+ and 
+. (b) A triangle has sides  cm, 
+ cm and
+ cm. Show that it is right-angled and state where the right angle is.
+ANSWER (a) 
+ units   (b) right-angled, with the right angle between the  cm and 
+ cm sides.
+PRACTICE 7.3 · PYTHAGORAS AND ITS CONVERSE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the hypotenuse of a right triangle with legs  cm and  cm. 
+F
+2. Find the missing leg when the hypotenuse is 
+ m and one leg is  m. 
+F
+3. Find the diagonal of a rectangle measuring  m by 
+ m. 
+F
+4. An isosceles triangle has equal sides 
+ cm and base 
+ cm. Find its height and area. 
+R
+5. Find the distance between 
+ and 
+. 
+F
+6. Decide whether each triangle is right-angled: (a) 
+; (b) 
+; (c) 
+. Justify each answer.
+R
+7. A 
+ m ladder has its foot 
+ m from a wall. How high does it reach? If the foot is moved to 
+ m from
+the wall, how far does the top slide down? 
+P
+2.6
+1.0
+2.5
+The ladder is the hypotenuse. For (a), the height  satisfies 
+.
+1
+h
+h +
+2
+1.0 =
+2
+2.62
+, so 
+ m.
+2
+h =
+2
+6.76 −1.00 = 5.76
+h = 2.4
+For (b), let the distance be . Then 
+.
+3
+d
+d +
+2
+2.5 =
+2
+2.62
+, so 
+ m.
+4
+d =
+2
+6.76 −6.25 = 0.51
+d =
+​ ≈
+0.51
+0.714
+The foot must move closer to the wall, to about 
+ m, which is consistent with the top rising.
+5
+0.71
+2.4
+0.71
+A(−2, 3)
+B(4, −5)
+8
+15
+17
+(a) The horizontal difference is 
+ and the vertical difference is 
+.
+1
+4 −(−2) = 6
+−5 −3 = −8
+These are the legs of a right triangle, so 
+.
+2
+AB =
+2
+6 +
+2
+(−8) =
+2
+36 + 64 = 100
+.
+3
+AB = 10
+(b) The longest side is 
+, so test 
+ against 
+: 
+.
+4
+17
+8 +
+2
+152
+172 64 + 225 = 289 = 172
+By the converse of Pythagoras, the angle opposite the 
+ cm side is 
+.
+5
+17
+90∘
+10
+8
+15
+C O M M O N E R R O R · S Q UA R I N G T H E W R O N G S I D E , O R A D D I N G W H E N YO U S H O U L D S U BT R AC T
+The equation 
+ only works when  is the hypotenuse. To find a leg, subtract the
+square of the known leg from the square of the hypotenuse; the result must be smaller than
+the hypotenuse. Do not decide from a sketch which side is longest — identify the right angle
+first. When using the converse, square the longest side on its own and compare, rather than
+assuming the triangle is right-angled and forcing the numbers to fit.
+a +
+2
+b =
+2
+c2
+c
+6
+8
+17
+8
+5
+12
+10
+12
+(1, −2)
+(7, 6)
+7, 24, 25
+9, 12, 16
+10, 24, 26
+4.5
+1.8
+2.7
+
+
+===== [source page 144] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+144
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+8. A right triangle has hypotenuse 
+ cm and one leg  cm longer than the other. Find both legs. 
+E
+ Trigonometric ratios
+CRITERION A · I, II
+CRITERION C · II
+RELATIONSHIPS
+In a right-angled triangle, the ratio of two sides is fixed by the acute angle. That single fact
+converts an angle measurement into a length, and a length ratio back into an angle. The
+three standard ratios are called sine, cosine and tangent.
+θ
+adjacent
+opposite
+hypotenuse
+A
+B
+C
+Figure 7.4 The labels “opposite” and “adjacent” move if the other acute angle is chosen; the hypotenuse does not. The three ratios
+are defined relative to the marked angle .
+Because the ratios depend only on the angle, a calculator can store them. To recover an angle from
+a ratio, use the inverse functions 
+, 
+ and 
+. Work in degree mode unless a question
+states otherwise. Tangent has a direct graphical meaning: in a right triangle whose adjacent side is
+horizontal, 
+ is the gradient of the sloping side, rise divided by run.
+EXACT VALUES FOR SPECIAL ANGLES
+Two triangles supply the exact values that appear throughout later mathematics. A square of side 
+has diagonal 
+ by Pythagoras, and its diagonal splits the right angle into two 
+ angles. An
+equilateral triangle of side , cut along an altitude, gives a 
+–
+–
+ triangle whose altitude is
+.
+25
+5
+7.4
+D E F I N I T I O N S
+For an acute angle  in a right-angled triangle, label the side opposite  as the opposite, the
+side next to  (but not the hypotenuse) as the adjacent, and the longest side as the
+hypotenuse. Then
+The ratios are properties of the angle, not of the triangle: any two right triangles with the
+same acute angle are similar by AA, so their corresponding side ratios are equal. The
+mnemonic SOH–CAH–TOA records the three definitions.
+θ
+θ
+θ
+sin θ =
+​,
+cos θ =
+hypotenuse
+opposite
+​,
+tan θ =
+hypotenuse
+adjacent
+​.
+adjacent
+opposite
+θ
+sin−1 cos−1
+tan−1
+tan θ
+1
+​2
+45∘
+2
+30∘60∘90∘
+​ =
+2 −1
+2
+2
+​3
+
+
+===== [source page 145] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+145
+EXACT TRIGONOMETRIC VALUES
+These values are exact, unlike the decimal approximations a calculator returns. They also give a
+quick check: 
+ must display as 
+. If it does not, the calculator is in the wrong mode.
+WO R K E D E X A M P L E 7. 4.1
+WRITING THE THREE RATIOS
+PROBLEM
+Triangle 
+ is right-angled at 
+, with 
+ cm, 
+ cm and 
+ cm. Write 
+,
+ and 
+ as fractions and decimals, then find the size of angle  to one decimal place.
+ANSWER
+, 
+, 
+; 
+.
+WO R K E D E X A M P L E 7. 4. 2
+FINDING TWO SIDES FROM AN ANGLE
+PROBLEM
+A right-angled triangle has an acute angle of 
+ and its adjacent side is 
+ mm. Find the
+opposite side and the hypotenuse, each to one decimal place.
+ANSWER Opposite 
+ mm; hypotenuse 
+ mm.
+WO R K E D E X A M P L E 7. 4.3
+FROM A GRADIENT TO AN ANGLE
+PROBLEM
+A ramp rises 
+ m over a horizontal run of 
+ m. Find the angle the ramp makes with the
+horizontal, to one decimal place, and the length of the sloping surface, to two decimal places.
+ANSWER Angle 
+; sloping length 
+ m.
+θ
+sin θ
+cos θ
+tan θ
+30∘
+​2
+1
+​
+2
+​3
+​ =
+​3
+1
+​
+3
+​3
+45∘
+​
+2
+​2
+​
+2
+​2
+1
+60∘
+​
+2
+​3
+​2
+1
+​3
+sin 30∘
+0.5
+PQR
+Q
+PQ = 4
+QR = 3
+PR = 5
+sin P
+cos P
+tan P
+P
+Relative to angle , the opposite side is 
+, the adjacent side is 
+ and the
+hypotenuse is 
+.
+1
+P
+QR = 3
+PQ = 4
+PR = 5
+, 
+ and 
+.
+2
+sin P =
+​ =
+5
+3
+0.6 cos P =
+​ =
+5
+4
+0.8
+tan P =
+​ =
+4
+3
+0.75
+Check with Pythagoras: 
+, so the triangle is right-angled as stated.
+3
+3 +
+2
+4 =
+2
+52
+. Using 
+ or 
+ gives the same angle, which is a useful
+check.
+4
+P = tan
+(0.75) ≈
+−1
+36.9∘
+sin
+(0.6)
+−1
+cos
+(0.8)
+−1
+sin P = 0.6 cos P = 0.8 tan P = 0.75 P ≈36.9∘
+32∘
+45
+For the opposite side, use tangent: 
+.
+1
+tan 32 =
+∘
+​
+45
+opposite
+Opposite 
+ mm.
+2
+= 45 tan 32 ≈
+∘
+45 × 0.6249 ≈28.1
+For the hypotenuse, use cosine: 
+, so hypotenuse 
+ mm.
+3
+cos 32 =
+∘
+​
+hypotenuse
+45
+=
+​ ≈
+cos 32∘
+45
+53.1
+Check with Pythagoras: 
+, and 
+. The small
+difference comes from rounding 
+.
+4
+45 +
+2
+28.1 ≈
+2
+2025 + 789.6 = 2814.6
+53.1 ≈
+2
+2819.6
+28.1
+≈28.1
+≈53.1
+1.2
+9.0
+The rise is opposite the angle and the run is adjacent, so 
+1
+tan θ =
+​ =
+9.0
+1.2
+0.1333 …
+.
+2
+θ = tan
+(0.1333 …) ≈
+−1
+7.6∘
+The sloping surface is the hypotenuse: 
+.
+3
+L =
+​ =
+1.2 + 9.0
+2
+2
+​ =
+1.44 + 81
+​
+82.44
+ m. Equivalently, 
+ m.
+4
+L ≈9.08
+L =
+​ ≈
+cos 7.6∘
+9.0
+9.08
+≈7.6∘
+≈9.08
+
+
+===== [source page 146] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+146
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 7.4 · SINE, COSINE AND TANGENT
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. In a right triangle, angle  has opposite side , adjacent side 
+ and hypotenuse 
+. Write 
+, 
+ and
+ as fractions. 
+F
+2. Find , the side opposite a 
+ angle, when the hypotenuse is 
+ cm. 
+F
+3. Find , the side adjacent to a 
+ angle, when the hypotenuse is 
+ m. 
+F
+4. Find  to one decimal place: (a) 
+; (b) 
+; (c) 
+. 
+F
+5. Without a calculator, find the exact value of (a) 
+ and (b) 
+. 
+R
+6. A 
+ m tree casts a shadow when the sun's angle of elevation is 
+. Find the length of the shadow to
+two decimal places. 
+P
+7. A kite string 
+ m long makes an angle of 
+ with the horizontal. Find the height of the kite above the
+hand, to one decimal place. 
+P
+8. A right triangle has an acute angle of 
+ and hypotenuse 
+. Show that the shorter leg is  and the
+longer leg is 
+. 
+E
+ Angles of elevation and depression
+CRITERION C · II, III
+CRITERION D · II
+MEASUREMENT
+Surveyors, pilots and architects rarely measure a height directly. They measure a
+horizontal distance and an angle from a horizontal line, then use a trigonometric ratio.
+The angle above the horizontal is called an angle of elevation; the angle below it is an
+angle of depression.
+θ
+horizontal distance
+height
+A
+B
+C
+Figure 7.5 The horizontal distance is the adjacent side, the height is the opposite side, and the line of sight is the hypotenuse. The
+angle of elevation is measured upward from the horizontal.
+C O M M O N E R R O R · T H E W R O N G R AT I O, O R T H E W R O N G M O D E
+“Opposite” and “adjacent” swap when you change the angle you are working with, so mark
+the angle before choosing a ratio. The hypotenuse is always opposite the right angle. Check
+that 
+ and 
+ are less than  for an acute angle; a value such as 
+ means the fraction was
+inverted. Keep the calculator in degree mode, and do not round an intermediate ratio before
+the final calculation.
+sin θ
+cos θ
+1
+1.4
+θ
+7
+24
+25
+sin θ cos θ
+tan θ
+x
+38∘
+20
+y
+55∘
+14
+θ
+tan θ = 0.85
+sin θ = 0.4
+cos θ = 0.25
+sin 45 +
+∘
+cos 30∘
+tan 60 ×
+∘
+tan 30∘
+14
+58∘
+32
+41∘
+30∘
+2x
+x
+x
+​3
+7.5
+
+
+===== [source page 147] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+147
+The same triangle can be read in two directions. From the ground, the object's height is opposite
+the elevation angle. From the top, the object on the ground is below the horizontal, and the
+depression angle is the angle inside the triangle at the top. Drawing both horizontal lines makes the
+alternate-angle relationship visible and prevents the most common error: placing the depression
+angle at the bottom of the diagram.
+WO R K E D E X A M P L E 7. 5.1
+HEIGHT FROM AN ELEVATION ANGLE
+PROBLEM
+From a point on level ground 
+ m from the base of a vertical tower, the angle of elevation of
+the top is 
+. Find the height of the tower to one decimal place, assuming the ground is
+horizontal and the tower is vertical.
+ANSWER The tower is approximately 
+ m tall.
+WO R K E D E X A M P L E 7. 5. 2
+A DEPRESSION ANGLE FROM A CLIFF
+PROBLEM
+From the top of a cliff 
+ m above sea level, the angle of depression of a boat is 
+. Find (a)
+the horizontal distance from the boat to the foot of the cliff and (b) the direct distance from
+the observer to the boat, each to one decimal place.
+ANSWER (a) 
+ m   (b) 
+ m.
+D E F I N I T I O N S
+The angle of elevation of an object is the angle between the horizontal line through the
+observer's eye and the line of sight to the object, measured upward. The angle of depression
+is the corresponding angle measured downward from the horizontal. Both are measured
+from the horizontal, never from the vertical. The line of sight is the straight line from the
+observer to the object. Because the horizontal lines at the two ends of a line of sight are
+parallel, the angle of elevation from  to 
+ equals the angle of depression from 
+ to 
+(alternate angles).
+A
+B
+B
+A
+60
+28∘
+The tower, the horizontal ground and the line of sight form a right triangle. The height is
+opposite 
+ and 
+ m is adjacent.
+1
+28∘
+60
+, so 
+.
+2
+tan 28 =
+∘
+​
+60
+h
+h = 60 tan 28∘
+, so 
+ m.
+3
+tan 28 ≈
+∘
+0.5317
+h ≈60 × 0.5317 ≈31.9
+The answer is a model: if the ground slopes or the tower leans, the triangle is not right-angled
+and the height is only an estimate.
+4
+31.9
+45
+34∘
+Draw a horizontal line at the top of the cliff. The angle between it and the line of sight is 
+,
+so the angle inside the right triangle at the top is also 
+.
+1
+34∘
+34∘
+The vertical drop 
+ m is opposite this angle and the horizontal distance  is adjacent, so
+.
+2
+45
+d
+tan 34 =
+∘
+​
+d
+45
+ m.
+3
+d =
+​ ≈
+tan 34∘
+45
+​ ≈
+0.6745
+45
+66.7
+For the direct distance , the vertical drop is opposite the 
+ angle and  is the hypotenuse:
+ m.
+4
+L
+34∘
+L
+L =
+​ ≈
+sin 34∘
+45
+​ ≈
+0.5592
+45
+80.5
+66.7
+80.5
+
+
+===== [source page 148] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+148
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 7. 5.3
+ALLOWING FOR EYE HEIGHT
+PROBLEM
+A student whose eyes are 
+ m above the ground stands 
+ m from a building. She measures
+the angle of elevation of the top of the building as 
+. Find the height of the building to one
+decimal place.
+ANSWER The building is approximately 
+ m tall.
+PRACTICE 7.5 · ELEVATION AND DEPRESSION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. From a point 
+ m from the base of a tower on level ground, the angle of elevation of the top is 
+.
+Find the height of the tower. 
+F
+2. From the top of a 
+ m cliff, the angle of depression of a boat is 
+. Find the horizontal distance to the
+boat. 
+F
+3. An observer's eyes are 
+ m above the ground. She stands 
+ m from a flagpole and measures an angle
+of elevation of 
+. Find the height of the flagpole. 
+F
+4. A 
+ m tower stands on level ground. Find the distance from a point where the angle of elevation of
+the top is 
+. 
+F
+1.55
+28
+36∘
+The right triangle starts at eye level, not at the ground. Let  be the height of the building
+above eye level.
+1
+x
+, so 
+ m.
+2
+tan 36 =
+∘
+​
+28
+x
+x = 28 tan 36 ≈
+∘
+28 × 0.7265 ≈20.34
+The total height is  plus the eye height: 
+ m.
+3
+x
+20.34 + 1.55 = 21.89
+Rounding at the end gives 
+ m. Rounding 
+ to 
+ first would lose almost 
+ m.
+4
+21.9
+20.34
+20
+0.4
+21.9
+C O M M O N E R R O R · M E AS U R I N G T H E A N G L E F R O M T H E W R O N G L I N E
+An angle of depression of 
+ is not the 
+ angle between the line of sight and the vertical,
+and it is not the angle at the foot of the cliff. Mark the horizontal at the observer and use
+alternate angles to transfer the angle into the triangle. Remember to add the observer's eye
+height when the triangle starts at eye level. Finally, the horizontal distance is the adjacent
+side; do not use the sloping line of sight as the adjacent side.
+34∘
+56∘
+M A K I N G C O N N E C T I O N S · G R A D I E N T AS A N A N G L E
+Builders and engineers often quote a slope as a percentage grade rather than an angle. The
+grade is 
+, so a 
+ grade rises 
+ m for every 
+ m horizontally, but the angle is only
+. The percentage and the angle are not interchangeable, and the gap grows
+quickly as the slope steepens.
+COMMON GRADIENTS AND THEIR ANGLES
+Gradient
+Grade
+Angle
+Typical use
+railway ruling gradient
+maximum accessible ramp
+steep driveway
+steep mountain road
+Keeping the two measures distinct matters: a ramp described as “8%” is close to the 
+limit, while one described as “8 degrees” is almost twice as steep and would fail the
+guideline.
+100 tan θ
+10%
+10
+100
+tan
+(0.10) ≈
+−1
+5.7∘
+1 : 20
+5%
+2.9∘
+1 : 12
+8.3%
+4.8∘
+1 : 8
+12.5%
+7.1∘
+1 : 4
+25%
+14.0∘
+1 : 12
+80
+35∘
+70
+42∘
+1.7
+40
+23∘
+25
+61∘
+
+
+===== [source page 149] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+149
+5. An aircraft is 
+ m above the ground. The angle of depression of the airport runway is 
+. Find the
+horizontal distance to the runway, in kilometres. 
+R
+6. Two points  and 
+ are 
+ m apart on level ground on the same side of a tower. The angles of elevation
+of the top from  and 
+ are 
+ and 
+ respectively, with 
+ closer to the tower. Find the height of the
+tower. 
+P
+7. A ramp rises 
+ m over a horizontal run of 
+ m. Find its angle to the horizontal and the length of its
+sloping surface. 
+P
+8. From the top of a 
+ m building, the angle of depression of the top of a shorter building 
+ m away is
+. Find the height of the shorter building. 
+E
+900
+17∘
+A
+B
+50
+A
+B
+40∘
+55∘
+B
+0.8
+11
+30
+24
+15∘
+Investigation · The shadow rule
+CRITERION B
+On a sunny day, every vertical object casts a shadow. The sun's rays are effectively parallel, so all
+the shadow triangles formed at the same moment have the same angles. In this investigation you
+will test whether the ratio of height to shadow length is constant, prove why it must be, and use
+the result to measure something you cannot reach.
+MEASUREMENTS TAKEN ON LEVEL GROUND AT THE SAME TIME
+Object
+Height  (m)
+Shadow  (m)
+Metre rule
+1.00
+0.75
+1.333
+Pole
+1.20
+0.90
+1.333
+Student
+1.65
+1.24
+1.331
+Tree
+?
+9.60
+—
+1. Measure. In a school yard, measure the height and shadow length of at least three vertical
+objects. Record each to the nearest centimetre and calculate 
+ to three decimal places.
+Keep all measurements in the same unit.
+2. Pattern. Compare the ratios. Are they constant within the precision of your measurements?
+State a conjecture relating height, shadow length and a constant .
+3. Explain. Draw one triangle for the metre rule and one for the pole. Mark the right angle at the
+foot of each object and the angle of the sun's rays. Explain why the two triangles are similar by
+AA, and why this forces the ratio 
+ to be the same.
+4. Apply. Use your value of  to estimate the height of the tree from its 
+ m shadow. Compare
+with a direct estimate and comment on the difference.
+5. Quantify. If the tree's shadow is measured 
+ m too long, by how much does the estimated
+height change? Which measurement — height of a reference object or shadow length —
+contributes more error, and why?
+6. Challenge the assumptions. List three conditions the method requires. For each, describe
+what happens to the estimate if the condition fails: sloping ground, objects that are not
+vertical, measurements taken at different times.
+7. Connect. Show that the constant  equals 
+, where  is the sun's angle of elevation. Use one
+row of the table to calculate  to one decimal place.
+8. Evaluate. Would you trust this method for a 
+ m building? Explain what you would change to
+improve reliability.
+A constant ratio in three rows is evidence, not proof. The proof is the AA similarity argument, which explains
+why the ratio must be constant for every vertical object at that moment. Distinguish clearly between what your
+data shows and what the geometry guarantees.
+h
+s
+h ÷ s
+h ÷ s
+k
+h ÷ s
+k
+9.60
+0.10
+k
+tan θ
+θ
+θ
+30
+
+
+===== [source page 150] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+150
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Application · The library ramp
+CRITERION D · I, II, III, IV
+MEASUREMENT
+DESIGN
+A library must provide step-free access at two entrances. The local accessibility guideline sets a
+maximum ramp gradient of 
+ (one unit of rise for every twelve units of horizontal run). A
+designer surveys both entrances and records the data below. The ramp will be 
+ m wide, with a
+ m square landing at the top.
+SURVEY DATA FOR THE TWO ENTRANCES
+Entrance
+Total rise (m)
+Available run (m)
+Minimum run at 
+ (m)
+Outcome
+Main
+0.72
+12.00
+8.64
+fits, with spare length
+Side
+1.05
+11.50
+12.60
+ m short
+1. For the main entrance, verify the minimum run at 
+. Using the full available run of 
+m, calculate the actual gradient as a ratio, the angle of the ramp to the horizontal, and the
+sloping length of the surface.
+2. For the side entrance, calculate the gradient if the full 
+ m run is used, and its angle.
+Compare it with the 
+ limit. Find the greatest rise that a 
+ m run can accommodate at
+, and state the shortfall.
+3. The side entrance cannot be lengthened. Propose two compliant solutions and evaluate each
+in terms of cost, space, user experience and maintenance.
+4. One solution is a switchback: two flights, each rising half the total height at 
+, joined by a
+ m square landing. Calculate the run of each flight and the overall length and width the
+switchback requires. Compare its footprint with the single ramp.
+5. The main ramp deck costs 
+ units per square metre of sloping surface, and the top landing
+costs the same rate. Handrails cost 
+ units per metre and are fitted on both sides of the
+sloping surface. Calculate the total cost, then add a 
+ contingency and round to the
+nearest unit.
+6. The deck is surfaced with 
+ cm by 
+ cm non-slip strips. How many strips are needed for the
+sloping surface, allowing no wastage? Explain why the supplier would round up and add a
+margin.
+7. The surveyor's rise measurement is accurate to 
+ cm. At 
+, by how much does the
+required run change? Evaluate whether the design has enough tolerance at each entrance.
+8. Evaluate the model. Which assumptions (level ground, constant gradient, rigid deck,
+weather, user behaviour) are uncertain? List the records the designer should keep so that the
+ramp can be inspected, maintained and reproduced.
+C R I T E R I O N D F O C U S
+Convert a guideline into trigonometry, test a design against a physical constraint, cost it transparently,
+and evaluate the gap between a clean mathematical model and a safe, buildable ramp.
+1 : 12
+1.5
+1.5
+1 : 12
+1.10
+1 : 12
+12.00
+11.50
+1 : 12
+11.50
+1 : 12
+1 : 12
+1.5
+48
+32
+10%
+30
+30
+±2
+1 : 12
+
+
+===== [source page 151] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+151
+Criterion task · The lighthouse
+CRITERIA B AND C
+INVESTIGATING AND COMMUNICATING
+24 MARKS
+A coastal survey team needs the height of a lighthouse lamp above sea level. The lighthouse
+stands on a cliff that rises straight from the water. From a boat at position , the angle of elevation
+of the lamp is 
+. The boat moves 
+ m directly toward the cliff to position 
+, where the angle of
+elevation is 
+. A chart gives the cliff height as 
+ m above sea level. The lamp is treated as a point
+at the top of a vertical tower.
+1. Draw a diagram showing the cliff, the tower, the lamp, both boat positions and both angles.
+Define a variable  for the height of the lamp above sea level and  for the horizontal distance
+from  to the cliff. State two assumptions of the model. (3 marks)
+2. Form two equations connecting ,  and the given angles. Eliminate  and solve for , showing
+each algebraic step. Give your answer to the nearest metre. (5 marks)
+3. Find the horizontal distances from each boat position to the cliff. Verify that their difference is
+ m, and explain why this check does not prove that the answer is physically exact. (3 marks)
+4. Use the chart value to deduce the height of the lighthouse tower above the cliff. Comment on
+whether the result is plausible. (3 marks)
+5. A second boat is 
+ m horizontally from the cliff. Calculate the angle of elevation of the lamp
+from this boat, to one decimal place. (3 marks)
+6. The 
+ m baseline is measured to the nearest metre, so it could be 
+ m or 
+ m. Recalculate
+ for both values and state the range. Which input — the baseline or the angles — do you think
+contributes more uncertainty, and why? (4 marks)
+7. Evaluate the model. Explain how the observer's height above the water, the state of the sea and
+the shape of the cliff affect the result. Recommend one improvement to the survey procedure
+and justify it. (3 marks)
+PLANNING FRAME
+Draw: one vertical line for cliff and tower, one horizontal for sea level, two lines of sight from  and
+. Label: put  and  on the diagram before writing any ratio. Relate: in each right triangle,  is
+opposite and the horizontal distance is adjacent, so use tangent. Eliminate: write both distances in
+terms of , then subtract. Check: substitute back into both triangles. Communicate: keep full
+calculator values until the final rounding, and give units at every answer.
+BAND
+DESCRIPTOR
+MARKS
+4
+Clear labelled diagram; both equations correct; elimination and solution
+accurate; distances checked; tower height and second angle correct;
+sensitivity interpreted; assumptions evaluated with a justified improvement.
+19–24
+3
+Diagram and equations mostly correct; minor algebraic or rounding slip;
+distances and tower height largely correct; sensitivity attempted; evaluation
+identifies some assumptions.
+13–18
+2
+Some correct trigonometric ratios; equations may use the wrong side;
+solution incomplete; limited checking; evaluation generic.
+7–12
+1
+Isolated correct statements or a partially labelled diagram; no coherent
+model; conclusions unsupported.
+1–6
+CRITERIA: B, C
+(D)
+ATL: CRITICAL
+THINKING
+TIME: 60
+MINUTES
+CONDITIONS: SCIENTIFIC CALCULATOR
+ALLOWED
+MAPPED TO:
+ B strands i–iii and C strands i–iv, with D strand iii. The rubric is a course summary, not an official IB descriptor.
+A
+21∘
+120
+B
+35∘
+78
+h
+d
+A
+h d
+d
+h
+120
+250
+120
+118
+122
+h
+A
+B
+h
+d
+h
+h
+
+
+===== [source page 152] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+152
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+KEY IDEAS
+Similar figures have equal corresponding
+angles and corresponding sides in the same
+ratio; the scale factor is 
+.
+Under a scale factor , lengths scale by ,
+areas by 
+ and volumes by 
+.
+Triangles are similar by AA, SSS (all three
+side ratios equal) or SAS (two side ratios and
+the included angle).
+In a right triangle, Pythagoras' theorem
+gives 
+, where  is the hypotenuse;
+the converse tests for a right angle.
+Pythagorean triples such as 
+ and
+ generate further triples when
+multiplied by a whole number.
+For an acute angle : 
+, 
+,
+.
+The ratios depend only on , because all
+right triangles with that acute angle are
+similar.
+The exact values for 
+, 
+ and 
+ come
+from a halved equilateral triangle and a
+halved square.
+Inverse trigonometric functions recover an
+angle from a ratio; keep the calculator in
+degree mode.
+Angles of elevation and depression are
+measured from the horizontal; the two are
+equal when taken between the same two
+points.
+REVISION CHECKLIST
+VOCABULARY
+similar
+Same shape, with equal corresponding angles and
+proportional sides.
+scale factor
+The multiplier relating corresponding lengths.
+enlargement
+A transformation with a centre and a scale factor.
+corresponding sides
+Sides in matching positions in similar figures.
+AA
+Two equal angles; sufficient for similarity.
+SSS similarity
+All three pairs of sides in the same ratio.
+SAS similarity
+Two side ratios equal with equal included angles.
+indirect measurement
+Finding a length you cannot measure directly, using a
+model.
+Pythagoras' theorem
+ in a right triangle.
+hypotenuse
+The side opposite the right angle; the longest side.
+converse
+The reverse statement: a right angle follows from
+.
+Pythagorean triple
+Three whole numbers satisfying 
+.
+sine
+Opposite divided by hypotenuse.
+cosine
+Adjacent divided by hypotenuse.
+k = object length
+image length
+k
+k
+k2
+k3
+a +
+2
+b =
+2
+c2
+c
+3, 4, 5
+5, 12, 13
+θ sin θ =
+​
+hyp
+opp cos θ =
+​
+hyp
+adj
+tan θ =
+​
+adj
+opp
+θ
+30∘45∘
+60∘
+I can find a scale factor and use it to
+calculate lengths, areas and volumes.
+I can prove two triangles similar by AA,
+SSS or SAS and write the correspondence
+correctly.
+I can use Pythagoras to find either leg or
+the hypotenuse, and its converse to test a
+triangle.
+I can choose sine, cosine or tangent from a
+labelled diagram.
+I can find a side or an angle with
+trigonometry and round appropriately.
+I can solve elevation and depression
+problems, including eye height.
+I can state the assumptions behind an
+indirect measurement and assess its
+uncertainty.
+a +
+2
+b =
+2
+c2
+a +
+2
+b =
+2
+c2
+a +
+2
+b =
+2
+c2
+
+
+===== [source page 153] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+153
+tangent
+Opposite divided by adjacent; the gradient of the
+sloping side.
+angle of elevation
+Angle measured upward from the horizontal.
+angle of depression
+Angle measured downward from the horizontal.
+line of sight
+The straight line from an observer to an object.
+M I X E D P R AC T I C E · C H A P T E R 7
+Connecting the ideas
+FLUENCY Core procedures
+1. Triangles 
+ and 
+ are similar, with 
+, 
+, 
+ and 
+. Find 
+ and 
+. 
+F
+2. Find the hypotenuse of a right triangle with legs  cm and 
+ cm. 
+F
+3. A right triangle has an angle of 
+ and hypotenuse 
+ cm. Find the side opposite the 
+ angle, to one
+decimal place. 
+F
+4. A 
+ m person casts a 
+ m shadow. At the same time, a vertical pole casts a 
+ m shadow. Find the
+height of the pole. 
+F
+REASONING Justify and connect
+1. Two similar cylinders have heights  cm and 
+ cm. Find the ratio of their curved surface areas and the
+ratio of their volumes. 
+R
+2. Explain why the angle of elevation from  to 
+ equals the angle of depression from 
+ to . Name the
+angle relationship you use. 
+R
+3. A triangle has sides  cm, 
+ cm and 
+ cm. A second has sides  cm, 
+ cm and 
+ cm. Decide which is
+right-angled and justify both decisions. 
+R
+4. A student calculates 
+ for an acute angle of a right triangle. Explain why this is impossible. 
+R
+APPLICATION Use and evaluate
+1. A  m ladder reaches 
+ m up a vertical wall. Find the angle it makes with the ground and the distance
+of its foot from the wall. 
+P
+2. From the top of a 
+ m tower, the angles of depression of two cars on the same straight road are 
+ and
+. Find the distance between the cars. 
+P
+3. A map has scale 
+. A lake has area 
+ cm² on the map. Find its real area in square kilometres.
+P
+4. A drone hovers 
+ m above level ground. The angle of depression of a marker on the ground is 
+. Find
+the horizontal distance to the marker and the direct distance from the drone, each to one decimal place.
+P
+5. A ramp must rise 
+ m at a gradient no steeper than 
+. Find the minimum horizontal run and the
+corresponding sloping length. If only 
+ m of run is available, show that the design is not compliant and
+state the shortfall. 
+E
+6. A tree is estimated from a 
+ m shadow. If the shadow is actually 
+ m shorter, by how much does the
+estimated height change? Compare the reliability of the shadow method with the angle method, and
+state one condition under which each fails. 
+E
+ABC
+DEF
+AB = 6 BC = 9 AC = 12
+DE = 8
+EF
+DF
+7
+24
+42∘
+15
+42∘
+1.8
+2.4
+6.0
+6
+15
+A
+B
+B
+A
+9
+12
+15
+9
+12
+17
+sin θ = 1.4
+6
+5.4
+40
+28∘
+42∘
+1 : 20 000
+6.5
+120
+38∘
+1.1
+1 : 12
+12
+9.6
+0.3

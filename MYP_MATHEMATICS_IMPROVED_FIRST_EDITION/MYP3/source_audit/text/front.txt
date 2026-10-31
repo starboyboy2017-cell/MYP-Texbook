@@ -1,0 +1,1236 @@
+
+
+===== [source page 1] =====
+3
+M I D D L E Y E A R S P R O G R A M M E
+Y E A R 3 · M AT H E M AT I C S
+F I R S T E D I T I O N
+2 0 2 6
+M Y P
+MATHEMATICS
+3
+Student
+Coursebook
+An inquiry-led course in number, algebra, proof, space and
+evidence — built around concepts, contexts and criteria.
+x
+y
+O
+r
+A
+B
+C
+P O S I T I O N · P A T T E R N · P R O O F · M E A S U R E
+y = f(x)
+Real numbers · Powers and scientific notation · Functions and algebra
+Linear relationships · Equations and systems · Transformations and congruence
+Similarity and trigonometry · Solids and measurement · Bivariate data · Probability and evidence
+SADIKOU Moukoddim
+HEAD OF MATHEMATICS DEPARTMENT | MATHEMATICS TEACHER | CATEGORY 1
+S T U D E N T E D I T I O N
+M Y P Y E A R 3
+
+
+===== [source page 2] =====
+M Y P M AT H E M AT I C S
+Y E A R 3
+S T U D E N T C O U R S E B O O K
+F I R S T E D I T I O N · 2 0 2 6
+M Y P
+Mathematics 3
+Student Coursebook
+An inquiry-led course in number systems, algebraic reasoning,
+linear relationships, proof, space, measurement and evidence —
+designed around the concepts, contexts and assessment criteria of
+the Middle Years Programme.
+SADIKOU Moukoddim
+HEAD OF MATHEMATICS DEPARTMENT |
+MATHEMATICS TEACHER | CATEGORY 1
+
+
+===== [source page 3] =====
+M
+3
+MYP Mathematics 3 — Student Coursebook
+F I R S T E D I T I O N · 2 0 2 6
+Copyright © 2026 SADIKOU Moukoddim. All rights reserved. No part of this publication may
+be reproduced, stored in a retrieval system, or transmitted in any form or by any means—
+electronic, mechanical, photocopying, recording or otherwise—without prior written
+permission from the author, except for brief quotations in reviews and for classroom use by
+the purchasing teacher.
+Author and publisher: SADIKOU Moukoddim | Head of Mathematics Department |
+Mathematics Teacher | Category 1.
+Independence statement. This is an independent educational publication. It is not
+published by, sponsored by, endorsed by, or affiliated with the International Baccalaureate
+Organization. “IB”, “IBO” and “MYP” are trademarks of the International Baccalaureate
+Organization. References to the MYP framework are provided for curriculum alignment and
+planning; they do not imply endorsement. Teachers should consult the current official MYP
+Mathematics subject guide and their school’s programme documentation for authoritative
+requirements.
+Originality. All explanatory prose, examples, exercises, investigations, sample responses,
+diagrams, page layouts and cover artwork in this book are original to this edition. Public
+curriculum descriptions and the publicly available contents list of Oxford University Press’s
+MYP Mathematics 3 were consulted only as reference points for topic coverage and
+progression; no Oxford text, exercise, illustration, layout or page design is reproduced or
+adapted.
+Scope and sequence. The order of chapters is one defensible school sequence, not an official
+required sequence. MYP schools design their own units around conceptual understandings
+and local contexts. Teachers should check the sequence against their programme
+documentation and their students’ prior learning.
+Data and contexts. Real-world scenarios use rounded, simplified or classroom-generated
+data. Figures are chosen to support the mathematics and may not reflect the most recent
+published statistics unless a source is named. Students should verify current data from a
+reliable source when a task requires it.
+Assessment. Criterion tasks, rubrics and level descriptors in this book are teaching tools
+written for formative classroom use. They paraphrase and interpret the MYP assessment
+criteria; they are not official IB descriptors and do not replace the current subject guide.
+Production. Typeset in Fraunces, Source Serif 4 and Inter. Mathematical notation rendered
+with KaTeX. Diagrams and cover art created as original vector illustrations. Produced with
+an HTML/CSS paged-media workflow.
+AUTHOR CREDIT: SADIKOU MOUKODDIM | HEAD OF MATHEMATICS DEPARTMENT | MATHEMATICS
+TEACHER | CATEGORY 1.
+Fonts: Fraunces, Source Serif 4 and Inter are licensed under the SIL Open Font License. KaTeX and Paged.js
+are used under the MIT License. All are used here within their license terms. No ISBN has been assigned to
+this independent edition.
+
+
+===== [source page 4] =====
+MYP MATHEMATICS 3
+4
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Contents
+M Y P M AT H E M AT I C S 3
+S T U D E N T C O U R S E B O O K
+F R O N T M AT T E R
+How to use this coursebook
+7
+The MYP framework in this course
+9
+Assessment criteria in practice
+12
+Course map and progression
+14
+Notation, reasoning and habits
+16
+N U M B E R A N D A L G E B R A I C S T R U C T U R E
+1
+The real number system
+Rational and irrational numbers, surds, order, intervals and the logic of proof
+19
+1.1 Rational numbers and decimal form
+22
+1.2 Irrational numbers and surds
+24
+1.3 Order, absolute value and intervals
+26
+1.4 Working with surds
+28
+1.5 Sets, logic and proof
+30
+Investigation · Chasing √2 with fractions
+32
+Application · Tolerance is an interval
+32
+Chapter summary and review
+34
+2
+Powers, roots and scientific notation
+Exponent laws, roots, rational exponents, scientific notation, magnitude and precision
+36
+2.1 Integer exponents and the exponent laws
+39
+2.2 Roots and rational exponents
+41
+2.3 Scientific notation
+43
+2.4 Orders of magnitude and estimation
+45
+2.5 Significant figures and precision
+46
+Investigation · Forty-two folds to the Moon
+48
+Application · A scale model of the solar system
+48
+Chapter summary and review
+51
+3
+Functions, expressions and algebraic reasoning
+Variables, function notation, domain and range, expanding, factorising and generalising patterns
+53
+3.1 Variables, expressions and substitution
+56
+3.2 Functions, domain and range
+57
+3.3 Expanding and factorising
+59
+3.4 Rearranging formulas
+61
+3.5 Sequences, patterns and generalisation
+63
+Investigation · The matchstick triangles
+65
+Application · Painting a community hall
+65
+Chapter summary and review
+68
+R E L AT I O N S H I P S A N D E Q U AT I O N S
+4
+Linear relationships and graphs
+Coordinates, gradient, equations of lines, direct proportion and linear models
+71
+4.1 From tables to straight lines
+74
+
+
+===== [source page 5] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+5
+4.2 Gradient as a rate of change
+76
+4.3 The equation of a straight line
+78
+4.4 Direct proportion
+81
+4.5 Linear models, prediction and fairness
+83
+Investigation · The candle clock
+85
+Application · A library of things
+85
+Chapter summary and review
+88
+5
+Equations, inequalities and systems
+Solving equations and inequalities, simultaneous equations, systems and feasible regions
+91
+5.1 Solving linear equations
+94
+5.2 Inequalities and solution sets
+96
+5.3 Simultaneous equations: graphs and substitution
+98
+5.4 Elimination and special systems
+100
+5.5 Systems of inequalities and resource allocation
+102
+Investigation · The three weighings
+104
+Application · The water refill station
+104
+Chapter summary and review
+107
+G E O M E T R Y , P R O O F A N D S PAC E
+6
+Transformations, congruence and symmetry
+Translations, reflections, rotations, congruence criteria, symmetry and tessellation
+111
+6.1 Moving shapes without changing them
+114
+6.2 Reflecting across a line
+116
+6.3 Rotating about a point
+119
+6.4 Congruence and its criteria
+122
+6.5 Symmetry and tessellation
+125
+Investigation · The angle that fits
+128
+Application · A tile panel for the community centre
+128
+Chapter summary and review
+131
+7
+Similarity, proof and trigonometry
+Similar figures, scale factors, Pythagoras, trigonometric ratios and indirect measurement
+134
+7.1 Similar figures and scale factors
+137
+7.2 Similar triangles and indirect measurement
+139
+7.3 Pythagoras' theorem
+141
+7.4 Trigonometric ratios
+144
+7.5 Angles of elevation and depression
+146
+Investigation · The shadow rule
+149
+Application · The library ramp
+150
+Chapter summary and review
+152
+8
+Three-dimensional solids and measurement
+Nets, plans and elevations, surface area and volume of solids, density, precision and packaging design
+155
+8.1 Solids, nets and views
+158
+8.2 Surface area of prisms and cylinders
+161
+8.3 Surface area of pyramids and cones
+163
+8.4 Volume of prisms and cylinders
+165
+8.5 Pyramids, cones, spheres and composite solids
+167
+8.6 Measurement, density and precision
+171
+Investigation · The 330 mL can
+174
+Application · The rainwater tank
+174
+
+
+===== [source page 6] =====
+MYP MATHEMATICS 3
+6
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+177
+DATA , C H A N C E A N D E V I D E N C E
+9
+Bivariate data, correlation and causation
+Scatter plots, correlation, lines of best fit, prediction, causation, confounding and the critical reading of public claims
+181
+9.1 Two variables at once
+184
+9.2 Measuring linear association
+187
+9.3 The line of best fit
+190
+9.4 Correlation, cause and consequence
+192
+9.5 Reading claims critically
+195
+Investigation · Arm span and height
+199
+Application · The screen-time claim
+200
+Chapter summary and review
+202
+10
+Probability, sampling and evidence
+Probability, sample space, compound events, experimental probability, simulation, sampling, bias, risk and the
+communication of evidence
+206
+10.1 Outcomes, events and probability
+209
+10.2 Compound events: tables, trees and Venn diagrams
+212
+10.3 From theory to experiment
+216
+10.4 Populations, samples and bias
+219
+10.5 Risk, base rates and decisions
+222
+Investigation · How representative is a sample?
+225
+Application · The screening test
+225
+Chapter summary and review
+228
+E
+Cumulative review and examination practice
+Four criterion-style papers and a Year 3 exit task
+231
+R E F E R E N C E
+Answers and worked solutions
+239
+Formula bank
+269
+Glossary
+271
+Index
+273
+References and acknowledgements
+274
+
+
+===== [source page 7] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+7
+O R I E N TAT I O N
+How to use this coursebook
+Year 3 is where several familiar ideas become tools for general reasoning.
+A letter starts to stand for a family of numbers, a table of values becomes a
+relationship, a drawing becomes evidence for a claim, and a set of
+measurements becomes an argument about uncertainty.
+You already know how to calculate with whole
+numbers, fractions and decimals. You have
+met negative numbers, simple equations and
+the basic properties of shapes. This course
+asks you to work with those ideas at a different
+level: to explain why a rule always works, to
+choose an efficient representation, to connect
+an equation with its graph, and to decide when
+a numerical answer is precise enough to be
+useful.
+The book is arranged in four parts. Part I
+builds the number system and algebraic
+structure that the rest of the course depends
+on: irrational numbers, exponent laws,
+scientific notation, functions and algebraic
+manipulation. Part II turns that structure into
+relationships: gradient and intercept, linear
+models, equations, inequalities and systems.
+Part III is geometry as a deductive discipline:
+transformations, congruence, similarity, right-
+triangle trigonometry, and the measurement
+of solids. Part IV examines data and chance,
+with particular attention to the difference
+between a pattern in data and a causal claim.
+Every chapter follows the same inquiry
+rhythm. A situation raises a question;
+definitions and representations give you the
+tools to investigate it; worked examples make
+the reasoning visible; graded practice makes
+the method dependable; an investigation, an
+application and a criterion task ask you to use
+the mathematics beyond the original example.
+The answer section confirms your reasoning
+rather than replacing it.
+A N ATO M Y O F A C H A P T E R
+SIX MOVEMENTS, REPEATED IN EVERY CHAPTER
+01
+Chapter opener
+A visual context and one central
+question that makes the chapter’s
+mathematics worth developing.
+02
+MYP unit planner
+Key and related concepts, global
+context, statement of inquiry,
+inquiry questions and criterion
+mapping.
+03
+Intentions and prerequisites
+Learning intentions, success
+criteria, a prior-knowledge check
+and the boundary of the Year 3
+treatment.
+04
+Concept sequence
+Definitions, representations,
+worked examples, common errors
+and graduated practice for each
+concept.
+05
+Investigate and apply
+A conjecture-building
+investigation, a practical
+application and a mini-task
+mapped to MYP criteria.
+06
+Review and mixed practice
+Summary, reflection, revision
+checklist and cumulative
+questions combining the chapter’s
+ideas.
+
+
+===== [source page 8] =====
+MYP MATHEMATICS 3
+8
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+MATHEMATICAL HABITS THAT THIS COURSE DEVELOPS
+EXERCISE TYPES
+F
+FLUENCY
+Short, deliberate practice
+to make a method accurate
+and efficient.
+R
+REASONING
+Explain, compare, justify,
+find a counterexample or
+diagnose an error.
+P
+PROBLEM SOLVING
+Multi-step and unfamiliar
+contexts that require
+selection and planning.
+E
+EXTENSION
+Deeper structure,
+generalisation or a more
+open task.
+Represent. Move between symbols, tables,
+graphs, diagrams, words and physical
+models.
+→
+Justify. Say why a method works, not only
+what answer it produces.
+→
+Generalise. Move from examples to a rule,
+then test the rule against a new case.
+→
+Estimate. Predict the size and sign of an
+answer before calculating it.
+→
+Connect. Ask how an equation, a graph and
+a context describe the same relationship.
+→
+Reflect. Name what you understand, what is
+still fragile, and what you will do next.
+→
+H OW T H E L A B E L S WO R K
+Definition boxes state precise meanings. Key idea boxes connect a method to a larger
+principle. Strategy boxes give a reusable procedure. Common error boxes show a mistake
+worth anticipating. ATL boxes make a learning skill explicit and give you a way to practise it.
+Criterion strips name the MYP criterion and strands developed by a section.
+AT L · U S I N G T H E A N S W E R K E Y W E L L
+Attempt the question fully before
+checking. If your answer differs, locate
+the first line where your reasoning
+diverges. Mark the correction in a
+different colour and write one sentence
+explaining why the alternative was
+wrong. That sentence is often more
+valuable than the correct number.
+ACA D E M I C H O N E S T Y
+Copying a solution without
+understanding it creates the appearance
+of progress and hides a gap. Use sample
+answers to compare methods, not to
+replace your attempt. In investigations,
+report your own data and reasoning, and
+acknowledge any source you use.
+
+
+===== [source page 9] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+9
+T H E P R O G R A M M E I N P R A C T I C E
+The MYP framework in this course
+The Middle Years Programme asks students to learn mathematics as a
+connected, conceptual and applicable discipline. Concepts organise the
+content, contexts give it purpose, and criteria make the quality of thinking
+visible.
+Aims of MYP mathematics
+The MYP mathematics framework aims to help students enjoy mathematics, develop curiosity and
+confidence, build conceptual understanding, apply mathematics to authentic situations,
+communicate reasoning, think critically and creatively, and appreciate the international and
+historical dimensions of the subject. In Year 3, the emphasis shifts from describing procedures to
+explaining structure: why exponent laws follow from repeated multiplication, why a linear
+function has constant gradient, why congruence can be established from limited information, and
+why correlation alone cannot establish causation.
+K E Y C O N C E P T 0 1
+Form
+The shape, structure and
+organisation of
+mathematical objects:
+the form of a prime
+factorisation, the form of
+a linear equation, the
+form of a geometrical
+proof. Form helps us
+notice what is
+mathematically the same
+beneath different
+appearances.
+K E Y C O N C E P T 0 2
+Logic
+The reasoning that
+connects claims to
+conclusions. Logic asks
+not only “Is it true?” but
+“How do we know, and
+for which cases?” It is the
+discipline behind
+classification, deduction,
+counterexample and
+generalisation.
+K E Y C O N C E P T 0 3
+Relationships
+Connections between
+quantities, variables,
+representations and
+ideas. A function, a
+graph, a ratio, a
+similarity statement and
+a trend line are different
+ways of expressing
+relationships.
+Related concepts used in this course
+CHANGE
+How one quantity responds when
+another changes.
+EQUIVALENCE
+Different forms with the same
+value or meaning.
+GENERALISATION
+Extending a relationship to a
+whole class of cases.
+JUSTIFICATION
+Reasons and evidence that
+support a claim.
+MEASUREMENT
+Assigning numbers and units to
+attributes of objects.
+MODELS
+Simplified representations of a
+real situation.
+PATTERNS
+Regular structure that repeats or
+grows predictably.
+QUANTITY
+Number, magnitude, measure and
+unit.
+REPRESENTATION
+Words, symbols, tables, diagrams
+and graphs.
+
+
+===== [source page 10] =====
+MYP MATHEMATICS 3
+10
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+SIMPLIFICATION
+Rewriting an expression or result
+in a more efficient equivalent
+form.
+SPACE
+Position, direction,
+transformation and the
+properties of figures in two and
+three dimensions.
+SYSTEMS
+Interacting parts governed by
+rules — number systems,
+coordinate systems, systems of
+equations.
+Global contexts
+Each chapter is anchored in one of the six MYP global contexts. The context is not decoration: it
+shapes the questions asked, the data used and the kind of solution that counts as useful.
+GLOBAL CONTEXT
+HOW MATHEMATICS ENTERS THE INQUIRY
+Identities and relationships
+How categories, groups and belonging can be described and interrogated;
+how similarity and scale connect objects while preserving identity of
+shape.
+Orientation in space and
+time
+How number systems, calendars and measurement developed across
+cultures; how coordinates, transformations and scale structure space.
+Personal and cultural
+expression
+How proportion, pattern and geometry shape music, design, craft and
+architecture; how tessellation and symmetry create visual order.
+Scientific and technical
+innovation
+How accurate measurement, formulas, scientific notation and data
+displays support invention, engineering and scientific claims.
+Fairness and development
+How budgets, percentages, comparisons and data can support or distort
+fair decisions; how samples and claims can mislead.
+Globalization and
+sustainability
+How quantities are compared across communities and environments, and
+how claims about resources and risk are communicated.
+Inquiry in a mathematics lesson
+Inquiry does not mean that students are left to rediscover every definition without guidance. It
+means that a question genuinely drives the sequence of work, that students make and test
+conjectures, and that they can explain how a result was reached. The course uses a repeating
+pathway.
+1
+PROVOKE
+Notice a situation,
+pattern or claim
+that is not yet
+explainable.
+2
+QUESTION
+Turn the noticing
+into a
+mathematical
+question with
+quantities or
+objects.
+3
+REPRESENT
+Choose diagrams,
+tables, symbols or
+materials that
+reveal structure.
+4
+GENERALISE
+Move from
+examples to a
+rule, testing it
+against further
+cases.
+5
+APPLY
+Use the rule in a
+context and judge
+whether the
+answer makes
+sense.
+6
+REFLECT
+Evaluate the
+method, the
+evidence and the
+limits of the
+conclusion.
+Approaches to learning
+ATL skills are not an extra syllabus. They are the practices that make mathematical learning
+transferable. Each chapter names one ATL focus and gives a concrete way to practise it.
+
+
+===== [source page 11] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+11
+ATL CATEGORY
+WHAT IT LOOKS LIKE IN THIS COURSE
+Communication
+Writing a chain of reasoning that another student can follow; choosing
+notation and units deliberately; labelling axes and diagrams.
+Research
+Collecting or locating data, checking its provenance, recording sources
+and describing limitations.
+Thinking
+Testing conjectures, constructing counterexamples, comparing
+representations and transferring a method to a new context.
+Social
+Explaining a method to a partner, asking a clarifying question and
+reaching agreement on a justified answer.
+Self-management
+Planning a multi-step task, checking a result by an independent method
+and reflecting on an error.
+ATL FOCUS BY CHAPTER
+CHAPTER
+ATL FOCUS
+HOW IT IS PRACTISED
+1 · The real number system
+Critical thinking
+Testing universal claims, finding counterexamples
+and constructing a proof by contradiction.
+2 · Powers, roots and
+scientific notation
+Research
+Locating, comparing and presenting very large and
+very small quantities from reliable sources.
+3 · Functions and algebraic
+reasoning
+Thinking
+Moving between a pattern, a table, an expression and
+a graph; generalising a rule.
+4 · Linear relationships
+Communication
+Explaining the meaning of gradient and intercept in a
+real context with correct units.
+5 · Equations, inequalities
+and systems
+Self-
+management
+Planning a multi-step solution, checking by
+substitution and reviewing the reasonableness of a
+result.
+6 · Transformations and
+congruence
+Thinking
+Justifying congruence from limited information and
+distinguishing a demonstration from a proof.
+7 · Similarity, proof and
+trigonometry
+Research
+Using indirect measurement and evaluating the
+precision of a calculated length.
+8 · Three-dimensional
+solids
+Self-
+management
+Organising a multi-stage volume or surface-area
+calculation and checking units.
+9 · Bivariate data and
+causation
+Research
+Evaluating the provenance of data and separating a
+statistical association from a causal claim.
+10 · Probability and
+evidence
+Communication
+Reporting a sample, its limitations and a probability
+estimate in language a non-specialist can interpret.
+
+
+===== [source page 12] =====
+MYP MATHEMATICS 3
+12
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+A S S E S S M E N T F O R U N D E R S TA N D I N G
+Assessment criteria in practice
+MYP mathematics uses four criteria. They describe different qualities of
+mathematical work, not four separate syllabuses. A single rich task can
+provide evidence for more than one criterion.
+How the criteria work together
+A criterion task in this book names the criteria it is designed to evidence. A task may, for example,
+ask you to model a situation (A), identify and generalise a pattern (B), present the reasoning (C) and
+evaluate the accuracy and meaning of the result (D). Not every exercise needs all four criteria.
+Short fluency exercises usually provide evidence for A only; an investigation may provide evidence
+for B and C; a modelling task may provide evidence for A, C and D.
+A
+KNOWING AND UNDERSTANDING
+Select appropriate mathematics for
+familiar and unfamiliar problems.
+Apply the selected mathematics
+successfully.
+Solve problems correctly across a range of
+contexts.
+In this course: number systems, exponent
+laws, function notation, linear equations,
+angle and circle facts, trigonometry,
+surface area and volume.
+B
+INVESTIGATING PATTERNS
+Apply problem-solving techniques to
+recognise patterns.
+Describe patterns as relationships or
+general rules consistent with findings.
+Verify whether a pattern works for other
+examples.
+In this course: growth patterns, gradient
+and rate of change, transformation
+mappings, similarity ratios, scaling of
+volume, trends in bivariate data.
+C
+COMMUNICATING
+Use appropriate mathematical language,
+notation and symbols.
+Use different forms of representation and
+move between them.
+Present complete, coherent and concise
+lines of reasoning.
+Organise information using a logical
+structure.
+In this course: function notation, set and
+interval notation, congruence statements,
+two-column and paragraph proofs,
+labelled graphs and units.
+D
+APPLYING MATHEMATICS IN REAL-LIFE
+CONTEXTS
+Identify relevant elements of authentic
+situations.
+Select and apply mathematical strategies.
+Justify the degree of accuracy of a
+solution.
+Justify whether the solution makes sense
+in context.
+In this course: data plans, ramp design,
+packaging, urban planning, survey
+sampling, risk communication and
+evidence evaluation.
+
+
+===== [source page 13] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+13
+WHAT TO SHOW
+WHAT STRONG WORK LOOKS LIKE
+Selection
+The chosen method fits the structure of the problem, and an alternative
+was considered where relevant.
+Application
+Each step is mathematically valid, notation is accurate, and the result is
+checked against the context.
+Justification
+Claims are supported by reasons, definitions or evidence; a generalisation
+is distinguished from a set of examples.
+Communication
+A reader can follow the reasoning without reconstructing missing steps;
+diagrams and units are purposeful.
+Evaluation
+Limitations, assumptions and the appropriateness of the accuracy are
+stated, not merely implied.
+Formative practice is not a formal assessment
+Most questions in this book are practice, not summative assessment. Their purpose is to produce
+feedback: an error is information about what to practise next. Criterion tasks at the end of each
+chapter are longer and are accompanied by a planning frame and a course rubric. Teachers should
+apply their school’s official assessment descriptors and procedures; the bands in this book are
+teaching summaries, not official IB level descriptors.
+A N OT E O N C O M M A N D T E R M S
+State requires a short answer without justification. Describe requires relevant features.
+Explain requires reasons or mechanisms. Justify requires evidence or a valid argument.
+Evaluate requires a judgment supported by criteria. Investigate requires a planned process,
+data or examples, a pattern, and a conclusion. The command term tells you how much
+reasoning to show, not how long the answer must be.
+
+
+===== [source page 14] =====
+MYP MATHEMATICS 3
+14
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+S C O P E A N D S E Q U E N C E
+Course map and progression
+The sequence below is one coherent route through Year 3. Each chapter
+names the conceptual focus that organises it, the global context that gives
+it purpose, and the criteria most likely to be evidenced by its main task.
+PART
+CHAPTER
+CONCEPTUAL
+FOCUS
+GLOBAL CONTEXT
+MAIN CRITERION TASK
+I
+Number and
+algebraic
+structure
+1 · The real number
+system
+Form,
+equivalence, proof
+Orientation in space and time
+C — a mathematical
+exposition of
+irrationality
+I
+Number and
+algebraic
+structure
+2 · Powers, roots and
+scientific notation
+Patterns,
+representation,
+quantity
+Scientific and technical innovation
+D — communicating
+very large and very
+small quantities
+I
+Number and
+algebraic
+structure
+3 · Functions,
+expressions and
+algebraic reasoning
+Relationships,
+generalisation,
+equivalence
+Identities and relationships
+B — generalising a
+growing pattern
+II
+Relationships
+and
+equations
+4 · Linear
+relationships
+Change,
+relationships,
+models
+Fairness and development
+D — comparing two
+pricing models
+II
+Relationships
+and
+equations
+5 · Equations,
+inequalities and
+systems
+Equivalence,
+balance, systems
+Globalization and sustainability
+A and D — planning a
+resource allocation
+III
+Geometry,
+proof and
+space
+6 · Transformations,
+congruence and
+symmetry
+Space, form,
+justification
+Personal and cultural expression
+C — justifying
+congruence and
+symmetry
+III
+Geometry,
+proof and
+space
+7 · Similarity, proof
+and trigonometry
+Relationships,
+justification,
+measurement
+Orientation in space and time
+B and D — indirect
+measurement
+III
+Geometry,
+proof and
+space
+8 · Three-dimensional
+solids and
+measurement
+Measurement,
+models, change
+Globalization and sustainability
+D — packaging and
+material use
+IV
+Data, chance
+and evidence
+9 · Bivariate data,
+correlation and
+causation
+Relationships,
+models,
+justification
+Fairness and development
+D — evaluating a
+public claim
+IV
+Data, chance
+and evidence
+10 · Probability,
+sampling and
+evidence
+Quantity, models,
+justification
+Identities and relationships
+B and C — designing
+and reporting a
+sample
+What Year 3 assumes
+BEFORE YEAR 3
+Fluency with integers, fractions and decimals; percentage of a quantity; simple algebraic substitution; solving
+one- and two-step linear equations; angle facts for lines and triangles; area and perimeter of rectangles and
+
+
+===== [source page 15] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+15
+triangles; mean, median, mode and
+range.
+YEAR 3 · THIS COURSE
+Rational and irrational numbers;
+exponent laws; scientific notation;
+function ideas; linear functions and
+models; equation solving,
+inequalities and systems;
+transformations and congruence;
+similarity and trigonometry;
+volume and surface area; bivariate
+data; probability and sampling.
+YEARS 4–5
+Quadratic and exponential
+functions; algebraic fractions;
+simultaneous equations in more
+general forms; similarity proofs and
+the unit circle; vectors; complex
+numbers; statistical inference,
+probability distributions and
+modelling with functions.
+How the parts build on one another
+Part I
+Structure before method
+Irrational numbers extend the number line;
+exponent laws compress repeated
+multiplication; algebraic notation names a
+function. Without this structure, later
+procedures are memorised rather than
+understood.
+Part II
+Relationships as objects
+Linear functions connect tables, graphs,
+equations and contexts. Solving equations and
+systems is then a question about intersection
+and balance, not a sequence of arbitrary
+moves.
+Part III
+Reasoning about space
+Transformations make congruence precise.
+Similarity makes trigonometric ratios possible.
+Solids turn those ratios into volume and
+surface area, including the surprising cube law
+for scaling.
+Part IV
+Evidence and uncertainty
+Bivariate data connects algebra and statistics.
+Probability quantifies uncertainty. Sampling
+explains why a claim from data needs a
+method, a margin of doubt and a causal
+argument.
+AT L · P L A N N I N G YO U R Y E A R
+At the start of each chapter, look at the learning intentions and the criterion task. Write one
+question you expect the chapter to answer and one skill you want to become more reliable at.
+At the end, return to both. This small routine turns a list of topics into a plan for your own
+learning.
+
+
+===== [source page 16] =====
+MYP MATHEMATICS 3
+16
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+C O N V E N T I O N S
+Notation, reasoning and habits
+Mathematical notation is a form of compression: it lets a complex idea be
+held in a single line. Learn the conventions now, because a small notation
+error can change the meaning of an entire argument.
+Core notation
+the square of ;  multiplied by itself
+the non-negative number whose square is ; the square root of 
+the cube root of 
+the reciprocal of 
+, so 
+ for 
+scientific notation: 
+ multiplied by 
+ five times
+the function  assigns the output 
+ to the input 
+natural, integer, rational and real number sets
+is an element of; is not an element of
+the set of real numbers greater than or equal to 3 and less than 8
+a change in ; the difference between two -values
+gradient: vertical change divided by horizontal change
+ is proportional to ; there is a nonzero constant  with 
+triangles are congruent: corresponding vertices, sides and angles match
+triangles are similar: corresponding angles are equal and sides are in a constant ratio
+the probability of event 
+the conditional probability of  given that  has occurred
+sample mean; population mean
+standard deviation, a measure of spread
+Three habits of precise reasoning
+x2
+x x
+​x
+x
+x
+​
+3 x
+x
+a−n
+an
+a
+=
+−n
+​
+an1
+a =0
+3.2 × 105
+3.2
+10
+f(x) = 2x + 1
+f
+2x + 1
+x
+N,  Z,  Q,  R
+∈,  ∈/
+3 ≤x < 8
+Δx
+x
+x
+m =
+​
+Δx
+Δy
+y ∝x
+y
+x
+k
+y = kx
+△ABC ≅△DEF
+△ABC ∼△DEF
+P(A)
+A
+P(A ∣B)
+A
+B
+,  μ
+xˉ
+σ
+
+
+===== [source page 17] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+17
+H A B I T 0 1
+State the rule
+When you use a result,
+name it. “The sum of
+angles on a straight line
+is 
+” is stronger than
+“the angle is 40” because
+it shows the reason, not
+only the answer.
+H A B I T 0 2
+Distinguish
+example from
+proof
+Three examples support
+a conjecture; they do not
+prove it. A single
+counterexample refutes a
+universal claim. Write
+“for example” when you
+mean an example, and
+“because” when you
+mean a reason.
+H A B I T 0 3
+Keep the units
+A number without a unit
+may be meaningless.
+Carry units through
+calculations and check
+that the unit of the
+answer matches the
+quantity asked for.
+Writing a solution
+A complete solution does not need to be long. It needs to show the selection of a method, the
+execution of that method, and a check or conclusion. In this course, the pattern is:
+1
+Given and required. What information is supplied, and what must be found or shown?
+2
+Method. Which definition, rule or representation applies, and why?
+3
+Working. Carry out the steps without skipping a transformation that changes meaning.
+4
+Answer and check. State the answer with units, then test it against the context or by an
+independent method.
+180∘
+A N OT E O N CA LC U L ATO R S
+Unless a question says otherwise, a calculator is allowed. Calculator use does not replace
+estimation. Before entering a calculation, estimate the answer; after entering it, compare the
+display with your estimate. For irrational results, keep enough digits during working and
+round only at the end unless the question specifies otherwise.
+AT L · B U I L D I N G A P E R S O N A L G LO S SA RY
+Start a glossary in the back of your notebook. For each new term, write a definition, a
+diagram or example, and one contrast: “different from …”. A term you can define and contrast
+is a term you can use in an explanation.
+
+
+===== [source page 18] =====
+P A R T I · T H E S T R U C T U R E B E N E A T H T H E S Y M B O L S
+Number and
+algebraic structure
+The number line is not a list of labels; it is a system with
+gaps, extensions and rules. This part extends the
+numbers you know, compresses repeated multiplication
+into powers, and shows how a function organises a
+relationship between two quantities. The aim is not to
+memorise more rules, but to see why the rules are forced
+by the structure.
+I
+√2
+√2
+01
+The real number system
+02
+Powers, roots and scientific notation
+03
+Functions, expressions and algebraic reasoning

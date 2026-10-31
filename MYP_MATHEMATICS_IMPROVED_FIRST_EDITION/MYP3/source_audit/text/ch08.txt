@@ -1,0 +1,2510 @@
+
+
+===== [source page 154] =====
+PART III · GEOMETRY, PROOF AND SPACE
+7 · Similarity, proof and trigonometry
+154
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Find and use a scale factor for lengths, areas and
+volumes.
+1 / 2 / 3
+Prove triangles similar and use the
+correspondence to find a missing side.
+1 / 2 / 3
+Apply Pythagoras and its converse, including
+coordinate distance.
+1 / 2 / 3
+Choose and apply sine, cosine or tangent to find a
+side or an angle.
+1 / 2 / 3
+Solve elevation and depression problems and
+evaluate the assumptions.
+1 / 2 / 3
+Reflection
+An indirect measurement produces a single number that carries the uncertainty of every
+input. When should a surveyor report 
+ m, and when should the report say “between
+ m and 
+ m”? How does the purpose of the measurement decide?
+102
+100
+104
+
+
+===== [source page 155] =====
+PA R T I I I · G E O M E T R Y , P R O O F A N D S PA C E
+M Y P Y E A R 3
+C H A P T E R 0 8
+8
+G E O M E T R Y , P R O O F A N D S PA C E
+Three-dimensional solids
+and measurement
+A carton, a can and a water tank are all answers to the
+same question: how much space must be enclosed,
+and how much material will enclose it? Unfold the
+surface, slice the solid, fill it with layers, and the
+answer becomes a calculation.
+KEY CONCEPT · FORM
+RELATED · MEASUREMENT
+RELATED · MODELS
+CONTEXT · GLOBALIZATION AND SUSTAINABILITY
+I N Q U I R Y
+How much material does it take to hold a given volume — and how
+precisely can we know?
+AT L · S E L F - M A N AG E M E N T A N D C R I T I CA L T H I N K I N G
+A volume problem is rarely one calculation. It is a sequence: choose a model, convert every
+measurement to one unit, decompose the solid, calculate, check that the answer is plausible, then
+decide how many figures to report. Organise the work so that a wrong unit or a forgotten face cannot
+hide inside a long chain of arithmetic.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 156] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+156
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 8 · A P P R OX . 1 6 H O U R S
+AT L F O C U S · S E L F - M A N AG E M E N T
+KEY AND RELATED CONCEPTS
+Form. A solid is defined by its faces, edges and
+vertices. A net, a set of views or a cross-section is
+another representation of the same form, chosen
+to make a measurement visible.
+Measurement. Surface area measures the
+boundary in square units; volume measures
+enclosed space in cubic units. Both depend on
+length, but differently, and must be reported in
+matching units.
+Models and change. A formula models an ideal
+solid; real cans have seams, rims and varied wall
+thickness. Scaling changes area and volume at
+different rates, so large containers use less
+material per litre.
+GLOBAL CONTEXT AND EXPLORATION
+Globalization and sustainability.
+Exploration: packaging and material use —
+how the shape of a container affects the
+material consumed, the energy needed to
+transport it, and the waste left behind.
+A drink can is a compromise. A taller,
+thinner can uses less metal for the same
+volume, but it may be less stable, harder to
+hold and more expensive to ship.
+Mathematical optimisation does not make
+the decision; it makes the trade-offs visible
+and quantifiable.
+FACTUAL
+What are the faces, edges and
+vertices of a polyhedron?
+What is a net? Which
+formulas measure prisms,
+cylinders, pyramids, cones
+and spheres?
+CONCEPTUAL
+How does decomposing a
+solid make its enclosed space
+measurable? Why does
+doubling every length
+multiply area by four but
+volume by eight? Why can
+equal volumes need different
+amounts of material?
+DEBATABLE
+Should a manufacturer
+minimise material even
+when another shape sells
+better or protects the
+product? How precise should
+a stated capacity be when
+every measurement is
+uncertain?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Identify solids and their faces, edges and vertices; interpret nets
+and views; apply area and volume formulas.
+B · Investigating patterns
+i, ii, iii
+Measure cans, tabulate surface area against radius for a fixed
+volume, conjecture the most efficient proportion and test it.
+C · Communicating
+i, ii, iii, iv
+Draw and label nets, plans and elevations; present multi-stage
+calculations with units; explain rounding and tolerance.
+D · Applying mathematics
+i, ii, iii, iv, v
+Specify and cost a water tank, test a packaging claim, and evaluate
+a design against structural and sustainability constraints.
+S TAT E M E N T O F I N Q U I R Y
+The form of a solid determines both its capacity and its material cost;
+by modelling solids as nets, layers and measurable parts, we can
+compare packaging designs and justify choices about efficiency and
+sustainability.
+
+
+===== [source page 157] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+157
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Find the area of a rectangle  cm by  cm and of a triangle with base  cm and height  cm.
+2. Find the circumference and area of a circle of radius  cm, using 
+.
+3. Calculate 
+, 
+, 
+ and 
+.
+4. Convert 
+ m to centimetres and 
+ cm³ to litres.
+5. In a right triangle with legs  cm and  cm, find the hypotenuse.
+6. Round 
+ to two decimal places and to three significant figures.
+Answers are in the Chapter 8 answer section. If more than two are incorrect, review area, circle measurement, unit
+conversion and Pythagoras before continuing.
+BEFORE YEAR 3
+Area and perimeter of rectangles,
+triangles and circles; angle facts;
+Pythagoras' theorem; metric units of
+length and capacity; rounding to
+decimal places.
+YEAR 3 · THIS CHAPTER
+Nets, views and Euler's relationship;
+surface area and volume of standard
+solids; composite solids; similar
+solids; density, tolerance and
+bounds.
+LATER
+Surface area and volume by
+integration; three-dimensional
+coordinate geometry; optimisation
+with calculus; statistical process
+control and measurement
+uncertainty.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Containers are
+designed to hold a
+volume using as
+little material as
+practical.
+2
+QUESTION
+For a fixed
+volume, which
+shape uses the
+least material,
+and what other
+constraints
+matter?
+3
+CONCEPT
+Nets, surface area,
+volume, scaling
+and measurement
+precision.
+4
+INVESTIGATION
+Measure cans,
+compute the
+material-to-
+volume ratio and
+search for the
+most efficient
+proportion.
+5
+COMMUNICATION
+Draw the net,
+label the
+dimensions, keep
+units consistent
+and justify the
+rounding.
+6
+REFLECTION
+When should a
+designer choose
+the
+mathematically
+efficient shape,
+and when should
+another
+constraint win?
+Understand the language of solids: faces,
+edges, vertices, nets, plans and elevations.
+Know and use Euler's relationship for convex
+polyhedra.
+Be able to calculate the surface area of prisms,
+cylinders, pyramids and cones.
+Be able to calculate the volume of prisms,
+cylinders, pyramids, cones and spheres.
+Be able to decompose composite solids and
+apply the correct scale relationships for similar
+solids.
+Be able to work with capacity, density,
+tolerance and bounds, and report a
+measurement with appropriate precision.
+I can classify a solid and count its faces,
+edges and vertices without double-
+counting.
+I can draw or interpret a net and use it to
+find a surface area.
+I can read a plan and elevations and use
+them to determine a solid's shape and
+volume.
+I can choose the correct formula for surface
+area or volume and keep the units
+consistent.
+I can find the volume of a composite solid
+by adding and subtracting standard parts.
+I can express a measurement's uncertainty
+as a range and use it to judge whether a
+design meets a specification.
+8
+5
+8
+5
+7
+π ≈
+​
+7
+22
+22 23 32
+33
+1.5
+2500
+6
+8
+3.14159
+
+
+===== [source page 158] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+158
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Solids, nets and views
+CRITERION A · I, II
+CRITERION C · I, II
+FORM
+A solid is a three-dimensional region, but its surface can be described by counting and
+naming its parts. Those counts are not bookkeeping: for a whole family of solids they obey
+a fixed relationship, and that relationship is a first example of a structural theorem.
+cuboid
+cylinder
+cone
+sphere
+pyramid
+Figure 8.1 Five standard solids. The cuboid and pyramid are polyhedra; the cylinder, cone and sphere have curved surfaces.
+The names of a prism and a pyramid come from their bases. A triangular prism has triangular
+bases; a pentagonal pyramid has a pentagonal base. The orientation of the solid does not change its
+name: a triangular prism standing on a rectangular face is still a triangular prism, and its
+triangular faces are still the bases used in the volume formula.
+FACES, EDGES AND VERTICES OF FIVE COMMON POLYHEDRA
+Solid
+Faces 
+Edges 
+Vertices 
+Cuboid
+6
+12
+8
+Triangular prism
+5
+9
+6
+Square pyramid
+5
+8
+5
+Tetrahedron
+4
+6
+4
+Pentagonal prism
+7
+15
+10
+8.1
+D E F I N I T I O N S
+A polyhedron is a closed solid whose faces are polygons. A face is a flat polygonal surface, an
+edge is a segment where two faces meet, and a vertex is a point where edges meet. A prism
+has two congruent parallel bases joined by rectangular faces; a pyramid has one polygonal
+base and triangular faces meeting at an apex. Cylinders, cones and spheres have curved
+surfaces, so they are not polyhedra. A net is a flat arrangement of faces that folds into a solid.
+A plan is the view from directly above; an elevation is a view from the front or the side,
+looking horizontally.
+F
+E
+V
+
+
+===== [source page 159] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+159
+h
+w
+l
+Figure 8.2 A cuboid unfolds into three pairs of congruent rectangles. The area of the net is the surface area of the solid.
+A net converts a surface-area problem into a two-dimensional area problem. Every face appears
+exactly once, and opposite faces appear as congruent pairs. A cube has eleven different nets up to
+rotation and reflection; all of them contain the same six squares. A net is also a manufacturing
+document: a cardboard carton is cut from a flat net, folded along the edges and glued along one
+seam.
+the solid
+2
+plan
+front elevation
+side elevation
+one solid,
+three views
+Figure 8.3 One solid, three orthogonal views. The plan gives the footprint; the elevations give the heights.
+Plans and elevations are orthogonal projections: each view flattens the solid along one direction. A
+plan answers “what is directly below?”; a front elevation answers “what do you see from the front?”.
+No single view is enough. In Figure 8.3 the plan shows four unit squares, but the solid contains five
+cubes: the marked square is two cubes high, and only the elevations reveal that.
+E U L E R ' S R E L AT I O N S H I P
+For any convex polyhedron, 
+. Check the table: the cuboid gives 
+ and
+; the pentagonal prism gives 
+ and 
+. The relationship does not
+apply to a cylinder or a sphere, because neither is a polyhedron: a curved surface is not a
+polygonal face and a circular rim is not a straight edge.
+F + V = E + 2
+6 + 8 = 14
+12 + 2 = 14
+7 + 10 = 17
+15 + 2 = 17
+
+
+===== [source page 160] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+160
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 8.1 .1
+COUNTING A PRISM
+PROBLEM
+A prism has a regular 12-sided polygon as its base. State the number of faces, edges and
+vertices, and verify Euler's relationship.
+ANSWER
+, 
+, 
+; 
+.
+WO R K E D E X A M P L E 8.1 . 2
+FROM NET TO SOLID
+PROBLEM
+A net consists of two 
+ cm by  cm rectangles, two 
+ cm by  cm rectangles and two  cm by
+ cm rectangles. Identify the solid and find the area of the net.
+ANSWER A 
+ cm by  cm by  cm cuboid; net area 
+ cm².
+WO R K E D E X A M P L E 8.1 .3
+READING THREE VIEWS
+PROBLEM
+The solid in Figure 8.3 is built from unit cubes. Use the plan and elevations to find the
+number of cubes, the volume and the heights of the columns.
+ANSWER Five cubes; volume  cm³; column heights 2, 1, 1, 1.
+The two bases are faces, and each of the 12 sides of the base produces one rectangular lateral
+face: 
+.
+1
+F = 12 + 2 = 14
+Each of the 12 base vertices is repeated at the other end: 
+.
+2
+V = 2 × 12 = 24
+Each base contributes 12 edges, and there are 12 lateral edges joining corresponding vertices:
+.
+3
+E = 12 + 12 + 12 = 36
+Check: 
+ and 
+. The relationship holds.
+4
+F + V = 14 + 24 = 38
+E + 2 = 36 + 2 = 38
+F = 14 E = 36 V = 24 14 + 24 = 36 + 2
+12
+8
+12
+5
+8
+5
+Opposite faces of a cuboid are congruent, and there are three pairs of dimensions. The pairs
+, 
+ and 
+ are exactly the three face types of a cuboid 
+ cm by  cm by  cm.
+1
+12 × 8 12 × 5
+8 × 5
+12
+8
+5
+Area of one pair: 
+ cm².
+2
+2(12 × 8) = 192
+Area of the second pair: 
+ cm².
+3
+2(12 × 5) = 120
+Area of the third pair: 
+ cm².
+4
+2(8 × 5) = 80
+Total: 
+ cm².
+5
+192 + 120 + 80 = 392
+12
+8
+5
+392
+The plan shows a 
+ footprint, so there are four columns of cubes.
+1
+2 × 2
+The plan marks one square with “2”, meaning that column is two cubes high; the other three
+columns are one cube high.
+2
+Number of cubes: 
+.
+3
+2 + 1 + 1 + 1 = 5
+Each unit cube has volume  cm³, so the total volume is  cm³.
+4
+1
+5
+The front elevation shows heights 2 and 1 from left to right; the side elevation shows the same
+profile because the tall column is at a front corner. Without the elevations, the plan alone
+would allow anything from four to eight cubes.
+5
+5
+
+
+===== [source page 161] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+161
+PRACTICE 8.1 · SOLIDS, NETS AND VIEWS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Complete the table for a triangular prism, a square pyramid, a tetrahedron and a pentagonal prism:
+faces, edges and vertices. 
+F
+2. A convex polyhedron has 9 faces and 14 edges. Find the number of vertices. 
+F
+3. A convex polyhedron has 8 vertices and 12 edges. Find the number of faces and name a solid with
+these counts. 
+F
+4. Sketch a net for a cube of side  cm and state the total area of the net. 
+F
+5. Explain why Euler's relationship does not apply to a sphere, and why a sphere cannot be made from a
+net of flat polygons without stretching. 
+R
+6. A prism has 30 edges. How many sides does its base have? Justify your answer. 
+R
+7. An open box, with no lid, measures 
+ cm by 
+ cm by 
+ cm. Find the area of cardboard needed,
+ignoring overlaps. 
+P
+8. A  cm by  cm by  cm cuboid is painted on all faces and then cut into unit cubes. How many unit
+cubes have paint on exactly two faces? Explain your counting. 
+E
+ Surface area of prisms and cylinders
+CRITERION A · II
+CRITERION C · II, III
+MEASUREMENT
+Surface area is the total area of the boundary. For a prism, the boundary consists of two
+congruent bases and a set of rectangles; for a cylinder, the rectangles become one curved
+rectangle whose width is the circumference.
+r
+r
+h
+circumference 2πr
+Figure 8.4 The curved surface unrolls into a rectangle. Its width is the circumference 
+, not the diameter.
+C O M M O N E R R O R · C O U N T I N G W H AT YO U CA N N OT S E E , O R M I S S I N G W H AT YO U CA N
+Count each face, edge and vertex once. On a cuboid, 12 edges is not “4 top + 4 bottom + 4
+more”; it is 4 top, 4 bottom and 4 verticals. On a net, faces must not overlap when folded, and
+a face shared by two parts of the net is one face, not two. In views, hidden edges are usually
+drawn dashed, but a dashed line is still an edge of the solid.
+4
+20
+15
+10
+4
+3
+2
+8.2
+2πr
+
+
+===== [source page 162] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+162
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+The formula 
+ works for every prism, including triangular and trapezoidal prisms,
+because the lateral faces always form a rectangle of height  and total width . The formula for a
+cylinder is the same idea with a circular base: 
+ and 
+.
+WO R K E D E X A M P L E 8. 2 .1
+A CUBOID
+PROBLEM
+Find the total surface area of a cuboid measuring 
+ cm by  cm by  cm.
+ANSWER
+ cm².
+WO R K E D E X A M P L E 8. 2 . 2
+A TRIANGULAR PRISM
+PROBLEM
+A triangular prism has a right-angled triangular base with legs  cm and  cm and
+hypotenuse 
+ cm. Its length is 
+ cm. Find its total surface area.
+ANSWER
+ cm².
+WO R K E D E X A M P L E 8. 2 .3
+A CYLINDER, CLOSED AND OPEN
+PROBLEM
+A cylinder has radius  cm and height 
+ cm. (a) Find its total surface area. (b) Find its
+surface area if the top is removed. Use 
+.
+ANSWER (a) 
+ cm² (b) 
+ cm².
+F O R M U L AS · P R I S M S A N D C Y L I N D E R S
+For a prism with base area 
+ and base perimeter , the lateral surface area is 
+ and the total
+surface area is 
+. For a cylinder of radius  and height , the curved surface area
+is 
+ and the total surface area is 
+. The lateral surface excludes the bases;
+the total surface includes them.
+B
+P
+Ph
+SA = 2B + Ph
+r
+h
+2πrh
+SA = 2πr +
+2
+2πrh
+SA = 2B + Ph
+h
+P
+B = πr2
+P = 2πr
+15
+9
+6
+The three pairs of faces have areas 
+, 
+ and 
+ cm².
+1
+15 × 9 = 135 15 × 6 = 90
+9 × 6 = 54
+Each pair occurs twice: 
+.
+2
+2(135 + 90 + 54)
+Inside the bracket: 
+.
+3
+135 + 90 + 54 = 279
+ cm².
+4
+SA = 2 × 279 = 558
+558
+6
+8
+10
+15
+Base area: 
+ cm².
+1
+B =
+​ ×
+2
+1
+6 × 8 = 24
+Base perimeter: 
+ cm.
+2
+P = 6 + 8 + 10 = 24
+Lateral area: 
+ cm². This is the sum of the three rectangular faces: 
+,
+ and 
+.
+3
+Ph = 24 × 15 = 360
+6 × 15
+8 × 15
+10 × 15
+Total: 
+ cm².
+4
+SA = 2(24) + 360 = 48 + 360 = 408
+408
+7
+10
+π ≈3.142
+Two bases: 
+ cm².
+1
+2πr =
+2
+2π(49) = 98π
+Curved surface: 
+ cm².
+2
+2πrh = 2π(7)(10) = 140π
+(a) Total 
+ cm².
+3
+= 98π + 140π = 238π ≈747.7
+(b) Remove one base: 
+ cm². The difference, 
+ cm², is the
+area of the missing disc.
+4
+238π −49π = 189π ≈593.8
+49π ≈153.9
+747.7
+593.8
+
+
+===== [source page 163] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+163
+PRACTICE 8.2 · SURFACE AREA OF PRISMS AND CYLINDERS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the total surface area of a cuboid 
+ cm by  cm by  cm. 
+F
+2. Find the total surface area of a cylinder with radius  cm and height 
+ cm, to one decimal place. 
+F
+3. Find the surface area of a cube of side  cm. 
+F
+4. A right triangular prism has base sides  cm, 
+ cm and 
+ cm and length 
+ cm. Find its total surface
+area. 
+F
+5. An open-topped cylinder has radius 
+ cm and height  cm. Find the area of material needed, to one
+decimal place. 
+R
+6. A cube has total surface area 
+ cm². Find its side length and its volume. 
+P
+7. A closed cylinder has radius  cm and total surface area 
+ cm². Find its height. 
+P
+8. A closed cylinder of radius  and height  has total surface area equal to three times its curved surface
+area. Find  in terms of . 
+E
+ Surface area of pyramids and cones
+CRITERION A · II
+CRITERION C · II, III
+SPACE
+A pyramid has triangular lateral faces; a cone has a curved lateral surface that unrolls into
+a sector. In both cases the lateral area depends on the slant height rather than the vertical
+height, because the surface is reached by travelling up the sloping side.
+C O M M O N E R R O R · T WO B AS E S , O N E R A D I U S
+The commonest omission is a base: a closed cylinder has two circular faces, and a closed
+prism has two polygonal bases. The commonest substitution error is using the diameter in
+place of the radius: with diameter 
+ cm and height  cm, the curved area is 
+cm², not 
+ cm². Keep units squared: a surface area is never in cm³.
+10
+4
+2π(5)(4) = 40π
+2π(10)(4) = 80π
+10
+4
+3
+5
+12
+9
+5
+12
+13
+20
+3.5
+8
+294
+5
+150π
+r
+h
+h
+r
+8.3
+F O R M U L AS · P Y R A M I D S A N D C O N E S
+For a pyramid with base area 
+, base perimeter  and slant height , the lateral surface area
+is 
+ and the total surface area is 
+. For a cone of radius  and slant height , the
+curved surface area is 
+ and the total surface area is 
+. The slant height is the
+distance from the apex to a point on the base edge; for a right cone, 
+.
+B
+P
+l
+​Pl
+2
+1
+SA = B +
+Pl
+2
+1
+r
+l
+πrl
+SA = πr +
+2
+πrl
+l =
+​
+r + h
+2
+2
+
+
+===== [source page 164] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+164
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+arc = 2πr
+l
+r
+base
+Figure 8.5 A cone unrolls into a sector of radius , the slant height, plus one circular base. The sector's arc length equals the base
+circumference, 
+.
+The sector area formula explains the cone result. A sector of radius  and arc length 
+ has area
+. For a pyramid, each triangular face has area 
+;
+summing over all edges gives 
+.
+WO R K E D E X A M P L E 8.3.1
+A SQUARE PYRAMID
+PROBLEM
+A square pyramid has base side 
+ cm and slant height 
+ cm. Find its total surface area.
+ANSWER
+ cm².
+WO R K E D E X A M P L E 8.3. 2
+A CONE FROM RADIUS AND HEIGHT
+PROBLEM
+A cone has radius  cm and vertical height  cm. Find its total surface area, to one decimal
+place.
+ANSWER
+ cm².
+l
+2πr
+l
+2πr
+​ ×
+2
+1
+arc × radius =
+​(2πr)l =
+2
+1
+πrl
+​ ×
+2
+1
+base edge × l
+​Pl
+2
+1
+10
+13
+Base area: 
+ cm².
+1
+B = 10 =
+2
+100
+Base perimeter: 
+ cm.
+2
+P = 4 × 10 = 40
+Lateral area: 
+ cm². This is four triangles, each of area 
+ cm².
+3
+​Pl =
+2
+1
+​(40)(13) =
+2
+1
+260
+​(10)(13) =
+2
+1
+65
+Total: 
+ cm².
+4
+SA = 100 + 260 = 360
+360
+6
+8
+The slant height is not given, so calculate it: 
+ cm.
+1
+l =
+​ =
+6 + 8
+2
+2
+​ =
+36 + 64
+​ =
+100
+10
+Base area: 
+ cm².
+2
+πr =
+2
+36π
+Curved area: 
+ cm².
+3
+πrl = π(6)(10) = 60π
+Total: 
+ cm².
+4
+96π ≈301.6
+96π ≈301.6
+
+
+===== [source page 165] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+165
+WO R K E D E X A M P L E 8.3.3
+A CONE FROM DIAMETER
+PROBLEM
+A cone has diameter 
+ cm and slant height 
+ cm. Find its total surface area, to one decimal
+place.
+ANSWER
+ cm².
+PRACTICE 8.3 · PYRAMIDS AND CONES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. A square pyramid has base side  cm and slant height 
+ cm. Find its total surface area. 
+F
+2. A cone has radius  cm and slant height  cm. Find its total surface area, to one decimal place. 
+F
+3. A cone has radius  cm and vertical height 
+ cm. Find its total surface area, to one decimal place. 
+F
+4. A square pyramid has base side 
+ cm and vertical height  cm. Find its slant height and total surface
+area. 
+R
+5. A cone has diameter 
+ cm and slant height 
+ cm. Find its total surface area, to one decimal place.
+R
+6. A cone has radius  cm and total surface area 
+ cm². Find its slant height and vertical height. 
+P
+7. A square-based tent has base side  m and slant height 
+ m. Canvas costs 
+ units per square metre.
+Find the cost with and without a floor. 
+P
+8. A cone has radius and slant height in the ratio 
+ and total surface area 
+ cm². Find its radius and
+slant height. 
+E
+ Volume of prisms and cylinders
+CRITERION A · II
+CRITERION D · I
+MEASUREMENT
+Volume measures the space inside a solid. For a prism or cylinder, the solid can be built
+from identical layers: one base-shaped layer stacked  times. That is why the volume is the
+base area multiplied by the height, whatever the shape of the base.
+14
+25
+The radius is half the diameter: 
+ cm.
+1
+r = 7
+Base area: 
+ cm².
+2
+π(7 ) =
+2
+49π
+Curved area: 
+ cm².
+3
+π(7)(25) = 175π
+Total: 
+ cm².
+4
+224π ≈703.7
+224π ≈703.7
+C O M M O N E R R O R · S L A N T H E I G H T I S N OT V E R T I CA L H E I G H T
+The surface of a cone or pyramid slopes, so its area uses the slant height . Using the vertical
+height  underestimates every lateral area: with 
+ and 
+, the slant is 
+, not , and the
+curved area is 
+, not 
+. The base is included only when the solid is closed. For a pyramid,
+the slant height is measured from the apex to the midpoint of a base edge for a regular
+pyramid; it is not the height of the solid.
+l
+h
+r = 6
+h = 8
+10
+8
+60π
+48π
+8
+10
+3
+7
+5
+12
+12
+8
+16
+17
+6
+90π
+3
+2.5
+12
+3 : 5
+216π
+8.4
+h
+
+
+===== [source page 166] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+166
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+The height in these formulas is perpendicular to the base, not the length of a sloping edge. A prism
+whose base is a trapezium still has volume 
+: the base is the trapezium, and the distance between
+the two parallel trapezium faces is . For a cylinder, 
+, so 
+.
+WO R K E D E X A M P L E 8. 4.1
+A CUBOID AND ITS CAPACITY
+PROBLEM
+A tank is a cuboid measuring 
+ cm by 
+ cm by 
+ cm. Find its volume in cm³ and its
+capacity in litres.
+ANSWER
+ cm³ 
+ L.
+WO R K E D E X A M P L E 8. 4. 2
+A CYLINDRICAL CONTAINER
+PROBLEM
+A cylinder has radius 
+ cm and height 
+ cm. Find its volume and its capacity in litres, to
+three significant figures.
+ANSWER
+ cm³; capacity 
+ L.
+WO R K E D E X A M P L E 8. 4.3
+A TRAPEZOIDAL PRISM
+PROBLEM
+A prism has a trapezium as its base, with parallel sides  cm and 
+ cm and perpendicular
+distance  cm between them. The prism is 
+ cm long. Find its volume.
+ANSWER
+ cm³ 
+ L.
+F O R M U L AS · VO L U M E A N D CA PAC I T Y
+For a prism or cylinder with base area 
+ and perpendicular height , 
+. For a cylinder,
+. Capacity is the volume a container can hold, usually quoted in litres or millilitres.
+ cm³ 
+ mL; 
+ cm³ 
+ L;  m³ 
+ L 
+ cm³.
+B
+h V = Bh
+V = πr h
+2
+1
+= 1
+1000
+= 1
+1
+= 1000
+= 1 000 000
+Bh
+h
+B = πr2
+V = πr h
+2
+25
+18
+12
+.
+1
+V = lwh = 25 × 18 × 12
+, and 
+.
+2
+25 × 18 = 450
+450 × 12 = 5400
+The volume is 
+ cm³.
+3
+5400
+Since 
+ cm³ 
+ L, the capacity is 
+ L.
+4
+1000
+= 1
+5400 ÷ 1000 = 5.4
+5400
+= 5.4
+4.5
+12
+.
+1
+V = πr h =
+2
+π(4.5 )(12)
+2
+, and 
+.
+2
+4.5 =
+2
+20.25
+20.25 × 12 = 243
+ cm³.
+3
+V = 243π ≈763.4
+Capacity: 
+ L.
+4
+763.4 ÷ 1000 ≈0.763
+Check: the radius is about 
+ cm, so the base is about 
+ cm², and 
+ is about 
+ cm³. The
+answer is plausible.
+5
+4.5
+64
+64 × 12
+770
+V ≈763
+≈0.763
+8
+14
+6
+20
+Base area: 
+ cm².
+1
+B =
+​(8 +
+2
+1
+14)(6) =
+​(22)(6) =
+2
+1
+66
+The length of the prism is the distance between the two trapezium faces, so 
+ cm.
+2
+h = 20
+ cm³.
+3
+V = Bh = 66 × 20 = 1320
+Capacity: 
+ cm³ 
+ L.
+4
+1320
+= 1.32
+1320
+= 1.32
+
+
+===== [source page 167] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+167
+PRACTICE 8.4 · VOLUME OF PRISMS AND CYLINDERS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the volume of a cuboid  cm by  cm by  cm. 
+F
+2. Find the volume of a cylinder with radius  cm and height 
+ cm, to one decimal place. 
+F
+3. Find the volume of a cylinder with diameter 
+ cm and height 
+ cm, to one decimal place. 
+F
+4. Convert 
+ m³ to litres. 
+F
+5. A prism has a triangular base with base 
+ cm and height  cm, and a length of 
+ cm. Find its volume.
+R
+6. A tank measures 
+ m by 
+ cm by 
+ cm. Find its capacity in litres. 
+R
+7. A cylinder must hold  L and has radius  cm. Find its height, to one decimal place. 
+P
+8. A cuboid 
+ cm by 
+ cm by  cm is melted and recast as a cylinder of radius  cm. Find the height of
+the cylinder, to one decimal place. 
+E
+ Pyramids, cones, spheres and composite
+solids
+CRITERION A · II, III
+CRITERION C · III
+CHANGE
+A pyramid or cone tapers to a point, so it fills exactly one third of the prism or cylinder
+with the same base and height. A sphere has no base at all, and its formulas bring both 
+and a cube of the radius. Composite solids combine these standard parts — sometimes by
+addition, sometimes by subtraction.
+C O M M O N E R R O R · M I X I N G L E N GT H , A R E A A N D VO L U M E U N I T S
+Convert every dimension to the same unit before multiplying.  m 
+ cm, but  m² 
+cm² and  m³ 
+ cm³, because each length factor is applied three times. A volume in
+cm³ becomes litres by dividing by 
+, not by 
+. Do not use a slant height as the height of a
+prism or cylinder; if the height is not perpendicular to the base, the simple formula does not
+apply.
+1
+= 100
+1
+= 10 000
+1
+= 1 000 000
+1000
+100
+9
+7
+4
+6
+10
+10
+14
+3.2
+10
+6
+25
+1.2
+80
+60
+2
+5
+20
+10
+5
+5
+8.5
+π
+F O R M U L AS · TA P E R I N G S O L I D S A N D S P H E R E S
+For a pyramid or cone with base area 
+ and perpendicular height : 
+. For a cone,
+. For a sphere of radius : 
+ and 
+. A hemisphere has half the
+volume and half the curved surface area of the sphere, but its flat circular face is an extra
+surface if the hemisphere is closed.
+B
+h V =
+​Bh
+3
+1
+V =
+​πr h
+3
+1
+2
+r V =
+​πr
+3
+4
+3
+SA = 4πr2
+
+
+===== [source page 168] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+168
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+cylinder: circle or rectangle
+cone: circle, ellipse or triangle
+Figure 8.6 A plane cut exposes a cross-section. Slices of the same solid can be circles, rectangles or triangles depending on the
+direction of the cut.
+Cross-sections explain why the volume formulas work. A prism has the same cross-section at every
+height, so its volume is the cross-sectional area times the height. A pyramid or cone shrinks
+steadily towards the apex; averaging the base area and the zero area at the top gives the factor . A
+sphere can be sliced into thin discs whose areas follow a curved pattern, which is where the factor
+ comes from.
+hole
+Figure 8.7 A composite solid can be decomposed into a rectangular prism and a triangular prism, then corrected for the cylindrical
+hole.
+​3
+1
+​3
+4
+
+
+===== [source page 169] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+169
+WO R K E D E X A M P L E 8. 5.1
+A SQUARE PYRAMID
+PROBLEM
+Find the volume of a square pyramid with base side  cm and vertical height  cm.
+ANSWER
+ cm³.
+WO R K E D E X A M P L E 8. 5. 2
+A CONE
+PROBLEM
+A cone has radius  cm and vertical height 
+ cm. Find its volume, to one decimal place.
+ANSWER
+ cm³.
+WO R K E D E X A M P L E 8. 5.3
+A SPHERE
+PROBLEM
+A sphere has radius  cm. Find its volume and surface area, to one decimal place.
+ANSWER
+ cm³; 
+ cm².
+9
+7
+Base area: 
+ cm².
+1
+B = 9 =
+2
+81
+.
+2
+V =
+​Bh =
+3
+1
+​(81)(7)
+3
+1
+, and 
+.
+3
+81 ÷ 3 = 27
+27 × 7 = 189
+The volume is 
+ cm³. It is one third of the 
+ cm³ cuboid with the same base and height.
+4
+189
+567
+189
+5
+12
+Base area: 
+ cm².
+1
+B = π(5 ) =
+2
+25π
+ cm³.
+2
+V =
+​(25π)(12) =
+3
+1
+100π
+ cm³.
+3
+100π ≈314.2
+Check: the enclosing cylinder would have volume 
+ cm³, and one third of that is
+.
+4
+300π ≈942.5
+100π
+100π ≈314.2
+6
+Volume: 
+ cm³.
+1
+V =
+​π(6 ) =
+3
+4
+3
+​π(216) =
+3
+4
+288π ≈904.8
+Surface area: 
+ cm².
+2
+SA = 4π(6 ) =
+2
+144π ≈452.4
+Units check: volume in cm³, surface area in cm².
+3
+Order check: 
+ cm³ is roughly the volume of a 
+ cm cube, which is plausible for a sphere
+of diameter 
+ cm.
+4
+904.8
+10
+12
+V ≈904.8
+SA ≈452.4
+
+
+===== [source page 170] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+170
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 8. 5. 4
+A COMPOSITE SOLID
+PROBLEM
+A solid is a rectangular prism 
+ cm by  cm by  cm with a triangular-prism roof of base 
+cm and height  cm. A cylindrical hole of radius 
+ cm is drilled through the  cm depth.
+Find the volume, to one decimal place.
+ANSWER
+ cm³.
+WO R K E D E X A M P L E 8. 5. 5
+SIMILAR SOLIDS
+PROBLEM
+Two similar solid cylinders have volumes 
+ cm³ and 
+ cm³. The smaller has surface area 
+cm². Find the scale factor, the surface-area ratio and the surface area of the larger cylinder.
+ANSWER
+; area ratio 
+; larger surface area 
+ cm².
+side 1
+V = 1
+side 2
+V = 8
+side 3
+V = 27
+Figure 8.8 Triple the side and the volume becomes 
+ times larger. Surface area grows only 
+ times.
+10
+8
+6
+10
+4
+1.5
+6
+Rectangular prism: 
+ cm³.
+1
+10 × 8 × 6 = 480
+Triangular prism roof: base area 
+ cm², depth  cm, so 
+ cm³.
+2
+​(10)(4) =
+2
+1
+20
+6
+V = 20 × 6 = 120
+Total before drilling: 
+ cm³.
+3
+480 + 120 = 600
+Cylindrical hole: 
+ cm³.
+4
+π(1.5 )(6) =
+2
+13.5π ≈42.4
+Remaining volume: 
+ cm³.
+5
+600 −42.4 = 557.6
+600 −13.5π ≈557.6
+64
+216
+80
+For similar solids, the volume ratio is the cube of the length scale factor: 
+.
+1
+k =
+3
+​ =
+64
+216
+​
+8
+27
+.
+2
+k =
+​ =
+3
+​
+8
+27
+​ =
+2
+3
+1.5
+The surface-area ratio is 
+.
+3
+k =
+2
+​
+=
+( 2
+3)
+2
+​ =
+4
+9
+2.25
+Larger surface area: 
+ cm².
+4
+80 × 2.25 = 180
+Check: linear dimensions grow by 
+, areas by 
+, volumes by 
+; 
+.
+5
+1.5
+2.25
+3.375 64 × 3.375 = 216
+k = 1.5
+9 : 4
+180
+3 =
+3
+27
+3 =
+2
+9
+
+
+===== [source page 171] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+171
+PRACTICE 8.5 · VOLUME AND COMPOSITE SOLIDS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the volume of a square pyramid with base side  cm and height 
+ cm. 
+F
+2. Find the volume of a cone with radius  cm and height  cm, to one decimal place. 
+F
+3. Find the volume of a sphere of radius  cm, to one decimal place. 
+F
+4. Find the volume of a hemisphere of radius  cm, to one decimal place. 
+F
+5. A cone has diameter 
+ cm and height 
+ cm. Find its volume, to one decimal place. 
+R
+6. Two similar spheres have radii  cm and 
+ cm. Find the ratios of their surface areas and volumes.
+R
+7. A tank is a cylinder of radius  cm and height 
+ cm with a hemispherical top. Find its total volume, to
+one decimal place. 
+P
+8. A cone of radius  cm and height  cm is cut by a plane parallel to its base, halfway up. Find the
+volume of the small cone removed and the volume of the remaining frustum. 
+E
+ Measurement, density and precision
+CRITERION C · III, IV
+CRITERION D · III, IV
+APPROXIMATION
+Every measurement is an interval, not a point. A length quoted as  cm “to the nearest
+centimetre” could be anywhere from 
+ cm to 
+ cm. When measurements are
+multiplied, those intervals combine, and a volume can be noticeably less certain than any
+single length.
+Density links a solid's geometry to its material. A block of volume 
+ cm³ and mass 
+ g has
+density 
+ g/cm³, which identifies aluminium. Rearranging gives 
+ for the mass of a known
+volume, or 
+ for the volume of a known mass. Water has density approximately  g/cm³, so  L
+of water has mass about  kg.
+C O M M O N E R R O R · T H E M I S S I N G T H I R D, A N D T H E FAC E S T H AT D I SA P P E A R
+A pyramid or cone is one third of its enclosing prism or cylinder; forgetting  overstates the
+volume by a factor of three. For a sphere, use the radius, not the diameter: a sphere of
+diameter 
+ has radius , and its volume is 
+, not 
+. In a composite solid, do not count
+the faces where two parts are glued: they are internal, not surface. When a hole is drilled,
+subtract its volume but add back its curved surface if the hole is open.
+​3
+1
+10
+5
+​π
+3
+500
+​π
+3
+4000
+6
+10
+3
+7
+3
+6
+10
+12
+4
+10
+4
+15
+6
+8
+8.6
+8
+7.5
+8.5
+D E F I N I T I O N S · D E N S I T Y A N D U N C E R TA I N T Y
+Density is mass per unit volume: 
+, commonly in g/cm³ or kg/m³. Significant figures are
+the digits that carry meaning in a measurement. The percentage error of an estimate is
+. If a measurement is given to the nearest unit, its lower bound is the value
+minus half a unit and its upper bound is the value plus half a unit; the interval is called the
+tolerance.
+ρ =
+​
+V
+m
+​ ×
+true
+∣measured−true∣
+100%
+200
+540
+2.7
+m = ρV
+V =
+​
+ρ
+m
+1
+1
+1
+
+
+===== [source page 172] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+172
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 8.6.1
+CONVERTING CUBIC UNITS
+PROBLEM
+Convert 
+ m³ to litres and to cubic centimetres.
+ANSWER
+ L 
+ cm³.
+WO R K E D E X A M P L E 8.6. 2
+IDENTIFYING A METAL BY DENSITY
+PROBLEM
+A rectangular metal block measures  cm by  cm by 
+ cm and has mass 
+ g. Find its
+density and suggest a likely metal.
+ANSWER
+ g/cm³; consistent with aluminium.
+WO R K E D E X A M P L E 8.6.3
+PERCENTAGE ERROR
+PROBLEM
+A student measures a length as 
+ m. The accepted value is 
+ m. Find the absolute error
+and the percentage error.
+ANSWER
+ m; 
+.
+0.75
+ m³ 
+ L, so 
+ L.
+1
+1
+= 1000
+0.75 × 1000 = 750
+ m³ 
+ cm 
+ cm 
+ cm 
+ cm³.
+2
+1
+= 100
+×100
+×100
+= 1 000 000
+ cm³.
+3
+0.75 × 1 000 000 = 750 000
+Check: 
+ L 
+ cm³ 
+ cm³. The two conversions agree.
+4
+750
+= 750 × 1000
+= 750 000
+750
+= 750 000
+4
+5
+10
+540
+Volume: 
+ cm³.
+1
+4 × 5 × 10 = 200
+Density: 
+ g/cm³.
+2
+ρ =
+​ =
+200
+540
+2.7
+Aluminium has density about 
+ g/cm³, so the block is likely aluminium.
+3
+2.7
+Check: 
+ g, as given.
+4
+2.7 × 200 = 540
+2.7
+2.48
+2.50
+Absolute error: 
+ m.
+1
+∣2.48 −2.50∣= 0.02
+Percentage error: 
+.
+2
+​ ×
+2.50
+0.02
+100%
+, so the percentage error is 
+.
+3
+​ =
+2.50
+0.02
+0.008
+0.8%
+The measurement is within one percent of the accepted value; whether that is acceptable
+depends on the instrument and the purpose.
+4
+0.02
+0.8%
+
+
+===== [source page 173] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+173
+WO R K E D E X A M P L E 8.6. 4
+BOUNDS OF A VOLUME
+PROBLEM
+A cuboid is measured as 
+ cm by 
+ cm by 
+ cm, each to the nearest centimetre. Find the
+greatest and least possible volumes, and compare them with the volume calculated from the
+stated dimensions.
+ANSWER Between 
+ cm³ and 
+ cm³; about 
+.
+PRACTICE 8.6 · MEASUREMENT AND PRECISION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Convert 
+ L to cm³ and to m³. 
+F
+2. Convert 
+ cm³ to litres. 
+F
+3. A sample has mass 
+ g and volume 
+ cm³. Find its density. 
+F
+4. Find the mass of 
+ L of water, taking the density as  g/cm³. 
+F
+5. A metal block measures  cm by  cm by  cm and has mass 
+ g. Find its density. 
+R
+6. A length is estimated as 
+ m; the true length is 
+ m. Find the percentage error. 
+R
+7. A cylinder has radius 
+ cm and height 
+ cm, each measured to the nearest 
+ cm. Find the
+greatest and least possible volumes, to one decimal place. 
+P
+8. A cube's volume is stated as 
+ cm³, with the side measured to the nearest centimetre. Find the range
+of possible side lengths and the range of possible volumes. 
+E
+20
+15
+10
+Each dimension lies in an interval of width  cm centred on its stated value: 
+,
+, 
+.
+1
+1
+19.5 ≤l < 20.5
+14.5 ≤w < 15.5 9.5 ≤h < 10.5
+Stated volume: 
+ cm³.
+2
+20 × 15 × 10 = 3000
+Upper bound: 
+ cm³.
+3
+20.5 × 15.5 × 10.5 = 3336.375
+Lower bound: 
+ cm³.
+4
+19.5 × 14.5 × 9.5 = 2686.125
+The true volume lies between about 
+ cm³ and 
+ cm³. The stated 
+ cm³ is near the
+middle, but the interval is about 
+, much wider than any single 
+ cm error.
+5
+2686
+3336
+3000
+±11%
+±0.5
+2686
+3336
+2686 ≤V < 3336
+C O M M O N E R R O R · M U LT I P LY I N G T H E U N I T E R R O R AS W E L L AS T H E M E AS U R E M E N T
+If a length is measured to the nearest centimetre, the possible error is 
+ cm, not  cm. In a
+product of three dimensions, the percentage errors combine approximately by addition, so
+three measurements each uncertain by about 
+ can produce a volume uncertain by about
+. Do not write  m³ 
+ cm³: the correct conversion is  m³ 
+ cm³. And keep
+density units consistent: g/cm³ with grams and cm³, or kg/m³ with kilograms and metres,
+never a mixture.
+0.5
+1
+2.5%
+7.5%
+1
+= 100
+1
+= 1 000 000
+2.4
+5000
+810
+300
+2.5
+1
+2
+5
+8
+624
+4.8
+5.0
+3.0
+10.0
+0.1
+64
+
+
+===== [source page 174] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+174
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Application · The rainwater tank
+CRITERION D · I, II, III, IV
+MEASUREMENT
+SUSTAINABILITY
+A school plans to install a cylindrical rainwater tank beside a classroom. The tank sits on a square
+concrete base and collects water from the roof. The business manager wants to know the capacity,
+Investigation · The 330 mL can
+CRITERION B
+A drinks can is a cylinder with a fixed volume. The manufacturer chooses its radius and height,
+and those choices determine how much metal the can requires. In this investigation you will
+measure real cans, calculate their material-to-volume ratio, and search for the proportion that
+uses the least material.
+FIVE CYLINDERS DESIGNED TO HOLD 
+ CM³, WITH HEIGHT ADJUSTED TO KEEP THE VOLUME FIXED
+Radius  (cm)
+Height  (cm)
+Surface area (cm²)
+Area per cm³
+3.0
+11.67
+0.257
+276.5
+0.838
+3.4
+9.09
+0.374
+266.8
+0.808
+3.7
+7.67
+0.482
+264.4
+0.801
+4.0
+6.57
+0.609
+265.5
+0.805
+4.4
+5.43
+0.811
+271.6
+0.823
+1. Measure. Take three cylindrical cans. Measure the circumference with a strip of paper and
+divide by 
+ to find the radius; measure the height with a ruler. Record both to the nearest
+millimetre, then calculate the volume and total surface area of each can.
+2. Tabulate. For each can, calculate 
+, the volume, the surface area and the ratio
+. Keep the units consistent and record the calculator value before
+rounding.
+3. Pattern. Compare the ratios. Which can uses the least material per millilitre? Does the most
+efficient can have a particular relationship between radius and height?
+4. Test. Use the table above, which holds the volume at 
+ cm³ while the radius changes. Plot
+surface area against radius, or compare consecutive rows. Estimate the radius that gives the
+smallest surface area and the corresponding height.
+5. Conjecture. State a relationship between  and  at the minimum. Test it against the table: at
+the smallest area, is  approximately 
+? Explain what the ratio 
+ would be if 
+.
+6. Explain. Write the surface area as 
+, using 
+. Explain why a very small
+radius makes the second term large, and why a very large radius makes the first term large.
+This is why a minimum exists between the extremes.
+7. Apply. Measure a real 
+ mL can and compare its proportions with your optimum. Suggest
+three reasons why manufacturers might choose a shape that is not mathematically optimal.
+8. Evaluate. List the assumptions in the model — uniform metal thickness, no seams, no dome or
+rim, identical cost per square centimetre. Choose the assumption that you think is most
+unrealistic and describe how removing it would change the conclusion.
+A table of five values suggests a pattern; it does not prove that the minimum is exactly at 
+. The algebra in
+step 6 explains why a minimum must exist, and a finer table would locate it more precisely. Distinguish between
+numerical evidence, an algebraic model and a manufacturing decision.
+330
+r
+h
+r ÷ h
+2π
+r ÷ h
+surface area ÷ volume
+330
+r
+h
+h
+2r
+r ÷ h
+h = 2r
+SA = 2πr +
+2
+​
+r
+2V
+h =
+​
+πr2
+V
+330
+h = 2r
+
+
+===== [source page 175] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+175
+the load on the base, the cost of painting the exposed surface, and how long the tank will take to
+fill.
+DESIGN SPECIFICATION FOR THE RAINWATER TANK
+Quantity
+Value
+Note
+Tank radius
+1.20 m
+measured externally
+Tank height
+2.00 m
+flat top, flat base
+Concrete base
+3.00 m square, 0.15 m thick
+tank stands at the centre
+Roof catchment
+180 m²
+horizontal projected area
+Annual rainfall
+750 mm
+long-term average
+Paint cost
+8.50 per m²
+two coats included
+Concrete cost
+240 per m³
+supplied and poured
+Inlet flow
+12 L per minute
+mains top-up
+1. Calculate the volume of the tank in cubic metres and its capacity in litres. Use 
+ and
+round your final answers sensibly.
+2. The tank is full. Taking the density of water as  kg per litre, find the mass of the water and
+the load per square metre on the concrete base. Comment on whether the base is likely to
+need reinforcement.
+3. The tank is painted on its curved side and its flat top, but not on the base, which rests on the
+concrete. Find the area to be painted and the cost at 
+ per m².
+4. Find the volume of concrete in the base and its cost. The base extends 
+ m beyond the
+tank on every side; verify that the stated 
+ m square is consistent with this.
+5. The roof collects 
+ mm of rain over 
+ m² in a year. Convert the rainfall to metres,
+calculate the annual volume collected in cubic metres and in litres, and find how many full
+tanks this represents. Comment on the difference between annual harvest and storage
+capacity.
+6. The tank is empty and is filled from the mains at 
+ L per minute. How many minutes and
+hours will it take to fill? Give your answer to the nearest 
+ hour.
+7. The radius is measured to the nearest 
+ m and the height to the nearest 
+ m. Find the
+greatest and least possible volumes, and express the uncertainty as a percentage of the
+design volume. Which dimension contributes more to the uncertainty, and why?
+8. Evaluate the design. Consider siting, overflow, maintenance, water quality, the weight of a
+full tank, and the choice between a cylindrical and a cuboid tank. Recommend one
+improvement and justify it with calculations or estimates.
+C R I T E R I O N D F O C U S
+Turn a specification into volume, mass, area and cost; carry units through every step; then judge the
+design against structural, practical and sustainability constraints rather than against the arithmetic
+alone.
+π ≈3.142
+1
+8.50
+0.60
+3.00
+750
+180
+12
+0.1
+0.05
+0.05
+
+
+===== [source page 176] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+176
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Criterion task · The school greenhouse
+CRITERIA C AND D
+COMMUNICATING AND APPLYING
+24 MARKS
+A school garden club is building a greenhouse in the shape of a half-cylinder on a rectangular
+base. The greenhouse is 
+ m wide and 
+ m long, with vertical side walls 
+ m high and a
+semicircular roof of radius 
+ m. The curved roof will be covered in polycarbonate; the two end
+walls, including the semicircular gables, and the two long side walls will be glazed. A door 
+ m
+wide and 
+ m high is cut into one end wall and is not glazed.
+1. Draw a labelled cross-section of the greenhouse and a sketch of its three-dimensional form.
+State two assumptions used in your model. (3 marks)
+2. Calculate the floor area, the volume of the rectangular part, the volume of the half-cylinder
+roof and the total internal volume. (5 marks)
+3. Calculate the area of polycarbonate needed for the curved roof, the area of the two long side
+walls, and the area of the two end walls including the semicircular gables. Hence find the total
+glazing area before the door is removed. (5 marks)
+4. Polycarbonate costs 
+ units per m² and glass costs 
+ units per m². The door is deducted from
+the glazed area. Calculate the total material cost, showing the area and cost of each material
+separately. (4 marks)
+5. The frame runs along the base perimeter, the four vertical corners, the two roof edges and the
+two gable arcs. Calculate the total length of frame required and its cost at 
+ units per metre. (2
+marks)
+6. The dimensions are measured to the nearest 
+ m. Find the greatest and least possible
+internal volumes and express the range as a percentage of the design volume. (3 marks)
+7. Evaluate the design for a school garden. Consider condensation, ventilation, wind loading,
+orientation, maintenance and cost. Recommend one modification and justify it. (2 marks)
+PLANNING FRAME
+Draw: a rectangle 
+ m by 
+ m topped by a semicircle of radius 
+ m; label every dimension before
+calculating. Decompose: rectangular prism plus half-cylinder for volume; curved surface, side walls
+and end walls for area. Track: write each area with its units and keep a running total. Adjust: subtract
+the door once, from the glazed area, not from the polycarbonate. Bound: use 
+ m for each
+measured dimension, not 
+ m. Evaluate: connect at least two limitations to a specific design
+change.
+BAND
+DESCRIPTOR
+MARKS
+4
+Clear labelled cross-section and sketch; all volumes and areas correct with
+consistent units; door and gable handled correctly; costs accurate; bounds
+interpreted; evaluation links limitations to a justified modification.
+19–24
+3
+Diagram and decomposition mostly correct; minor arithmetic or unit slip;
+most areas and costs correct; bounds attempted; evaluation identifies some
+limitations.
+13–18
+2
+Some correct formulas; missing component or double-counted surface; costs
+partly correct; bounds or evaluation incomplete.
+7–12
+1
+Isolated correct statements; no coherent model; little or no justification.
+1–6
+CRITERIA: C, D
+ATL: SELF-MANAGEMENT
+TIME: 60 MINUTES
+CONDITIONS: SCIENTIFIC CALCULATOR ALLOWED
+MAPPED TO:
+ C strands i–iv and D strands i–v. The rubric is a course summary, not an official IB descriptor.
+3.0
+6.0
+1.0
+1.5
+0.9
+1.9
+42
+55
+18
+0.05
+3.0
+1.0
+1.5
+±0.025
+±0.05
+
+
+===== [source page 177] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+177
+Chapter summary and review
+KEY IDEAS
+A polyhedron has flat polygonal faces,
+straight edges and vertices; a cylinder, cone
+or sphere has a curved surface and is not a
+polyhedron.
+For a convex polyhedron, 
+.
+Counting carefully is part of understanding
+the solid.
+A net is a flat pattern that folds into a solid;
+the area of the net is the surface area of the
+solid.
+A plan and elevations are orthogonal views;
+together they determine the footprint and
+the heights.
+Prism: 
+ and 
+. Cylinder:
+ and 
+.
+Pyramid: 
+ and 
+. Cone:
+ and 
+, with
+.
+Sphere: 
+ and 
+. A
+hemisphere has half the curved area and
+half the volume.
+Composite solids are decomposed into
+standard parts; volumes of holes are
+subtracted and internal faces are not
+counted.
+For similar solids, surface areas scale by 
+and volumes by 
+.
+Capacity, density and tolerance connect
+geometry to measurement:  cm³ 
+ mL,
+, and bounds use half the smallest
+scale division.
+REVISION CHECKLIST
+VOCABULARY
+polyhedron
+A closed solid whose faces are polygons.
+face
+A flat polygonal surface of a solid.
+edge
+A segment where two faces meet.
+vertex
+A point where edges meet.
+net
+A flat pattern that folds into a solid.
+plan
+The view from directly above.
+elevation
+A view from the front or side, looking horizontally.
+surface area
+The total area of a solid's boundary.
+lateral surface
+The curved or side surface, excluding the bases.
+slant height
+The distance from the apex to the base edge along the
+surface.
+cross-section
+The shape exposed by a plane cut through a solid.
+capacity
+The volume a container can hold, in litres or
+millilitres.
+density
+Mass per unit volume, 
+.
+tolerance
+F + V = E + 2
+SA = 2B + Ph
+V = Bh
+SA = 2πr +
+2
+2πrh
+V = πr h
+2
+SA = B +
+​Pl
+2
+1
+V =
+​Bh
+3
+1
+SA = πr +
+2
+πrl
+V =
+​πr h
+3
+1
+2
+l =
+​
+r + h
+2
+2
+SA = 4πr2
+V =
+​πr
+3
+4
+3
+k2
+k3
+1
+= 1
+ρ =
+​
+V
+m
+I can classify a solid and count its faces,
+edges and vertices.
+I can use Euler's relationship to find a
+missing count.
+I can interpret or draw a net and find the
+surface area from it.
+I can read plans and elevations to
+reconstruct a solid.
+I can choose and apply the surface-area
+formula for any standard solid.
+I can choose and apply the volume
+formula, including pyramids, cones and
+spheres.
+I can find the volume of a composite solid
+by adding and subtracting parts.
+I can use the 
+ and 
+ rules for similar
+solids.
+k2
+k3
+I can convert between cm³, mL, L and m³,
+and calculate density.
+I can express a measurement as a range
+and use it to evaluate a design.
+ρ =
+​
+V
+m
+
+
+===== [source page 178] =====
+PART III · GEOMETRY, PROOF AND SPACE
+8 · Three-dimensional solids and measurement
+178
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+The permitted range of variation in a measurement or
+specification.
+upper bound
+The largest value a measurement could take.
+lower bound
+The smallest value a measurement could take.
+composite solid
+A solid built from two or more standard solids.
+similar solids
+Solids whose corresponding lengths are in the same
+ratio.
+M I X E D P R AC T I C E · C H A P T E R 8
+Connecting the ideas
+FLUENCY Core procedures
+1. Find the total surface area and volume of a cuboid 
+ cm by  cm by  cm. 
+F
+2. Find the total surface area and volume of a cylinder with radius  cm and height  cm, each to one
+decimal place. 
+F
+3. Find the total surface area and volume of a cone with radius  cm and height  cm, each to one decimal
+place. 
+F
+4. Find the surface area and volume of a sphere of radius  cm, each to one decimal place. 
+F
+REASONING Justify and connect
+1. Two similar cones have heights  cm and  cm. Find the ratios of their surface areas and volumes, and
+explain how each ratio follows from the scale factor. 
+R
+2. Explain why a cylinder with a fixed volume cannot have an arbitrarily small surface area. Refer to both
+terms of 
+ in your answer. 
+R
+3. A cube and a sphere have the same volume of 
+ cm³. Which has the smaller surface area? Calculate
+both and comment on why manufacturers do not make all containers spherical. 
+R
+4. A student says that doubling the radius of a cylinder doubles its volume. Explain what actually happens
+when the height is fixed, and what happens to the surface area. 
+R
+APPLICATION Use and evaluate
+1. A fish tank measures 
+ cm by 
+ cm by 
+ cm and is open at the top. Find its capacity in litres and the
+area of glass required. 
+P
+2. A cylindrical silo has radius 
+ m and height  m. Its curved side and flat top are painted; the base is
+not. Find the painted area, the area for two coats, and the number of 
+ L drums needed at 
+ L per m².
+P
+3. An ice-cream cone has radius  cm and height 
+ cm and is filled level with a hemispherical scoop of the
+same radius. Find the total volume, to one decimal place. 
+P
+4. A cylindrical tank has diameter 
+ m and height  m. Find its capacity in litres and the number of days
+it lasts a household using 
+ L per day. 
+P
+5. Two boxes each have volume 
+ cm³. Box A measures 
+ cm by 
+ cm by 
+ cm; Box B measures  cm
+by 
+ cm by 
+ cm. Calculate both surface areas and decide which uses less cardboard. 
+P
+6. A tank is a cylinder of radius  m and height  m with a hemispherical dome on top; the base is not
+painted. Find its volume and exposed surface area, to two decimal places. 
+E
+12
+7
+4
+6
+9
+4
+3
+5
+6
+9
+SA = 2πr +
+2
+​
+r
+2V
+1000
+60
+30
+35
+2.5
+8
+20
+0.2
+3
+12
+1.5
+2
+180
+1200
+10
+10
+12
+8
+10
+15
+1
+2

@@ -1,0 +1,675 @@
+
+
+===== [source page 231] =====
+R E F E R E N C E · E X A M I N AT I O N P R A C T I C E
+M Y P Y E A R 3
+C U M U L AT I V E
+E
+F O U R C R I T E R I O N - S T Y L E PA P E R S A N D A N E X I T TA S K
+Cumulative review and
+examination practice
+A course is not a list of chapters but a set of connected
+tools. These papers ask you to choose a method when
+nobody names it for you.
+√2
+√2
+H O W T O U S E T H E S E PA P E R S
+Work each paper under timed conditions, then mark it against the
+answers. Paper A checks knowledge, B investigates a pattern, C
+communicates a proof and D applies mathematics; the exit task is a
+capstone.
+AT L · T H I N K I N G A N D C O M M U N I CAT I O N
+Selecting a method, checking a result for sense, and writing an argument another person can follow
+are the skills these papers reward. Marks are earned for reasoning made visible, not for a bare
+number.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 232] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+232
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Paper A · Knowing and understanding
+CRITERION A
+SHOW ALL WORKING
+37 MARKS · 45 MIN
+Answer every question. Write down the method, not only the answer: a correct result with
+no working can earn partial credit only. A non-calculator question is marked “NC”.
+Short responses across the course
+CRITERION A · I, II, III
+RECALL AND PROCEDURE
+37 MARKS
+1. Write 
+ as an ordinary number. (1)
+2. Simplify 
+. (2)
+3. Evaluate 
+, giving your answer in scientific notation. (2)
+4. Write 
+ as a single power, then evaluate it. (2)
+5. Expand and simplify 
+. (2)
+6. Factorise 
+. (1)
+7. Solve 
+. (2)
+8. Solve the simultaneous equations 
+ and 
+. (3)
+9. Find the equation of the line with gradient 
+ that passes through 
+. (2)
+10. A line has equation 
+. State its gradient and its -intercept. (2)
+11. Solve the inequality 
+. (2)
+12. A triangle has sides  cm, 
+ cm and 
+ cm. Show that it is right-angled. (2)
+13. In a right triangle the hypotenuse is 
+ cm and one angle is 
+. Find the side opposite the 
+angle, to three significant figures. (2)
+14. A cylinder has radius  cm and height 
+ cm. Calculate its volume, to three significant figures.
+(2)
+15. Express 
+ as a fraction of a full turn, in lowest terms. (1)
+16. For the data set 
+, find the mean and the median. (2)
+17. A scatter plot of two variables has correlation coefficient 
+. Describe the correlation in
+words. (1)
+18. A fair die is rolled. Find the probability of obtaining a prime number. (2)
+19. A bag holds  red and  blue counters. One counter is taken at random. Find 
+ and
+. (2)
+20. A value  satisfies 
+. Solve for . (2)
+CRITERION: A
+ATL: RECALL AND TRANSFER
+CONDITIONS: SCIENTIFIC CALCULATOR ALLOWED EXCEPT WHERE MARKED NC
+MAPPED TO:
+ Criterion A strands i–iii across all ten chapters. The rubric is a course summary, not an official IB descriptor.
+4.7 × 10−3
+​
+98
+(3 × 10 ) ×
+4
+(2 × 10
+)
+−6
+2
+×
+−2
+2 ÷
+5
+2−1
+(x −4)(x + 7)
+x −
+2
+9
+4x −7 = 2x + 5
+2x + y = 11
+x −y = 1
+−3
+(2, −1)
+2y = 6x −8
+y
+3(x −2) ≤x + 8
+7
+24
+25
+20
+35∘
+35∘
+5
+12
+135∘
+4,  6,  6,  7,  12
+r = −0.92
+4
+6
+P(red)
+P(not red)
+x
+∣x −8∣≤3
+x
+
+
+===== [source page 233] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+233
+Paper B · Investigating patterns
+CRITERION B
+INVESTIGATE AND GENERALISE
+24 MARKS · 45 MIN
+This paper rewards a clear table, a general rule you can verify, and honest comment on
+what your model does not capture. Draw your own diagrams; neat sketches count as
+working.
+Criterion task · The staircase pattern
+CRITERIA B · I, II, III
+DESCRIBE AND GENERALISE
+24 MARKS
+A designer tiles a wall with a staircase pattern built from unit squares. Figure 1 is a single square.
+Figure 2 sets a column two squares high beside the first; Figure 3 adds a column three squares
+high, and the pattern continues. In Figure  the columns have heights 
+, placed side
+by side from left to right.
+1. Draw Figures 1 to 4. Copy and complete a table giving the number of tiles  and the perimeter
+ (measured in unit lengths) for Figures 
+ to . (4 marks)
+2. Find the first differences of the  values, and then the second difference. Explain what the
+constant second difference tells you about the type of rule connecting  and . (4 marks)
+3. Find a rule for  in terms of . Show that your rule gives 
+ when 
+, and verify it by
+counting. (4 marks)
+4. The perimeter follows a simpler pattern. Find a rule for  in terms of , and verify it for 
+by counting edges on your diagram. (4 marks)
+5. Find the least figure whose tile count exceeds 
+. Show your method clearly. (3 marks)
+6. A second designer claims that the perimeter is always an even number of units. Use your rule
+for  to decide whether the claim is true, and justify your answer. (3 marks)
+7. State one limitation of this model and describe how you would check your generalisation for a
+much larger figure. (2 marks)
+PLANNING FRAME
+Tabulate: put ,  and  in three columns before looking for a rule. Compare: differences of a linear
+rule are constant; a constant second difference signals a quadratic rule. Guess and test: try 
+against your table. Verify: substitute 
+ and count the squares. Count edges: for the perimeter, add
+the bottom edge, the top steps and the two sides. Conclude: state the rule, the evidence and its
+limitation.
+CRITERION: B (I–III)
+ATL: PATTERN-SEEKING
+TIME: 45 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ Criterion B strands i–iii. The rubric is a course summary, not an official IB descriptor.
+n
+1,  2,  3,  … ,  n
+T
+P
+n = 1
+5
+T
+T
+n
+T
+n
+T = 21
+n = 6
+P
+n
+n = 4
+100
+P
+n T
+P
+T =
+​
+2
+n(n+1)
+n = 6
+
+
+===== [source page 234] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+234
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Paper C · Communicating
+CRITERION C
+REASONING AND PROOF
+24 MARKS · 45 MIN
+Write in full sentences. A proof is a sequence of statements, each of which follows from the
+one before, ending in the result you were asked to establish.
+Criterion task · The angle in a semicircle
+CRITERIA C · I, II, III, IV
+JUSTIFY AND COMMUNICATE
+24 MARKS
+ is a diameter of a circle with centre 
+. The point 
+ lies on the circumference, and 
+ is neither
+ nor 
+. You are to prove that 
+.
+1. Draw the circle, the diameter 
+, the point 
+ and the chords 
+ and 
+. Add the radius 
+.
+State which segments are equal in length and explain why each equality holds. (4 marks)
+2. Name the two triangles formed by the radius and state why each is isosceles. (3 marks)
+3. Let 
+ and 
+. Write the sum of the angles of triangle 
+in terms of  and , and deduce that 
+. (5 marks)
+4. Explain how the previous step proves that 
+. (3 marks)
+5. Prove that the sum of any three consecutive integers is divisible by . Begin by writing the
+three integers in terms of a single variable. (4 marks)
+6. A student writes the following “proof”. Identify the single invalid step and explain why it is not
+allowed, using numerical values to illustrate your point.
+STUDENT WORKING
+Let 
+. Then 
+, so 
+. Hence 
+. Dividing both sides
+by 
+ gives 
+, so 
+, and therefore 
+.
+(5 marks)
+PLANNING FRAME
+Name: define every point and label every equal length before you argue. Use a theorem: every radius
+of a circle has the same length. Link: equal sides in a triangle give equal base angles. Sum: the interior
+angles of a triangle add to 
+. Algebra: for consecutive integers use 
+ and factorise the
+total. Check: a step that divides by an expression is only valid if that expression is never zero.
+CRITERION: C (I–IV)
+ATL: COMMUNICATION AND REASONING
+TIME: 45 MINUTES
+CONDITIONS: CALCULATOR NOT REQUIRED
+MAPPED TO:
+ Criterion C strands i–iv. The rubric is a course summary, not an official IB descriptor.
+AB
+O
+C
+C
+A
+B
+∠ACB = 90∘
+AB
+C
+AC
+BC
+OC
+∠OAC = ∠OCA = α
+∠OBC = ∠OCB = β
+ABC
+α
+β
+α + β = 90∘
+∠ACB = 90∘
+3
+a = b
+a =
+2
+ab
+a −
+2
+b =
+2
+ab −b2
+(a −b)(a + b) = b(a −b)
+(a −b)
+a + b = b
+2b = b
+2 = 1
+180∘
+n,  n + 1,  n + 2
+
+
+===== [source page 235] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+235
+Paper D · Applying mathematics
+CRITERION D
+REAL-LIFE CONTEXTS
+33 MARKS · 60 MIN
+Two contexts are modelled with the same tools. State your assumptions explicitly; a
+reasonable answer built on clearly stated assumptions scores better than a number with no
+reasoning.
+Criterion task · Two weekly tariffs
+CRITERION D · I–V
+MODEL AND EVALUATE
+33 MARKS
+A small delivery business compares two annual tariffs from a courier firm. Tariff X charges a fixed
+€ per week plus €
+ for every kilometre driven. Tariff Y charges a fixed €
+ per week plus €
+for every kilometre driven. Let  stand for the number of kilometres driven in a week.
+1. Write a formula for the weekly cost 
+ under Tariff X and 
+ under Tariff Y in terms of . (2
+marks)
+2. Copy and complete a table of costs for 
+ km. (3 marks)
+3. Draw both graphs on the same axes. Find the distance at which the two costs are equal, both
+by reading the graph and by solving the two equations. (5 marks)
+4. Interpret the value you found in words: for which distances is each tariff the cheaper one? (3
+marks)
+5. The business expects to drive 
+ km per week. Calculate the weekly cost under each tariff and
+recommend one, stating the weekly saving. (3 marks)
+6. Fuel prices rise, so the per-kilometre charge under Tariff Y becomes €
+ while its fixed charge
+is unchanged. Recalculate the break-even distance and explain how the recommendation for
+ km is affected. (4 marks)
+7. State two assumptions of your model and give one reason a real quotation might differ from
+your calculation. (4 marks)
+A second problem uses the same habit of modelling. A gardener has 
+ m of fencing and wants to
+fence a rectangular vegetable bed on three sides, using an existing straight wall as the fourth side.
+8. Let each of the two equal fenced sides have length  m. Write the length of the third fenced
+side in terms of , and hence write an expression for the area  of the bed. (3 marks)
+9. Use a table of values for 
+ to estimate the value of  that gives the
+greatest area, and state that greatest area. (4 marks)
+10. Explain why your answer is only an estimate, and describe one way to improve it. (2 marks)
+PLANNING FRAME
+Define: write what each letter means and its unit. Relate: each cost is a fixed charge plus a rate times
+distance, a linear function. Compare: the break-even point is where the two expressions are equal.
+Read off: the cheaper tariff is the lower line on the graph. Optimise: tabulate the area and look for the
+turning point. Evaluate: name the assumptions and say how the answer would change if they failed.
+CRITERION: D (I–V)
+ATL: MODELLING AND TRANSFER
+TIME: 60 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ Criterion D strands i–v. The rubric is a course summary, not an official IB descriptor.
+8
+0.90
+20
+0.40
+k
+C
+​
+X
+C
+​
+Y
+k
+k = 0,  10,  20,  30,  40
+900
+0.60
+900
+40
+x
+x
+A
+x = 4,  6,  8,  10,  12,  14,  16
+x
+
+
+===== [source page 236] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+236
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Year 3 exit task · Does the revision
+app work?
+INTERDISCIPLINARY
+DATA, CHANCE AND ALGEBRA
+30 MARKS · 90 MIN
+This capstone draws on bivariate data, probability and algebra from the whole course. Work
+through it as a single investigation: collect the evidence, model it, then decide how much
+the evidence really supports.
+Criterion task · Evidence for a claim
+CRITERIA D AND B, WITH C
+MODEL, DECIDE AND JUSTIFY
+30 MARKS
+A school is considering buying a revision app. Twelve students recorded the number of hours
+they used a trial version in one week and their score on a test out of 
+. Your calculator gives a
+correlation coefficient of 
+.
+HOURS USING THE APP
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+TEST SCORE
+52
+58
+55
+64
+68
+71
+69
+78
+82
+85
+88
+90
+1. Plot a scatter plot of test score against hours using the app. Describe the correlation, giving its
+direction and its strength, and link your description to the value of . (4 marks)
+2. Draw a line of best fit through the points and estimate its equation in the form 
+,
+where  is the test score and  is the number of hours. (4 marks)
+3. Use your line to predict the score of a student who uses the app for 
+ hours. Comment on how
+reliable this prediction is. (4 marks)
+4. A student claims “a student who uses the app for 
+ hours will score about 
+ marks more than
+a student who uses it for  hours”. Use your equation to check the claim and correct it if
+necessary. (3 marks)
+5. The school concludes that the app causes higher scores. Explain why the data do not prove
+causation. Give one alternative explanation for the pattern and describe one way to test
+causation properly. (5 marks)
+6. The app is offered free to 
+ students. Records from another school show that about 
+ of
+students buy such an app at full price. Estimate how many of the 
+ students would take the
+free offer, and give one reason this estimate might be too high. (4 marks)
+7. Write a short recommendation to the school. State one strength of your analysis, one
+limitation, and what further information you would request before committing to the
+purchase. (6 marks)
+PLANNING FRAME
+Plot: hours on the horizontal axis, score on the vertical axis; label both axes. Describe: direction, form
+and strength, then quote . Fit: a line that passes through the middle of the cloud, not through the
+extremes. Predict: substitute into your equation, then ask whether 
+ hours lies inside the range of
+the data. Compare: a difference of  hours changes the score by 
+, with 
+ the gradient. Question:
+high correlation does not establish cause; name a confounding variable such as motivation.
+Conclude: balance the strength against the limitation.
+CRITERIA: D, B (C)
+ATL: CRITICAL THINKING AND COMMUNICATION
+TIME: 90 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ Criterion D strand iii with B strands i–ii and C strand iv. The rubric is a course summary, not an official IB
+descriptor.
+100
+r ≈0.985
+r
+y = mx + c
+y
+x
+14
+12
+12
+7
+200
+30%
+200
+r
+14
+5
+5m
+m
+
+
+===== [source page 237] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+237
+Assessment rubric for the cumulative papers
+CRITERIA A–D
+COURSE SUMMARY
+148 MARKS IN TOTAL
+The bands below describe one route through the whole set. A paper may show a higher band in
+one criterion than another; record the band per criterion rather than averaging across the four.
+CRITERION
+BAND 4 — 7 TO 8
+BAND 3 — 5 TO 6
+BAND 2 — 3 TO 4
+BAND 1 — 1 TO 2
+A · Knowing and
+understanding
+Accurate recall and
+procedure across
+every topic; correct
+notation and units;
+errors, if any, are slips
+corrected on review.
+Sound recall
+with minor
+errors in one or
+two topics;
+mostly correct
+notation.
+Partial recall;
+procedures
+attempted but
+with repeated
+errors.
+Isolated correct
+facts; most
+procedures
+incomplete.
+B · Investigating
+patterns
+Complete table;
+general rule found,
+verified and justified;
+limitations identified
+precisely.
+Table and rule
+largely correct;
+verification
+sound; some
+comment on
+limits.
+Pattern partly
+described; rule
+stated without
+full verification.
+Few correct
+values; no usable
+generalisation.
+C · Communicating
+Proof complete and
+logically ordered;
+notation consistent;
+assumptions and the
+flawed step identified
+clearly.
+Proof mostly
+correct with a
+small gap;
+explanation
+generally clear.
+Some correct
+reasoning;
+structure and
+notation
+inconsistent.
+Statements
+unconnected;
+conclusion
+unsupported.
+D · Applying
+mathematics
+Accurate model with
+stated assumptions;
+correct calculations;
+recommendation
+justified and
+limitations evaluated.
+Model largely
+correct;
+calculations
+mostly
+accurate;
+evaluation
+attempted.
+Model partly
+correct;
+interpretation
+limited;
+evaluation
+generic.
+Little correct
+modelling;
+answer
+unsupported by
+reasoning.
+TOTAL: 148 MARKS ACROSS PAPERS A–D AND THE EXIT TASK
+MARKING: PER CRITERION, NOT AVERAGED
+REVIEW: RETURN TO THE CHAPTER SECTIONS NAMED IN EACH ANSWER
+MAPPED TO:
+ the four MYP mathematics criteria as paraphrased for this course. These bands are a course summary, not official
+IB descriptors, and a response may sit in different bands for different strands.
+Self-assessment and examination technique
+Marks are lost more often to presentation than to knowledge. Before you mark your own
+work, read the three habits below; then record, paper by paper, where the evidence of
+your understanding actually sits.
+READ THE COMMAND WORD
+“Show”, “explain”, “justify” and
+“evaluate” ask for different amounts
+of writing. Answer the verb you
+were given.
+MAKE THE METHOD VISIBLE
+Write the formula, substitute, then
+calculate. A bare answer cannot earn
+method marks, even when it is
+correct.
+CHECK FOR SENSE
+Ask whether the size, sign and unit
+of the result are plausible. A
+negative length or a probability
+above 1 signals an error to find.
+
+
+===== [source page 238] =====
+CUMULATIVE REVIEW AND ASSESSMENT
+Papers A–D · Year 3 exit task
+238
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PAPER
+TARGET
+BAND
+EVIDENCE
+NEXT ACTION
+A · Knowing and understanding
+1 / 2 / 3 / 4
+B · Investigating patterns
+1 / 2 / 3 / 4
+C · Communicating
+1 / 2 / 3 / 4
+D · Applying mathematics
+1 / 2 / 3 / 4
+Exit task · Evidence for a claim
+1 / 2 / 3 / 4
+Reflection
+Which paper revealed the largest gap between what you understand and what you can
+explain? A high score in Paper A but a low one in Paper C means the mathematics is
+secure but the communication needs practice. Choose one habit from above and describe,
+in two sentences, how you will apply it in your next assessment.

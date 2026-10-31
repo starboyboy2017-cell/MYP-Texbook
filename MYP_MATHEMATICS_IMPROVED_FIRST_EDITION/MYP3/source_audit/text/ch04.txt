@@ -1,0 +1,2036 @@
+
+
+===== [source page 71] =====
+PA R T I I · R E L AT I O N S H I P S A N D E Q U AT I O N S
+M Y P Y E A R 3
+C H A P T E R 0 4
+4
+C H A N G E , R E L AT I O N S H I P S A N D P R E D I C T I O N
+Linear relationships and
+graphs
+Some quantities change at a steady rate. Equal steps
+in one produce equal steps in the other, and a graph
+makes that regularity visible as a straight line. The
+line is not just a picture: it is a rule for predicting
+beyond the data.
+KEY CONCEPT · RELATIONSHIPS
+RELATED · CHANGE
+RELATED · REPRESENTATION
+CONTEXT · FAIRNESS AND DEVELOPMENT
+rise
+rise
+run
+run
+I N Q U I R Y
+How can a straight line turn a table of measurements into a rule that
+predicts values we have not measured?
+AT L · C O M M U N I CAT I N G W I T H R E P R E S E N TAT I O N S
+A graph is an argument, not decoration. Always label both axes with quantities and units, choose a
+scale that makes the relationship readable, and mark key points such as intercepts. When you read a
+gradient aloud, name both units: “18 kilometres per hour”, not “18”. A reader should be able to
+reconstruct your model from your table, graph and equation without guessing.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 72] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+72
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 4 · A P P R OX . 1 5 H O U R S
+AT L F O C U S · C O M M U N I C AT I O N
+KEY AND RELATED CONCEPTS
+Relationships. A linear relationship connects
+two quantities by a constant rate of change. The
+same relationship can be represented by a table,
+a graph, an equation or a description in words.
+Change. Gradient measures how quickly the
+dependent quantity changes as the independent
+quantity increases by one unit. A zero gradient
+and an undefined gradient describe very
+different situations.
+Representation. Each representation exposes
+different information. A table shows individual
+values, a graph shows shape and direction, and
+an equation gives the exact rule.
+GLOBAL CONTEXT AND EXPLORATION
+Fairness and development. Exploration:
+how linear cost models can make charges
+predictable, and how a fixed fee, a rate or a
+cap affects different users unequally.
+Two businesses may describe their prices
+with straight lines that look equally simple.
+The intercept says how much someone pays
+before using anything; the gradient says
+how much each additional unit costs.
+Reading those two numbers together is a
+first step in judging whether a price is fair.
+FACTUAL
+What are gradient and -
+intercept? How do you plot a
+line from a table or an
+equation? What does it mean
+for two quantities to be
+directly proportional?
+CONCEPTUAL
+Why does a constant rate of
+change necessarily produce a
+straight line, and why does a
+straight line necessarily have
+a constant gradient?
+DEBATABLE
+When a linear model fits only
+part of a real situation, how
+far should we trust its
+predictions about fairness?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Calculate gradients, identify intercepts, find equations of lines
+and use direct proportion.
+B · Investigating patterns
+i, ii, iii
+Investigate a candle-burning pattern, test a linear rule and
+evaluate its limiting assumptions.
+C · Communicating
+i, ii, iii, iv
+Move between tables, graphs, equations and words; state the
+meaning of gradient and intercept with units.
+D · Applying mathematics
+i, ii, iii, iv, v
+Compare two pricing models, justify a recommendation and
+evaluate fairness and model limitations.
+S TAT E M E N T O F I N Q U I R Y
+A constant rate of change produces a linear relationship whose table,
+graph and equation are equivalent representations; gradient and
+intercept communicate the rate and the starting value, and together
+they allow predictions to be made and compared.
+y
+
+
+===== [source page 73] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+73
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Plot the points 
+, 
+ and 
+ on a coordinate grid.
+2. Evaluate 
+ when 
+.
+3. Solve 
+.
+4. Write the next two terms: 5, 9, 13, 17, …
+5. Calculate 
+.
+6. Convert 90 minutes to hours.
+Answers are in the Chapter 4 answer section. If more than two are incorrect, review coordinates, substitution and
+simple equations before continuing.
+BEFORE YEAR 3
+Coordinates in four quadrants;
+substitution; simple equations; ratio
+and unit rates; recognising number
+patterns.
+YEAR 3 · THIS CHAPTER
+Gradient as rate of change;
+; equations from graphs
+and points; direct proportion; linear
+models and critique.
+LATER
+Simultaneous equations; systems of
+inequalities; quadratic and
+exponential models; calculus of
+change; linear regression.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Prices, distances
+and heights
+change at
+measurable rates.
+2
+QUESTION
+How can a graph
+show a constant
+rate and predict
+unseen values?
+3
+CONCEPT
+Gradient,
+intercept,
+equivalence of
+representations
+and direct
+proportion.
+4
+INVESTIGATION
+Model a burning
+candle and test
+where the linear
+model stops
+working.
+5
+COMMUNICATION
+Explain the
+meaning of
+gradient and
+intercept in a fair-
+pricing context.
+6
+REFLECTION
+When is a
+straight-line
+prediction
+responsible, and
+when is it
+misleading?
+Understand how a table, graph and equation
+can represent the same linear relationship.
+Know how to calculate gradient from a graph,
+a table or two points.
+Be able to interpret gradient and intercept in
+context, with correct units.
+Be able to find the equation of a line from a
+graph, a table or two points.
+Be able to recognise direct proportion and use
+a constant of proportionality.
+Be able to build, compare and critique a linear
+model of a real cost or motion.
+I can plot points accurately and read
+coordinates from a grid.
+I can calculate gradient using 
+ and
+interpret its sign.
+​
+x
+​−x
+​
+2
+1
+y
+​−y
+​
+2
+1
+I can explain the meaning of 
+ and  in
+, including units.
+m
+c
+y = mx + c
+I can find a linear equation from two points
+and check it by substitution.
+I can decide whether a relationship is
+proportional or merely linear.
+I can use a model to interpolate, extrapolate
+and discuss its limitations.
+(0, 0) (2, 3)
+(−1, 4)
+3x + 2
+x = 4
+2x −6 = 0
+​
+5−1
+8−2
+y = mx + c
+
+
+===== [source page 74] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+74
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ From tables to straight lines
+CRITERION A · I
+CRITERION C · I
+REPRESENTATION
+A graph is a correspondence between algebra and geometry. Each ordered pair becomes a
+point, and a collection of points can reveal a pattern that the numbers alone might hide.
+In a linear relationship, the quantity we choose is usually called the independent variable and is
+plotted on the horizontal axis. The quantity that responds is the dependent variable and is plotted
+on the vertical axis. Time is often independent because we choose when to measure; distance, cost
+or height is often dependent because it responds to time or to the amount used.
+A table of values is a list of ordered pairs. To plot 
+, substitute a few values of , calculate
+the corresponding values of , and plot the resulting pairs. Because the rule is linear, two correctly
+plotted points would determine the line, but a third point is a useful check.
+WO R K E D E X A M P L E 4.1 .1
+FROM EQUATION TO TABLE TO GRAPH
+PROBLEM
+Complete the table for 
+ and describe the graph.
+−2
+−1
+0
+1
+2
+3
+—
+—
+—
+—
+—
+—
+ANSWER The points lie on a straight line; as  increases by 1,  increases by 2. The line crosses
+the -axis at 
+.
+4.1
+D E F I N I T I O N S
+The Cartesian plane is formed by a horizontal -axis and a vertical -axis crossing at the
+origin
+. A point is named by an ordered pair 
+, where  is the horizontal
+displacement and  the vertical displacement. The axes divide the plane into four quadrants.
+A relationship is linear when its graph is a straight line; equivalently, equal changes in 
+produce equal changes in .
+x
+y
+(0, 0)
+(x, y)
+x
+y
+x
+y
+y = 2x −1
+x
+y
+y = 2x −1
+x
+y = 2x −1
+Substitute each -value. For example, when 
+, 
+; when 
+,
+.
+1
+x
+x = −2 y = 2(−2) −1 = −5
+x = 3
+y = 2(3) −1 = 5
+The completed values are 
+. The change in  is always 2 when  increases by 1.
+2
+−5, −3, −1, 1, 3, 5
+y
+x
+Plot the six ordered pairs and join them with a straight line. Extend the line beyond the
+plotted points to show that the relationship continues.
+3
+x
+y
+y
+(0, −1)
+
+
+===== [source page 75] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+75
+−2
+−1
+1
+2
+3
+4
+5
+−5
+−3
+−1
+1
+3
+5
+7
+x
+y
+(0, −1)
+(0, −1)
+run = 2
+rise = 4
+y = 2x − 1
+y = 2x − 1
+The gradient triangle shows that a run of 2 produces a rise of 4.
+Figure 4.1 The graph of 
+. Every step of 1 to the right raises the line by 2; the intercept 
+ is where the line meets the 
+-axis.
+A table can also tell us whether a relationship is linear. If the values of  increase by equal steps,
+compare the corresponding changes in . A constant first difference in  indicates a linear pattern.
+If the first differences change, the relationship is not linear.
+WO R K E D E X A M P L E 4.1 . 2
+TESTING A TABLE FOR LINEARITY
+PROBLEM
+Decide which table represents a linear relationship.
+Table A: 
+0
+1
+2
+3
+4
+7
+10
+13
+16
+19
+Table B: 
+0
+1
+2
+3
+4
+1
+4
+9
+16
+25
+ANSWER Table A is linear with rule 
+; Table B is not linear.
+y = 2x −1
+(0, −1)
+y
+x
+y
+y
+x
+y
+x
+y
+Table A: the changes in  are 
+. The first differences are constant, so the table represents
+a linear relationship. When 
+, 
+, so the rule is 
+.
+1
+y
+3, 3, 3, 3
+x = 0 y = 7
+y = 3x + 7
+Table B: the changes in  are 
+. They are not constant, so the relationship is not linear.
+The values are in fact 
+.
+2
+y
+3, 5, 7, 9
+y = (x + 1)2
+A constant first difference tells us that the rate of change is constant. For Table A that rate is 3
+units of  for each unit of .
+3
+y
+x
+y = 3x + 7
+C O M M O N E R R O R · R E A D I N G C O O R D I N AT E S I N T H E W R O N G O R D E R
+The point 
+ means 
+, 
+, not the other way round. Also check the scale: one square
+might represent 2 units, not 1. A line can look straight but be plotted incorrectly if the axes
+are not labelled or the scale changes partway along an axis.
+(3, 5)
+x = 3 y = 5
+
+
+===== [source page 76] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+76
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 4.1 · COORDINATES, TABLES AND GRAPHS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Plot 
+, 
+, 
+, 
+ and 
+. State the quadrant or axis on which each point
+lies. 
+F
+2. Complete the table for 
+ for 
+, then plot the graph. 
+F
+−1
+0
+1
+2
+3
+—
+—
+—
+—
+—
+3. A table has 
+ and 
+. Find the first differences, state whether the
+relationship is linear, and write its equation. 
+F
+4. Which tables represent linear relationships? Explain using first differences. 
+R
+a. 
+; 
+b. 
+; 
+c. 
+; 
+d. 
+; 
+5. A plant is 12 cm tall at week 0 and grows 2.5 cm each week. Make a table for weeks 0 to 4, write a
+formula for its height  after  weeks, and predict its height at week 10. 
+P
+6. Explain why the graph of 
+ is horizontal, while the graph of 
+ is vertical and does not
+represent  as a function of . 
+R
+7. A taxi company charges a fixed amount plus a rate per kilometre. The table shows the cost for several
+distances. Find the fixed charge and the rate per kilometre, write an equation, and predict the cost of
+an 11 km journey. 
+P
+Distance (km)
+0
+2
+4
+6
+Cost (units)
+4.50
+9.00
+13.50
+18.00
+8. Invent a real context that could be modelled by 
+. State what  and 
+ represent, include
+their units, and give one reason the linear model might eventually fail. 
+E
+ Gradient as a rate of change
+CRITERION A · II
+CRITERION C · II
+CHANGE
+Gradient is the central measurement of a linear relationship. It answers a practical
+question: how much does the dependent quantity change for each additional unit of the
+independent quantity?
+A positive gradient means the line rises from left to right. A negative gradient means it falls. A
+horizontal line has gradient 0 because the vertical change is 0. A vertical line has an undefined
+gradient because the horizontal change is 0 and division by zero is undefined. “No slope” is not the
+same as “slope zero”.
+A(3, 2) B(−2, 4) C(−3, −1) D(4, −3)
+E(0, −2)
+y = 3x −2
+x = −1, 0, 1, 2, 3
+x
+y
+x = 0, 1, 2, 3, 4
+y = 5, 8, 11, 14, 17
+x = 0, 1, 2, 3 y = 4, 7, 10, 13
+x = 0, 1, 2, 3 y = 2, 4, 8, 16
+x = 1, 2, 3, 4 y = 9, 7, 5, 3
+x = −1, 0, 1, 2 y = 1, 3, 6, 10
+h
+w
+y = 3
+x = 3
+y
+x
+C = 15 + 0.4x
+x
+C
+4.2
+D E F I N I T I O N
+For two points 
+ and 
+ on a line, the gradient is 
+, provided 
+. The
+numerator is the vertical change or rise; the denominator is the horizontal change or run. In
+context, gradient is a rate of change and carries units: units of  per unit of .
+(x
+​, y
+​)
+1
+1
+(x
+​, y
+​)
+2
+2
+m =
+​
+x
+​−x
+​
+2
+1
+y
+​−y
+​
+2
+1
+x
+​ =
+1 x
+​2
+y
+x
+
+
+===== [source page 77] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+77
+positive
+negative
+zero
+undefined
+Gradient measures change in y per unit change in x.
+Figure 4.2 The four possible types of gradient for a straight line. Only the horizontal and vertical cases require special care: zero is
+a number, while undefined is not.
+WO R K E D E X A M P L E 4. 2 .1
+GRADIENT FROM TWO POINTS
+PROBLEM
+Find the gradient of the line through 
+ and 
+.
+ANSWER
+WO R K E D E X A M P L E 4. 2 . 2
+GRADIENT FROM A TABLE
+PROBLEM
+Find the gradient of the linear relationship shown in the table, and interpret it.
+0
+2
+4
+6
+7
+4
+1
+−2
+ANSWER
+;  decreases by 1.5 for every unit increase in .
+(−2, 3)
+(4, −1)
+Label the points: 
+ and 
+.
+1
+(x
+​, y
+​) =
+1
+1
+(−2, 3)
+(x
+​, y ) =
+2
+2
+(4, −1)
+Substitute: 
+.
+2
+m =
+​ =
+4−(−2)
+−1−3
+​
+6
+−4
+Simplify: 
+.
+3
+m = −
+​3
+2
+The negative sign means the line falls from left to right. For every 3 units moved right, the
+line falls 2 units.
+4
+m = −
+​3
+2
+x
+y
+Choose two points, for example 
+ and 
+.
+1
+(0, 7)
+(6, −2)
+.
+2
+m =
+​ =
+6−0
+−2−7
+​ =
+6
+−9
+−1.5
+Check with another pair: 
+. The gradient is constant, as expected for a linear
+relationship.
+3
+​ =
+4−2
+1−4
+​ =
+2
+−3
+−1.5
+Each increase of 1 in  produces a decrease of 1.5 in .
+4
+x
+y
+m = −1.5 y
+x
+
+
+===== [source page 78] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+78
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 4. 2 .3
+GRADIENT WITH UNITS
+PROBLEM
+A cyclist is 6 km from the start at 09:00 and 12 km from the start at 09:20. Find the gradient of
+the distance–time graph and interpret it.
+ANSWER
+.
+PRACTICE 4.2 · GRADIENT AND RATE OF CHANGE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the gradient of the line through each pair of points, or state that it is undefined: (a) 
+, 
+(b) 
+, 
+   (c) 
+, 
+   (d) 
+, 
+   (e) 
+, 
+. 
+F
+2. A linear table has 
+ and 
+. Find the gradient and use it to predict  when 
+.
+F
+3. A tank contains 500 litres at 
+ and 340 litres after 8 minutes. Find the rate of change in litres per
+minute, including its sign, and determine when the tank will be empty if the rate stays constant. 
+F
+4. Sketch four lines with gradients that are positive, negative, zero and undefined. Label each line and
+explain in one sentence what its gradient means. 
+F
+5. Explain why a gradient of 0 is different from an undefined gradient. Give an equation of a line of each
+type. 
+R
+6. A student calculates the gradient of the line through 
+ and 
+ as 
+. Identify the
+error and give the correct gradient. 
+R
+7. Cyclist A travels 12 km in 40 minutes. Cyclist B travels 9 km in 30 minutes. Compare their average
+speeds. Cyclist B started 2 km ahead of A; explain how this affects the graph but not the gradient. 
+P
+8. A ramp has a rise of 0.6 m over a horizontal run of 7.2 m. Calculate its gradient. An accessibility
+guideline recommends a gradient no steeper than 
+. Is the ramp within the guideline? What run
+would be needed for a rise of 0.6 m at exactly 
+? 
+E
+ The equation of a straight line
+CRITERION A · I, II
+CRITERION C · III
+EQUIVALENCE
+Every non-vertical straight line can be described by an equation of the form 
+.
+The two numbers 
+ and  determine the line completely: one controls its direction, the
+other its starting height.
+Let  be the time in minutes after 09:00 and  the distance in kilometres. The points are 
+and 
+.
+1
+t
+d
+(0, 6)
+(20, 12)
+.
+2
+m =
+​ =
+20−0
+12−6
+​ =
+20
+6
+0.3
+The units are kilometres per minute: 
+. This is 
+.
+3
+0.3 km/min
+0.3 × 60 = 18 km/h
+The gradient is the cyclist's average speed over that interval. The starting value 6 km is the
+intercept, not part of the speed.
+4
+0.3 km/min = 18 km/h
+C O M M O N E R R O R · I N C O N S I S T E N T S U BT R AC T I O N
+Subtract the coordinates in the same order on top and bottom. Using 
+ reverses only one
+sign and gives the wrong answer. If you swap the points, both numerator and denominator
+change sign, so the gradient is unchanged: 
+.
+​
+x
+​−x
+​
+1
+2
+y
+​−y
+​
+2
+1
+​ =
+x
+​−x
+​
+1
+2
+y
+​−y
+​
+1
+2
+​
+x
+​−x
+​
+2
+1
+y
+​−y
+​
+2
+1
+(2, 1) (6, 5)
+(−1, 4) (3, −4)
+(−2, −3) (2, 5)
+(4, 0) (7, 0)
+(5, −2) (5, 3)
+x = 1, 3, 5, 7
+y = 2, 11, 20, 29
+y
+x = 9
+t = 0
+(2, 3)
+(5, −1)
+​ =
+2−5
+−1−3
+​ =
+−3
+−4
+​3
+4
+​
+12
+1
+​
+12
+1
+4.3
+y = mx + c
+m
+c
+
+
+===== [source page 79] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+79
+The equation can be read in either direction. Given 
+, the gradient is 4 and the intercept is
+. Given a line that passes through 
+ and rises 5 units for every 1 unit right, its equation is
+. The intercept is the value at the start; the gradient is the repeated change.
+An equation may be written in another form. To rewrite 
+ in gradient–intercept form,
+isolate : 
+, so 
+. The gradient is 
+ and the intercept is 6. The same line can
+also be drawn from its intercepts: when 
+, 
+; when 
+, 
+.
+WO R K E D E X A M P L E 4.3.1
+READING AND REWRITING AN EQUATION
+PROBLEM
+For the line 
+, state the gradient and the intercepts, then sketch it.
+ANSWER
+; -intercept 
+; -intercept 
+.
+−1
+1
+2
+3
+4
+5
+6
+−4
+−3
+−2
+−1
+1
+2
+3
+4
+5
+6
+7
+8
+x
+y
+(0, 6)
+(0, 6)
+run = 2
+rise = −3
+y = −1.5x + 6
+y = −1.5x + 6
+A run of 2 produces a rise of −3, so the gradient is −1.5.
+Figure 4.3 The line 
+, rewritten as 
+. The intercepts 
+ and 
+ are enough to draw the line.
+K E Y I D E A · G R A D I E N T – I N T E R C E P T F O R M
+In 
+, the coefficient 
+ is the gradient and  is the -intercept, the value of  when
+. The line crosses the -axis at 
+. A horizontal line has equation 
+; a vertical line
+has equation 
+ and is not the graph of a function of .
+y = mx + c
+m
+c
+y
+y
+x = 0
+y
+(0, c)
+y = k
+x = k
+x
+y = 4x −3
+−3
+(0, 2)
+y = 5x + 2
+3x + 2y = 12
+y 2y = 12 −3x
+y = 6 −
+​x
+2
+3
+−2
+3
+x = 0 y = 6
+y = 0 x = 4
+3x + 2y = 12
+Rearrange: 
+, so 
+. The gradient is 
+ and the -intercept is 6.
+1
+2y = 12 −3x
+y = 6 −
+​x
+2
+3
+−
+​2
+3
+y
+Find the -intercept by setting 
+: 
+, so 
+. The intercepts are 
+ and 
+.
+2
+x
+y = 0 3x = 12
+x = 4
+(0, 6)
+(4, 0)
+Plot the two intercepts and join them. Because the gradient is negative, the line falls from left
+to right.
+3
+m = −
+​2
+3 y
+(0, 6) x
+(4, 0)
+3x + 2y = 12
+y = 6 −
+​x
+2
+3
+(0, 6)
+(4, 0)
+
+
+===== [source page 80] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+80
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 4.3. 2
+EQUATION FROM TWO POINTS
+PROBLEM
+Find the equation of the line through 
+ and 
+.
+ANSWER
+WO R K E D E X A M P L E 4.3.3
+A PARALLEL LINE
+PROBLEM
+Find the equation of the line parallel to 
+ that passes through 
+.
+ANSWER
+Extension. Perpendicular lines have gradients whose product is 
+: if 
+, the lines meet at a
+right angle. For example, a line perpendicular to 
+ has gradient 
+. This is developed further in
+Chapter 7.
+PRACTICE 4.3 · EQUATIONS OF LINES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. State the gradient and -intercept: (a) 
+   (b) 
+   (c) 
+   (d) 
+   (e)
+. 
+F
+2. Write the equation of the line with: (a) gradient 3 and -intercept 
+   (b) gradient 
+ and -intercept 4
+  (c) gradient 0 through 
+   (d) undefined gradient through 
+. 
+F
+3. Find the equation of the line through each pair of points: (a) 
+, 
+   (b) 
+, 
+   (c) 
+,
+   (d) 
+, 
+. 
+F
+4. A table has 
+ and 
+. Find the equation of the line. 
+F
+5. Which of these points lie on the line 
+: 
+, 
+, 
+, 
+? Show a substitution for
+each. 
+R
+6. Find the equation of the line parallel to 
+ through 
+. Then find the equation of the line
+perpendicular to 
+ through the same point. 
+P
+7. A tank drains so that its height after  minutes is 
+ metres. Interpret the gradient and
+intercept, find the height after 8 minutes, and determine when the tank is empty. State the domain.
+P
+(2, −1)
+(6, 7)
+Calculate the gradient: 
+.
+1
+m =
+​ =
+6−2
+7−(−1)
+​ =
+4
+8
+2
+Write the partial equation 
+. Substitute one point to find . Using 
+:
+, so 
+ and 
+.
+2
+y = 2x + c
+c
+(2, −1)
+−1 = 2(2) + c
+−1 = 4 + c
+c = −5
+The equation is 
+.
+3
+y = 2x −5
+Check with the other point: 
+, as required.
+4
+2(6) −5 = 7
+y = 2x −5
+y = 3x + 1
+(4, −2)
+Parallel lines have the same gradient, so the new line has 
+.
+1
+m = 3
+Write 
+ and substitute 
+: 
+, so 
+.
+2
+y = 3x + c
+(4, −2) −2 = 3(4) + c
+c = −14
+The equation is 
+.
+3
+y = 3x −14
+y = 3x −14
+−1
+m
+​m
+​ =
+1
+2
+−1
+y = 3x + 1
+−
+​3
+1
+C O M M O N E R R O R · D I V I D I N G O N LY O N E T E R M
+From 
+, dividing by 2 gives 
+, not 
+. Every term on the right must
+be divided. Similarly, the intercept of 
+ is 5, not 
+; rewrite it as 
+ before
+reading the intercept.
+2y = 6x −8
+y = 3x −4
+y = 3x −8
+y = 5 −2x
+−2
+y = −2x + 5
+y
+y = 4x −7
+y = −0.5x + 2
+y = 5 −2x
+3x + y = 5
+2y = 6x −8
+y
+−2
+−
+​3
+2
+y
+(0, −3)
+(5, 0)
+(0, 2) (4, 10)
+(1, 5) (3, 1)
+(−2, 4)
+(2, 0)
+(3, −1) (6, −1)
+x = 0, 1, 2, 3
+y = 6, 4, 2, 0
+y = 2x −3 (1, −1) (2, 1) (3, 4) (0, −3)
+y = −x + 4
+(2, 5)
+y = −x + 4
+t
+h = 2.4 −0.15t
+
+
+===== [source page 81] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+81
+8. How many different lines pass through 
+? Write equations for three of them with different
+gradients. Is there a line through 
+ with gradient 0? With undefined gradient? Explain. 
+E
+ Direct proportion
+CRITERION A · II
+CHANGE
+PROPORTIONALITY
+Direct proportion is the simplest linear relationship: doubling one quantity doubles the
+other, and zero input produces zero output. Its graph is a straight line through the origin.
+Every direct proportion is linear with -intercept 0. The converse is false: 
+ is linear but
+not proportional. Its graph does not pass through the origin, and the ratio  changes with . At
+, 
+; at 
+, 
+. A constant gradient alone does not guarantee direct proportion; the
+intercept must also be zero.
+x
+y
+x
+y
+direct proportion · y = kx
+linear, not proportional · y = mx + c
+y = 2x
+y = ½x
+(2, 4)
+(2, 4)
+(0, 3)
+(0, 3)
+y = 2x + 3
+y = ½x + 3
+Direct proportion passes through the origin. Every proportional relationship is linear, but not every linear relationship is proportional.
+Figure 4.4 Proportional relationships pass through the origin and have a constant quotient. Linear relationships with a non-zero
+intercept have a constant gradient but not a constant quotient.
+(2, 5)
+(2, 5)
+4.4
+D E F I N I T I O N
+Two quantities  and  are in direct proportion if 
+ for some non-zero constant . The
+number  is the constant of proportionality. Equivalently, the ratio  is constant for all
+, and the graph of  against  is a straight line through the origin.
+x
+y
+y = kx
+k
+k
+​x
+y
+x =0
+y
+x
+y
+y = 2x + 3
+​x
+y
+x
+x = 1
+​ =
+x
+y
+5
+x = 3
+​ =
+x
+y
+3
+
+
+===== [source page 82] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+82
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 4. 4.1
+FINDING THE CONSTANT OF PROPORTIONALITY
+PROBLEM
+ is directly proportional to , and 
+ when 
+. Find the constant of proportionality
+and the value of  when 
+.
+ANSWER
+; the relationship is 
+; when 
+, 
+.
+WO R K E D E X A M P L E 4. 4. 2
+A CURRENCY CONVERSION
+PROBLEM
+One US dollar is exchanged for 0.92 euros. Write the euro value 
+ as a function of the dollar
+value 
+, convert 250 dollars, and find how many dollars 500 euros will buy.
+ANSWER
+; 250 dollars buys 230 euros; 500 euros buys about 543.48 dollars.
+PRACTICE 4.4 · DIRECT PROPORTION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Which relationships are direct proportions? Explain each answer. (a) 
+   (b) 
+   (c)
+   (d) 
+   (e) 
+F
+2. For 
+, find  when 
+, and find  when 
+. 
+F
+3. 
+ is directly proportional to , and 
+ when 
+. Find , write the relationship, and find  when
+ and  when 
+. 
+F
+4. A recipe uses 3 cups of flour for 12 muffins. Write a proportional relationship between cups  and
+muffins 
+. How many cups are needed for 20 muffins? How many muffins can be made from 7.5 cups?
+P
+5. The exchange rate is 1 US dollar 
+ euros. Write an equation, convert 250 dollars, and convert 500
+euros. State the domain and one reason the model may not be exact. 
+P
+6. Explain why 
+ is linear but not directly proportional. Use a table of three values and the
+ratios  in your explanation. 
+R
+7. A car travels at a constant 80 km/h, so 
+. Explain why this is direct proportion, find the time for
+300 km, and state a sensible domain. How does the equation change if the car starts 20 km from
+home? Is the new relationship still proportional? 
+P
+y
+x
+y = 18
+x = 6
+x
+y = 45
+Write 
+. Substitute the known pair: 
+.
+1
+y = kx
+18 = k(6)
+Divide by 6: 
+. The relationship is 
+.
+2
+k = 3
+y = 3x
+When 
+: 
+, so 
+.
+3
+y = 45 45 = 3x
+x = 15
+k = 3
+y = 3x
+y = 45 x = 15
+E
+D
+The relationship is 
+. This is direct proportion with 
+.
+1
+E = 0.92D
+k = 0.92
+For 
+: 
+ euros.
+2
+D = 250 E = 0.92(250) = 230
+For 
+: 
+, so 
+ dollars.
+3
+E = 500 500 = 0.92D
+D =
+​ ≈
+0.92
+500
+543.48
+The domain is 
+. In practice, a currency kiosk may charge a commission, so the linear
+model is only an approximation unless the rate is guaranteed.
+4
+D ≥0
+E = 0.92D
+ST R AT E GY · T E ST I N G F O R D I R E C T P R O P O R T I O N
+Check three things: the graph passes through the origin; the ratio  is constant for every non-zero
+pair; and the relationship can be written as 
+. A single pair is never enough to prove
+proportionality — it only determines  if proportionality is already known or justified by the context.
+x
+y
+y = kx
+k
+C = 4n
+C = 4n + 10
+y = 0.5x
+y =
+​x
+2
+y = 3 −x
+y = 7x
+y
+x = 8
+x
+y = 63
+y
+x
+y = 45
+x = 9
+k
+y
+x = 12
+x
+y = 100
+c
+M
+= 0.93
+y = 2x + 3
+​x
+y
+d = 80t
+
+
+===== [source page 83] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+83
+8. Prove that if 
+, doubling  doubles . Does 
+ have this property? Give a counterexample.
+What does your answer show about the difference between linear and proportional reasoning? 
+E
+ Linear models, prediction and fairness
+CRITERION D · I, II, III
+CRITERION C · IV
+MODELS
+A linear model is a deliberately simple description of a relationship. Its value lies in
+prediction and comparison, but its simplicity also limits what it can claim.
+To build a linear model, name the variables and units, identify the fixed amount as the intercept
+and the repeated amount as the gradient, then write 
+. In a cost model, the intercept is the
+amount paid before any use and the gradient is the marginal cost of one more unit. Comparing two
+models means comparing both numbers: a lower intercept favours light users, while a lower
+gradient favours heavy users.
+WO R K E D E X A M P L E 4. 5.1
+COMPARING TWO MEMBERSHIPS
+PROBLEM
+Gym A charges a 20-unit joining fee plus 15 units per month. Gym B charges 50 units to join
+plus 10 units per month. Write a cost model for each, compare the first year, and state when
+each is cheaper.
+ANSWER
+, 
+; both cost 110 at 6 months. A is cheaper for 
+, B for
+.
+C H E C K P O I N T
+Using the models above, calculate the cost of 3 months and of 12 months under each gym. Which
+number in each equation causes the ranking to change as 
+ increases? Explain in one sentence.
+y = kx
+x
+y
+y = 2x + 3
+4.5
+D E F I N I T I O N S
+A mathematical model uses mathematics to describe a real situation. Interpolation predicts
+within the range of the data or the stated domain; extrapolation predicts outside it. The
+break-even point is the value at which two cost models give the same total. A model's
+domain is the set of inputs for which it is intended and meaningful.
+y = mx + c
+For 
+ months, Gym A costs 
+ and Gym B costs 
+.
+1
+m
+A = 20 + 15m
+B = 50 + 10m
+At 
+, A costs 20 and B costs 50. At 
+, both cost 110. At 
+, A costs 200 and B costs
+170.
+2
+m = 0
+m = 6
+m = 12
+Gym A is cheaper for fewer than 6 months; Gym B is cheaper for more than 6 months; they
+are equal at 6 months.
+3
+The gradients show why: A charges 5 more per month, so its lower joining fee is gradually
+overtaken by its higher monthly rate.
+4
+A = 20 + 15m B = 50 + 10m
+m < 6
+m > 6
+m
+
+
+===== [source page 84] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+84
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 4. 5. 2
+INTERPOLATION, EXTRAPOLATION AND CRITIQUE
+PROBLEM
+A phone plan costs 
+ units for 
+ megabytes, where the model is stated to apply
+for 
+. Find the cost at 400 MB, predict the cost at 900 MB using the equation, and
+evaluate that prediction.
+ANSWER 36 units at 400 MB; the equation gives 66 units at 900 MB, but this extrapolation is
+outside the model's stated domain.
+PRACTICE 4.5 · BUILDING AND EVALUATING MODELS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Write a linear model: (a) a plumber charges 45 units call-out plus 30 units per hour; (b) a taxi charges
+3.50 units plus 2.20 units per kilometre; (c) an internet service costs 18 units per month plus 0.40 units
+per gigabyte. 
+F
+2. For each model in Question 1, state the gradient and the intercept, including their units, and interpret
+both in one sentence. 
+F
+3. Plan A costs 
+ units for 
+ months. Plan B costs 
+ units. Complete a table for
+, identify the cheaper plan for each value, and estimate the break-even point. 
+P
+4. Sketch the graphs of 
+ and 
+ on the same axes. Estimate the value of  at which
+they meet and explain what that value means. 
+P
+5. A membership costs 120 units per year and includes unlimited use; a pay-as-you-go option costs 3
+units per visit. Write both models, give the break-even number of visits, and explain why the
+membership model has gradient 0. 
+R
+6. A study-time model predicts a score 
+ for 
+, where  is hours of study. Interpret the
+gradient and intercept, predict the score for 12 hours, and discuss a prediction for 40 hours. 
+R
+7. A community internet scheme offers (A) 20 units per month plus 1 unit per GB, or (B) 45 units per
+month for unlimited data. Which option is more affordable for a low-income household that uses 5 GB
+per month? Which is better for a household that uses 40 GB? Discuss fairness and state two
+assumptions behind your advice. 
+P
+8. Design a linear pricing model that is cheaper than 
+ when 
+ and more expensive when
+. Explain how the intercept and gradient achieve this, and state one group of users who would
+benefit. 
+E
+C = 12 + 0.06m
+m
+0 ≤m ≤500
+At 400 MB: 
+ units. This is interpolation because 400 is inside
+the stated domain.
+1
+C = 12 + 0.06(400) = 12 + 24 = 36
+At 900 MB the equation gives 
+ units. This is extrapolation because 900 lies
+outside the stated domain.
+2
+12 + 0.06(900) = 66
+The extrapolation may be unreliable: the provider may cap the charge, change the rate, slow
+the connection or apply a different tariff above 500 MB.
+3
+A responsible answer reports the calculation but labels it as a conditional prediction, not a
+fact about the bill.
+4
+ST R AT E GY · E VA L UAT I N G A L I N E A R M O D E L
+Ask four questions. What do the gradient and intercept mean, with units? What domain was
+measured? Is the prediction interpolation or extrapolation? What real effects — caps, discounts, fixed
+capacity, measurement error — does the model ignore? A model can be mathematically correct and
+still be the wrong model for a decision.
+10 + 4m
+m
+25 + 2m
+m = 0, 3, 6, 9, 12
+C = 15 + 3n
+C = 30 + 1.5n
+n
+S = 40 + 5h
+0 ≤h ≤20
+h
+C = 30 + 2x
+x < 10
+x > 10
+
+
+===== [source page 85] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+85
+Application · A library of things
+CRITERION D · I, II, III, IV
+COST MODELS
+FAIRNESS
+A community tool library lends drills, sewing machines and gardening equipment. It is choosing
+between two pricing models. Option A: a 36-unit annual membership plus 3 units per hire. Option
+B: no membership, but 9 units per hire. Let  be the number of hires in a year and 
+ the annual cost
+in units.
+1. Write a linear equation for each option. Interpret the intercept and gradient of each model,
+including their units.
+2. Complete a table of costs for 
+ for both options.
+3. Plot both lines on the same axes. Estimate the number of hires at which the costs are equal,
+and interpret this point in context.
+4. Calculate the cost of 3 hires and of 15 hires under each option. Which option would you
+recommend in each case? Justify with the numbers.
+Investigation · The candle clock
+CRITERION B
+Before mechanical clocks, people used candles to measure time. A candle of initial height 18.0 cm
+is lit and its height is measured every hour. The results are shown in the table.
+Time  (hours)
+0
+1
+2
+3
+4
+5
+Height  (cm)
+18.0
+16.4
+14.8
+13.2
+11.6
+10.0
+1. Represent. Plot the points on a graph with time on the horizontal axis. Describe the pattern
+and calculate the first differences in height.
+2. Measure the rate. Calculate the gradient using two different pairs of points. Explain why the
+units are centimetres per hour and why the gradient is negative.
+3. Model. Find an equation of the form 
+. Interpret the intercept in terms of the candle
+and verify the equation using 
+.
+4. Predict. Use the model to find the height after 2.5 hours, and the time at which the candle
+would burn out. State the domain of the model.
+5. Reverse. Find the time at which the height is 7.2 cm. Show your method and check that the
+answer lies within the domain.
+6. Critique. The candle does not burn perfectly evenly. List three physical effects that could
+make the true graph depart from a straight line, and suggest how the experiment could be
+improved.
+7. Generalise. A candle has initial height 
+ cm and burns at a constant  cm per hour. Write a
+formula for its height after  hours and a formula for its burning time. Explain the meaning of
+each symbol.
+8. Extend. A second candle is 24.0 cm tall and burns at 2.4 cm per hour. Use tables or graphs to
+find when the two candles are the same height. Explain whether your answer is exact or
+approximate.
+Your report should include a labelled graph, a table of first differences, an equation, a domain, and an evaluation
+of the model's limits. A straight line through the points is evidence for a linear pattern, not proof that the candle
+will behave linearly forever.
+t
+h
+h = mt + c
+t = 3
+H
+r
+t
+h
+C
+h = 0, 2, 4, 6, 8, 10, 12
+
+
+===== [source page 86] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+86
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+5. Option A requires money before any tool is borrowed. Discuss how this affects a household
+on a very low income. Is the option with the lower annual cost for light users necessarily the
+fairer option?
+6. The library proposes a third option: 12 units membership plus 6 units per hire. Write its
+equation, compare it with both existing options using a table, and explain who benefits.
+7. State the assumptions in your models. What costs or behaviours do they ignore? How could
+the library collect data to test whether the models are realistic?
+8. Recommend a pricing structure, with one modification if necessary, that balances access for
+occasional users with enough income to maintain the tools. Justify your recommendation
+using your graphs and equations.
+C R I T E R I O N D F O C U S
+Build models from a context, use them to compare options, interpret the gradient and intercept as
+access and usage costs, and evaluate the assumptions behind a fairness judgement.
+THE THREE OPTIONS AT A GLANCE
+Option
+Equation
+Intercept (units)
+Gradient (units per hire)
+Cheapest for
+A · membership
+36
+3
+more than 8 hires
+B · pay as you borrow
+0
+9
+fewer than 4 hires
+C · proposed
+12
+6
+4 to 8 hires
+C meets B at 
+, so 
+. C meets A at 
+, so 
+. Between those values C is the
+cheapest of the three, although A becomes cheaper again for very frequent users.
+C
+​ =
+A
+36 + 3h
+C
+​ =
+B
+9h
+C
+​ =
+C
+12 + 6h
+12 + 6h = 9h
+h = 4
+12 + 6h = 36 + 3h
+h = 8
+
+
+===== [source page 87] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+87
+Criterion task · Two ways to pay for the school bus
+CRITERION D
+APPLYING MATHEMATICS
+24 MARKS
+A school is reviewing its bus payment system. Option A is an annual pass costing 240 units and
+allowing unlimited trips. Option B is a registration fee of 40 units plus 2 units for every trip. Let 
+be the number of trips taken in a year.
+1. Write an equation for the annual cost of each option in terms of . State the units of the
+gradient and intercept of each. (3 marks)
+2. Complete a table of costs for 
+. (4 marks)
+3. Draw both graphs on the same axes, label the intercepts, and describe how the two lines
+behave as  increases. (5 marks)
+4. Determine the number of trips for which the two options cost the same. Show how the table or
+graph supports your answer, and interpret the point in context. (4 marks)
+5. A student makes 30 trips in a year; another makes 110. Calculate the cost under each option for
+both students and recommend an option for each. Justify using the equations. (4 marks)
+6. Evaluate the fairness of the two options. Consider students who travel rarely, families with
+several children, and students who cannot pay a large sum at the start of the year. State the
+assumptions in the models and propose one modification to the pricing system. (4 marks)
+PLANNING FRAME
+Represent: define the variable and write both equations. Organise: make a table and choose sensible
+axes. Compare: look for the intersection and interpret it. Apply: calculate for the two students.
+Evaluate: state assumptions and connect the model to fairness.
+BAND
+DESCRIPTOR
+MARKS
+4
+Accurate equations, table and graphs; intersection correctly identified and
+interpreted; recommendations well justified; assumptions and fairness
+evaluated with insight.
+19–24
+3
+Correct models and mostly accurate graph; intersection found;
+recommendations supported; some evaluation of assumptions.
+13–18
+2
+Models or table partly correct; graph readable but errors in interpretation;
+limited justification or evaluation.
+7–12
+1
+Isolated correct calculations; little connection between the models, graph and
+context.
+1–6
+CRITERIA: D (C)
+ATL: COMMUNICATION
+TIME: 45 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ D strands i–v and C strands i–iv. The rubric is a course summary, not an official IB descriptor.
+t
+t
+t = 0, 20, 40, 60, 80, 100, 120
+t
+
+
+===== [source page 88] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+88
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+KEY IDEAS
+An ordered pair 
+ locates a point; a
+linear relationship has a constant rate of
+change.
+A constant first difference in a table is
+evidence of a linear pattern.
+Gradient 
+ measures change in  per
+unit change in .
+A horizontal line has gradient 0; a vertical
+line has undefined gradient.
+In 
+, 
+ is the gradient and  is the 
+-intercept.
+Parallel lines have equal gradients;
+perpendicular gradients multiply to 
+.
+Direct proportion means 
+: a straight
+line through the origin with a constant
+quotient.
+Linear models can compare costs, but
+extrapolation and unstated assumptions
+limit their authority.
+REVISION CHECKLIST
+VOCABULARY
+Cartesian plane
+A grid formed by two perpendicular number axes.
+origin
+The point 
+.
+independent variable
+The input, plotted on the horizontal axis.
+dependent variable
+The output, plotted on the vertical axis.
+linear relationship
+A relationship with a constant rate of change.
+gradient
+Change in  per unit change in .
+rate of change
+A gradient interpreted with units in context.
+-intercept
+The value of  when 
+.
+direct proportion
+A relationship of the form 
+.
+constant of proportionality
+The constant  in 
+.
+interpolation
+Prediction inside the known range.
+extrapolation
+Prediction outside the known range.
+break-even point
+The value at which two cost models are equal.
+model
+A simplified mathematical description of a real
+situation.
+(x, y)
+m =
+​
+x
+​−x
+​
+2
+1
+y
+​−y
+​
+2
+1
+y
+x
+y = mx + c m
+c
+y
+−1
+y = kx
+I can construct a table and plot a linear
+graph accurately.
+I can calculate a gradient from two points,
+a table or a graph.
+I can interpret gradient and intercept with
+units.
+I can find the equation of a line from two
+points or a graph.
+I can distinguish direct proportion from a
+general linear relationship.
+I can use a model to interpolate and
+extrapolate, and label which is which.
+I can compare two pricing models and
+evaluate their fairness.
+(0, 0)
+y
+x
+y
+y
+x = 0
+y = kx
+k
+y = kx
+
+
+===== [source page 89] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+89
+M I X E D P R AC T I C E · C H A P T E R 4
+Connecting the ideas
+FLUENCY Core procedures
+1. State the gradient and -intercept of 
+. 
+F
+2. Find the gradient of the line through 
+ and 
+. 
+F
+3. Find the equation of the line with gradient 3 that passes through 
+. 
+F
+4. Find the equation of the line through 
+ and 
+. 
+F
+5. The table shows a direct proportion. Find  and the missing value. 
+F
+2
+5
+8
+7
+17.5
+—
+6. A hire company charges 
+. State the gradient and intercept with units, and find the cost for
+60 units of use. 
+F
+REASONING Justify and connect
+1. Explain why 
+ is not a direct proportion. Use a table and the ratio . 
+R
+2. The lines 
+ and 
+ are parallel. Will they ever meet? Explain using gradients and
+intercepts. 
+R
+3. A student claims the gradient of the line through 
+ and 
+ is 6 because 
+. Identify the
+missing step and give the correct gradient. 
+R
+4. A distance–time graph is horizontal for 10 minutes. Describe the motion and state the gradient during
+that interval. Does a zero gradient mean the object has disappeared? Explain. 
+R
+APPLICATION Use and evaluate
+1. A phone plan costs 
+ units for 
+ megabytes. Find the cost for 250 MB and the usage when
+the cost is 31 units. Interpret the gradient. 
+P
+2. Plan X costs 
+; Plan Y costs 
+. Compare the plans at 
+, 
+ and 
+, and state when
+each is cheaper. 
+P
+3. A candle has height 
+ cm after  hours. State its initial height and burning rate, find when it is
+5 cm tall, and state the domain. 
+P
+4. A shop's weekly sales are modelled by 
+ for the first 6 weeks. Predict sales at week 30 and
+evaluate the reliability of that prediction. What extra information would you request? 
+E
+y
+y = 5 −2x
+(−3, 2)
+(5, 10)
+(0, −4)
+(2, 1)
+(6, 9)
+k
+x
+y
+C = 25 + 0.4n
+y = 4x + 1
+​x
+y
+y = 3x −2
+y = 3x + 5
+(1, 2)
+(4, 8)
+8 −2 = 6
+C = 15 + 0.08m
+m
+12 + 3n
+24 + 1.5n
+n = 4 n = 8
+n = 12
+h = 20 −2.5t
+t
+S = 800 + 40w
+
+
+===== [source page 90] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+4 · Linear relationships
+90
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Plot points and recognise a linear pattern in a
+table.
+1 / 2 / 3
+Calculate and interpret gradient, including units.
+1 / 2 / 3
+Find the equation of a line from a graph, table or
+two points.
+1 / 2 / 3
+Recognise and use direct proportion.
+1 / 2 / 3
+Build, compare and critique a linear model.
+1 / 2 / 3
+Reflection
+Two pricing plans can have the same break-even cost but very different effects on poor
+and wealthy users. Which representation — table, graph or equation — best
+communicates that difference to a decision-maker, and why?

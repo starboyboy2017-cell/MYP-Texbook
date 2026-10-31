@@ -1,0 +1,1772 @@
+
+
+===== [source page 53] =====
+PA R T I · T H E S T R U C T U R E B E N E AT H T H E S Y M B O L S
+M Y P Y E A R 3
+C H A P T E R 0 3
+3
+N U M B E R , S T R U C T U R E A N D P R O O F
+Functions, expressions
+and algebraic reasoning
+Algebra begins when a letter stands for a number we
+have not chosen yet. It becomes powerful when the
+letter describes a relationship: one quantity
+determines another, and the rule can be written,
+tabulated, graphed and transformed.
+KEY CONCEPT · RELATIONSHIPS
+RELATED · GENERALISATION
+RELATED · EQUIVALENCE
+CONTEXT · IDENTITIES AND RELATIONSHIPS
+x
+I N Q U I R Y
+How can a single expression capture a whole family of cases — and how
+do we know that two different-looking expressions describe exactly the
+same relationship?
+AT L · T H I N K I N G I N AC T I O N
+When you meet a new expression, ask three questions: What are the inputs? What operations are
+performed, and in what order? What changes if one operation changes? Treat an expression as a
+description of a process, not a string of symbols to memorise. This habit makes expanding, factorising
+and rearranging easier to reconstruct when memory fails.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 54] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+54
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 3 · A P P R OX . 1 5 H O U R S
+AT L F O C U S · T H I N K I N G
+KEY AND RELATED CONCEPTS
+Relationships. A function assigns each input
+exactly one output. The relationship can be
+represented by a rule, a table, a graph, a machine
+diagram or a set of ordered pairs.
+Generalisation. An expression such as 
+stands for infinitely many numerical cases at
+once. Generalising is the move from “this pattern
+works here” to “this rule works for every
+position”.
+Equivalence. Expressions that look different can
+have the same value for every input. Expanding
+and factorising are tools for revealing that
+equivalence.
+GLOBAL CONTEXT AND EXPLORATION
+Identities and relationships. Exploration:
+how a function describes a dependable
+relationship between two quantities, and
+how the same relationship can appear in a
+table, a graph, a formula or a machine.
+Functions are the language of dependence:
+the cost depends on the quantity, the height
+depends on the time, the area depends on
+the side length. Learning to name the input,
+the output and the rule is the first step in
+modelling any relationship.
+FACTUAL
+What is a function? What do
+the symbols 
+, domain
+and range mean? How do you
+expand and factorise an
+expression?
+CONCEPTUAL
+Why does a graph represent a
+function only if every
+vertical line meets it at most
+once?
+DEBATABLE
+Is a mathematical model still
+useful when it describes only
+part of a real relationship?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii, iii
+Substitute and simplify; evaluate functions; expand, factorise and
+rearrange formulas.
+B · Investigating patterns
+i, ii, iii
+Generalise a growing pattern, express it symbolically and verify
+the rule for further cases.
+C · Communicating
+i, ii, iii, iv
+Use function notation, domain and range language, and coherent
+algebraic working.
+D · Applying mathematics
+i, ii, iii, iv, v
+Model a painting job with formulas, interpret inputs and outputs,
+and judge the domain.
+2n + 1
+S TAT E M E N T O F I N Q U I R Y
+A function is a relationship in which each input determines exactly
+one output; algebraic expressions and equivalent forms allow that
+relationship to be represented, generalised and used to make
+predictions.
+f(x)
+
+
+===== [source page 55] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+55
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Evaluate 
+ when 
+.
+2. Simplify 
+.
+3. Expand 
+.
+4. Calculate 
+.
+5. Solve 
+.
+6. Write the next two terms: 4, 7, 10, 13, …
+Answers are in the Chapter 3 answer section. If more than two are incorrect, review substitution and the distributive law
+before continuing.
+BEFORE YEAR 3
+Substitution; simple algebraic
+notation; one- and two-step
+equations; plotting coordinates;
+recognising simple number
+patterns.
+YEAR 3 · THIS CHAPTER
+Function notation; domain and
+range; expansion and factorisation;
+formula rearrangement; nth-term
+rules.
+LATER
+Quadratic, exponential and
+trigonometric functions; composite
+and inverse functions; algebraic
+fractions; polynomial factorisation.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Costs, heights and
+areas depend on
+quantities that
+change.
+2
+QUESTION
+How can a rule
+describe a
+relationship for
+every input?
+3
+CONCEPT
+Variable,
+function, domain,
+equivalence and
+generalisation.
+4
+INVESTIGATION
+Build a growing
+matchstick
+pattern and find
+its nth-term rule.
+5
+COMMUNICATION
+Move between
+rule, table, graph
+and machine
+diagram.
+6
+REFLECTION
+What makes an
+algebraic model
+trustworthy?
+Understand the difference between an
+expression, an equation, a formula and a
+function.
+Know how to evaluate and simplify algebraic
+expressions.
+Be able to use function notation, identify
+domain and range, and interpret graphs.
+Be able to expand and factorise linear and
+quadratic expressions.
+Be able to rearrange a formula to make a
+chosen variable the subject.
+Be able to generalise a sequence or pattern
+using a position-to-term rule.
+I can distinguish like and unlike terms and
+simplify correctly.
+I can evaluate a function at a given input
+and solve 
+.
+f(x) = k
+I can determine whether a graph represents
+a function using the vertical line test.
+I can expand 
+ and factorise
+ when the factors are integers.
+(x + a)(x + b)
+x +
+2
+bx + c
+I can rearrange a formula and justify each
+step as an equivalent transformation.
+I can find the nth term of a linear sequence
+and explain the meaning of the formula.
+4x + 3
+x = 5
+7a −2a + 3a
+3(2x + 4)
+(−3)2
+2x + 5 = 17
+
+
+===== [source page 56] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+56
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Variables, expressions and substitution
+CRITERION A · I
+NOTATION
+LIKE TERMS
+Algebra uses letters to stand for numbers. The letters are not mysterious: they are
+placeholders that let a statement describe a whole family of numerical cases at once.
+In the expression 
+, the terms are 
+, 
+ and . The coefficient of 
+ is 4; the coefficient
+of  is 
+; 7 is a constant term. The exponent belongs only to , so 
+ means 
+, not 
+.
+Like terms have exactly the same variable part. 
+ and 
+ are like terms; 
+ and 
+ are not.
+Combining like terms uses the distributive law in reverse: 
+. This is why
+ cannot be simplified further: the terms are unlike, and their sum is not 
+.
+WO R K E D E X A M P L E 3.1 .1
+SIMPLIFYING EXPRESSIONS
+PROBLEM
+Simplify: (a) 
+   (b) 
+   (c) 
+.
+ANSWER (a) 
+   (b) 
+   (c) 
+WO R K E D E X A M P L E 3.1 . 2
+SUBSTITUTION WITH NEGATIVE VALUES
+PROBLEM
+Evaluate 
+ when 
+.
+ANSWER 17
+Common slip. Writing 
+ without brackets gives 
+, because the exponent applies only to 2. The
+brackets are essential when substituting a negative number.
+3.1
+D E F I N I T I O N S
+A variable is a symbol that represents a number that may change. A constant is a fixed
+number. A term is a product of numbers and variables, such as 
+ or 
+. The coefficient is
+the numerical factor of a term. An expression combines terms with addition and
+subtraction; it does not contain an equals sign. An equation states that two expressions are
+equal.
+3x2
+−5y
+4x −
+2
+3x + 7
+4x2 −3x
+7
+x2
+x
+−3
+x
+4x2
+4 × x × x
+(4x)2
+5x
+−2x
+5x
+5x2
+5x −2x = (5 −2)x = 3x
+3x + 4
+7x
+7a + 3b −2a + 5b
+3(2x −5) + 4x
+5m −
+2
+3m + 2m +
+2
+m
+(a) Group like terms: 
+.
+1
+(7a −2a) + (3b + 5b) = 5a + 8b
+(b) Expand first: 
+. Then combine: 
+.
+2
+6x −15 + 4x
+10x −15
+(c) Group the squared terms and the linear terms: 
+.
+3
+(5m +
+2
+2m ) +
+2
+(−3m + m) = 7m −
+2
+2m
+5a + 8b
+10x −15
+7m −
+2
+2m
+3x −
+2
+2x + 1
+x = −2
+Replace each  with 
+, using brackets: 
+.
+1
+x
+−2
+3(−2) −
+2
+2(−2) + 1
+Evaluate the power: 
+, so the first term is 
+.
+2
+(−2) =
+2
+4
+3 × 4 = 12
+The second term is 
+.
+3
+−2 × (−2) = +4
+Add: 
+.
+4
+12 + 4 + 1 = 17
+−22
+−4
+
+
+===== [source page 57] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+57
+PRACTICE 3.1 · EXPRESSIONS AND SUBSTITUTION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. State the coefficient of  and the constant term: (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Expand and simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+4. Evaluate 
+ for (a) 
+   (b) 
+   (c) 
+. 
+F
+5. Explain why 
+ but 
+ cannot be simplified. 
+R
+6. A student evaluates 
+ at 
+ and writes 
+. Identify the error and give the correct value. 
+R
+7. The perimeter of a rectangle is 
+. Write and simplify an expression for the perimeter when the
+length is 
+ and the width is 
+. 
+P
+8. Find a pair of expressions in  that are not identical but produce the same value for 
+. Explain why
+one pair of matching values is not enough to prove equivalence. 
+E
+ Functions, domain and range
+CRITERION A · II
+CRITERION C · I, II
+REPRESENTATION
+A function is a rule with a guarantee: every permitted input produces exactly one output.
+The guarantee is what makes prediction possible.
+C O M M O N E R R O R
+Combining unlike terms: 
+ does not equal 
+, and 
+ does not equal 
+ or 
+. Only
+terms with identical variable parts can be added or subtracted by combining coefficients.
+3x + 4
+7x
+x +
+2
+x
+x3
+2x2
+x
+7x −4
+−2x + 9
+x −
+2
+5x + 1
+8y −3y + 2y
+4p + 7q −p −3q
+6x −
+2
+x +
+2
+2x
+2(3a + 4) + 5a
+5(2x −1) −3x
+4(3m + 2) −2(m −5)
+2x +
+2
+3x −4
+x = 2
+x = −1
+x = 0.5
+5x + 2x = 7x
+5x + 2
+x2
+x = −3
+−9
+2(l + w)
+3x + 1
+x −2
+x
+x = 2
+3.2
+D E F I N I T I O N
+A function from a set 
+ to a set 
+ assigns to each element of 
+ exactly one element of 
+. The
+set 
+ is the domain; the set of outputs actually produced is the range. The notation 
+means the output of function  at input .
+X
+Y
+X
+Y
+X
+f(x)
+f
+x
+
+
+===== [source page 58] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+58
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+rule
+× 3 + 1
+2
+7
+rule
+× 3 + 1
+5
+16
+The same rule, applied to different inputs
+If f(x) = 3x + 1, then f(2) = 7 and f(5) = 16.
+Figure 3.1 A function machine makes the input–process–output structure visible. The rule 
+ doubles the input and adds
+1.
+If 
+, then 
+. The symbol 
+ is not  multiplied by 4; it means “apply
+the function  to the input 4”. To solve 
+, set the rule equal to 13: 
+, so 
+. The
+input 6 produces the output 13.
+The domain is not always all real numbers. For 
+, 
+ must be excluded because division
+by zero is undefined, so the domain is all real numbers except 2. For 
+, the domain is 
+if we require real outputs. In a context, the domain may be further restricted: a function giving the
+cost of  tickets only makes sense for whole-number values of .
+x
+y
+x
+y
+one output: a function
+two outputs: not a function
+Vertical line test: if a vertical line meets a graph more than once, the relation is not a function.
+Figure 3.2 The vertical line test: a graph represents a function of  if and only if no vertical line meets the graph more than once.
+f(x) = 2x + 1
+f(x) = 2x + 1
+f(4) = 2(4) + 1 = 9
+f(4)
+f
+f
+f(x) = 13
+2x + 1 = 13
+x = 6
+g(x) =
+​
+x−2
+1
+x = 2
+h(x) =
+​x
+x ≥0
+n
+n
+x
+
+
+===== [source page 59] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+59
+WO R K E D E X A M P L E 3. 2 .1
+EVALUATING AND SOLVING
+PROBLEM
+For 
+, find 
+, 
+, and all  such that 
+.
+ANSWER
+, 
+, and 
+ when 
+ or 
+.
+WO R K E D E X A M P L E 3. 2 . 2
+DOMAIN FROM CONTEXT
+PROBLEM
+A taxi charges a fixed  units plus  units per kilometre. Write the cost as a function of
+distance , state a sensible domain, and find the cost of a 9 km journey.
+ANSWER
+, with 
+; the cost is 22 units.
+PRACTICE 3.2 · FUNCTIONS, DOMAIN AND RANGE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. For 
+, find (a) 
+   (b) 
+   (c) 
+. 
+F
+2. For 
+, find (a) 
+   (b) 
+   (c) 
+. 
+F
+3. For 
+, solve 
+. 
+F
+4. State the domain of each function: (a) 
+   (b) 
+   (c) 
+. 
+F
+5. Explain why the graph of 
+ does not represent  as a function of . 
+R
+6. A function machine takes an input, doubles it, then subtracts 3. Write the rule and find the input that
+produces output 11. 
+P
+7. The cost of printing  posters is 
+, in the currency used by the print shop. State a
+sensible domain and find the cost of 40 posters. 
+P
+8. Find a function whose domain is all real numbers except 
+ and whose output at 
+ is 1. Explain
+how you constructed it. 
+E
+ Expanding and factorising
+CRITERION A · I, II
+EQUIVALENCE
+STRUCTURE
+Expanding turns a product into a sum; factorising turns a sum into a product. The two
+processes are inverse, and both reveal structure that the other form hides.
+f(x) = x −
+2
+3x
+f(5) f(−2)
+x
+f(x) = 0
+.
+1
+f(5) = 5 −
+2
+3(5) = 25 −15 = 10
+.
+2
+f(−2) = (−2) −
+2
+3(−2) = 4 + 6 = 10
+Solve 
+. Factorise: 
+.
+3
+x −
+2
+3x = 0
+x(x −3) = 0
+So 
+ or 
+.
+4
+x = 0
+x = 3
+f(5) = 10 f(−2) = 10
+f(x) = 0
+x = 0
+x = 3
+4
+2
+d
+The rule is 
+.
+1
+C(d) = 4 + 2d
+Distances cannot be negative, and the context is a single journey, so a sensible domain is
+.
+2
+d ≥0
+.
+3
+C(9) = 4 + 2(9) = 22
+C(d) = 4 + 2d
+d ≥0
+f(x) = 3x −5
+f(2)
+f(0)
+f(−4)
+g(x) = x +
+2
+1
+g(3)
+g(−3)
+g(0.5)
+h(x) = 10 −2x
+h(x) = 4
+f(x) =
+​x
+1
+g(x) =
+​
+x −3
+h(x) = 5x + 1
+x +
+2
+y =
+2
+25
+y
+x
+n
+C(n) = 25 + 1.5n
+x = 4
+x = 0
+3.3
+
+
+===== [source page 60] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+60
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Expanding 
+ gives 
+. Expanding 
+ requires four products:
+. The two middle terms combine because they are like terms. A
+useful check is to substitute a simple value, such as 
+, into both the original and expanded
+forms: 
+ and 
+.
+x²
+2x
+3x
+6
+x + 3
+x + 2
+Area = (x + 3)(x + 2) = x² + 5x + 6
+The four regions account for every product term: x², 2x, 3x and 6.
+Figure 3.3 An area model for 
+. The four regions correspond to the four terms produced by expansion. The diagram
+makes the product structure visible.
+Factorising reverses the process. Always remove a common factor first. For 
+, both terms
+contain 
+, so 
+. For a quadratic 
+, look for two integers whose product
+is  and whose sum is . For 
+, the pair 3 and 5 has sum 8 and product 15, so the
+factorisation is 
+.
+WO R K E D E X A M P L E 3.3.1
+EXPANDING TWO BINOMIALS
+PROBLEM
+Expand and simplify: (a) 
+   (b) 
+   (c) 
+.
+ANSWER (a) 
+   (b) 
+   (c) 
+K E Y I D E A · T H E D I S T R I B U T I V E L AW
+For all real numbers 
+: 
+. For two binomials,
+. The coefficient of  is the sum of the constants; the constant
+term is their product.
+a, b, c a(b + c) = ab + ac
+(x + a)(x + b) = x +
+2
+(a + b)x + ab
+x
+3(2x −5)
+6x −15
+(x + 3)(x + 4)
+x +
+2
+4x + 3x + 12 = x +
+2
+7x + 12
+x = 1
+(1 + 3)(1 + 4) = 20
+1 + 7 + 12 = 20
+(x + a)(x + b)
+6x +
+2
+9x
+3x
+6x +
+2
+9x = 3x(2x + 3)
+x +
+2
+bx + c
+c
+b
+x +
+2
+8x + 15
+(x + 3)(x + 5)
+(x + 6)(x −2)
+(2x −3)(x + 5)
+(x + 7)(x −7)
+(a) 
+.
+1
+x −
+2
+2x + 6x −12 = x +
+2
+4x −12
+(b) 
+.
+2
+2x +
+2
+10x −3x −15 = 2x +
+2
+7x −15
+(c) 
+. The middle terms cancel; this is the difference of two squares.
+3
+x −
+2
+7x + 7x −49 = x −
+2
+49
+x +
+2
+4x −12
+2x +
+2
+7x −15
+x −
+2
+49
+
+
+===== [source page 61] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+61
+WO R K E D E X A M P L E 3.3. 2
+FACTORISING
+PROBLEM
+Factorise fully: (a) 
+   (b) 
+   (c) 
+.
+ANSWER (a) 
+   (b) 
+   (c) 
+PRACTICE 3.3 · EXPANDING AND FACTORISING
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Expand: (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Expand and simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Expand: (a) 
+   (b) 
+   (c) 
+. 
+F
+4. Factorise fully: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+5. Explain why 
+ can be written as 
+, and why 
+ cannot. 
+R
+6. A student factors 
+ as 
+. Check the factorisation by expanding and by
+substituting 
+. 
+R
+7. Find a quadratic expression in the form 
+ that factorises as 
+, and state  and .
+P
+8. Explain why 
+ cannot be factorised into 
+ with integer  and . What does this
+imply about the graph of 
+? 
+E
+ Rearranging formulas
+CRITERION A · II, III
+EQUIVALENCE
+REASONING
+A formula is an equation that describes a relationship between quantities. Rearranging it
+changes which quantity is expressed in terms of the others without changing the
+relationship itself.
+4x −
+2
+12x
+x −
+2
+36
+x −
+2
+2x −15
+(a) The common factor is 
+: 
+.
+1
+4x 4x −
+2
+12x = 4x(x −3)
+(b) This is a difference of squares: 
+.
+2
+x −
+2
+36 = (x −6)(x + 6)
+(c) Find two integers with product 
+ and sum 
+: they are 
+ and . So
+.
+3
+−15
+−2
+−5
+3
+x −
+2
+2x −15 = (x −5)(x + 3)
+Check by expanding: 
+.
+4
+x +
+2
+3x −5x −15 = x −
+2
+2x −15
+4x(x −3)
+(x −6)(x + 6)
+(x −5)(x + 3)
+C O M M O N E R R O R
+ is not 
+. It means 
+. The middle term is essential.
+Likewise, 
+, not 
+. Test with a value such as 
+ before trusting an
+algebraic habit.
+(x + 5)2
+x +
+2
+25
+(x + 5)(x + 5) = x +
+2
+10x + 25
+(x −3)(x + 3) = x −
+2
+9
+x +
+2
+9
+x = 2
+4(2x + 3)
+−3(x −5)
+2x(3x + 4)
+(x + 2)(x + 7)
+(x −4)(x + 5)
+(x −6)(x −2)
+(3x + 1)(x −2)
+(2x −5)(2x + 5)
+(x + 8)2
+5x +
+2
+15x
+x −
+2
+49
+x +
+2
+9x + 20
+x −
+2
+x −12
+x +
+2
+6x + 9
+(x + 3)2
+x +
+2
+9
+x +
+2
+5x + 6
+(x + 2)(x + 3)
+x = 1
+x +
+2
+bx + c
+(x −7)(x + 2)
+b
+c
+x +
+2
+4x + 7
+(x + a)(x + b)
+a
+b
+y = x +
+2
+4x + 7
+3.4
+D E F I N I T I O N
+The subject of a formula is the variable expressed in terms of the others, usually isolated on
+one side. Rearranging uses inverse operations: to undo addition, subtract; to undo
+multiplication, divide; to undo a square, take a root (with attention to sign and domain).
+
+
+===== [source page 62] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+62
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+From 
+, make  the subject. Add 7 to both sides: 
+. Divide by 3: 
+. Each step
+produces an equivalent equation because the same operation is applied to both sides. The final
+formula gives  for any chosen .
+When the variable appears twice, first collect it on one side. From 
+, factor out :
+, so 
+ provided 
+. When the variable is squared, taking a square root
+introduces a sign choice; in a geometric context, only the positive root may be meaningful.
+WO R K E D E X A M P L E 3. 4.1
+CHANGING THE SUBJECT
+PROBLEM
+Make  the subject of 
+. Then find  when 
+ and 
+.
+ANSWER
+; when 
+ and 
+, 
+.
+WO R K E D E X A M P L E 3. 4. 2
+A SQUARE ROOT IN THE FORMULA
+PROBLEM
+Make  the subject of 
+, where  represents a radius.
+ANSWER
+ for a radius.
+PRACTICE 3.4 · REARRANGING FORMULAS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Make  the subject: (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Make  the subject of 
+. 
+F
+3. Make  the subject of 
+. 
+F
+4. Make  the subject of 
+. 
+F
+5. Make  the subject of 
+. 
+P
+6. Make  the subject of 
+. 
+P
+7. Make  the subject of 
+, stating any condition on the constants. 
+E
+8. The surface area of a cylinder is 
+. Make  the subject and find  when 
+ cm² and
+ cm, giving your answer to 2 significant figures. 
+E
+y = 3x −7
+x
+y + 7 = 3x
+x =
+​
+3
+y+7
+x
+y
+y = ax + bx
+x
+y = x(a + b)
+x =
+​
+a+b
+y
+a + b =0
+w
+P = 2(l + w)
+w
+P = 34
+l = 10
+Divide both sides by 2: 
+.
+1
+​ =
+2
+P
+l + w
+Subtract : 
+.
+2
+l w =
+​ −
+2
+P
+l
+Substitute: 
+.
+3
+w =
+​ −
+2
+34
+10 = 17 −10 = 7
+w =
+​ −
+2
+P
+l
+P = 34
+l = 10 w = 7
+r
+A = πr2
+r
+Divide by : 
+.
+1
+π
+​ =
+π
+A
+r2
+Take the square root: 
+.
+2
+r = ±
+​​
+π
+A
+Since a radius is non-negative, choose the positive root: 
+.
+3
+r =
+​​
+π
+A
+r =
+​​
+π
+A
+ST R AT E GY · R E A R R A N G I N G SA F E LY
+Work from the outside in. Undo operations in reverse order: addition and subtraction first, then
+multiplication and division, then powers and roots. Keep the target variable visible, and check the
+final formula by substituting a simple numerical case.
+x
+y = x + 5
+y = 4x
+y = 2x −3
+t
+v = u + at
+h
+A =
+​bh
+2
+1
+r
+C = 2πr
+x
+y = 5(x −2)
+b
+A =
+​h
+2
+a+b
+x
+y = ax + bx
+S = 2πr +
+2
+2πrh
+h
+h
+S = 300
+r = 4
+
+
+===== [source page 63] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+63
+ Sequences, patterns and generalisation
+CRITERION B · I, II, III
+CRITERION C · II
+GENERALISATION
+A sequence is an ordered list of numbers. A pattern is a relationship between the position
+of a term and its value. Finding that relationship turns a finite list into a rule that can
+predict terms never written down.
+The sequence 
+ has a constant difference of 3. If the rule is 
+, the first term (
+)
+gives 
+, so 
+. The nth term is 
+. Check the fourth term: 
+. The coefficient
+3 is the common difference; the constant 2 adjusts the starting value.
+Not every sequence is linear. The square numbers 
+ have differences 
+, which are
+not constant; their nth term is 
+. The pattern of differences can itself reveal structure: constant
+first differences indicate a linear rule, while constant second differences indicate a quadratic rule.
+Recognising the type of growth is part of generalising responsibly.
+n = 1
+4 tiles
+n = 2
+7 tiles
+n = 3
+10 tiles
+each new term adds 3 tiles
+A linear sequence has a constant first difference; its rule is of the form 3n + 1.
+Figure 3.4 A growing tile pattern. The visual structure explains why the number of tiles increases by a constant amount and
+supports the nth-term formula.
+3.5
+D E F I N I T I O N S
+A sequence is an ordered list of numbers called terms. A term-to-term rule describes how to
+get from one term to the next. A position-to-term rule or nth term gives the value directly
+from the position . A sequence with a constant difference between consecutive terms is
+linear or arithmetic.
+n
+5, 8, 11, 14, …
+3n + c
+n = 1
+3 + c = 5
+c = 2
+3n + 2
+3(4) + 2 = 14
+1, 4, 9, 16, …
+3, 5, 7, …
+n2
+
+
+===== [source page 64] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+64
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 3. 5.1
+FROM SEQUENCE TO NTH TERM
+PROBLEM
+Find the nth term of 
+ and use it to find the 10th term.
+ANSWER
+; the 10th term is 
+.
+WO R K E D E X A M P L E 3. 5. 2
+JUSTIFYING A PATTERN RULE
+PROBLEM
+A pattern uses 4 tiles in stage 1, 7 in stage 2 and 10 in stage 3. Find a rule for stage  and
+explain why it must hold for every stage.
+ANSWER
+ tiles. The rule follows from the structure, not only from the first three
+numbers.
+PRACTICE 3.5 · SEQUENCES AND GENERALISATION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the next two terms: (a) 6, 11, 16, …   (b) 30, 26, 22, …   (c) 2, 6, 18, … 
+F
+2. Find the nth term: (a) 4, 9, 14, 19, …   (b) 12, 9, 6, 3, …   (c) 1, 3, 5, 7, … 
+F
+3. The nth term of a sequence is 
+. Find the 1st, 5th and 20th terms. 
+F
+4. Is 71 a term of the sequence 
+? Justify your answer. 
+R
+5. Explain why the sequence 
+ is not linear. Use first differences. 
+R
+6. A pattern has 6 tiles in stage 1, 10 in stage 2 and 14 in stage 3. Find a rule in terms of  and explain the
+structure. 
+P
+7. A sequence begins 2, 4, 8, 16. Write a rule that fits these four terms, then write a different rule that also
+fits them. What does this show about generalising from limited data? 
+E
+8. Find the nth term of the sequence 
+. Use second differences to identify the type of rule.
+E
+20, 17, 14, 11, …
+The common difference is 
+. A linear rule has the form 
+.
+1
+−3
+−3n + c
+For 
+: 
+, so 
+.
+2
+n = 1 −3 + c = 20
+c = 23
+The nth term is 
+.
+3
+23 −3n
+For 
+: 
+.
+4
+n = 10 23 −30 = −7
+23 −3n
+−7
+n
+The numbers 4, 7, 10 increase by 3 each time, so a linear rule 
+ is plausible.
+1
+3n + c
+Stage 1: 
+, so 
+. The rule is 
+.
+2
+3 + c = 4
+c = 1
+3n + 1
+Structural explanation: stage 1 has 1 central tile and 3 arms of 1 tile; each new stage adds one
+tile to each of the 3 arms. So stage  has 
+ tiles.
+3
+n
+1 + 3n
+Check stage 4: 
+, which matches adding 3 arms of 4 tiles plus the centre.
+4
+3(4) + 1 = 13
+3n + 1
+C O M M O N E R R O R · T H R E E T E R M S A R E N OT A P R O O F
+Infinitely many sequences begin 4, 7, 10. A polynomial or a changing rule can be invented to
+fit any finite list. A generalisation needs a structural reason, or a proof that the rule continues
+to hold. “It looks like it goes up by 3” is a conjecture; the explanation of why each stage adds 3
+is the justification.
+5n −2
+4n + 3
+1, 4, 9, 16, …
+n
+3, 8, 15, 24, 35, …
+
+
+===== [source page 65] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+65
+Application · Painting a community hall
+CRITERION D · I, II, III, IV
+FORMULAS
+MODELLING
+Investigation · The matchstick triangles
+CRITERION B
+Triangles are made from identical matchsticks and placed in a row, sharing sides where they
+meet. Stage 1 uses 3 matchsticks; stage 2 uses 5; stage 3 uses 7.
+n = 1
+4 tiles
+n = 2
+7 tiles
+n = 3
+10 tiles
+each new term adds 3 tiles
+A linear sequence has a constant first difference; its rule is of the form 3n + 1.
+Stage 1 has one triangle, stage 2 has two triangles sharing a side, and stage 3 has three. The shared sides reduce the
+number of new matchsticks added each time.
+Stage 
+Triangles
+Matchsticks
+First difference
+1
+1
+3
+—
+2
+2
+5
+2
+3
+3
+7
+2
+4
+4
+9
+2
+1. Continue. Draw stages 5 and 6 and record the number of matchsticks. Confirm that the first
+differences remain constant.
+2. Find a rule. Write the number of matchsticks 
+ as a function of the number of triangles .
+Explain the rule using the structure: how many matchsticks does the first triangle use, and
+how many does each additional triangle add?
+3. Predict. Use your rule to find the number of matchsticks for 20 triangles and for 100 triangles.
+4. Reverse. A student has 61 matchsticks. How many complete triangles can be made in the row?
+Will any matchsticks remain? Explain.
+5. Change the pattern. Suppose the triangles are arranged in a ring so that every triangle shares
+two sides. Find the rule for  triangles, state the domain, and compare it with the row pattern.
+6. Generalise. What happens if each new triangle shares exactly one side with the previous
+triangle but is placed on the other side, forming a zigzag? Does the number of matchsticks
+change? Justify your answer with a diagram.
+Your report should include a table, two diagrams, a formula and a structural explanation. A correct formula
+without a reason is a conjecture, not yet a generalisation.
+n
+M
+n
+n
+
+
+===== [source page 66] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+66
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+A community hall is a rectangular room of length  metres, width 
+ metres and height 
+ metres.
+It has one door of area 
+ and four windows, each of area 
+. The walls are to receive two
+coats of paint. One litre covers 
+ per coat.
+1. Write an expression for the total wall area, excluding the door and windows. Simplify it.
+2. Write a formula for the number of litres 
+ needed for two coats. Explain why the answer
+must be rounded up to buy whole litres.
+3. The hall has 
+ m, 
+ m and 
+ m. Calculate the wall area and the litres
+required. State the number of 5-litre tins to buy.
+4. Paint costs 42 units per 5-litre tin. Calculate the paint cost. Add 8% for brushes, tape and
+covers, and find the total budget.
+5. Rearrange your formula to make 
+ the subject. Use it to find the height of a hall with 
+m, 
+ m that requires 44 litres for two coats, assuming the same door and window areas.
+6. Evaluate the model. What does it ignore? How could the estimate be improved without
+measuring every wall separately? Comment on whether rounding up litres is the right kind
+of accuracy for a purchasing decision.
+C R I T E R I O N D F O C U S
+Translate a context into a formula, apply it with units, rearrange it to answer a reverse question, and
+evaluate the assumptions behind the number.
+L
+W
+H
+2.0 m2
+1.5 m2
+10 m2
+N
+L = 18
+W = 12
+H = 4.0
+H
+L = 15
+W = 9
+
+
+===== [source page 67] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+67
+Criterion task · The growing square frame
+CRITERION B
+INVESTIGATING PATTERNS
+24 MARKS
+A square frame is made from unit tiles. Frame 1 is a 
+ square with no centre; Frame 2 is a 
+square with a 
+ hole; Frame 3 is a 
+ square with a 
+ hole.
+1. Draw Frames 1, 2 and 3. Record the number of tiles in a table for 
+. (4 marks)
+2. Find the first differences. Describe the pattern and state whether it is linear. (4 marks)
+3. Find a formula for the number of tiles  in Frame . Explain the formula using the structure of
+the frame, not only the numbers. (6 marks)
+4. Show that your formula is equivalent to 
+ and to 
+. Explain what each form reveals
+about the frame. (4 marks)
+5. Use your formula to predict the number of tiles in Frame 25, and to find the largest frame that
+can be made from 100 tiles. (4 marks)
+6. Investigate what happens if the frame is rectangular rather than square, with width 
+ and
+height 
+, and the centre removed. Find a formula and explain whether it is linear. (2 marks)
+PLANNING FRAME
+Represent: draw the frames, then make a table. Investigate: calculate first differences. Generalise:
+write a rule and connect it to the picture. Verify: test the rule on Frame 4 and Frame 5. Justify: explain
+why the rule must hold for all .
+BAND
+DESCRIPTOR
+MARKS
+4
+Accurate table and diagram; correct general rule with structural justification;
+equivalence explained; predictions verified.
+19–24
+3
+Correct rule with some justification; table and predictions mostly accurate;
+equivalence partially explained.
+13–18
+2
+Pattern recognised and rule attempted; limited structural explanation or
+verification.
+7–12
+1
+Isolated correct terms or a rule that fits only the given cases.
+1–6
+CRITERIA: B (C)
+ATL: THINKING
+TIME: 45 MINUTES
+CONDITIONS: NOTES ALLOWED
+MAPPED TO:
+ B strands i–iii and C strands ii–iii. The rubric is a course summary, not an official IB descriptor.
+2 × 2
+3 × 3
+1 × 1
+4 × 4
+2 × 2
+n = 1, 2, 3, 4, 5
+T
+n
+4n
+4(n −1) + 4
+n + 1
+n + 2
+n
+
+
+===== [source page 68] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+68
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+KEY IDEAS
+Like terms have identical variable parts and
+can be combined by adding coefficients.
+A function assigns exactly one output to
+each input; 
+ denotes the output at .
+The domain is the set of permitted inputs;
+the range is the set of actual outputs.
+The vertical line test identifies whether a
+graph represents a function of .
+Expanding and factorising are inverse
+processes based on the distributive law.
+Rearranging a formula uses inverse
+operations and preserves equivalence.
+A linear sequence has a constant first
+difference and an nth term of the form
+.
+REVISION CHECKLIST
+VOCABULARY
+variable
+A symbol representing a number that may change.
+coefficient
+The numerical factor of a term.
+expression
+A combination of terms without an equals sign.
+function
+A rule assigning exactly one output to each input.
+domain
+The set of permitted inputs.
+range
+The set of actual outputs.
+expand
+Write a product as a sum.
+factorise
+Write a sum as a product.
+subject
+The variable isolated in a formula.
+sequence
+An ordered list of numbers.
+nth term
+A rule giving the value at position .
+generalisation
+A rule claimed to hold for a whole class of cases.
+f(x)
+x
+x
+an + b
+I can simplify expressions with several
+variables and powers.
+I can evaluate a function and solve
+.
+f(x) = k
+I can state a domain from an expression
+or a context.
+I can expand 
+ and factorise
+simple quadratics.
+(x + a)(x + b)
+I can rearrange a formula, including one
+containing a square.
+I can find and justify the nth term of a
+linear pattern.
+I can distinguish a conjecture from a
+justified generalisation.
+n
+
+
+===== [source page 69] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+3 · Functions, expressions and algebra
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+69
+M I X E D P R AC T I C E · C H A P T E R 3
+Connecting the ideas
+FLUENCY Core procedures
+1. Simplify 
+. 
+F
+2. For 
+, find 
+, 
+ and 
+. 
+F
+3. Expand 
+. 
+F
+4. Factorise 
+ and 
+. 
+F
+5. Make  the subject of 
+. 
+F
+6. Find the nth term of 9, 13, 17, 21, … 
+F
+REASONING Justify and connect
+1. Show that 
+ and 
+ are not equivalent by substituting 
+. 
+R
+2. Explain how the graph of a function can be used to find 
+ and to solve 
+. 
+R
+3. Why is the domain of 
+ not all real numbers? 
+R
+4. A sequence has nth term 
+. Without calculating every term, determine whether the sequence is
+increasing or decreasing and explain. 
+R
+APPLICATION Use and evaluate
+1. A mobile plan costs 12 units per month plus 0.08 units per megabyte. Write a cost function for 
+megabytes and find the cost for 500 MB. 
+P
+2. A rectangle has length 
+ and width 
+. Write and expand an expression for its area. Find the area
+when 
+. 
+P
+3. The sum of the first  odd numbers is 
+. Use this to find the sum of the first 30 odd numbers and
+describe the pattern in a table. 
+P
+4. A formula for the surface area of a cube is 
+. Make  the subject and find the side length of a cube
+with surface area 
+. 
+E
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Simplify expressions and substitute values.
+1 / 2 / 3
+Use function notation and identify domain and
+range.
+1 / 2 / 3
+Expand and factorise quadratic expressions.
+1 / 2 / 3
+Rearrange formulas.
+1 / 2 / 3
+Generalise a pattern and justify the rule.
+1 / 2 / 3
+Reflection
+Two expressions can produce the same value for every input but look completely
+different. How can a diagram help you see why they are equivalent?
+6x −
+2
+2x + 3 −4x +
+2
+7x −8
+f(x) = 4 −3x
+f(0) f(2)
+f(−1)
+(2x −1)(x + 6)
+x +
+2
+11x + 24
+x −
+2
+64
+x
+3x + 2y = 12
+(x + 5)2
+x +
+2
+25
+x = 1
+f(3)
+f(x) = 2
+g(x) =
+​
+x+1
+5
+7 −2n
+m
+x + 3
+x −1
+x = 6
+n
+n2
+A = 6s2
+s
+150 cm2
+
+
+===== [source page 70] =====
+P A R T I I · D E S C R I B I N G C H A N G E
+Relationships and
+equations
+A linear relationship is one of the most powerful ideas in
+mathematics: a constant rate of change generates a
+straight line, and a straight line can answer questions
+about cost, distance, temperature and time. This part
+moves between tables, graphs and equations, then uses
+those representations to solve equations, inequalities
+and systems in context.
+II
+04
+Linear relationships
+05
+Equations, inequalities and systems
