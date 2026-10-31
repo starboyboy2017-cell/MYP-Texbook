@@ -1,0 +1,1955 @@
+
+
+===== [source page 36] =====
+PA R T I · T H E S T R U C T U R E B E N E AT H T H E S Y M B O L S
+M Y P Y E A R 3
+C H A P T E R 0 2
+2
+N U M B E R , S T R U C T U R E A N D P R O O F
+Powers, roots and
+scientific notation
+Multiplication repeated many times becomes a power;
+a power undone becomes a root. The same notation
+that compresses 
+ also lets astronomers
+write a distance of 4.5 billion kilometres without
+counting zeros.
+KEY CONCEPT · PATTERNS
+RELATED · QUANTITY
+RELATED · REPRESENTATION
+CONTEXT · SCIENTIFIC AND TECHNICAL INNOVATION
+10 × 10 × 10
+2ˣ
+2ˣ
+I N Q U I R Y
+How can a compact notation for repeated multiplication make extremely
+large and extremely small quantities easier to compare, calculate and
+communicate accurately?
+AT L · R E S E A R C H I N AC T I O N
+Find three published quantities from different scales: the mass of a grain of sand, the population of a
+city and the distance to a nearby star. Record the value, the unit and the source. Rewrite each in
+scientific notation and identify how many significant figures the source actually supports. A source
+that reports “about 8 billion” does not support nine significant figures.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 37] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+37
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 2 · A P P R OX . 1 3 H O U R S
+AT L F O C U S · R E S E A R C H
+KEY AND RELATED CONCEPTS
+Patterns. The exponent laws are not arbitrary
+rules; they record what happens when we count
+repeated factors. The pattern continues
+consistently from positive to zero to negative
+exponents.
+Quantity. Scientific notation separates the size of
+a quantity (the power of 10) from its significant
+digits (the mantissa), making comparisons of
+scale immediate.
+Representation. A number can be written in
+standard form, factor form, index form or
+scientific notation. Each representation
+highlights a different property.
+GLOBAL CONTEXT AND EXPLORATION
+Scientific and technical innovation.
+Exploration: how scientists and engineers
+communicate measurements across
+radically different scales, from the diameter
+of an atom to the distance between galaxies,
+and why a shared notation is essential for
+collaboration.
+Scientific notation is a technology of
+communication as much as a mathematical
+convenience. It makes the order of
+magnitude visible, supports reliable
+calculation with calculators and computers,
+and forces the writer to state how many
+digits are actually meaningful.
+FACTUAL
+What does 
+ mean when  is
+positive, zero or negative?
+How do we convert a number
+to scientific notation?
+CONCEPTUAL
+Why must 
+ for 
+,
+and why does 
+ represent
+an th root?
+DEBATABLE
+Is a result reported to six
+significant figures always
+more trustworthy than one
+reported to two?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii, iii
+Apply exponent laws; evaluate roots and rational powers;
+calculate with scientific notation; round to significant figures.
+B · Investigating patterns
+i, ii, iii
+Investigate doubling and halving patterns; describe growth using
+a general rule and test its predictions.
+C · Communicating
+i, ii, iii
+Report quantities with correct notation, units and significant
+figures; explain the meaning of an order of magnitude.
+D · Applying mathematics
+i, ii, iii, iv, v
+Produce a scale model and a public briefing using extremely large
+or small quantities, justifying the precision chosen.
+S TAT E M E N T O F I N Q U I R Y
+Patterns in repeated multiplication generate the exponent laws; these
+laws, together with scientific notation, provide an efficient and
+precise language for representing quantities across an enormous
+range of scales.
+an
+n
+a =
+0
+1
+a =0
+a1/n
+n
+
+
+===== [source page 38] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+38
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 0 M I N U T E S , N O CA LC U L ATO R
+1. Calculate 
+.
+2. Calculate 
+.
+3. Write 
+ as a whole number.
+4. Simplify 
+.
+5. Calculate 
+.
+6. Round 
+ to one decimal place.
+Answers are in the Chapter 2 answer section. If more than two are incorrect, review powers and decimal place value
+before continuing.
+BEFORE YEAR 3
+Square and cube numbers; simple
+powers; square roots; multiplying
+by powers of 10; rounding to
+decimal places.
+YEAR 3 · THIS CHAPTER
+Integer and rational exponents;
+exponent laws; scientific notation;
+orders of magnitude; significant
+figures and relative error.
+LATER
+Exponential functions, logarithms,
+compound interest, exponential
+growth and decay models, curve
+fitting on logarithmic scales.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Scientists
+compare
+quantities from
+atomic to
+astronomical
+scale.
+2
+QUESTION
+How can notation
+make extreme
+quantities
+manageable?
+3
+CONCEPT
+Repeated
+multiplication,
+inverse
+operations,
+powers of 10.
+4
+INVESTIGATION
+Model repeated
+doubling and
+predict when a
+thin sheet reaches
+the Moon.
+5
+COMMUNICATION
+Write
+magnitudes,
+compare scales
+and choose
+significant
+figures.
+6
+REFLECTION
+When does a
+precise-looking
+number overstate
+what is known?
+Understand why the exponent laws follow
+from the meaning of repeated multiplication.
+Know how to use positive, zero and negative
+integer exponents.
+Be able to evaluate roots and expressions with
+rational exponents.
+Be able to convert between standard form and
+scientific notation, and calculate with numbers
+in scientific notation.
+Be able to compare quantities by order of
+magnitude and estimate with powers of 10.
+Be able to round to a stated number of
+significant figures and judge the appropriate
+precision of a result.
+I can simplify products, quotients and
+powers of powers using the exponent laws.
+I can explain why 
+ and 
+ are
+consistent with the pattern of exponents.
+a =
+0
+1
+a
+=
+−n
+1/an
+I can evaluate expressions such as 
+without a calculator.
+272/3
+I can multiply, divide, add and subtract
+numbers in scientific notation and adjust
+the result to standard scientific form.
+I can estimate the ratio of two quantities
+using powers of 10.
+I can state the number of significant figures
+in a measurement and round appropriately.
+34
+​
+81
+105
+​
+12
+8
+2.5 × 102
+7.684
+
+
+===== [source page 39] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+39
+ Integer exponents and the exponent laws
+CRITERION A · I, II
+PATTERNS
+STRUCTURE
+A power records repeated multiplication. The notation 
+ is efficient, but its real power
+comes from the rules that follow when powers are multiplied, divided or raised to another
+power.
+Consider 
+. There are seven factors of  in total, so the product is
+. The exponent law 
+ is simply a count. Similarly, dividing 
+ by 
+ cancels three
+factors and leaves four, so 
+. These laws are not new definitions; they are consequences of
+what exponents mean.
+The zero and negative exponents are forced by the pattern. If 
+, and the same
+quotient is 1 whenever 
+, then 
+ must equal 1. If 
+, and direct cancellation
+gives 
+, then 
+ must mean 
+. Definitions are chosen so that the laws remain consistent.
+2.1
+an
+D E F I N I T I O N
+For a real number  and a positive integer , 
+. The number  is the base; 
+is the exponent or index. For 
+, 
+ and 
+.
+a
+n a =
+n
+​
+n factors
+​
+a × a × ⋯× a
+a
+n
+a =0 a =
+0
+1
+a
+=
+−n
+​
+an1
+a ×
+3
+a =
+4
+(a × a × a)(a × a × a × a)
+a
+a7
+a a =
+m
+n
+am+n
+a7
+a3
+a /a =
+7
+3
+a4
+K E Y I D E A · T H E E X P O N E N T L AW S
+For 
+ and integers 
+:
+a, b =0
+m, n
+a a =
+m
+n
+a
+,
+​ =
+m+n
+an
+am
+a
+,
+(a ) =
+m−n
+m n
+a
+,
+mn
+(ab) =
+n
+a b ,
+​
+=
+n n
+( b
+a)
+n
+​,
+a
+=
+bn
+an
+−n
+​.
+an
+1
+a /a =
+3
+3
+a
+=
+3−3
+a0
+a =0
+a0
+a /a =
+2
+5
+a
+=
+2−5
+a−3
+1/a3
+a−3
+1/a3
+
+
+===== [source page 40] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+40
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+1
+2
+3
+4
+5
+6
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+40
+42
+44
+46
+48
+50
+52
+54
+56
+58
+60
+62
+64
+66
+68
+70
+x
+y
+linear growth
+y = 2ˣ
+Exponential growth overtakes repeated addition
+Each increase of 1 in the exponent doubles the value.
+Figure 2.1 Powers grow at very different rates. A linear expression grows by a constant amount; a square grows by increasing
+amounts; a cube grows faster still. The exponent controls the rate of growth.
+WO R K E D E X A M P L E 2 .1 .1
+APPLYING THE LAWS
+PROBLEM
+Simplify: (a) 
+   (b) 
+   (c) 
+   (d) 
+.
+ANSWER (a) 
+   (b) 
+   (c) 
+   (d) 
+WO R K E D E X A M P L E 2 .1 . 2
+ZERO AND NEGATIVE EXPONENTS
+PROBLEM
+Evaluate: (a) 
+   (b) 
+   (c) 
+   (d) 
+ when 
+.
+ANSWER (a) 1   (b) 
+   (c) 
+   (d) 5
+MISCONCEPTION
+ and 
+.
+CORRECT
+Multiply powers with the same base by adding
+exponents: 
+. A power of a power
+multiplies exponents: 
+.
+x ×
+5
+x3
+​
+y4
+y9
+(2z )
+3 4
+​
+3a2
+6a5
+(a) Add the exponents: 
+.
+1
+x
+=
+5+3
+x8
+(b) Subtract the exponents: 
+.
+2
+y
+=
+9−4
+y5
+(c) The exponent applies to both factors: 
+.
+3
+2 (z ) =
+4
+3 4
+16z12
+(d) Divide the coefficients and subtract the exponents: 
+.
+4
+​a
+=
+3
+6
+5−2
+2a3
+x8
+y5
+16z12
+2a3
+70
+2−4
+​
+( 4
+3)
+−2
+5x0
+x = 3
+(a) Any nonzero base to the power zero is 1: 
+.
+1
+7 =
+0
+1
+(b) 
+.
+2
+2
+=
+−4
+​ =
+24
+1
+​
+16
+1
+(c) A negative exponent on a fraction inverts the fraction: 
+.
+3
+​
+=
+( 4
+3)
+−2
+​
+=
+( 3
+4)
+2
+​
+9
+16
+(d) The exponent applies only to , not to 5: 
+.
+4
+x
+5x =
+0
+5 × 1 = 5
+​
+16
+1
+​
+9
+16
+2 ×
+3
+2 =
+4
+212
+(x ) =
+2 3
+x5
+2 ×
+3
+2 =
+4
+2 =
+7
+128
+(x ) =
+2 3
+x6
+
+
+===== [source page 41] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+41
+PRACTICE 2.1 · EXPONENT LAWS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Simplify: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+2. Evaluate: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+3. Simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+4. Explain why 
+ is not 
+. Use the meaning of each expression. 
+R
+5. Show that 
+ and also equals 1. What does this demonstrate about the definition of 
+? 
+R
+6. Find the value of : (a) 
+   (b) 
+   (c) 
+. 
+P
+7. Simplify 
+, giving your answer with positive exponents. 
+E
+8. Is 
+ equal to 
+? Explain the difference between the two expressions, and state when the
+distinction matters. 
+E
+ Roots and rational exponents
+CRITERION A · I, II
+INVERSE OPERATIONS
+REPRESENTATION
+Roots undo powers. The square root asks which number squared gives the target; the cube
+root asks which number cubed gives it. Rational exponents make the same idea available
+inside the exponent laws.
+The notation is consistent with the exponent law 
+. Taking the th power of 
+returns , which is exactly what an th root must do. For 
+, the denominator 4 says “take the
+fourth root” and the numerator 3 says “cube”. The order can be chosen for convenience:
+, whereas 
+.
+WO R K E D E X A M P L E 2 . 2 .1
+EVALUATING RATIONAL EXPONENTS
+PROBLEM
+Evaluate without a calculator: (a) 
+   (b) 
+   (c) 
+   (d) 
+.
+ANSWER (a) 3   (b) 8   (c)    (d) 
+a a
+4
+6
+​
+b3
+b11
+(c )
+2 5
+(3d)2
+53
+4−2
+(−3)4
+(−2)5
+​
+4m2
+12m7
+​
+5pq
+10p q
+3 4
+(2x y)
+2
+3
+2 ×
+3
+24
+47
+​ =
+58
+58
+50
+a0
+n
+3 =
+n
+81
+2
+=
+n+1
+32
+5
+=
+2n
+625
+​
+×
+( b2
+2a3 )
+2
+​
+a2
+b6
+(−2)4
+−24
+2.2
+D E F I N I T I O N S
+For 
+ and a positive integer , the principal th root
+ is the non-negative number
+whose th power is . For odd , 
+ is defined for negative  as well. A rational exponent is
+defined by
+provided the root exists and the base is non-negative when the denominator is even.
+a ≥0
+n
+n
+​
+n a
+n
+a
+n
+​
+n a
+a
+a
+=
+1/n
+​,
+a
+=
+n a
+m/n
+​
+=
+( n a)
+m
+​,
+n am
+(a
+) =
+1/n n
+a =
+1
+a
+n
+a1/n
+a
+n
+163/4
+​
+=
+(
+4 16)
+3
+2 =
+3
+8
+​ =
+4 163
+​ =
+4 4096
+8
+271/3
+163/4
+8−2/3
+​
+( 36
+25)
+1/2
+(a) The cube root of 27 is 3, so 
+.
+1
+27
+=
+1/3
+3
+(b) The fourth root of 16 is 2, and 
+, so 
+.
+2
+2 =
+3
+8
+16
+=
+3/4
+8
+(c) The negative sign inverts, and 
+, so 
+.
+3
+8
+=
+2/3
+​
+=
+(
+3 8)
+2
+2 =
+2
+4
+8
+=
+−2/3
+​4
+1
+(d) The square root of the fraction is the quotient of the roots: 
+.
+4
+​ =
+​
+36
+​
+25
+​6
+5
+​4
+1
+​6
+5
+
+
+===== [source page 42] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+42
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 2 . 2 . 2
+SOLVING A SIMPLE POWER EQUATION
+PROBLEM
+Solve 
+ and 
+ for real .
+ANSWER
+ for the cube equation; 
+ for the square equation.
+4² = 16
+a square array
+3³ = 27
+a cube of unit cubes
+5
+√25 = 5
+side of a 25-square
+Powers describe repeated multiplication; roots reverse the question.
+Figure 2.2 A square with side  has area 
+; a cube with edge  has volume 
+. Geometry gives the exponents 2 and 3 a concrete
+meaning.
+PRACTICE 2.2 · ROOTS AND RATIONAL EXPONENTS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Evaluate: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+2. Write each as a power: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+3. Evaluate without a calculator: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+4. Evaluate: (a) 
+   (b) 
+   (c) 
+. 
+F
+5. Solve for : (a) 
+   (b) 
+   (c) 
+. 
+P
+6. Explain why 
+ is a real number but 
+ is not. Refer to the meaning of the exponent. 
+R
+7. Show that 
+ by using the exponent law 
+. 
+E
+8. A cube has volume 
+. Find its edge length, then find the side length of a square with the same
+area as one face of the cube. 
+E
+x =
+3
+64
+x =
+2
+49
+x
+For 
+, take the cube root of both sides: 
+. There is only one real cube root of a
+positive number.
+1
+x =
+3
+64
+x =
+​ =
+3 64
+4
+For 
+, taking the square root gives two possibilities because both 
+ and 
+ equal 49.
+2
+x =
+2
+49
+72
+(−7)2
+So 
+ or 
+, often written 
+.
+3
+x = 7
+x = −7
+x = ±7
+x = 4
+x = ±7
+C O M M O N E R R O R · E V E N R O OT S O F N E GAT I V E N U M B E R S
+ is not 
+. Squaring either 3 or 
+ gives 9, never 
+. An even root of a negative real
+number is not a real number. Odd roots do accept negative inputs: 
+, because
+.
+​
+−9
+−3
+−3
+−9
+​ =
+3 −8
+−2
+(−2) =
+3
+−8
+x
+x2
+x
+x3
+​
+121
+​
+3 27
+​
+3 −64
+​
+4 81
+​7
+​
+3 5
+​
+​3
+1
+​
+5 x2
+641/2
+1251/3
+161/4
+93/2
+322/5
+64−1/3
+​
+( 27
+8 )
+2/3
+x
+x =
+2
+144
+x =
+3
+125
+x
+=
+1/2
+9
+(−8)1/3
+(−8)1/2
+a
+=
+m/n
+​
+n am
+(a )
+=
+m 1/n
+am/n
+343 cm3
+
+
+===== [source page 43] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+43
+ Scientific notation
+CRITERION A · II, III
+CRITERION C · I
+SCALE
+Scientific notation writes a number as a mantissa between 1 and 10 multiplied by a power
+of 10. The power of 10 carries the order of magnitude; the mantissa carries the meaningful
+digits.
+To convert 
+, move the decimal point left until the mantissa lies between 1 and 10: 
+. The
+point moved four places, so 
+. To convert 
+, move the point right four places
+to get 7.2; moving right corresponds to a negative exponent, so 
+. The number of
+places moved is always the absolute value of the exponent.
+10 −9
+10 −6
+10 −3
+10 0
+10 3
+10 6
+10 9
+10 12
+10 15
+atom
+atom
+cell
+cell
+grain of rice
+grain of rice
+metre
+metre
+stadium
+stadium
+Earth
+Earth
+Earth–Sun
+Earth–Sun
+Powers of ten make an enormous range of sizes comparable.
+The exponent records the number of places the decimal point moves.
+Scale is approximate; each marker names an order of magnitude, not an exact measurement.
+Figure 2.3 Each step of one on the scale represents a factor of 10. Scientific notation compresses this vast range into a mantissa
+and an exponent.
+Multiplication and division use the exponent laws directly. Multiply the mantissas, then add the
+exponents; divide the mantissas, then subtract the exponents. If the resulting mantissa is not
+between 1 and 10, adjust it by moving the decimal point and changing the exponent. Addition and
+subtraction require a common exponent before the mantissas can be combined.
+2.3
+D E F I N I T I O N
+A number is in scientific notation when it is written as 
+, where 
+ and  is an
+integer. The number  is the mantissa or coefficient, and  is the exponent.
+a × 10n
+1 ≤∣a∣< 10
+n
+a
+n
+45,300
+4.53
+45,300 = 4.53 × 104
+0.00072
+0.00072 = 7.2 × 10−4
+
+
+===== [source page 44] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+44
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 2 .3.1
+MULTIPLICATION AND DIVISION
+PROBLEM
+Calculate and write in scientific notation: (a) 
+   (b) 
+.
+ANSWER (a) 
+   (b) 
+WO R K E D E X A M P L E 2 .3. 2
+ADDITION WITH DIFFERENT EXPONENTS
+PROBLEM
+Calculate 
+, giving the answer in scientific notation.
+ANSWER
+Check.
+.
+MISCONCEPTION
+.
+CORRECT
+Addition does not add exponents. Align powers
+first: 
+.
+PRACTICE 2.3 · SCIENTIFIC NOTATION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Write in scientific notation: (a) 8,250   (b) 0.00046   (c) 91,000,000   (d) 0.000000305. 
+F
+2. Write in standard form: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+3. Calculate and write in scientific notation: (a) 
+   (b) 
+. 
+F
+4. Calculate: (a) 
+   (b) 
+. 
+F
+5. Calculate 
+, giving the answer in scientific notation. 
+F
+6. Order from smallest to largest: 
+, 
+, 
+, 
+. 
+R
+7. The mass of a dust particle is 
+ kg. A grain of sand is 40 times heavier. Find the mass of the
+grain in scientific notation. 
+P
+8. A computer stores 
+ bytes. A file has size 
+ bytes. How many files of that size can be
+stored? Express the answer in scientific notation and as a whole number. 
+E
+(3.2 × 10 )(4.0 ×
+5
+10
+)
+−2
+​
+2.1×10−3
+8.4×107
+(a) Multiply mantissas: 
+. Add exponents: 
+.
+1
+3.2 × 4.0 = 12.8
+10
+=
+5+(−2)
+103
+The mantissa 12.8 is too large, so write 
+. Then 
+.
+2
+12.8 = 1.28 × 101
+1.28 × 10 ×
+1
+10 =
+3
+1.28 × 104
+(b) Divide mantissas: 
+. Subtract exponents: 
+.
+3
+8.4 ÷ 2.1 = 4
+10
+=
+7−(−3)
+1010
+The mantissa is between 1 and 10, so no adjustment is needed.
+4
+1.28 × 104
+4.0 × 1010
+3.4 × 10 +
+5
+2.1 × 104
+The exponents differ. Rewrite the smaller power to match the larger: 
+.
+1
+2.1 × 10 =
+4
+0.21 × 105
+Now add the mantissas: 
+.
+2
+3.4 + 0.21 = 3.61
+Keep the common power: 
+.
+3
+3.61 × 105
+3.61 × 105
+340,000 + 21,000 = 361,000 = 3.61 × 105
+(2 × 10 ) +
+3
+(3 × 10 ) =
+4
+5 × 107
+0.2 × 10 +
+4
+3 × 10 =
+4
+3.2 × 104
+5.7 × 103
+9.02 × 10−5
+1.6 × 108
+4.5 × 10−1
+(2.5 × 10 )(4 ×
+6
+10 )
+3
+(6.4 × 10
+)(2.5 ×
+−4
+10 )
+7
+​
+3.2×102
+9.6×108
+​
+9×10−9
+4.5×10−5
+4.7 × 10 +
+6
+3.8 × 105
+3.4 × 10−3 4.1 × 10−4 2.9 × 10−2 3.3 × 10−4
+7.5 × 10−9
+2.0 × 1012
+4.0 × 108
+
+
+===== [source page 45] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+45
+ Orders of magnitude and estimation
+CRITERION A · III
+CRITERION D · II
+SCALE
+An order of magnitude is a factor of 10. Comparing orders of magnitude reveals which
+quantities dominate a problem and which are negligible, often before any detailed
+calculation.
+A useful estimation skill is to round each quantity to one significant figure and then to the nearest
+power of 10. The thickness of a sheet of paper is about 
+ m; the height of a room is about
+ m. The ratio is about 
+, so roughly thirty thousand sheets are needed to reach the
+ceiling. The estimate is not exact, but it is stable: it identifies the scale of the answer.
+WO R K E D E X A M P L E 2 . 4.1
+COMPARING SCALES
+PROBLEM
+The diameter of a human hair is about 
+ m. The diameter of a red blood cell is about
+ m. How many times larger is the hair?
+ANSWER The hair is about 10 times wider than the red blood cell.
+WO R K E D E X A M P L E 2 . 4. 2
+A FERMI ESTIMATE
+PROBLEM
+Estimate the number of breaths a person takes in one year. State the assumptions.
+ANSWER Approximately 
+ breaths per year, assuming 15 breaths per minute and no
+pauses.
+Evaluate. The rate and the number of minutes are both estimates. Reporting 
+ would imply a
+precision the assumptions do not support.
+2.4
+D E F I N I T I O N
+Two quantities differ by one order of magnitude when one is about 10 times the other. A
+number 
+ has order of magnitude 
+ if 
+, and 
+ if 
+. The
+threshold is 
+, the midpoint on a logarithmic scale.
+a × 10n
+10n
+1 ≤a < 3.16
+10n+1
+3.16 ≤a < 10
+10
+≈
+0.5
+3.16
+1 × 10−4
+3 × 100
+3 × 104
+7 × 10−5
+7 × 10−6
+Form the ratio: 
+.
+1
+​
+7×10−6
+7×10−5
+Divide the mantissas: 
+. Subtract the exponents: 
+.
+2
+7 ÷ 7 = 1
+−5 −(−6) = 1
+The ratio is 
+.
+3
+1 × 10 =
+1
+10
+Estimate a breathing rate: about 15 breaths per minute.
+1
+Estimate the number of minutes in a year: 
+.
+2
+60 × 24 × 365 ≈5.26 × 105
+Multiply: 
+.
+3
+15 × 5.26 × 10 ≈
+5
+7.9 × 106
+Round to one significant figure: about 
+ breaths per year.
+4
+8 × 106
+8 × 106
+7,884,000
+
+
+===== [source page 46] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+46
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 2.4 · ORDERS OF MAGNITUDE AND ESTIMATION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. State the order of magnitude of each quantity: (a) 
+   (b) 
+   (c) 
+   (d) 
+.
+F
+2. How many times larger is 
+ than 
+? 
+F
+3. Estimate the number of seconds in a day, giving your answer in scientific notation. 
+F
+4. Estimate the number of grains of rice in a 1 kg bag if one grain has mass about 0.02 g. State your
+assumptions. 
+P
+5. A molecule is about 
+ m across. Estimate how many molecules could fit across a 1 cm gap. 
+P
+6. Compare the mass of an electron (
+ kg) with the mass of a proton (
+ kg) as a ratio.
+Which is heavier, and by roughly what factor? 
+R
+7. A data centre stores 
+ bytes. A smartphone stores 
+ bytes. How many smartphones
+would hold the same data? Comment on the reasonableness of the answer. 
+E
+8. Estimate the volume of water in a swimming pool 25 m by 10 m by 2 m, in litres. Then estimate the
+number of 500 mL bottles that could be filled. Compare the order of magnitude with the number of
+people in your school. 
+E
+ Significant figures and precision
+CRITERION A · III
+CRITERION D · III
+ACCURACY
+A measurement is not a pure number. It carries a claim about how much is known.
+Significant figures are a compact way of stating that claim.
+Thus 
+ has four significant figures (4, 5, 0 and 7); the leading zeros only position the decimal
+point. 
+ has four significant figures because the final zero is a deliberate claim of precision.
+ is ambiguous: it could have two, three or four significant figures. Writing 
+ makes the
+claim explicit.
+WO R K E D E X A M P L E 2 . 5.1
+ROUNDING TO SIGNIFICANT FIGURES
+PROBLEM
+Round (a) 
+ to 2 significant figures, (b) 
+ to 3 significant figures and (c) 
+ to 3
+significant figures.
+ANSWER (a) 
+   (b) 
+   (c) 
+4.8 × 103
+8.1 × 106
+2.2 × 10−4
+5.0 × 10−2
+6 × 108
+3 × 105
+10−9
+9.1 × 10−31
+1.67 × 10−27
+3.2 × 1015
+1.28 × 1011
+2.5
+R U L E S F O R S I G N I F I CA N T F I G U R E S
+All nonzero digits are significant. Zeros between nonzero digits are significant. Leading zeros
+are never significant. Trailing zeros after a decimal point are significant. Trailing zeros in a
+whole number are ambiguous unless the number is written in scientific notation.
+0.004507
+12.30
+1,500
+1.5 × 103
+0.004567
+12.05
+8.995
+(a) The first two significant figures are 4 and 5. The next digit is 6, so round up: 
+.
+1
+0.0046
+(b) The first three significant figures are 1, 2 and 0. The next digit is 5, so round up: 
+.
+2
+12.1
+(c) The first three significant figures are 8, 9 and 9. The next digit is 5, so round up; the 9s
+carry: 
+. The zeros are significant because they record the requested precision.
+3
+9.00
+0.0046
+12.1
+9.00
+
+
+===== [source page 47] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+47
+WO R K E D E X A M P L E 2 . 5. 2
+ABSOLUTE AND RELATIVE ERROR
+PROBLEM
+A length is measured as 4.8 cm, but the true length is 4.75 cm. Find the absolute error and the
+relative error as a percentage.
+ANSWER Absolute error 
+ cm; relative error approximately 
+.
+Interpret. An absolute error of 0.05 cm is small on a 4.75 cm object but large on a 0.1 cm object. Relative
+error expresses the error as a proportion, so it supports comparison across scales.
+PRACTICE 2.5 · SIGNIFICANT FIGURES AND PRECISION
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. State the number of significant figures: (a) 0.0034   (b) 2.070   (c) 1500   (d) 
+. 
+F
+2. Round to 3 significant figures: (a) 4.5678   (b) 0.009876   (c) 12,345   (d) 8.9949. 
+F
+3. Round 7.85 to 1 decimal place, then explain why the result differs from rounding 7.849 to 1 decimal
+place. 
+R
+4. A measurement is recorded as 
+ cm. State a reasonable interval of possible true lengths if the
+measuring device rounds to the nearest 0.1 cm. 
+P
+5. A mass is measured as 250 g, but the balance has an uncertainty of 
+ g. Find the relative error as a
+percentage using the measured value. 
+P
+6. A rectangle measures 4.2 cm by 7.5 cm. Calculate its area and state the appropriate number of
+significant figures in the answer. 
+P
+7. A student calculates 
+ and reports the answer as 
+. Explain the error and give the
+correct significant-figure claim. 
+R
+8. A distance is reported as 
+ m. A student says “it is exactly 384,000,000 m”. Explain why this
+interpretation is not justified. 
+E
+Absolute error 
+ cm.
+1
+= ∣4.8 −4.75∣= 0.05
+Relative error 
+.
+2
+=
+​ ≈
+4.75
+0.05
+0.01053
+As a percentage: 
+.
+3
+0.01053 × 100% ≈1.1%
+0.05
+1.1%
+ST R AT E GY · D O N OT M A N U FAC T U R E P R E C I S I O N
+When multiplying or dividing measurements, the result should be reported to the same number of
+significant figures as the least precise input. When adding or subtracting, the result is limited by the
+least precise decimal place. In a multi-step calculation, keep extra digits during working and round
+only the final answer.
+6.02 × 1023
+12.4
+±2
+2.5 × 4.0 = 10.0
+10.000
+3.84 × 108
+
+
+===== [source page 48] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+48
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Application · A scale model of the solar system
+CRITERION D · I, II, III, IV
+SCALE
+COMMUNICATION
+A science museum wants a scale model along a 500 m outdoor path. The distances from the Sun are
+given in kilometres and in astronomical units (AU), where 
+ km.
+Object
+Distance from Sun (AU)
+Distance from Sun (km)
+Diameter (km)
+Mercury
+0.39
+Earth
+1.00
+Mars
+1.52
+Jupiter
+5.20
+Neptune
+30.1
+1. Choose a scale that places Neptune at approximately 450 m from the Sun. Calculate the scale
+factor in the form 
+ using the distance in metres.
+2. Use your scale to calculate the model distance of each planet from the Sun and the model
+diameter of each planet. Present the results in a table with sensible units (metres or
+centimetres).
+Investigation · Forty-two folds to the Moon
+CRITERION B
+A sheet of paper is about 0.1 mm thick. Each fold doubles the thickness, so after  folds the
+thickness is 
+ mm, assuming a perfect fold each time.
+Number of folds 
+Thickness (mm)
+Thickness (m)
+Comparison
+1
+0.2
+two sheets
+5
+3.2
+about 3 mm
+10
+102.4
+about 10 cm
+20
+104,857.6
+about 105 m
+30
+107,374,182.4
+about 107 km
+42
+about the Earth–Moon distance
+1. Verify. Show that the formula 
+ gives the value for 
+ and 
+. Convert both to
+metres.
+2. Predict. The average Earth–Moon distance is 
+ m. Use the formula to find the smallest
+whole number of folds for which the thickness exceeds this distance. Show the calculation.
+3. Compare. How many folds are needed to exceed the height of a 300 m tower? How many for
+Mount Everest (8,849 m)? Present your answers in a table.
+4. Generalise. Write a formula for the number of folds needed to reach a height 
+ metres. You
+may use the fact that 
+ to build an estimate rather than an exact logarithmic solution.
+5. Evaluate. Explain why the model breaks down before 42 folds in practice. Consider the area of
+the sheet, the size of a fold and the strength of the paper. What does the investigation reveal
+about the difference between a mathematical model and a physical procedure?
+A strong report states the formula, shows the substitution, reports units and separates the mathematical result
+from the feasibility of the physical action.
+n
+0.1 × 2n
+n
+2.0 × 10−4
+3.2 × 10−3
+1.024 × 10−1
+1.048576 × 102
+1.073741824 × 105
+4.398 × 1011
+4.398 × 108
+0.1 × 2n
+n = 10
+n = 20
+3.84 × 108
+H
+2
+≈
+10
+103
+1 AU = 1.496 × 108
+5.8 × 107
+4.88 × 103
+1.50 × 108
+1.27 × 104
+2.27 × 108
+6.79 × 103
+7.78 × 108
+1.40 × 105
+4.50 × 109
+4.92 × 104
+1 : n
+
+
+===== [source page 49] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+49
+3. Is the model diameter of Earth visible to a visitor? Is Jupiter’s? Comment on the practical
+problem of showing both distance and size at the same scale.
+4. If the museum instead chooses a scale that makes Jupiter 30 cm across, where would
+Neptune be placed? Is the path long enough? Show your reasoning.
+5. Write a 120-word label for the model that explains the scale, the two different visual
+compromises and why scientific notation is useful for the design. Justify the number of
+significant figures you use.
+C R I T E R I O N D F O C U S
+Identify the relevant quantities, select and apply a scale, justify the degree of accuracy, and evaluate
+whether the model communicates the intended relationships.
+
+
+===== [source page 50] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+50
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Criterion task · A public briefing on very small
+particles
+CRITERION D
+APPLYING
+MATHEMATICS
+24 MARKS
+A city health office is preparing a briefing on airborne particles. The briefing must be accurate,
+readable and honest about uncertainty. The following data are supplied.
+Quantity
+Value
+Diameter of a PM2.5 particle
+up to 
+ m
+Diameter of a human hair
+about 
+ m
+Concentration limit (annual mean)
+ kg/m³
+Measured annual mean at one site
+ kg/m³
+Uncertainty of the measurement
+1. How many PM2.5 particles would fit across the diameter of a human hair? Use the maximum
+particle diameter and give your answer to an appropriate number of significant figures. (4
+marks)
+2. Express the measured concentration and the limit in micrograms per cubic metre, using
+. (3 marks)
+3. Calculate the percentage by which the measured value exceeds the limit. (4 marks)
+4. Using the stated uncertainty, write an interval for the true annual mean and decide whether
+the site definitely exceeds the limit. (5 marks)
+5. Write a 150-word briefing for a non-specialist audience. It must state the comparison of
+particle size to hair, the measured value, the uncertainty and the conclusion. Use scientific
+notation at least once and justify the precision of every number you report. (8 marks)
+PLANNING FRAME
+Identify: particle diameter, hair diameter, limit, measurement, uncertainty. Select: ratio for size, unit
+conversion for concentration, percentage difference, interval for uncertainty. Justify: why the
+conclusion changes or does not change once uncertainty is included. Evaluate: is the briefing useful
+without overstating certainty?
+BAND
+DESCRIPTOR
+MARKS
+4
+Correct and well-justified use of ratio, conversion and uncertainty;
+communication is precise, readable and appropriately cautious.
+19–24
+3
+Most calculations correct; uncertainty handled with minor errors;
+communication is clear but precision is uneven.
+13–18
+2
+Some relevant calculations; limited justification of accuracy or context;
+communication may overstate certainty.
+7–12
+1
+Little correct mathematics or an answer without context.
+1–6
+CRITERIA: D (A, C)
+ATL: RESEARCH
+TIME: 50 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ D strands i–v, with supporting evidence for A iii and C i. The rubric is a course summary, not an official IB
+descriptor.
+2.5 × 10−6
+7 × 10−5
+5.0 × 10−9
+8.3 × 10−9
+±6%
+1 μg = 10
+ kg
+−9
+
+
+===== [source page 51] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+51
+Chapter summary and review
+KEY IDEAS
+ means  factors of ; the exponent laws
+follow from counting factors.
+ and 
+ are forced by the
+requirement that the exponent laws remain
+consistent.
+ and 
+.
+Scientific notation has the form 
+ with
+.
+Multiplication adds exponents; division
+subtracts them; addition requires a common
+exponent.
+An order of magnitude is a factor of 10; it
+supports rapid comparison and estimation.
+Significant figures communicate the
+precision of a measurement; calculations
+should not manufacture extra precision.
+REVISION CHECKLIST
+VOCABULARY
+base
+The number that is repeatedly multiplied in a power.
+exponent
+The number of factors; the power to which the base is
+raised.
+index form
+A number written using a base and an exponent.
+root
+A value that produces a given number when raised to
+a power.
+principal root
+The non-negative root when an even root is taken.
+rational exponent
+An exponent of the form 
+, equivalent to a root and
+a power.
+scientific notation
+The form 
+ with 
+.
+mantissa
+The coefficient  in scientific notation.
+order of magnitude
+A factor of 10 used to compare scales.
+significant figures
+The digits in a measurement that carry meaningful
+information.
+absolute error
+The size of the difference between a measurement
+and the true value.
+relative error
+The absolute error divided by the true value, often
+expressed as a percentage.
+an
+n
+a
+a =
+0
+1
+a
+=
+−n
+1/an
+​ =
+n a
+a1/n
+a
+=
+m/n
+(
+​)
+n a m
+a × 10n
+1 ≤∣a∣< 10
+I can simplify expressions using all the
+exponent laws, including negative
+exponents.
+I can evaluate roots and rational powers
+without a calculator.
+I can convert fluently between standard
+form and scientific notation.
+I can multiply, divide, add and subtract in
+scientific notation.
+I can estimate a ratio of quantities by
+rounding to powers of 10.
+I can round to a stated number of
+significant figures and identify
+ambiguous trailing zeros.
+I can calculate absolute and relative error
+and interpret both.
+m/n
+a × 10n
+1 ≤∣a∣< 10
+a
+
+
+===== [source page 52] =====
+PART I · NUMBER AND ALGEBRAIC STRUCTURE
+2 · Powers, roots and scientific notation
+52
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M I X E D P R AC T I C E · C H A P T E R 2
+Connecting the ideas
+FLUENCY Core procedures
+1. Simplify: (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Evaluate: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Write 
+ and 
+ in scientific notation. 
+F
+4. Calculate 
+ and write the result in scientific notation. 
+F
+REASONING Justify and connect
+1. Explain why 
+ using the exponent law for division. 
+R
+2. Is 
+ larger than 
+? Explain without converting both to standard form. 
+R
+3. A student writes 
+. Identify the error and correct it. 
+R
+4. How many significant figures does 
+ have? Explain each digit. 
+R
+APPLICATION Use and evaluate
+1. A single human cell has diameter about 
+ m. Estimate how many cells would span a 10 cm line.
+P
+2. A hard drive holds 
+ bytes. A photo has average size 
+ bytes. Estimate the number of
+photos the drive can hold. 
+P
+3. A bacterial culture doubles every hour. Starting with 
+ bacteria, find the population after 8 hours
+in scientific notation. 
+P
+4. A measurement of 
+ g has an uncertainty of 
+ g. Calculate the relative error and explain whether
+this is a precise measurement for a 100 g sample. 
+E
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Apply the exponent laws with integer exponents.
+1 / 2 / 3
+Evaluate roots and rational exponents.
+1 / 2 / 3
+Calculate fluently in scientific notation.
+1 / 2 / 3
+Estimate and compare orders of magnitude.
+1 / 2 / 3
+Report a result with appropriate significant
+figures.
+1 / 2 / 3
+Reflection
+Scientific notation separates the size of a quantity from its significant digits. How does
+this separation help you avoid both underestimating and overstating what a
+measurement tells you?
+x x
+7
+−3
+(3a )
+2 3
+​
+2m−2
+8m6
+813/4
+27−2/3
+​
+3 −125
+0.000903
+28,400,000
+(2.4 × 10
+)(5.0 ×
+−4
+10 )
+7
+2
+=
+−3
+​8
+1
+5.2 × 104
+4.9 × 105
+3.6 × 10 +
+5
+4.0 × 10 =
+4
+7.6 × 109
+0.07080
+2 × 10−5
+4.0 × 1012
+3.2 × 106
+5.0 × 103
+8.4
+±0.1

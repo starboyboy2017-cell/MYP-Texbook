@@ -1,0 +1,1644 @@
+
+
+===== [source page 91] =====
+PA R T I I · R E L AT I O N S H I P S A N D E Q U AT I O N S
+M Y P Y E A R 3
+C H A P T E R 0 5
+5
+B A L A N C E , C O N S T R A I N T A N D D E C I S I O N
+Equations, inequalities
+and systems
+An equation asks when two expressions balance. An
+inequality asks which values keep one side larger. A
+system asks when several conditions must hold at
+once — the mathematics behind sharing limited land,
+water and time.
+KEY CONCEPT · RELATIONSHIPS
+RELATED · EQUIVALENCE
+RELATED · SYSTEMS
+CONTEXT · GLOBALIZATION AND SUSTAINABILITY
+I N Q U I R Y
+How can equations and inequalities turn competing demands into a plan
+that is both feasible and fair?
+AT L · S E L F - M A N AG E M E N T I N M U LT I - S T E P WO R K
+Long solutions fail for small reasons: a lost negative sign, a fraction divided on one side only, or a
+check that was never performed. Use a written plan: simplify, isolate, solve, substitute, interpret.
+Finish every problem by checking the original condition, not your own rearranged version. A
+solution that has not been checked is only a candidate.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 92] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+92
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 5 · A P P R OX . 1 6 H O U R S
+AT L F O C U S · S E L F - M A N AG E M E N T
+KEY AND RELATED CONCEPTS
+Relationships. An equation or inequality is a
+condition on a variable. Solving it means finding
+every value that makes the condition true, not
+merely producing a number that looks plausible.
+Equivalence. Each step in a solution must
+preserve the solution set. Adding, subtracting,
+multiplying or dividing both sides by the same
+non-zero number produces an equivalent
+equation; multiplying or dividing an inequality
+by a negative number calls for special care.
+Systems. Two conditions at once restrict the
+possible values more than either condition alone.
+Geometrically, a system of two linear equations
+asks where two lines meet; a system of
+inequalities describes a region of possible
+allocations.
+GLOBAL CONTEXT AND EXPLORATION
+Globalization and sustainability.
+Exploration: how communities allocate
+limited land, water, energy and labour
+among competing uses, and how
+mathematical constraints make the trade-
+offs visible.
+Sustainability is not only an environmental
+idea; it is a problem of allocation. A garden,
+a clinic or a workshop has finite resources.
+Writing the limits as inequalities turns a
+debate about priorities into a set of feasible
+plans that can be compared, tested and
+questioned.
+FACTUAL
+How do you solve a linear
+equation, a linear inequality
+and a pair of simultaneous
+equations? What is a feasible
+region?
+CONCEPTUAL
+Why does multiplying an
+inequality by a negative
+number reverse its direction,
+and why does the
+intersection of two graphs
+solve a system?
+DEBATABLE
+Should a mathematical
+optimum decide how a
+community shares limited
+resources?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Solve linear equations, inequalities and systems; evaluate an
+objective at the vertices of a feasible region.
+B · Investigating patterns
+i, ii, iii
+Investigate when a system has one, none or infinitely many
+solutions using balance puzzles and graphs.
+C · Communicating
+i, ii, iii, iv
+Present solution sets on number lines, explain each equivalent
+step and interpret a feasible region.
+D · Applying mathematics
+i, ii, iii, iv, v
+Model resource constraints, optimise an allocation and evaluate
+the fairness of the recommendation.
+S TAT E M E N T O F I N Q U I R Y
+Equations, inequalities and systems express conditions that must
+hold together; solving them reveals which allocations are possible,
+while comparing the feasible options makes trade-offs — and
+questions of fairness — visible.
+
+
+===== [source page 93] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+93
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Solve 
+.
+2. Expand 
+.
+3. Solve 
+.
+4. Plot 
+ for 
+.
+5. Evaluate 
+ when 
+ and 
+.
+6. Write the next two terms: 7, 11, 15, …
+Answers are in the Chapter 5 answer section. If more than two are incorrect, review inverse operations, substitution and
+plotting before continuing.
+BEFORE YEAR 3
+One- and two-step equations; simple
+inequalities; plotting linear graphs;
+substitution; coordinates.
+YEAR 3 · THIS CHAPTER
+Multi-step equations; inequalities
+and solution sets; simultaneous
+equations; systems of inequalities
+and feasible regions.
+LATER
+Quadratic systems; linear
+programming in several variables;
+matrices; algebraic proof of
+solution-set equivalence.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+A community
+must divide
+limited land,
+water and labour.
+2
+QUESTION
+Which allocations
+satisfy every
+constraint at
+once?
+3
+CONCEPT
+Equivalence,
+balance, systems
+and feasible
+regions.
+4
+INVESTIGATION
+Use balance
+puzzles to
+discover when a
+system has one,
+none or many
+solutions.
+5
+APPLICATION
+Solve a real two-
+variable problem
+and examine the
+fairness of the
+result.
+6
+REFLECTION
+Who decides what
+counts as the best
+allocation?
+Understand what it means for two equations to
+be equivalent and why each solving step must
+preserve the solution set.
+Know how to solve linear equations with
+brackets, fractions and variables on both sides.
+Be able to solve linear inequalities and
+represent their solution sets on a number line.
+Be able to solve simultaneous linear equations
+by graphing, substitution and elimination.
+Be able to model constraints with a system of
+inequalities and evaluate an objective over a
+feasible region.
+Be able to interpret and critique a resource
+allocation for feasibility and fairness.
+I can solve a multi-step equation and verify
+the solution in the original equation.
+I can explain why an equation has one, no
+or infinitely many solutions.
+I can solve an inequality, including one that
+requires reversing the sign.
+I can solve a system by substitution or
+elimination and check both equations.
+I can graph a system of inequalities and
+identify its feasible region.
+I can evaluate an objective at the vertices
+and justify an allocation with reference to
+the constraints.
+2x + 5 = 17
+3(x −2)
+5 −2x = 1
+y = 2x −1
+x = 0, 1, 2
+3x + 2y
+x = 4
+y = 1
+
+
+===== [source page 94] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+94
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Solving linear equations
+CRITERION A · I
+EQUIVALENCE
+REASONING
+An equation is a balance. Whatever is done to one side must be done to the other, and the
+goal is to isolate the variable without changing the solution set.
+x
+x
+1
+2x + 1
+7
+left side
+right side
+Figure 5.1 The balance model of 
+. Removing the same amount from both pans, or dividing both sides into the same
+number of equal groups, keeps the balance.
+To solve 
+, subtract 1 from both sides: 
+. Divide both sides by 2: 
+. Substitution
+checks the result: 
+. Each step is reversible, so no solution is gained or lost. For longer
+equations, first remove brackets, then collect variable terms on one side and constants on the
+other.
+When fractions appear, multiply every term by a common denominator. This clears the fractions
+without changing the solution set, provided the denominator is not zero. A useful habit is to write
+the common denominator explicitly before multiplying.
+WO R K E D E X A M P L E 5.1 .1
+BRACKETS AND VARIABLES ON BOTH SIDES
+PROBLEM
+Solve 
+.
+ANSWER
+5.1
+D E F I N I T I O N S
+A linear equation in one variable can be written in the form 
+ with 
+. A solution
+is a value of the variable that makes the equation true. Two equations are equivalent if they
+have exactly the same solutions. An identity is true for every permitted value; a
+contradiction is true for none.
+ax + b = c
+a =0
+2x + 1 = 7
+2x + 1 = 7
+2x = 6
+x = 3
+2(3) + 1 = 7
+3(x −4) = 2x + 5
+Expand the left side: 
+.
+1
+3x −12 = 2x + 5
+Subtract 
+ from both sides: 
+.
+2
+2x
+x −12 = 5
+Add 12 to both sides: 
+.
+3
+x = 17
+Check in the original equation: 
+ and 
+.
+4
+3(17 −4) = 3(13) = 39
+2(17) + 5 = 39
+x = 17
+
+
+===== [source page 95] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+95
+WO R K E D E X A M P L E 5.1 . 2
+CLEARING FRACTIONS
+PROBLEM
+Solve 
+.
+ANSWER
+WO R K E D E X A M P L E 5.1 .3
+NO SOLUTION OR EVERY SOLUTION
+PROBLEM
+Solve (a) 
+ and (b) 
+.
+ANSWER (a) infinitely many solutions; (b) no solution.
+PRACTICE 5.1 · LINEAR EQUATIONS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Solve: (a) 
+   (b) 
+   (c) 
+. 
+F
+2. Solve: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Solve 
+. 
+F
+4. Solve 
+. 
+F
+5. Explain why 
+ has infinitely many solutions, while 
+ has none. 
+R
+6. A student solves 
+ and writes 
+. Identify the error, complete the solution
+correctly, and check it. 
+R
+7. The perimeter of a rectangle is 38 cm. Its length is 3 cm more than its width. Write and solve an
+equation to find the dimensions. 
+P
+8. Write an equation with solution 
+ that has variables on both sides, at least one bracket and a
+negative coefficient. Exchange with a partner and solve each other's equation. 
+E
+​ =
+3
+2x−1
+​
+2
+x+4
+Multiply both sides by 6, the lowest common multiple of 3 and 2: 
+.
+1
+2(2x −1) = 3(x + 4)
+Expand: 
+.
+2
+4x −2 = 3x + 12
+Subtract 
+: 
+. Add 2: 
+.
+3
+3x x −2 = 12
+x = 14
+Check: the left side is 
+; the right side is 
+.
+4
+​ =
+3
+28−1
+9
+=
+2
+14+4
+9
+x = 14
+2(x + 3) = 2x + 6
+2(x + 3) = 2x + 1
+(a) Expanding gives 
+, which is true for every value of . The equation is an
+identity; the solution set is all real numbers.
+1
+2x + 6 = 2x + 6
+x
+(b) Expanding gives 
+. Subtracting 
+ leaves 
+, which is false. There is no
+solution.
+2
+2x + 6 = 2x + 1
+2x
+6 = 1
+The two cases look similar before simplification. The difference is whether the variable terms
+cancel to a true statement or a false one.
+3
+C O M M O N E R R O R · D I S T R I B U T I N G A N E GAT I V E S I G N
+ is 
+, not 
+. The negative sign multiplies both terms inside the
+bracket. Write the expansion in a separate line before collecting terms. Most “mysterious”
+wrong answers in equation solving come from a lost sign, not from the main method.
+5 −2(x −1)
+5 −2x + 2
+5 −2x −2
+4x −7 = 25
+5 −2x = 17
+3(x + 2) = 21
+2x + 5 = 4x −9
+5(x −1) = 3x + 7
+4 −3(x + 1) = 10
+=
+3
+2x+1
+​
+4
+x−2
+0.4x + 1.2 = 2.8
+3(x + 2) = 3x + 6
+3(x + 2) = 3x + 1
+5 −2(x −1) = 9
+5 −2x −2 = 9
+x = 4
+
+
+===== [source page 96] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+96
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Inequalities and solution sets
+CRITERION A · I
+CRITERION C · II
+REPRESENTATION
+An inequality describes a range of possibilities rather than a single value. Its solution is a
+set, and a number line is often the clearest way to see that set.
+Solving an inequality uses the same inverse operations as solving an equation, with one extra rule.
+Adding or subtracting the same number preserves the direction of the inequality. Multiplying or
+dividing by a positive number also preserves it. But multiplying or dividing by a negative number
+reverses the direction: if 
+, then 
+.
+WO R K E D E X A M P L E 5. 2 .1
+A BASIC INEQUALITY
+PROBLEM
+Solve 
+ and represent the solution on a number line.
+ANSWER
+, or 
+.
+−5
+−4
+−3
+−2
+−1
+0
+1
+2
+3
+4
+5
+3
+x ≤ 3
+Figure 5.2 The solution set of 
+. The endpoint 3 is included, so the circle is filled; every number to its left satisfies the
+inequality.
+5.2
+D E F I N I T I O N S
+An inequality compares two expressions using , ,  or . Its solution set is the set of all
+values that make it true. A filled circle on a number line includes the endpoint ( or ); an
+open circle excludes it ( or ). The solution can also be written in interval notation: for
+example, 
+ is 
+.
+< > ≤
+≥
+≤
+≥
+<
+>
+x ≤3
+(−∞, 3]
+2 < 5
+−2 > −5
+2x + 1 ≤7
+Subtract 1: 
+.
+1
+2x ≤6
+Divide by 2, a positive number, so the direction stays the same: 
+.
+2
+x ≤3
+Shade the number line to the left of 3 and use a filled circle at 3 because equality is allowed.
+3
+x ≤3
+(−∞, 3]
+2x + 1 ≤7
+
+
+===== [source page 97] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+97
+WO R K E D E X A M P L E 5. 2 . 2
+REVERSING THE SIGN
+PROBLEM
+Solve 
+.
+ANSWER
+WO R K E D E X A M P L E 5. 2 .3
+A COMPOUND INEQUALITY
+PROBLEM
+Solve 
+.
+ANSWER
+, or 
+.
+PRACTICE 5.2 · INEQUALITIES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Solve and graph: (a) 
+   (b) 
+   (c) 
+   (d) 
+. 
+F
+2. Solve: (a) 
+   (b) 
+   (c) 
+. 
+F
+3. Solve the compound inequalities: (a) 
+   (b) 
+. 
+F
+4. Explain why 
+ and 
+ describe the same solution set. Why does multiplying by a negative
+number reverse an inequality? 
+R
+5. A student solves 
+ and writes 
+. Identify the error, give the correct solution, and test one
+value to justify your correction. 
+R
+6. A club has a budget of 40 units. It spends 12 units on a room and 
+ units on materials for  people.
+Write and solve an inequality for the maximum number of people who can attend. 
+P
+7. A drone is at height 
+ metres after  minutes. Write and solve an inequality for the times
+when the drone is above 6 m. Interpret the result, including whether  can be negative. 
+P
+8. Write an inequality whose solution is 
+. Then write an inequality with no solution, and
+explain why it has none. 
+E
+−2x + 7 ≥1
+Subtract 7 from both sides: 
+.
+1
+−2x ≥−6
+Divide both sides by 
+. Because 
+ is negative, reverse the inequality: 
+.
+2
+−2
+−2
+x ≤3
+Check with a value: 
+ gives 
+, true. The excluded value 
+ gives 
+, false, as
+expected.
+3
+x = 0
+7 ≥1
+x = 4
+−1 ≥1
+x ≤3
+−3 < 2x + 1 ≤7
+Subtract 1 from all three parts: 
+.
+1
+−4 < 2x ≤6
+Divide all three parts by 2: 
+.
+2
+−2 < x ≤3
+The solution is the interval 
+: open at 
+, closed at 3.
+3
+(−2, 3]
+−2
+−2 < x ≤3
+(−2, 3]
+C O M M O N E R R O R · F O R G E T T I N G TO R E V E R S E
+From 
+, dividing by 
+ gives 
+, not 
+. Test a number on each side if you are
+unsure: 
+ makes 
+ true, so 0 must be in the solution set; the inequality
+ includes 0, while 
+ does not.
+−3x < 12
+−3
+x > −4
+x < −4
+x = 0
+−3(0) = 0 < 12
+x > −4
+x < −4
+x + 4 < 9
+3x ≥12
+5 −x > 2
+−2x ≤8
+4x −3 > 2x + 7
+2(x −1) ≤5x + 4
+7 −3x < 1
+−1 < 3x + 2 < 11
+4 ≤2x −2 ≤10
+x < 5
+5 > x
+−3x < 12
+x < −4
+2n
+n
+h = 1.8 + 0.3t
+t
+t
+−2 ≤x < 5
+
+
+===== [source page 98] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+98
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Simultaneous equations: graphs and
+substitution
+CRITERION A · II
+CRITERION C · III
+SYSTEMS
+A single equation with two variables has infinitely many solutions. Two equations
+together can pin down a single pair — if the conditions are independent and consistent.
+The graphical method makes the meaning visible: plot both lines and read the intersection. It is
+approximate unless the intersection lies exactly on grid lines. The substitution method is exact:
+solve one equation for one variable, substitute that expression into the other equation, and solve
+the resulting one-variable equation.
+WO R K E D E X A M P L E 5.3.1
+SOLVING GRAPHICALLY
+PROBLEM
+Solve the system 
+ and 
+ by graphing.
+ANSWER
+5.3
+D E F I N I T I O N
+A system of simultaneous equations is a set of equations that must all be true at the same
+time. A solution of the system is an ordered pair 
+ that satisfies every equation. On a
+graph, each linear equation is a line; a solution is a point where the lines intersect.
+(x, y)
+y = 2x + 1
+y = −x + 4
+Plot 
+: intercept 1, gradient 2.
+1
+y = 2x + 1
+Plot 
+: intercept 4, gradient 
+.
+2
+y = −x + 4
+−1
+The lines intersect at 
+.
+3
+(1, 3)
+Check both equations: 
+ and 
+.
+4
+2(1) + 1 = 3
+−1 + 4 = 3
+(1, 3)
+
+
+===== [source page 99] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+99
+−3
+−2
+−1
+1
+2
+3
+4
+5
+6
+7
+−3
+−2
+−1
+1
+2
+3
+4
+5
+6
+7
+8
+x
+y
+(1, 3)
+(1, 3)
+y = 2x + 1
+y = −x + 4
+Figure 5.3 The graphs of 
+ and 
+. Their intersection 
+ is the only pair that satisfies both equations.
+WO R K E D E X A M P L E 5.3. 2
+SUBSTITUTION WITH A READY EXPRESSION
+PROBLEM
+Solve 
+ and 
+.
+ANSWER
+WO R K E D E X A M P L E 5.3.3
+REARRANGING BEFORE SUBSTITUTION
+PROBLEM
+Solve 
+ and 
+.
+ANSWER
+y = 2x + 1
+y = −x + 4
+(1, 3)
+y = 3x −2
+2x + y = 8
+The first equation already gives  in terms of . Substitute 
+ for  in the second:
+.
+1
+y
+x
+3x −2
+y
+2x + (3x −2) = 8
+Simplify: 
+, so 
+ and 
+.
+2
+5x −2 = 8
+5x = 10
+x = 2
+Substitute 
+ into 
+: 
+.
+3
+x = 2
+y = 3x −2 y = 3(2) −2 = 4
+Check in the second equation: 
+.
+4
+2(2) + 4 = 8
+(2, 4)
+x + 2y = 10
+3x −y = 9
+Rearrange the first equation for : 
+. (Rearranging the second for  would also
+work.)
+1
+x x = 10 −2y
+y
+Substitute into the second: 
+.
+2
+3(10 −2y) −y = 9
+Expand and simplify: 
+, so 
+ and 
+. Thus 
+.
+3
+30 −6y −y = 9
+30 −7y = 9
+−7y = −21
+y = 3
+Then 
+. Check: 
+.
+4
+x = 10 −2(3) = 4
+3(4) −3 = 9
+(4, 3)
+
+
+===== [source page 100] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+100
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 5.3 · GRAPHICAL AND SUBSTITUTION METHODS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Solve graphically: (a) 
+ and 
+   (b) 
+ and 
+. Use a coordinate grid and
+check your answers. 
+F
+2. Solve by substitution: (a) 
+, 
+   (b) 
+, 
+   (c) 
+, 
+. 
+F
+3. Solve: (a) 
+, 
+   (b) 
+, 
+. 
+F
+4. Explain what the intersection of two lines represents in a system of equations? What does it mean if
+the lines are parallel? 
+R
+5. A student solves 
+ and 
+ by writing 
+, then stops with 
+. What is
+the solution of the system? What should the student do next? 
+R
+6. Two adult tickets and three child tickets cost 46 units. One adult ticket and two child tickets cost 27
+units. Write a system, solve it, and state the price of each ticket. 
+P
+7. For each system, choose substitution or graphing and explain your choice: (a) 
+, 
+(b) 
+, 
+. Then solve. 
+P
+8. Write a system of two linear equations whose solution is 
+. Explain how you constructed it. Can
+you write a second system with the same solution? How many systems have that solution? 
+E
+ Elimination and special systems
+CRITERION A · II
+CRITERION C · II
+EQUIVALENCE
+Elimination removes a variable by adding or subtracting equivalent multiples of the
+equations. It is often faster than substitution when both equations are in the form
+.
+C O M M O N E R R O R · S TO P P I N G AT O N E VA R I A B L E
+A solution of a two-variable system is an ordered pair, not a single number. After finding ,
+substitute it to find , then check both original equations. Substituting back into the equation
+you just rearranged is a weak check: it can conceal an error made during the rearrangement.
+Use the other original equation.
+x
+y
+y = x + 1
+y = −x + 5
+y = 2x −3
+y = −x + 3
+y = x + 4 3x + y = 16
+y = 2x −1 x + 3y = 11
+x + y = 7 y = 2x −5
+2x + y = 9 x −y = 3
+3x + 2y = 16 y = x + 3
+y = 2x + 1
+3x + y = 11
+3x + 2x + 1 = 11
+x = 2
+y = 4x −1 2x + y = 11
+x + y = 5 x −y = 1
+(3, −2)
+5.4
+ax + by = c
+K E Y I D E A · E L I M I N AT I O N
+If two equations are true, their sum and difference are also true. Multiply one or both
+equations by a constant so that the coefficients of one variable are opposites, then add to
+eliminate that variable. Alternatively, make the coefficients equal and subtract.
+
+
+===== [source page 101] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+101
+WO R K E D E X A M P L E 5. 4.1
+ADDING TO ELIMINATE
+PROBLEM
+Solve 
+ and 
+.
+ANSWER
+WO R K E D E X A M P L E 5. 4. 2
+SCALING ONE EQUATION
+PROBLEM
+Solve 
+ and 
+.
+ANSWER
+WO R K E D E X A M P L E 5. 4.3
+SCALING BOTH EQUATIONS
+PROBLEM
+Solve 
+ and 
+.
+ANSWER
+PRACTICE 5.4 · ELIMINATION AND SPECIAL SYSTEMS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Solve by elimination: (a) 
+, 
+   (b) 
+, 
+   (c) 
+, 
+.
+F
+2. Solve: (a) 
+, 
+   (b) 
+, 
+. 
+F
+3. Solve: 
+ and 
+ by elimination, then check both equations. 
+F
+3x + 2y = 16
+5x −2y = 16
+The coefficients of  are opposites, so add the equations: 
+.
+1
+y
+(3x + 5x) + (2y −2y) = 16 + 16
+This gives 
+, so 
+.
+2
+8x = 32
+x = 4
+Substitute into the first equation: 
+, so 
+ and 
+.
+3
+3(4) + 2y = 16
+12 + 2y = 16
+y = 2
+Check in the second equation: 
+.
+4
+5(4) −2(2) = 20 −4 = 16
+(4, 2)
+2x + 3y = 13
+x + 2y = 8
+Multiply the second equation by 2: 
+.
+1
+2x + 4y = 16
+Subtract the first equation from this result: 
+, so 
+.
+2
+(2x + 4y) −(2x + 3y) = 16 −13
+y = 3
+Substitute into 
+: 
+, so 
+.
+3
+x + 2y = 8 x + 6 = 8
+x = 2
+Check in the first equation: 
+.
+4
+2(2) + 3(3) = 4 + 9 = 13
+(2, 3)
+2x + 3y = 18
+4x −y = 8
+Multiply the second equation by 3: 
+.
+1
+12x −3y = 24
+Add the first equation to eliminate : 
+, so 
+.
+2
+y 14x = 42
+x = 3
+Substitute into 
+: 
+, so 
+.
+3
+4x −y = 8 12 −y = 8
+y = 4
+Check in the first equation: 
+.
+4
+2(3) + 3(4) = 6 + 12 = 18
+(3, 4)
+ST R AT E GY · H OW M A N Y S O L U T I O N S ?
+Write both equations in the form 
+. If the gradients differ, the lines intersect once and there
+is exactly one solution. If the gradients are equal but the intercepts differ, the lines are parallel and
+there is no solution. If both gradient and intercept agree, the equations describe the same line and
+there are infinitely many solutions. The same conclusions follow algebraically when a variable
+cancels to a false statement (no solution) or a true identity (infinitely many).
+y = mx + c
+x + y = 10 x −y = 4
+2x + y = 11 3x −y = 4
+4x + 3y = 25 2x −3y = −1
+3x + 2y = 16 x + 2y = 8
+5x −2y = 19 3x + 4y = 1
+3x + 2y = 16
+x + 2y = 8
+
+
+===== [source page 102] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+102
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+4. Explain how the graphs of 
+ and 
+ are related. How many solutions does the
+system have? 
+R
+5. Explain why the system 
+, 
+ has no solution. What do the graphs look like? 
+R
+6. Three adult tickets and two child tickets cost 74 units. Two adult and three child tickets cost 66 units.
+Write and solve a system to find each price. 
+P
+7. Solve by a method of your choice and justify the choice: (a) 
+, 
+   (b) 
+,
+. 
+P
+8. Create a system with no solution and a system with infinitely many solutions. Explain, using
+gradients and intercepts, why each has the number of solutions it does. 
+E
+ Systems of inequalities and resource
+allocation
+CRITERION D · I, II, III
+CRITERION C · IV
+MODELS
+Real decisions rarely involve a single equation. Several limits — money, space, time,
+labour — must be satisfied at once. Their solution is not one point but a region of feasible
+possibilities.
+To graph a system, draw the boundary line of each inequality. Use a solid line for  or  and a
+dashed line for  or . Test a point not on the line to decide which side to shade, then keep the
+overlap of all the shaded regions. For integer problems, only lattice points inside the region are
+feasible.
+WO R K E D E X A M P L E 5. 5.1
+A COMMUNITY GARDEN
+PROBLEM
+A community garden can plant  vegetable plots and  herb plots. It has at most 7 plots, 12
+units of water and 12 hours of volunteer labour. Vegetables need 2 water units and 1 labour
+hour per plot; herbs need 1 water unit and 2 labour hours. Write the constraints, graph the
+feasible region, and maximise the food score 
+.
+ANSWER Maximum 
+ at 5 vegetable plots and 2 herb plots.
+2x + y = 6
+4x + 2y = 12
+2x + y = 6 4x + 2y = 10
+y = 2x −3 3x + 2y = 8
+4x + 3y = 18
+2x −3y = 6
+5.5
+D E F I N I T I O N S
+A system of inequalities is a set of inequalities in the same variables. Its feasible region is
+the set of points satisfying all of them. A constraint is a restriction expressed as an inequality
+or equation. An objective function is the quantity to be maximised or minimised, such as
+profit, participants or food produced.
+≤
+≥
+<
+>
+x
+y
+P = 5x + 4y
+Constraints: 
+, 
+, 
+, with 
+ and 
+. For whole plots,  and 
+are integers.
+1
+x + y ≤7 2x + y ≤12 x + 2y ≤12
+x ≥0
+y ≥0
+x
+y
+The boundary lines meet at 
+, 
+, 
+ and 
+, with the origin as a corner. The
+feasible region is the shaded polygon in Figure 5.4.
+2
+(6, 0) (5, 2) (2, 5)
+(0, 6)
+Evaluate 
+ at each vertex: 
+, 
+, 
+, 
+, 
+.
+3
+P = 5x + 4y
+(0, 0) →0 (6, 0) →30 (5, 2) →33 (2, 5) →30 (0, 6) →24
+The maximum is 33 at 
+: 5 vegetable plots and 2 herb plots.
+4
+(5, 2)
+P = 33
+
+
+===== [source page 103] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+103
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+x
+y
+(5, 2)
+(5, 2)
+(2, 5)
+(2, 5)
+(6, 0)
+(0, 6)
+feasible region
+feasible region
+— land: x + y = 7
+— water: 2x + y = 12
+— labour: x + 2y = 12
+Figure 5.4 The feasible region for the garden. Every lattice point inside the polygon is a possible allocation; the vertices are the
+candidates for an optimum of a linear objective.
+WO R K E D E X A M P L E 5. 5. 2
+A DIFFERENT OBJECTIVE, A DIFFERENT CHOICE
+PROBLEM
+Using the same feasible region, maximise 
+. Compare the result with 
+and interpret the difference.
+ANSWER Maximum 
+ at 
+. The optimum depends on the objective, not only on the
+constraints.
+PRACTICE 5.5 · FEASIBLE REGIONS AND OBJECTIVES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Graph 
+, 
+ and 
+. Identify the vertices of the feasible region. 
+F
+2. Graph 
+ and 
+. Test the points 
+, 
+ and 
+ and state whether each is feasible. 
+F
+3. A feasible region has vertices 
+, 
+, 
+ and 
+. Evaluate 
+ at each vertex and state
+the maximum and minimum. 
+F
+Q = 4x + 5y
+P = 5x + 4y
+Evaluate 
+ at the vertices: 
+, 
+, 
+, 
+, 
+.
+1
+Q
+(0, 0) →0 (6, 0) →24 (5, 2) →30 (2, 5) →33 (0, 6) →30
+The maximum is 33 at 
+: 2 vegetable plots and 5 herb plots.
+2
+(2, 5)
+The feasible region is unchanged; only the objective has changed.  values vegetables more,
+so it chooses more vegetable plots; 
+ values herbs more, so it chooses more herb plots.
+3
+P
+Q
+Both allocations use all 7 plots but distribute water and labour differently. A community must
+decide which objective reflects its priorities, not merely which number is larger.
+4
+Q = 33
+(2, 5)
+ST R AT E GY · S O LV I N G A L I N E A R A L LO CAT I O N P R O B L E M
+1. Name the variables and units. 2. Write every constraint, including non-negativity. 3. Graph the
+feasible region and find its vertices. 4. Evaluate the objective at each vertex. 5. Check integer
+conditions and interpret the answer in context. 6. Ask who benefits from the chosen objective and
+what the model ignores.
+x + y ≤6 x ≥0
+y ≥0
+y ≥2x −1
+y < 4
+(2, 3) (0, 0)
+(3, 8)
+(0, 0) (4, 0) (3, 2)
+(0, 3)
+P = 3x + 2y
+
+
+===== [source page 104] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+104
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+4. A club sells  adult tickets and  child tickets. It can sell at most 120 tickets, must sell at least 30 child
+tickets, and cannot sell a negative number of either. Write the constraints and describe the feasible
+region. 
+P
+5. A garden has at most 8 plots and 18 units of water. Vegetables use 3 units per plot and herbs use 1 unit
+per plot. Write the inequalities, graph the region, and list two feasible integer allocations. 
+P
+6. Using the region from Question 3, evaluate 
+ at the vertices. Which vertex is optimal, and
+does the answer change from Question 3? Explain. 
+P
+7. A student shades the side containing 
+ for 
+. Test 
+ and explain the error. What is the
+correct region? 
+R
+8. A community requires 
+ and 
+ but has only 15 plots in total. Show that there is no feasible
+allocation. Propose one change to the constraints that would create a feasible region, and describe the
+trade-off. 
+E
+Application · The water refill station
+CRITERION D · I, II, III, IV
+SYSTEMS
+SUSTAINABILITY
+A community water refill station sells two sizes of container: 5 litres and 12 litres. On Saturday it
+sold 80 refills and dispensed 680 litres in total. A 5-litre refill costs 2 units; a 12-litre refill costs 5
+units.
+1. Define variables for the number of each size sold. Write a system of equations for the
+number of refills and the total volume.
+2. Solve the system by elimination or substitution. Show your working.
+3. Verify your solution in both original equations, then calculate the total revenue collected.
+x
+y
+Q = 6x + 5y
+(0, 0)
+x + y ≥5
+(0, 0)
+x ≥10
+y ≥10
+Investigation · The three weighings
+CRITERION B
+In a balance puzzle, identical circles have mass  grams and identical squares have mass  grams.
+The first two weighings give:
+2 circles + 1 square = 14 g
+1 circle + 2 squares = 13 g
+1. Explore. Make a table of possible whole-number values of  and  that satisfy the first
+weighing. Which pair also satisfies the second? Verify both.
+2. Model. Write the two weighings as equations and solve the system by substitution or
+elimination. Compare the algebraic solution with your table.
+3. Interpret. What does each equation represent geometrically? Sketch both lines and mark the
+solution.
+4. Add information. A third weighing gives 
+. Does this add new information? Explain
+using the first two equations.
+5. Break it. Suppose the third weighing had been 
+. What would that tell you about the
+measurements? Does a solution exist?
+6. Generalise. When does a system of two linear equations have one solution, no solution or
+infinitely many solutions? Give a condition in terms of gradients and intercepts.
+7. Create. Design a system of two equations whose solution is 
+, 
+. Then design a system
+with no solution. Exchange with a partner and explain how you know each answer.
+A balance puzzle is evidence, not proof, about the real masses: the scales have limited precision and the
+objects are assumed identical. State those assumptions in your report.
+c
+s
+c
+s
+3c + 3s = 27
+3c + 3s = 28
+c = 3 s = 2
+
+
+===== [source page 105] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+105
+4. Find the average revenue per litre, to two decimal places. Does the larger container offer
+better value per litre? Explain.
+5. The station raises the price of a 5-litre refill to 3 units but keeps the 12-litre price at 5 units.
+Recalculate the revenue for the same sales. Who is affected most by the change?
+6. The station can dispense at most 700 litres in a day. If demand rises by 10%, can it meet
+demand from the same 80 refills? What if the mix of container sizes changes?
+7. Each 5-litre refill is estimated to replace about three 1.5-litre plastic bottles. Estimate the
+number of bottles avoided on Saturday. State the assumption behind your estimate.
+8. Evaluate the model. What does it ignore about leakage, free refills, container reuse or
+changes in price? How could the station collect better data?
+C R I T E R I O N D F O C U S
+Translate a two-variable situation into a system, solve it exactly, interpret the answer with units, and
+evaluate the assumptions behind a sustainability claim.
+
+
+===== [source page 106] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+106
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Criterion task · Planning a youth centre programme
+CRITERIA A AND D
+KNOWING AND APPLYING
+24 MARKS
+A youth centre plans  art workshops and  music sessions each month. Each art workshop uses 1
+venue slot, 2 tutor hours and 1 equipment unit. Each music session uses 1 venue slot, 1 tutor hour
+and 2 equipment units. The centre has at most 8 venue slots, 16 tutor hours and 14 equipment
+units. The programme aims to maximise a participation score 
+.
+1. Write a system of inequalities for the three constraints, including 
+ and 
+. State what
+each variable and each inequality represents. (5 marks)
+2. Graph the feasible region. Find and label its vertices, and explain why the region is bounded.
+(5 marks)
+3. Test the points 
+ and 
+ against every constraint. Which is feasible? Explain how the test
+supports your graph. (4 marks)
+4. Evaluate the participation score at each vertex. State the optimal integer allocation and justify
+it. (4 marks)
+5. The centre notices that the optimum provides only 2 art workshops, while demand for art is
+high. Discuss whether the mathematical optimum is the fairest programme. Propose one
+change to a constraint or to the objective that would reflect this concern, and explain its effect.
+(4 marks)
+6. If the venue limit increases from 8 to 10 slots, describe how the feasible region changes. Does
+the original optimum remain feasible? Explain. (2 marks)
+PLANNING FRAME
+Represent: define variables, write constraints with units. Graph: draw boundaries, test a point, shade
+the overlap. Verify: test given points. Optimise: evaluate the objective at every vertex. Evaluate:
+compare the optimum with the community's priorities and state assumptions.
+BAND
+DESCRIPTOR
+MARKS
+4
+All constraints correct; accurate feasible region and vertices; tests and
+objective evaluation correct; recommendation justified and fairness
+evaluated thoughtfully.
+19–24
+3
+Most constraints and graph correct; vertices mostly accurate; optimum found;
+some evaluation of fairness or assumptions.
+13–18
+2
+Some correct constraints or a readable graph; limited vertex analysis;
+recommendation weakly justified.
+7–12
+1
+Isolated correct inequalities or calculations; little connection between the
+model and the context.
+1–6
+CRITERIA: A, D (C)
+ATL: SELF-MANAGEMENT
+TIME: 50 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+MAPPED TO:
+ A strands i–ii, D strands i–v and C strands i–iv. The rubric is a course summary, not an official IB descriptor.
+x
+y
+P = 8x + 9y
+x ≥0
+y ≥0
+(4, 4)
+(6, 3)
+
+
+===== [source page 107] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+107
+Chapter summary and review
+KEY IDEAS
+Equivalent equations have the same solution
+set; each operation must be applied to both
+sides.
+Clearing brackets and fractions before
+isolating the variable reduces errors.
+An identity has infinitely many solutions; a
+contradiction has none.
+Multiplying or dividing an inequality by a
+negative number reverses its direction.
+A solution set can be shown on a number
+line or written in interval notation.
+Simultaneous equations can be solved
+graphically, by substitution or by
+elimination.
+Parallel lines give no solution; coincident
+lines give infinitely many.
+A system of inequalities has a feasible
+region; a linear objective is optimised at a
+vertex, subject to integer constraints.
+REVISION CHECKLIST
+VOCABULARY
+linear equation
+An equation of the form 
+.
+solution
+A value that makes an equation true.
+equivalent equations
+Equations with exactly the same solutions.
+identity
+An equation true for every permitted value.
+contradiction
+An equation with no solution.
+inequality
+A statement comparing expressions with , ,  or .
+solution set
+All values satisfying an inequality.
+interval notation
+A compact way to write a set of real numbers.
+system
+A set of equations or inequalities that must hold
+together.
+substitution
+Replacing a variable with an equivalent expression.
+elimination
+Removing a variable by adding or subtracting
+equations.
+feasible region
+The set of points satisfying all constraints.
+constraint
+A restriction on the variables.
+objective function
+The quantity to be maximised or minimised.
+I can solve equations with brackets,
+fractions and variables on both sides.
+I can recognise identities and
+contradictions.
+I can solve and graph linear inequalities,
+including compound inequalities.
+I can solve a system by substitution and
+by elimination, and check the solution.
+I can determine whether a system has
+one, no or infinitely many solutions.
+I can graph a feasible region and evaluate
+an objective at its vertices.
+I can interpret an allocation and discuss
+its fairness and limitations.
+ax + b = c
+< > ≤
+≥
+
+
+===== [source page 108] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+108
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M I X E D P R AC T I C E · C H A P T E R 5
+Connecting the ideas
+FLUENCY Core procedures
+1. Solve 
+. 
+F
+2. Solve 
+. 
+F
+3. Solve 
+ and graph the solution. 
+F
+4. Solve 
+. 
+F
+5. Solve the system 
+, 
+. 
+F
+6. Solve 
+, 
+. 
+F
+7. Solve 
+, 
+. 
+F
+REASONING Justify and connect
+1. Does 
+ solve the system 
+ and 
+? Show both substitutions and explain your
+conclusion. 
+R
+2. A student solves 
+ and writes 
+. Identify the error and give the correct solution. Test
+. 
+R
+3. A system has equations 
+ and 
+. Explain why it has no solution, using both graphs and
+algebra. 
+R
+4. Which method would you choose for 
+ and 
+? Justify your choice, then solve the system.
+R
+APPLICATION Use and evaluate
+1. A feasible region has vertices 
+, 
+, 
+ and 
+. Evaluate 
+ at each vertex and state
+the maximum. 
+P
+2. A community centre has 120 chairs and 30 tables. Each event needs at least 2 tables and at most 120
+guests. Write two constraints involving the number of guests  and tables . 
+P
+3. A shop sells notebooks at 4 units and pens at 2 units. On Monday it sold 35 items and took 100 units.
+Write and solve a system to find the number of each item sold. 
+P
+4. A resource plan maximises total output but leaves one group with fewer sessions than it requested.
+Explain why the mathematical optimum may not be the fairest plan, and propose a constraint that
+would protect the group. 
+E
+5x −3 = 2x + 12
+4(x −1) = 3x + 5
+7 −2x ≥1
+−2 ≤x + 1 < 4
+x + y = 12 x −y = 4
+3x + 2y = 19 x −2y = 1
+2x + 3y = 16 x + y = 7
+(2, 3)
+y = 2x −1
+x + y = 6
+4 −3x < 13
+x < −3
+x = 0
+y = 3x + 1
+y = 3x −4
+x + y = 9
+2x −y = 3
+(0, 0) (5, 0) (3, 3)
+(0, 4)
+P = 4x + 3y
+g
+t
+
+
+===== [source page 109] =====
+PART II · RELATIONSHIPS AND EQUATIONS
+5 · Equations, inequalities and systems
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+109
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Solve multi-step equations and check my
+solutions.
+1 / 2 / 3
+Solve and represent linear inequalities.
+1 / 2 / 3
+Solve simultaneous equations by substitution
+and elimination.
+1 / 2 / 3
+Graph a system of inequalities and identify its
+feasible region.
+1 / 2 / 3
+Evaluate an objective and justify an allocation.
+1 / 2 / 3
+Reflection
+Two feasible allocations can both be mathematically optimal for different objectives.
+Who should choose the objective when a community allocates scarce resources — and
+what evidence would make that choice defensible?

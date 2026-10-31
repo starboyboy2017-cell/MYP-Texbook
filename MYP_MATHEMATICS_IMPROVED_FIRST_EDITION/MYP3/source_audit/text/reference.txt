@@ -1,0 +1,1137 @@
+
+
+===== [source page 269] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+269
+R E F E R E N C E · F O R M U L A B A N K
+Formula bank
+A compact reminder of the relationships used in this course. A formula is a tool, not a substitute for
+reasoning: name the quantities, check the units and ask whether the result is sensible in the context.
+NUMBER AND STRUCTURE
+Rational number
+, with integers 
+ and 
+Terminating decimal
+denominator has only prime factors  and 
+Recurring decimal
+all denominators with another prime factor
+Surd product
+Surd quotient
+Rationalise a denominator
+Absolute value
+ if 
+; 
+ if 
+Distance on a line
+Density
+between any two rationals there is another rational
+Set operations
+POWERS, ROOTS AND SCIENTIFIC NOTATION
+Product law
+Quotient law
+Power of a power
+Product to a power
+Zero and negative
+Rational exponent
+Scientific notation
+, where 
+Order of magnitude
+the nearest power of ten
+Relative error
+ALGEBRA, FUNCTIONS AND GRAPHS
+Linear function
+Gradient from two points
+Direct proportion
+, so 
+Function notation
+, for  in the domain
+Arithmetic sequence
+Difference of squares
+Expand a product
+Parallel lines
+Perpendicular lines
+EQUATIONS, INEQUALITIES AND SYSTEMS
+Solve a linear equation
+Inequality rule
+reverse the sign when multiplying or dividing by a
+negative
+Simultaneous equations
+eliminate one variable, or substitute
+Graphical solution
+the intersection point satisfies both equations
+No solution
+parallel lines with different intercepts
+Infinitely many
+the equations describe the same line
+TRANSFORMATIONS, CONGRUENCE AND SYMMETRY
+Translation
+Reflection in the -axis
+Reflection in the -axis
+Rotation 
+ about 
+Rotation 
+ anticlockwise
+Enlargement
+scale factor , centre 
+: distances from 
+ multiply by
+Congruence tests
+SSS, SAS, ASA, RHS
+Tessellation
+angles meeting at each point sum to 
+SIMILARITY, PROOF AND TRIGONOMETRY
+Similar figures
+equal angles; corresponding lengths in ratio 
+Scale factor effects
+lengths 
+, areas 
+, volumes 
+Similarity tests
+AA, SSS (ratios), SAS (included angle)
+Pythagoras
+,  the hypotenuse
+Sine
+Cosine
+Tangent
+Exact values
+ from the standard triangles
+SOLIDS AND MEASUREMENT
+Prism volume
+, 
+ area of cross-section
+Cylinder
+Pyramid and cone
+Sphere
+Cone surface area
+, slant height 
+Capacity
+Density
+Euler’s formula
+ for a convex polyhedron
+DATA AND BIVARIATE RELATIONSHIPS
+Mean
+Range
+largest value minus smallest value
+Line of best fit
+, chosen to keep residuals small
+Residual
+observed value minus predicted value
+Correlation coefficient
+; sign gives direction
+Coefficient of determination
+, the fraction of variation explained
+Interpolation
+predicting inside the data range
+Extrapolation
+predicting outside the data range: unreliable
+​b
+a
+a, b
+b =0
+2
+5
+​
+​=
+a
+b
+​ (a, b ≥
+ab
+0)
+​ =
+​b
+​a
+​ (a ≥
+​b
+a
+0,  b > 0)
+​ =
+​a
+1
+​
+a
+​a
+∣x∣= x
+x ≥0 ∣x∣= −x
+x < 0
+∣b −a∣
+n(A ∪B) = n(A) + n(B) −n(A ∩B)
+a
+×
+m
+a =
+n
+am+n
+a
+÷
+m
+a =
+n
+am−n
+(a ) =
+m n
+amn
+(ab) =
+n
+a b
+n n
+a =
+0
+1,
+a
+=
+−n
+​ (a =
+an1
+0)
+a
+=
+1/n
+​,
+a
+=
+n a
+m/n
+​
+n am
+a × 10n
+1 ≤a < 10
+​ ×
+true value
+error
+100%
+y = mx + c
+m =
+​
+x
+​−x
+​
+2
+1
+y
+​−y
+​
+2
+1
+y = kx
+​ =
+x
+y
+k
+x ↦f(x)
+x
+u
+​ =
+n
+u
+​ +
+1
+(n −1)d
+a −
+2
+b =
+2
+(a + b)(a −b)
+(x + p)(x + q) = x +
+2
+(p + q)x + pq
+m
+​ =
+1
+m
+​2
+m
+​m
+​ =
+1
+2
+−1
+ax + b = c ⇒x =
+​ (a =
+a
+c−b
+0)
+(x, y) ↦(x + a,  y + b)
+x
+(x, y) ↦(x,  −y)
+y
+(x, y) ↦(−x,  y)
+180∘
+O
+(x, y) ↦(−x,  −y)
+90∘
+(x, y) ↦(−y,  x)
+k
+O
+O
+k
+360∘
+k
+×k
+×k2
+×k3
+a +
+2
+b =
+2
+c2 c
+sin θ =
+​
+hypotenuse
+opposite
+cos θ =
+​
+hypotenuse
+adjacent
+tan θ =
+​
+adjacent
+opposite
+30 , 45 , 60
+∘
+∘
+∘
+V = Bh B
+V = πr h,
+SA =
+2
+2πr +
+2
+2πrh
+V =
+​Bh
+3
+1
+V =
+​πr ,
+SA =
+3
+4
+3
+4πr2
+SA = πr +
+2
+πrl
+l
+1 cm =
+3
+1 mL,
+1000 cm =
+3
+1 L
+ρ =
+​
+V
+m
+F + V = E + 2
+=
+xˉ
+​
+n
+x
+∑
+y = mx + c
+−1 ≤r ≤1
+r2
+
+
+===== [source page 270] =====
+MYP MATHEMATICS 3
+270
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PROBABILITY, SAMPLING AND RISK
+Probability
+, equally likely
+Range and complement
+Addition rule
+Independent events
+Expected frequency
+Relative frequency
+Relative risk
+risk after  risk before
+Sensitivity
+Specificity
+Positive predictive value
+Notation at a glance
+, , 
+is equal to, is not equal to, is
+approximately equal to
+, , , 
+is less than, greater than, at
+most, at least
+the absolute value (modulus) of
+square root, cube root of 
+powers, reciprocals and roots
+scientific notation
+the value of the function  at 
+the th term of a sequence
+is an element of, is not an
+element of, is a subset of
+empty set, universal set,
+number of elements in 
+union, intersection,
+complement
+implies, therefore
+is congruent to, is similar to
+is parallel to, is perpendicular to
+the angle at vertex 
+a labelled angle, often in
+trigonometry
+trigonometric ratios of 
+pi, about 3.14159
+the mean, the sum of the values
+correlation coefficient,
+coefficient of determination
+the probability of event 
+the probability of  given that 
+has occurred
+Units matter. Write the unit with every measurement and read it as part of the answer. A number without its unit is often
+incomplete, and a probability without its context can mislead.
+P(A) =
+​
+total outcomes
+number of outcomes in A
+0 ≤P(A) ≤1,
+P(A) + P(A ) =
+′
+1
+P(A ∪B) = P(A) + P(B) −P(A ∩B)
+P(A ∩B) = P(A) × P(B)
+n × p
+​
+number of trials
+times the outcome occurred
+÷
+​
+all with the condition
+true positives
+​
+all without the condition
+true negatives
+​
+all positive results
+true positives
+= =≈
+< > ≤≥
+∣x∣
+x
+​, 
+​
+a
+3 a
+a
+a ,  a
+,  a
+n
+−n
+1/n
+a × 10n
+f(x)
+f
+x
+u
+​n
+n
+∈,  ∈/,  ⊆
+∅,  ξ,  n(A)
+A
+A ∪B,  A ∩B,  A′
+⇒,  ∴
+≅,  ∼
+∥,  ⊥
+∠ABC
+B
+θ
+sin θ,  cos θ,  tan θ
+θ
+π
+, 
+x
+xˉ ∑
+r,  r2
+P(A)
+A
+P(A ∣B)
+A
+B
+
+
+===== [source page 271] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+271
+R E F E R E N C E · VO C A B U L A R Y
+Glossary
+Working definitions of the terms used in this course. Where a term has a precise technical meaning,
+the definition states the condition the term depends on.
+absolute risk — a risk stated as a
+number out of a group, such as 3 in
+1,000.
+absolute value — the distance of a
+number from zero; written 
+, always
+non-negative.
+addition rule —
+for two events.
+angle of depression — the angle
+measured downwards from the
+horizontal to a line of sight.
+angle of elevation — the angle
+measured upwards from the
+horizontal to a line of sight.
+arithmetic sequence — a sequence
+with a constant difference between
+consecutive terms.
+base rate — the prevalence of a
+condition in the group tested; it
+shapes what a positive result means.
+bias — a systematic tendency for a
+sample or measurement to differ from
+the population in one direction.
+bivariate data — data recorded as
+pairs of values, so that a relationship
+between two variables can be
+examined.
+capacity — the amount a container
+can hold, measured in litres or
+millilitres.
+causation — a relationship in which a
+change in one variable produces a
+change in another; it is not
+established by correlation alone.
+census — a survey that measures
+every member of a population.
+coefficient of determination — 
+,
+the proportion of the variation in one
+variable explained by the linear
+model.
+complement (probability) — the
+event that  does not occur, written
+; 
+.
+complement (sets) — the elements of
+the universal set that are not in the
+given set.
+composite solid — a solid made by
+joining two or more simpler solids.
+compound event — an event formed
+by combining two or more simple
+events.
+cone — a solid with a circular base
+and a single vertex; its volume is
+.
+confounding variable — a variable
+related to both others in a study,
+which can create a misleading
+association.
+congruent — identical in shape and
+size; corresponding lengths and
+angles are equal.
+conjecture — a statement believed to
+be true on the evidence so far but not
+yet proved.
+continuous data — data that can take
+any value in an interval, such as a
+length or a time.
+convenience sample — a sample
+chosen because it is easy to reach; not
+random and usually biased.
+converse — the statement formed by
+swapping the condition and the
+conclusion.
+correlation — the strength and
+direction of a linear association
+between two variables.
+correlation coefficient — the
+number , between 
+ and ,
+measuring the fit of a linear
+relationship.
+corresponding — matching in
+position or role between two figures
+or two sets of data.
+counterexample — a single case that
+shows a general statement is false.
+cross-section — the shape seen when
+a solid is cut parallel to its end.
+cube root — the number that,
+multiplied by itself three times, gives
+the original number.
+dependent events — events whose
+probabilities change when one of
+them occurs.
+direct proportion — a relationship of
+the form 
+, so the ratio 
+ is
+constant.
+domain — the set of values that may
+be used as the input of a function.
+ecological fallacy — drawing
+conclusions about individuals from
+grouped data.
+enlargement — a transformation that
+multiplies every distance from a
+centre by the same scale factor.
+equally likely — outcomes with the
+same probability, justified by the
+physical setup rather than by
+counting.
+Euler’s formula — for a convex
+polyhedron, faces  vertices  edges
+.
+event — a set of outcomes from a
+sample space.
+expected frequency — the number of
+times an outcome is expected in 
+trials: 
+.
+explanatory variable — the variable
+plotted on the horizontal axis,
+thought to explain the other.
+extrapolation — using a model to
+predict outside the range of the
+observed data; it is unreliable.
+false negative — a negative test result
+for someone who has the condition.
+false positive — a positive test result
+for someone who does not have the
+condition.
+fair — describing a die, coin or
+spinner whose outcomes are equally
+likely.
+function — a rule that assigns exactly
+one output to each input in the
+domain.
+gambler’s fallacy — the mistaken
+belief that past independent trials
+change the probability of the next
+one.
+gradient — the steepness of a line: the
+change in  divided by the change in
+.
+hypotenuse — the side opposite the
+right angle in a right-angled triangle.
+independent events — events for
+which 
+.
+index laws — the rules for
+multiplying and dividing powers.
+interpolation — using a model to
+predict inside the range of the
+observed data.
+intersection — 
+, the outcomes
+belonging to both  and 
+.
+invariant — unchanged by a
+transformation, such as a length
+under a translation.
+irrational number — a number that
+cannot be written as a fraction of two
+integers.
+law of large numbers — informally,
+relative frequencies settle near
+theoretical probabilities as the
+number of trials grows.
+line of best fit — the straight line that
+best describes a scatter plot of
+bivariate data.
+line symmetry — a shape has line
+symmetry if a reflection in a line
+maps it onto itself.
+linear equation — an equation in
+which each variable appears to the
+first power only.
+linear relationship — a relationship
+whose graph is a straight line.
+magnitude — the size of a quantity,
+often expressed as a power of ten.
+mean — the sum of a set of values
+divided by how many there are.
+median — the middle value when the
+data are arranged in order.
+modal — describing the most
+frequent value or category in a data
+set.
+mutually exclusive — describing
+events that cannot occur together, so
+.
+natural frequency — a risk or
+probability expressed as counts, such
+as “45 in 1,000”.
+∣x∣
+P(A ∪B) = P(A) + P(B) −P(A ∩B)
+r2
+A
+A′ P(A ) =
+′
+1 −P(A)
+​πr h
+3
+1
+2
+r
+−1
+1
+y = kx
+y : x
++
+=
++2
+n
+n × p
+y
+x
+P(A ∩B) = P(A) × P(B)
+A ∩B
+A
+B
+P(A ∩B) = 0
+
+
+===== [source page 272] =====
+MYP MATHEMATICS 3
+272
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+net — a flat pattern that folds to make
+a solid.
+non-response — failure of selected
+individuals to reply to a survey, a
+common source of bias.
+order of magnitude — the nearest
+power of ten to a quantity.
+outcome — one possible result of a
+probability experiment.
+outlier — a value that lies far from the
+general pattern of the data.
+percentage point — a unit for the
+difference between two percentages.
+polyhedron — a solid whose faces are
+flat polygons.
+population — the whole group about
+which information is wanted.
+positive predictive value — the
+proportion of positive results that are
+true positives.
+precision — how close repeated
+measurements are to each other.
+prevalence — the proportion of a
+population that has a condition at a
+given time.
+prism — a solid with a constant cross-
+section along its length.
+probability — a number between 0
+and 1 measuring how likely an event
+is.
+proof — a chain of reasoning that
+establishes a statement beyond doubt
+from agreed starting points.
+proof by contradiction — a proof
+that assumes the opposite of the claim
+and shows it leads to an impossibility.
+range (function) — the set of values
+that a function produces as outputs.
+range (statistics) — the largest value
+in a data set minus the smallest.
+random sample — a sample in which
+every member of the population has a
+known, non-zero chance of selection.
+rational number — a number that
+can be written as a fraction of two
+integers.
+reflection — a transformation that
+flips a shape across a line without
+changing lengths or angles.
+regression to the mean — the
+tendency of extreme measurements
+to be followed by less extreme ones.
+relative frequency — the number of
+times an outcome occurred divided
+by the number of trials.
+relative risk — one risk divided by
+another, used to compare them as a
+ratio.
+representative — describing a
+sample with roughly the same
+composition as the population.
+residual — the observed value minus
+the value predicted by a model.
+response variable — the variable
+plotted on the vertical axis, measured
+in response to the other.
+risk — the probability of an unwanted
+outcome.
+rotation — a transformation that
+turns a shape about a fixed point by a
+given angle.
+rotational symmetry — a shape has
+rotational symmetry if some rotation
+maps it onto itself.
+sample — the part of a population
+that is actually observed.
+sample space — the set of all possible
+outcomes of a probability
+experiment.
+sampling frame — the list from
+which a sample is drawn.
+sampling variation — the differences
+between estimates from different
+random samples of the same
+population.
+scatter plot — a graph plotting paired
+bivariate data as points.
+scientific notation — a number
+written as 
+ with 
+.
+self-selection — bias caused by
+individuals choosing whether to take
+part.
+sensitivity — the proportion of
+people with a condition that a test
+correctly identifies.
+significant figures — the digits of a
+number that carry meaning about its
+precision.
+similar — having the same shape but
+not necessarily the same size.
+simulation — a model that imitates a
+probability experiment, often using
+random digits.
+simultaneous equations — two or
+more equations that must be satisfied
+at the same time.
+solid — a three-dimensional shape
+with faces, edges and vertices.
+specificity — the proportion of people
+without a condition that a test
+correctly clears.
+sphere — the set of points at a fixed
+distance from a centre; its volume is
+.
+standard form — another name for
+scientific notation, 
+.
+stratified sample — a sample that
+selects from each subgroup in
+proportion to its size.
+subset — a set whose elements all
+belong to a larger set.
+surd — an expression containing a
+root of a number that is not a perfect
+power, such as 
+.
+surface area — the total area of all the
+faces of a solid.
+systematic sample — a sample
+formed by taking every th member
+of a frame after a random start.
+tangent — the trigonometric ratio
+opposite divided by adjacent; also a
+line touching a curve at one point.
+tessellation — a tiling of the plane by
+shapes with no gaps or overlaps.
+theorem — a mathematical statement
+that has been proved.
+transformation — a change in the
+position, size or orientation of a
+shape.
+translation — a transformation that
+slides every point the same distance
+in the same direction.
+tree diagram — a diagram showing
+the stages of a multi-stage experiment
+and their probabilities.
+trial — one repetition of a probability
+experiment.
+two-way table — a table recording
+counts for two categorical variables at
+once.
+union — 
+, the outcomes
+belonging to  or 
+ or both.
+universal set — the set  containing
+every outcome or element under
+discussion, shown as a rectangle.
+validity — the extent to which a
+method measures what it claims to
+measure.
+Venn diagram — a diagram using
+overlapping regions to show sets and
+their relationships.
+vertex — a corner of a solid or
+polygon where edges meet.
+volume — the space occupied by a
+solid, measured in cubic units.
+voluntary-response sample — a
+sample made of people who choose to
+reply; strongly self-selected.
+with replacement — describing a
+draw in which the item is returned
+before the next draw, keeping
+probabilities constant.
+without replacement — describing a
+draw in which the item is not
+returned, changing later
+probabilities.
+a × 10n
+1 ≤a < 10
+​πr
+3
+4
+3
+a × 10n
+​2
+k
+A ∪B
+A
+B
+ξ
+
+
+===== [source page 273] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+273
+R E F E R E N C E · I N D E X
+Index
+Page numbers point to the first substantial treatment of each term. Entries that share a page are listed
+together, separated by a semicolon.
+A
+absolute risk 222
+absolute value 26
+addition rule 212
+algebraic expression 56
+angle of elevation 146
+arithmetic sequence 63
+average, see mean 184
+B
+balance method 94
+base rate 222
+bias 219
+bivariate data 184
+C
+capacity 167
+causation 192
+census 219
+coefficient of determination 187
+complement of an event 209
+complement of a set 30
+composite solid 167
+compound event 212
+cone 167
+confounding variable 192
+congruence 122
+congruent 122
+conjecture 30
+convenience sample 219
+converse 141
+correlation 184
+correlation coefficient 187
+corresponding angles 137
+counterexample 30
+cross-section 158
+cube root 41
+cylinder 165
+D
+density 171
+dependent events 212
+direct proportion 81
+domain 57
+E
+ecological fallacy 195
+enlargement 137
+equally likely 209
+Euler’s formula 158
+event 209
+expected frequency 216
+explanatory variable 184
+exponent 39
+extrapolation 190
+F
+fair 209
+false negative 222
+false positive 222
+function 57
+function notation 57
+G
+gambler’s fallacy 216
+gradient 76
+graphical solution 98
+H
+hypotenuse 141
+I
+independent events 212
+index laws 39
+interpolation 190
+intersection 30
+interval notation 26
+invariant 116
+irrational number 24
+L
+law of large numbers 216
+line of best fit 190
+line symmetry 125
+linear equation 94
+linear relationship 74
+M
+magnitude 43
+mean, of paired data 184
+multiplication rule 212
+mutually exclusive 212
+N
+natural frequency 222
+negative exponent 39
+net of a solid 158
+non-response 219
+O
+order of magnitude 45
+outcome 209
+outlier 192
+P
+percentage point 195
+polyhedron 158
+population 219
+positive predictive value 222
+precision 46
+prevalence 222
+prism 158
+probability 209
+proof 122
+proof by contradiction 30
+pyramid 163
+Pythagoras’ theorem 141
+R
+random sample 219
+range of a function 57
+rational number 22
+reflection 116
+regression to the mean 195
+relative frequency 216
+relative risk 222
+representative 219
+residual 190
+response variable 184
+risk 222
+rotation 119
+rotational symmetry 125
+S
+sample 219
+sample space 209
+sampling frame 219
+sampling variation 219
+scatter plot 184
+scientific notation 43
+self-selection 219
+sensitivity 222
+set notation 30
+significant figures 46
+similar figures 137
+simulation 216
+simultaneous equations 98
+specificity 222
+sphere 167
+standard form 43
+stratified sample 219
+subset 30
+surd 24
+surface area 161
+systematic sample 219
+T
+tangent ratio 144
+tessellation 125
+theorem 141
+transformation 114
+translation 114
+tree diagram 212
+trial 209
+two-way table 222
+U–Z
+union 212
+universal set 30
+Venn diagram 212
+vertex 158
+volume 165
+voluntary-response sample 219
+with replacement 212
+without replacement 212
+
+
+===== [source page 274] =====
+MYP MATHEMATICS 3
+274
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+R E F E R E N C E · S O U R C E S A N D C R E D I T S
+References and acknowledgements
+This coursebook is an original work. Public framework material was consulted to align the
+curriculum architecture; no third-party text, exercise, illustration, layout or page design has been
+reproduced.
+FRAMEWORK AND CURRICULUM
+International Baccalaureate Organization. Middle
+Years Programme: Mathematics subject brief. IB
+Organization. Public information on aims, objectives
+and assessment criteria.
+International Baccalaureate Organization. MYP: From
+principles into practice. IB Organization. Public
+guidance on the inquiry cycle, key and related
+concepts, global contexts and approaches to learning.
+International Baccalaureate Organization.
+Mathematics guide: Middle Years Programme. IB
+Organization. Public framework structure consulted
+for concept strands and criterion language; all
+wording here is independently written.
+SCOPE REFERENCE
+The publicly listed contents of Oxford University Press’s
+MYP Mathematics 3 were consulted only to check the
+typical Year 3 scope and sequence. No proprietary
+wording, exercise, illustration, layout, page design or
+answer text was copied or adapted.
+PEDAGOGY AND ASSESSMENT
+Wiggins, G., and McTighe, J. Understanding by
+Design. 2nd ed. ASCD, 2005.
+Black, P., and Wiliam, D. Inside the Black Box. King’s
+College London, 1998.
+Boaler, J. Mathematical Mindsets. Jossey-Bass, 2016.
+National Council of Teachers of Mathematics.
+Principles to Actions. NCTM, 2014.
+Gigerenzer, G. Risk Savvy: How to Make Good
+Decisions. Penguin, 2014. Consulted for the natural-
+frequency approach to risk.
+PRODUCTION CREDITS
+Typefaces: Fraunces (Phaedra Charles and Flavia
+Zimbardi), Source Serif 4 (Frank Grießhammer)
+and Inter (Rasmus Andersson), used under the
+SIL Open Font License.
+Mathematical typesetting: KaTeX, originated by
+Emily Eisenberg and maintained by contributors
+including Khan Academy.
+Print layout: Paged.js, an open-source pagination
+project by Cabbage Tree Labs and contributors.
+All figures, diagrams and cover art were created
+for this book with original vector drawing code.
+No photographs or licensed images are used.
+AUTHOR
+SADIKOU Moukoddim
+HEAD OF MATHEMATICS DEPARTMENT |
+MATHEMATICS TEACHER | CATEGORY 1
+INDEPENDENCE AND ORIGINALITY
+This is an independent educational publication. It is
+not published, endorsed, sponsored or approved by
+the International Baccalaureate Organization,
+Oxford University Press or any examination board or
+publisher. “IB” and “MYP” describe only the
+curriculum framework to which the material is
+mapped.
+Every explanation, worked example, exercise,
+investigation, diagram, table, answer and page
+design was produced for this project. The author is
+responsible for all content and for the accuracy of
+the answer key.
+Edition and printing. First edition, original
+digital edition prepared 2026. No ISBN is
+assigned to this independent edition. Feedback
+on accuracy is welcome through the institution
+that supplied this copy.

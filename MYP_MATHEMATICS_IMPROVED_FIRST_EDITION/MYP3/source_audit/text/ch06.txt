@@ -1,0 +1,2385 @@
+
+
+===== [source page 110] =====
+P A R T I I I · R E A S O N I N G A B O U T S P A C E
+Geometry, proof
+and space
+Geometry is where mathematics learns to argue. A
+transformation gives a precise meaning to “same shape
+and size”; similarity gives a precise meaning to “same
+shape, different size”; trigonometry turns those ratios
+into measurement. The part closes by extending
+measurement into three dimensions, where area and
+volume scale at different rates.
+III
+06
+Transformations, congruence and symmetry
+07
+Similarity, proof and trigonometry
+08
+Three-dimensional solids and measurement
+
+
+===== [source page 111] =====
+PA R T I I I · G E O M E T R Y , P R O O F A N D S PA C E
+M Y P Y E A R 3
+C H A P T E R 0 6
+6
+G E O M E T R Y , P R O O F A N D S PA C E
+Transformations,
+congruence and
+symmetry
+A shape can slide, flip or turn and stay the same shape
+and size. These movements generate the symmetry of
+tile patterns and make congruence a question that
+reasoning can settle, not appearance.
+KEY CONCEPT · FORM
+RELATED · SPACE
+RELATED · JUSTIFICATION
+CONTEXT · PERSONAL AND CULTURAL EXPRESSION
+I N Q U I R Y
+How much information do you need before you can be certain that two
+shapes are identical?
+AT L · T H I N K I N G T H R O U G H J U S T I F I CAT I O N
+A drawing can suggest that two shapes are congruent; it cannot prove it. In this chapter, separate
+demonstration from deduction. Describe each transformation precisely — centre, angle, direction,
+mirror line — so that a reader could reproduce it without seeing your diagram. When you claim
+congruence, name the equal parts that are given and the criterion they satisfy. When a claim fails,
+look for the smallest counterexample: one is enough to refute a rule.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 112] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+112
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 6 · A P P R OX . 1 5 H O U R S
+AT L F O C U S · T H I N K I N G
+KEY AND RELATED CONCEPTS
+Form. A shape's form is fixed by its sides, angles
+and proportions. Transformations show what is
+preserved when a figure moves; congruence
+criteria state which measurements fix a triangle
+completely.
+Space. Position and orientation in the plane.
+Coordinates make transformations calculable,
+and symmetry describes an object that maps
+onto itself.
+Justification. Congruence criteria turn measured
+facts into deductions; a proof records each step
+so that another person can check it.
+GLOBAL CONTEXT AND EXPLORATION
+Personal and cultural expression.
+Exploration: how designers and artisans use
+transformations, symmetry and tessellation
+to build pattern, and how mathematical
+structure limits what repeated tiles can
+make.
+A woven band, a tiled courtyard and a
+printed logo can all be described by the
+same three moves: slide, flip, turn.
+Mathematics does not explain why a pattern
+moves us, but it explains which patterns
+continue without gaps and how a repetition
+can be specified precisely enough to
+reproduce.
+FACTUAL
+What are translations,
+reflections and rotations?
+What does congruence
+mean? What are the SSS, SAS,
+ASA, AAS and RHS criteria?
+How do you find lines and
+orders of symmetry?
+CONCEPTUAL
+Why do rigid
+transformations preserve
+congruence while
+enlargement does not? How
+can three measurements
+determine a triangle with
+six? Why must a regular
+polygon's interior angle
+divide 
+ for it to tessellate
+alone?
+DEBATABLE
+Is a careful fold sufficient
+evidence of congruence, or is
+a deductive proof always
+required? How should a
+designer credit a pattern
+tradition that inspires a new
+work?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Identify and describe transformations; apply congruence criteria;
+calculate interior angles of regular polygons.
+B · Investigating patterns
+i, ii, iii
+Investigate which regular polygons tessellate, tabulate interior
+angles and generalise the condition for a tiling.
+C · Communicating
+i, ii, iii, iv
+Describe transformations precisely with coordinates and vectors;
+justify congruence in a logical chain; use correct notation and
+correspondence.
+D · Applying mathematics
+i, ii, iii, iv, v
+Apply transformations and symmetry to a design brief; cost
+materials; evaluate cultural credit and model limitations.
+S TAT E M E N T O F I N Q U I R Y
+Transformations that preserve distance and angle produce
+congruent figures; congruence criteria justify identity from limited
+measurements, while symmetry and tessellation generate designed
+pattern.
+360∘
+
+
+===== [source page 113] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+113
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Plot 
+, 
+ and 
+. State the quadrant or axis on which each point lies.
+2. Which point is 3 units right and 2 units down from 
+?
+3. Solve 
+.
+4. State the interior angle sum of a triangle and of a quadrilateral.
+5. Calculate 
+ and 
+.
+6. A square has side length 4 cm. Find its perimeter and its area.
+Answers are in the Chapter 6 answer section. If more than two are incorrect, review coordinates, angle sums and the
+properties of triangles and quadrilaterals before continuing.
+BEFORE YEAR 3
+Coordinates in four quadrants;
+plotting and reading points; angle
+facts for straight lines, triangles and
+quadrilaterals; properties of
+triangles and quadrilaterals; naming
+polygons.
+YEAR 3 · THIS CHAPTER
+Isometries; image coordinates;
+congruence criteria and proof; line
+and rotational symmetry; regular
+tessellations.
+LATER
+Enlargement and similarity;
+trigonometric ratios; vectors and
+matrices as transformations; formal
+congruence proofs; symmetry
+groups and frieze patterns.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Tilework, textiles
+and logos repeat
+motifs by sliding,
+flipping and
+turning.
+2
+QUESTION
+What is the
+smallest amount
+of information
+that fixes a shape
+completely?
+3
+CONCEPT
+Isometry,
+congruence
+criteria,
+symmetry and
+tessellation.
+4
+INVESTIGATION
+Test which
+regular polygons
+close exactly
+around a point,
+and prove the
+pattern.
+5
+COMMUNICATION
+Write congruence
+proofs in
+corresponding
+order so that a
+reader can follow
+each step.
+6
+REFLECTION
+When is “it looks
+identical”
+acceptable, and
+when does
+certainty require
+a proof?
+Understand what an isometry preserves and
+why its image is congruent to the original.
+Know how to describe and perform
+translations, reflections and rotations.
+Be able to find image coordinates using
+vectors, mirror lines and the rules for rotations
+about the origin.
+Be able to justify congruence using SSS, SAS,
+ASA, AAS and RHS, and recognise when
+information is insufficient.
+Be able to analyse the symmetry of a shape and
+explain why only certain regular polygons
+tessellate.
+Be able to construct, cost and critique a
+symmetry-based design.
+I can describe a translation with a column
+vector and calculate image coordinates.
+I can reflect a shape in a given line and state
+which points are invariant.
+I can rotate a shape about a point by 
+,
+ or 
+ and give the image coordinates.
+90∘
+180∘
+270∘
+I can decide whether two triangles are
+congruent and justify the decision with a
+named criterion.
+I can find the order and angle of rotational
+symmetry and the number of lines of
+symmetry of a shape.
+I can explain why a regular pentagon does
+not tessellate while a regular hexagon does.
+(2, 1) (−3, 4)
+(0, −2)
+(1, 4)
+2x + 3 = 11
+360 ÷ 6
+360 ÷ 5
+
+
+===== [source page 114] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+114
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Moving shapes without changing them
+CRITERION A · I
+CRITERION C · I
+SPACE
+A transformation is a rule that moves every point of a shape. Some transformations
+stretch a figure; the three in this chapter do not. They change position or orientation while
+leaving every distance and every angle exactly as it was.
+Under a translation by 
+, a point with coordinates 
+ has image 
+. The whole
+shape moves as one rigid piece: every side keeps its length and direction, every angle keeps its size,
+and the order of the vertices around the shape is unchanged. A translation therefore produces a
+congruent image, but in a new position.
+−1
+1
+2
+3
+4
+5
+6
+7
+8
+−3
+−2
+−1
+1
+2
+3
+4
+5
+x
+y
+translate 4 right, 2 down
+Figure 6.1 The translation 
+. Each arrow has the same length and direction; the image triangle is dashed and congruent to the
+original.
+6.1
+D E F I N I T I O N S
+A transformation maps each point of a shape, the object (or pre-image), to a new point called
+its image. A transformation that preserves every distance and every angle is an isometry, or
+rigid transformation. A translation slides every point of a shape through the same distance
+in the same direction. It is specified by a column vector
+:  units right (negative means
+left) and  units up (negative means down). The image of a point  is written 
+.
+​
+(p
+q) p
+q
+A
+A′
+​
+(p
+q)
+(x, y)
+(x + p, y + q)
+​
+( 4
+−2)
+
+
+===== [source page 115] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+115
+WO R K E D E X A M P L E 6.1 .1
+TRANSLATING A TRIANGLE
+PROBLEM
+Triangle 
+ has vertices 
+, 
+ and 
+. Find the image of the triangle under the
+translation 
+ and describe the result.
+ANSWER
+, 
+, 
+. The image is congruent to 
+, with the same
+orientation.
+WO R K E D E X A M P L E 6.1 . 2
+FINDING THE VECTOR FROM A POINT AND ITS IMAGE
+PROBLEM
+A translation maps 
+ to 
+. Find the column vector, describe the translation in
+words, and find the image of 
+.
+ANSWER Vector 
+; 
+.
+WO R K E D E X A M P L E 6.1 .3
+TWO TRANSLATIONS IN SUCCESSION
+PROBLEM
+A shape is translated by 
+ and then by 
+. Find the single translation
+equivalent to the two moves. What is the reverse of 
+?
+ANSWER Combined translation 
+; reverse of 
+ is 
+.
+ABC
+A(1, 1) B(3, 1)
+C(2, 3)
+​
+( 4
+−2)
+Add 4 to each -coordinate and subtract 2 from each -coordinate: 
+.
+1
+x
+y
+A (1 +
+′
+4, 1 −2) = (5, −1)
+Similarly 
+ and 
+.
+2
+B (3 +
+′
+4, 1 −2) = (7, −1)
+C (2 +
+′
+4, 3 −2) = (6, 1)
+Check that the shape has not changed: 
+ and 
+; the displacement from 
+ to 
+ is
+, and the displacement from 
+ to 
+ is also 
+.
+3
+AB = 2
+A B =
+′
+′
+2
+B
+C
+(−1, 2)
+B′
+C′
+(−1, 2)
+The vector from every vertex to its image is the same, 
+, so the triangle has slid 4 units
+right and 2 units down without turning.
+4
+​
+( 4
+−2)
+A (5, −1)
+′
+B (7, −1)
+′
+C (6, 1)
+′
+ABC
+P(−3, 2)
+P (2, 5)
+′
+Q(1, −4)
+The vector is the image coordinates minus the object coordinates: 
+.
+1
+​
+=
+(2 −(−3)
+5 −2 )
+​
+(5
+3)
+In words: 5 units right and 3 units up.
+2
+Apply the same vector to 
+: 
+.
+3
+Q Q (1 +
+′
+5, −4 + 3) = (6, −1)
+Check by subtraction: 
+, the same vector.
+4
+Q −
+′
+Q = (6 −1, −1 −(−4)) = (5, 3)
+​
+(5
+3) Q (6, −1)
+′
+T
+​ =
+1
+​
+( 3
+−1)
+T
+​ =
+2
+​
+(−5
+4 )
+T
+​1
+Apply both vectors to a general point:
+.
+1
+(x, y) →(x + 3, y −1) →(x + 3 −5, y −1 + 4) = (x −2, y + 3)
+The single equivalent translation is 
+.
+2
+​
+(−2
+3 )
+Reversing the order gives the same result, because adding the components in either order
+gives the same total: 
+ and 
+. Translations commute.
+3
+3 + (−5) = −5 + 3 = −2
+−1 + 4 = 4 −1 = 3
+The reverse of 
+ sends every image back to its object, so it is 
+.
+4
+T
+​1
+​
+(−3
+1 )
+​
+(−2
+3 )
+T
+​1
+​
+(−3
+1 )
+
+
+===== [source page 116] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+116
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 6.1 · TRANSLATIONS AND VECTORS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Find the image of each point under the translation 
+: 
+, 
+, 
+, 
+. 
+F
+2. Triangle 
+ has vertices 
+, 
+ and 
+. It is translated by 
+. Find 
+, 
+ and 
+, and
+describe the translation in words. 
+F
+3. A point 
+ maps to 
+. Find the column vector and the image of 
+ under the same
+translation. 
+F
+4. A square has vertices 
+, 
+, 
+ and 
+. Under a translation, 
+ maps to 
+. Find the
+other image vertices and the area of the image. Explain why the area is unchanged. 
+R
+5. The segment from 
+ to 
+ is mapped onto the segment from 
+ to 
+. Find the translation
+vector. Is the translation unique, or could a different vector also work? Explain. 
+R
+6. A pattern of identical arrows starts at 
+, and the translation 
+ is applied repeatedly. Find the
+starting points of the next four arrows. What do you notice about the points, and what is the gradient
+of the line through them? 
+P
+7. A delivery drone is at grid position 
+ and moves by 
+ each minute. Where is it after 4
+minutes? Write a single translation equivalent to the four moves. 
+P
+8. A translation  maps 
+ to 
+. Find the point that  maps to 
+. Explain your reasoning by
+reversing the translation. 
+E
+ Reflecting across a line
+CRITERION A · I
+CRITERION C · I, II
+FORM
+A reflection turns a shape over a line, as a page turns about its spine. The mirror line stays
+where it is; every other point swaps to the opposite side, at the same perpendicular
+distance.
+The reflection rules for the coordinate axes and the lines 
+ and 
+ are worth committing to
+memory, because they allow a reflection to be performed without drawing.
+C O M M O N E R R O R · S U BT R AC T I N G I N T H E W R O N G O R D E R
+The translation vector is always image minus object. For 
+ and 
+ the vector is
+, not 
+. Also read the signs: a negative first component means left, not down. When
+a whole shape is translated, every vertex must move by the same vector; if two vertices have
+different displacements, the move is not a translation.
+A(2, 5)
+A (6, 1)
+′
+​
+( 4
+−4)
+​
+(−4
+4 )
+​
+( 3
+−4) A(2, 5) B(−1, 0) C(0, −3) D(−4, −2)
+PQR
+P(1, 2) Q(4, 2)
+R(1, 5)
+​
+(−2
+3 )
+P ′ Q′
+R′
+A(5, −1)
+A (−2, 4)
+′
+B(0, 0)
+(0, 0) (2, 0) (2, 2)
+(0, 2)
+(0, 0)
+(4, 3)
+(−2, 1)
+(3, 1)
+(1, 4)
+(6, 4)
+(0, 0)
+(2, 3)
+(14, 9)
+​
+(−5
+−3)
+T
+(2, 3)
+(5, 1)
+T
+(0, 0)
+6.2
+D E F I N I T I O N S
+A reflection maps each point to its mirror image across a line. The line is the mirror line, or
+line of reflection. For every point  and its image 
+, the mirror line is the perpendicular
+bisector of 
+: it crosses 
+ at a right angle and divides it into two equal parts. Points on
+the mirror line do not move; they are invariant. A reflection reverses the orientation of a
+shape.
+P
+P ′
+PP ′
+PP ′
+y = x
+y = −x
+
+
+===== [source page 117] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+117
+Mirror line
+Rule
+Example
+-axis
+-axis
+Mirror 
+: 
+Mirror 
+: 
+For a mirror at 
+, the vertical distance from the point to the mirror is 
+; the image lies the
+same distance on the other side, which is why its -coordinate is 
+. The rule for 
+ works in
+the same way horizontally. When 
+, both rules reduce to the axis cases already listed.
+−6
+−5
+−4
+−3
+−2
+−1
+1
+2
+3
+4
+5
+6
+−4
+−3
+−2
+−1
+1
+2
+3
+4
+5
+x
+ymirror line x = 0
+Figure 6.2 A reflection in the line 
+. Corresponding points lie on opposite sides of the mirror at equal distances, and the mirror
+cuts each joining segment at a right angle.
+x
+(x, y) →(x, −y)
+(3, 2) →(3, −2)
+y
+(x, y) →(−x, y)
+(3, 2) →(−3, 2)
+y = x
+(x, y) →(y, x)
+(3, 2) →(2, 3)
+y = −x
+(x, y) →(−y, −x)
+(3, 2) →(−2, −3)
+x = k
+(x, y) →(2k −x, y)
+x = 1 (4, 2) →(−2, 2)
+y = k
+(x, y) →(x, 2k −y)
+y = 1 (3, 5) →(3, −3)
+y = k
+∣y −k∣
+y
+2k −y
+x = k
+k = 0
+x = 0
+
+
+===== [source page 118] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+118
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 6. 2 .1
+REFLECTING A TRIANGLE IN THE Y-AXIS
+PROBLEM
+Triangle 
+ has vertices 
+, 
+ and 
+. Reflect it in the -axis, find the image
+coordinates, and verify two properties of the reflection.
+ANSWER
+, 
+, 
+. The image is congruent but has reversed orientation.
+WO R K E D E X A M P L E 6. 2 . 2
+REFLECTIONS IN DIFFERENT LINES
+PROBLEM
+Find the image of 
+ after reflection in (a) the -axis, (b) the line 
+, (c) the line 
+.
+ANSWER (a) 
+   (b) 
+   (c) 
+WO R K E D E X A M P L E 6. 2 .3
+RECOVERING THE MIRROR LINE
+PROBLEM
+A reflection maps 
+ to 
+. Find the mirror line, then find the image of 
+under the same reflection.
+ANSWER Mirror line 
+; 
+.
+ABC
+A(1, 1) B(4, 1)
+C(2, 3)
+y
+Apply 
+: 
+, 
+, 
+.
+1
+(x, y) →(−x, y) A (−1, 1)
+′
+B (−4, 1)
+′
+C (−2, 3)
+′
+Check the mirror is the perpendicular bisector of each segment joining a point to its image.
+For 
+ and 
+, the midpoint is 
+, which lies on the -axis, and 
+ is horizontal,
+hence perpendicular to the mirror.
+2
+A(1, 1)
+A (−1, 1)
+′
+(0, 1)
+y
+AA′
+The order of the vertices around the triangle is reversed: 
+ runs anticlockwise,
+while 
+ runs clockwise. A reflection reverses orientation.
+3
+A →B →C
+A →
+′
+B →
+′
+C′
+All side lengths and angles are unchanged, so the image is congruent to the original.
+4
+A (−1, 1)
+′
+B (−4, 1)
+′
+C (−2, 3)
+′
+(−2, 5)
+x
+y = 1
+x = 3
+(a) The -axis has rule 
+, so 
+. The point is 5 units above the
+axis; its image is 5 units below.
+1
+x
+(x, y) →(x, −y)
+(−2, 5) →(−2, −5)
+(b) Use 
+ with 
+: the image is 
+. The point is 4 units above
+the line 
+; the image is 4 units below it.
+2
+(x, 2k −y)
+k = 1
+(−2, 2(1) −5) = (−2, −3)
+y = 1
+(c) Use 
+ with 
+: the image is 
+. The point is 5 units left of the
+line 
+; the image is 5 units right of it.
+3
+(2k −x, y)
+k = 3
+(2(3) −(−2), 5) = (8, 5)
+x = 3
+In each case, check that the midpoint of the point and its image lies on the mirror line.
+4
+(−2, −5)
+(−2, −3)
+(8, 5)
+P(2, 3)
+P (2, −7)
+′
+Q(−1, 4)
+The midpoint of 
+ is 
+. Since the mirror is the perpendicular bisector of 
+, it passes
+through this midpoint.
+1
+PP ′
+(2, −2)
+PP ′
+ is vertical, so the perpendicular bisector is horizontal. The mirror is the line 
+.
+2
+PP ′
+y = −2
+Reflect 
+ using 
+ with 
+: 
+.
+3
+Q
+(x, 2k −y)
+k = −2 Q (−1, 2(−2) −
+′
+4) = (−1, −8)
+Check: 
+ is 6 units above 
+ and 
+ is 6 units below it.
+4
+Q
+y = −2
+Q′
+y = −2 Q (−1, −8)
+′
+
+
+===== [source page 119] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+119
+PRACTICE 6.2 · REFLECTIONS AND MIRROR LINES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Reflect each point in the -axis and then in the -axis. State both images: 
+, 
+, 
+,
+. 
+F
+2. Reflect the triangle with vertices 
+, 
+, 
+ in the line 
+. Find the image vertices. 
+F
+3. Find the image of 
+ after reflection in (a) 
+, (b) 
+, (c) 
+. 
+F
+4. A point 
+ is reflected in the -axis and then in the -axis. Show that the final image is 
+. Does
+the order of the two reflections matter? 
+R
+5. A reflection maps 
+ to 
+. Find the mirror line and the image of 
+. 
+R
+6. A logo is symmetric about the vertical line 
+. One half passes through 
+ and 
+. Find the
+corresponding points on the other half. 
+P
+7. A rectangular mirror is placed along the line 
+. A point at 
+ appears at the corresponding
+position behind the mirror. Find that position and state how far each point is from the mirror. 
+P
+8. Explain why a reflection can never be equivalent to a non-zero translation. Use orientation and
+invariant points in your answer. 
+E
+ Rotating about a point
+CRITERION A · I
+CRITERION C · II
+SPACE
+A rotation turns a shape about a fixed point. The centre stays where it is; every other point
+travels along a circular arc through the same angle, keeping its distance from the centre.
+For rotations about the origin, the coordinates change in a regular way. A quarter-turn
+anticlockwise takes the horizontal displacement  and turns it into a vertical displacement, and
+takes the vertical displacement  and turns it into a horizontal displacement pointing left. The
+image of 
+ is therefore 
+. Applying the rule twice gives a half-turn, and applying it three
+times gives a three-quarter turn.
+C O M M O N E R R O R · N A M I N G T H E M I R R O R , N OT T H E C O O R D I N AT E
+Reflection in the -axis changes the sign of , not of ; the name of the axis is the name of the
+mirror, not of the coordinate that changes. A reflection in 
+ swaps the coordinates, while
+a reflection in 
+ swaps them and changes both signs. Finally, a fold that appears to
+match two halves is a demonstration, not a proof: paper bends, and printing is not exact.
+x
+y
+x
+y = x
+y = −x
+x
+y
+A(3, 2) B(−1, 4) C(−2, −3)
+D(0, 5)
+(1, 1) (4, 1) (1, 3)
+x = 2
+(−3, 2)
+y = x
+y = −x
+x = −1
+(a, b)
+y
+x
+(−a, −b)
+(5, 1)
+(5, 9)
+(2, 3)
+x = 4
+(1, 2)
+(3, 5)
+x = 3
+(7, −2)
+6.3
+D E F I N I T I O N S
+A rotation is described completely by three pieces of information: the centre of rotation, the
+angle, and the direction (clockwise or anticlockwise). By convention, anticlockwise is
+positive. The centre is the only invariant point unless the angle is 
+. A rotation preserves
+distances and angles, so the image is congruent to the object, and unlike a reflection it
+preserves orientation.
+360∘
+x
+y
+(x, y)
+(−y, x)
+
+
+===== [source page 120] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+120
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Rotation about the origin
+Rule
+Example: 
+ anticlockwise
+ anticlockwise (
+ clockwise)
+WO R K E D E X A M P L E 6.3.1
+A QUARTER-TURN ABOUT THE ORIGIN
+PROBLEM
+Rotate the triangle with vertices 
+, 
+ and 
+ through 
+ anticlockwise about
+the origin.
+ANSWER
+, 
+, 
+. The image is congruent and has the same orientation.
+−5
+−4
+−3
+−2
+−1
+1
+2
+3
+4
+5
+−5
+−4
+−3
+−2
+−1
+1
+2
+3
+4
+5
+x
+y
+90°
+90°
+Figure 6.3 A quarter-turn anticlockwise about the origin. The marked 
+ angle shows the turn; every vertex keeps its distance from
+the origin.
+(2, 1)
+90∘
+(x, y) →(−y, x)
+(−1, 2)
+180∘
+(x, y) →(−x, −y)
+(−2, −1)
+270∘
+90∘
+(x, y) →(y, −x)
+(1, −2)
+A(2, 1) B(4, 1)
+C(2, 3)
+90∘
+Apply 
+ to each vertex: 
+, 
+, 
+.
+1
+(x, y) →(−y, x)
+A (−1, 2)
+′
+B (−1, 4)
+′
+C (−3, 2)
+′
+Check the side lengths. 
+ is horizontal with length 2; 
+ is vertical with length 2. 
+ is
+vertical with length 2; 
+ is horizontal with length 2.
+2
+AB
+A B
+′
+′
+AC
+A C
+′
+′
+Check the orientation. Going 
+ is anticlockwise, and going 
+ is also
+anticlockwise, so the rotation has preserved orientation.
+3
+A →B →C
+A →
+′
+B →
+′
+C′
+The distances from the origin are unchanged: 
+ and 
+, so each vertex has
+moved along a circular arc centred at the origin.
+4
+OA =
+​5
+OA =
+′
+​5
+A (−1, 2)
+′
+B (−1, 4)
+′
+C (−3, 2)
+′
+90∘
+
+
+===== [source page 121] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+121
+WO R K E D E X A M P L E 6.3. 2
+HALF-TURN AND THREE-QUARTER TURN
+PROBLEM
+Using the same triangle 
+, 
+, 
+, find the image after (a) a half-turn about the
+origin, (b) a 
+ clockwise turn about the origin.
+ANSWER (a) 
+, 
+, 
+   (b) 
+, 
+, 
+WO R K E D E X A M P L E 6.3.3
+A CENTRE THAT IS NOT THE ORIGIN
+PROBLEM
+Rotate the triangle 
+, 
+, 
+ through 
+ anticlockwise about the point 
+.
+ANSWER
+, 
+, 
+.
+PRACTICE 6.3 · ROTATIONS AND IMAGE COORDINATES
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Rotate each point 
+ anticlockwise about the origin: 
+, 
+, 
+, 
+. 
+F
+2. Rotate the triangle with vertices 
+, 
+, 
+ through 
+ about the origin. Find the image
+vertices. 
+F
+3. Find the image of 
+ under rotations about the origin of (a) 
+ anticlockwise, (b) 
+, (c) 
+clockwise. 
+F
+4. A point 
+ is rotated 
+ anticlockwise and then 
+ anticlockwise again. Show that the result equals
+a 
+ rotation. 
+R
+A(2, 1) B(4, 1) C(2, 3)
+90∘
+(a) A half-turn uses 
+: 
+, 
+, 
+.
+1
+(x, y) →(−x, −y) A (−2, −1)
+′
+B (−4, −1)
+′
+C (−2, −3)
+′
+(b) A 
+ clockwise turn is 
+ anticlockwise, so use 
+: 
+, 
+,
+.
+2
+90∘
+270∘
+(x, y) →(y, −x) A (1, −2)
+′
+B (1, −4)
+′
+C (3, −2)
+′
+In both cases the image is congruent to the original. Neither turn reverses orientation.
+3
+A half-turn has the same effect in both directions, so the direction need not be stated for 
+.
+4
+180∘
+A (−2, −1)
+′
+B (−4, −1)
+′
+C (−2, −3)
+′
+A (1, −2)
+′
+B (1, −4)
+′
+C (3, −2)
+′
+P(4, 1) Q(4, 3) R(2, 1)
+90∘
+(2, 1)
+Subtract the centre from each vertex to move the centre to the origin: 
+, 
+,
+.
+1
+P ↦(2, 0) Q ↦(2, 2)
+R ↦(0, 0)
+Apply 
+: 
+, 
+, 
+.
+2
+(x, y) →(−y, x) P ↦(0, 2) Q ↦(−2, 2) R ↦(0, 0)
+Add the centre back: 
+; 
+; 
+.
+3
+P (0 +
+′
+2, 2 + 1) = (2, 3) Q (−2 +
+′
+2, 2 + 1) = (0, 3) R (0 +
+′
+2, 0 + 1) = (2, 1)
+Check: 
+ and 
+; the centre  is invariant, as it must be.
+4
+PR = 2
+P R =
+′
+′
+2
+R
+P (2, 3)
+′
+Q (0, 3)
+′
+R (2, 1)
+′
+ST R AT E GY · D E S C R I B I N G A N D P E R F O R M I N G A R OTAT I O N
+A rotation is not described until the centre, the angle and the direction are all given. To perform one
+about a centre 
+, subtract 
+, apply the rule for a rotation about the origin, then add 
+ back. To check
+your work, verify that the centre has not moved and that each vertex is the same distance from 
+ as
+its image.
+C
+C
+C
+C
+C O M M O N E R R O R · C LO C K W I S E A N D A N T I C LO C K W I S E
+ clockwise is 
+ anticlockwise, not 
+ anticlockwise. The rule 
+ applies only to an
+anticlockwise quarter-turn about the origin; using it about a different centre without
+translating first gives the wrong image. And a half-turn is not a reflection: a half-turn keeps
+orientation, while a reflection reverses it.
+90∘
+270∘
+90∘
+(−y, x)
+90∘
+A(3, 1) B(−2, 4) C(−3, −2) D(0, −5)
+(1, 2) (4, 2) (1, 5)
+180∘
+(−2, 3)
+90∘
+180∘
+90∘
+(a, b)
+90∘
+90∘
+180∘
+
+
+===== [source page 122] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+122
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+5. Rotate the square 
+, 
+, 
+, 
+ through 
+ anticlockwise about its centre 
+ and describe
+the image. What does this tell you about the rotational symmetry of a square? 
+R
+6. The point 
+ is rotated 
+ anticlockwise about 
+. Find the image. 
+P
+7. A windmill has four identical blades. Through what angle must it rotate to look unchanged? State the
+order of its rotational symmetry. 
+P
+8. Rotate the triangle 
+, 
+, 
+ through 
+ anticlockwise about 
+. Find the image
+vertices and verify that 
+. 
+E
+ Congruence and its criteria
+CRITERION A · II
+CRITERION C · III, IV
+JUSTIFICATION
+Two shapes are congruent when one can be moved onto the other without stretching or
+shrinking. The transformations of the last three sections are exactly the moves that are
+allowed. Since we cannot always pick a shape up and place it on another, we need tests
+that decide congruence from measurements.
+A
+B
+C
+D
+Figure 6.4 Matching marks record equal parts. 
+ and 
+ agree in two sides and the included angle (SAS); 
+ and 
+ agree in the right
+angle, the hypotenuse and one leg (RHS).
+A triangle has six measurements — three sides and three angles — but they are not independent,
+because the angles always add to 
+. Three suitably chosen measurements fix the triangle
+completely. The criteria state which triples are sufficient. The word included matters: in SAS the
+angle must lie between the two named sides; in ASA the side must lie between the two named
+angles.
+(0, 0) (2, 0) (2, 2) (0, 2)
+90∘
+(1, 1)
+(5, 2)
+90∘
+(2, 2)
+A(0, 0) B(4, 0) C(0, 3)
+90∘
+(2, 0)
+AB = A B
+′
+′
+6.4
+D E F I N I T I O N S
+Two figures are congruent if one can be mapped onto the other by a sequence of translations,
+reflections and rotations. Congruent figures have equal corresponding parts: each side and
+angle matches a partner in the other figure. We write 
+ to mean that 
+corresponds to 
+, 
+ to 
+ and 
+ to . The standard criteria for triangles are SSS (three sides),
+SAS (two sides and the included angle), ASA (two angles and the included side), AAS (two
+angles and a corresponding side) and RHS (right angle, hypotenuse and one side).
+△ABC ≅△DEF
+A
+D B
+E
+C
+F
+A
+B
+C
+D
+180∘
+
+
+===== [source page 123] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+123
+WO R K E D E X A M P L E 6. 4.1
+A FORMAL SAS PROOF
+PROBLEM
+In triangles 
+ and 
+, 
+ cm, 
+ and 
+ cm.
+Prove that the triangles are congruent and list the remaining equal parts.
+ANSWER
+ by SAS; 
+, 
+, 
+.
+WO R K E D E X A M P L E 6. 4. 2
+USING A SHARED SIDE: THE KITE
+PROBLEM
+A kite 
+ has 
+ and 
+. The diagonal 
+ is drawn. Prove that
+, and deduce that 
+ bisects 
+.
+ANSWER
+ by SSS; hence 
+, so 
+ bisects 
+.
+ABC
+DEF AB = DE = 7
+∠ABC = ∠DEF = 48∘
+BC = EF = 5
+Given:
+ cm.
+1
+AB = DE = 7
+Given:
+. In each triangle this angle is between the two sides named in
+the first and third lines.
+2
+∠ABC = ∠DEF = 48∘
+Given:
+ cm.
+3
+BC = EF = 5
+Conclusion:
+ (SAS).
+4
+△ABC ≅△DEF
+Because the triangles are congruent, the remaining corresponding parts are equal: 
+,
+ and 
+.
+5
+AC = DF
+∠BAC = ∠EDF
+∠ACB = ∠DFE
+△ABC ≅△DEF
+AC = DF ∠A = ∠D ∠C = ∠F
+ABCD
+AB = AD
+CB = CD
+AC
+△ABC ≅△ADC
+AC
+∠BAD
+ (given).
+1
+AB = AD
+ (given).
+2
+CB = CD
+ is common to both triangles.
+3
+AC
+Therefore 
+ (SSS). Note the order: 
+ corresponds to 
+, because 
+ matches
+ and 
+ matches 
+.
+4
+△ABC ≅△ADC
+B
+D
+AB
+AD
+CB
+CD
+Because the triangles are congruent, corresponding angles are equal: 
+. Since
+these two angles together make 
+, the diagonal 
+ bisects it.
+5
+∠BAC = ∠DAC
+∠BAD
+AC
+△ABC ≅△ADC
+∠BAC = ∠DAC
+AC
+∠BAD
+ST R AT E GY · W R I T I N G A C O N G R U E N C E P R O O F
+1. Sketch the two triangles and mark every given equal part. 2. Count the marked parts and check
+where they sit — is the angle included, is the side included? 3. Name the criterion before you write the
+conclusion. 4. Write the congruence statement with the vertices in matching order. 5. Extract the
+corresponding part you were asked to prove. Every line of a proof needs a reason: given, common
+side, proved above, or the name of the criterion.
+
+
+===== [source page 124] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+124
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 6. 4.3
+ENOUGH INFORMATION, OR NOT?
+PROBLEM
+For each set of information about triangles 
+ and 
+, name the criterion that proves
+congruence, or explain why the information is insufficient.
+(a) 
+, 
+, 
+.   (b) 
+, 
+, 
+.   (c) 
+,
+, 
+.   (d) 
+, 
+, 
+.
+ANSWER (a) RHS   (b) insufficient (SSA)   (c) AAS   (d) insufficient (AAA)
+PRACTICE 6.4 · PROVING CONGRUENCE
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. Name the criterion that would prove congruence from: (a) three pairs of equal sides; (b) two pairs of
+equal sides and the included angles; (c) two pairs of equal angles and a pair of equal sides; (d) a right
+angle, equal hypotenuses and a pair of equal legs. 
+F
+2. In triangles 
+ and 
+, 
+ cm, 
+ and 
+ cm. Prove the triangles
+congruent and state the remaining equal parts. 
+F
+3. Triangles 
+ and 
+ share the side 
+, with 
+ and 
+. Prove 
+ and
+deduce that 
+. 
+F
+4. Explain why AAA is not enough to prove congruence. Use two equilateral triangles of different sizes in
+your explanation. 
+R
+5. Fix 
+ cm and draw a ray from  at 
+ to 
+. Side 
+ must be 6 cm, so 
+ lies where a circle of
+radius 6 centred at 
+ meets the ray. Explain why this construction gives two different triangles, and
+what this shows about SSA. 
+R
+6. A surveyor measures a triangular plot with one side 40 m and the angles at its ends 
+ and 
+. A
+second plot is claimed to be congruent from the same three measurements. Name the criterion, and
+find the third angle. 
+P
+7. A designer claims two triangular panels are congruent because their side lengths are 
+ cm and
+ cm. Are they congruent? Explain. 
+P
+8. In rectangle 
+, prove that 
+ and deduce that the diagonal 
+ divides the rectangle
+into two congruent triangles. What can you conclude about 
+ and 
+? 
+E
+ABC
+DEF
+∠A = ∠D = 90∘BC = EF AB = DE
+AB = DE BC = EF ∠A = ∠D
+∠A = ∠D
+∠B = ∠E BC = EF
+∠A = ∠D ∠B = ∠E ∠C = ∠F
+(a) The right angles are included between a leg and the hypotenuse in each triangle, and the
+hypotenuses 
+, 
+ and the legs 
+, 
+ are equal. This is RHS.
+1
+BC EF
+AB DE
+(b) The equal angles are opposite one pair of equal sides but are not included between the two
+equal sides. This is SSA, which is not a congruence criterion: a different triangle can satisfy
+the same three measurements.
+2
+(c) Two angles and a corresponding side are equal, and the side 
+ lies opposite the equal
+angles  and 
+. This is AAS. (The third angles are equal too, since angles sum to 
+.)
+3
+BC
+A
+D
+180∘
+(d) Three angles determine the shape but not the size. Two equilateral triangles of different
+side lengths have all angles equal yet are not congruent. This is AAA, which proves similarity
+at most.
+4
+C O M M O N E R R O R · “ I T LO O K S T H E SA M E ”
+AAA fixes the shape but not the size; SSA can produce two genuinely different triangles. To
+see why, fix a side 
+ and draw a ray from  at a given angle, then mark the second side from
+ with a compass: the arc can meet the ray in two places. Congruence statements written in
+the wrong order are also wrong, even when the conclusion is true, because the notation itself
+asserts which parts correspond.
+AB
+A
+B
+PQR
+STU PQ = ST = 9
+∠P = ∠S = 63∘
+PR = SU = 4
+ABC
+ADC
+AC
+AB = AD
+BC = DC
+△ABC ≅△ADC
+∠BCA = ∠DCA
+AB = 8
+A
+30∘
+AB
+BC
+C
+B
+65∘
+42∘
+30, 40, 50
+30, 40, 52
+ABCD
+△ABC ≅△CDA
+AC
+∠BAC
+∠DCA
+
+
+===== [source page 125] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+125
+ Symmetry and tessellation
+CRITERION B · II
+CRITERION D · II
+PATTERNS
+A shape has symmetry when a transformation maps it onto itself. Symmetry is
+congruence applied to a single object, and it explains why a pattern can repeat across a
+surface without gaps or overlaps.
+For a regular polygon with  sides, the two symmetry numbers agree: there are  lines of symmetry
+and rotational symmetry of order . For other shapes they can differ. A non-square rectangle has
+two lines of symmetry and rotational symmetry of order 2; a parallelogram that is not a rectangle
+has no lines of symmetry but still has rotational symmetry of order 2; an isosceles triangle has one
+line of symmetry and no rotational symmetry.
+WO R K E D E X A M P L E 6. 5.1
+COUNTING SYMMETRIES
+PROBLEM
+State the number of lines of symmetry and the order of rotational symmetry for (a) an
+equilateral triangle, (b) a regular octagon, (c) an isosceles trapezium, (d) a parallelogram that
+is not a rectangle.
+ANSWER (a) 3 lines, order 3   (b) 8 lines, order 8   (c) 1 line, order 1   (d) 0 lines, order 2
+6.5
+D E F I N I T I O N S
+A shape has line symmetry if a reflection in some line maps it onto itself; that line is a line of
+symmetry. It has rotational symmetry if a rotation of less than 
+ about a point maps it
+onto itself. The order of rotational symmetry is the number of positions, including the
+starting position, in which the shape looks unchanged during one full turn; the angle of
+symmetry is 
+. A tessellation is a covering of the plane by shapes with no gaps and
+no overlaps. A regular polygon has all sides equal and all angles equal.
+360∘
+360 ÷
+∘
+order
+n
+n
+n
+C O M M O N E R R O R · C O U N T I N G C O R N E R S , N OT S Y M M E T R I E S
+The diagonals of a rectangle are not lines of symmetry, even though they pass through the
+centre: folding along a diagonal does not match the rectangle onto itself. Nor is the order of
+rotational symmetry an angle — an order of 6 means six matching positions, 
+ apart. The
+starting position counts once, not twice.
+60∘
+(a) An equilateral triangle has 3 lines of symmetry — one through each vertex and the
+midpoint of the opposite side — and rotational symmetry of order 3, through 
+.
+1
+120∘
+(b) A regular octagon has 8 lines of symmetry and rotational symmetry of order 8, through
+.
+2
+45∘
+(c) An isosceles trapezium has 1 line of symmetry, through the midpoints of its parallel sides.
+Any rotation other than 
+ moves it, so its rotational symmetry has order 1.
+3
+360∘
+(d) A parallelogram has no line of symmetry, because a fold along either diagonal or either
+midline fails to match the shape; but a half-turn about the point where the diagonals meet
+maps it onto itself, so the order is 2.
+4
+
+
+===== [source page 126] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+126
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+A tessellation works because the angles meeting at each interior vertex must add to exactly 
+.
+For a regular polygon with  sides, each interior angle is 
+ degrees. The polygon tiles the plane
+by itself exactly when this angle divides 
+. Only three regular polygons pass the test.
+Regular polygon
+Interior angle
+Number meeting at a vertex
+Tiles alone?
+Triangle, 
+Yes
+Square, 
+Yes
+Pentagon, 
+No
+Hexagon, 
+Yes
+Octagon, 
+No
+Figure 6.5 A regular hexagonal tiling. Three hexagons meet at every vertex, and 
+, so the pattern closes exactly with
+no gap and no overlap.
+WO R K E D E X A M P L E 6. 5. 2
+WHY PENTAGONS LEAVE A GAP
+PROBLEM
+Show that regular pentagons cannot tessellate by themselves.
+ANSWER
+ does not divide 
+, so pentagons leave gaps; they cannot tile the plane alone.
+360∘
+n
+​
+n
+180(n−2)
+360∘
+n = 3
+60∘
+360 ÷ 60 = 6
+n = 4
+90∘
+360 ÷ 90 = 4
+n = 5
+108∘
+360 ÷ 108 = 3.33 …
+n = 6
+120∘
+360 ÷ 120 = 3
+n = 8
+135∘
+360 ÷ 135 = 2.67 …
+3 × 120 =
+∘
+360∘
+The interior angle of a regular pentagon is 
+.
+1
+​ =
+5
+180(5−2)
+​ =
+5
+540
+108∘
+At a vertex, a whole number of pentagons must meet. Three pentagons give 
+,
+leaving a gap of 
+.
+2
+3 × 108 =
+∘
+324∘
+36∘
+Four pentagons give 
+, which overlaps; more would overlap further.
+3
+4 × 108 =
+∘
+432∘
+Since no whole number of 
+ angles makes exactly 
+, regular pentagons cannot close
+around a point. A tessellation is therefore impossible.
+4
+108∘
+360∘
+108∘
+360∘
+
+
+===== [source page 127] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+127
+WO R K E D E X A M P L E 6. 5.3
+WORKING BACKWARDS FROM AN ANGLE
+PROBLEM
+A regular polygon has interior angle 
+. Find its number of sides and decide whether it
+tessellates by itself.
+ANSWER
+; interior angle 
+ does not divide 
+, so it does not tessellate alone.
+PRACTICE 6.5 · SYMMETRY AND TILINGS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. State the number of lines of symmetry and the order of rotational symmetry: (a) a square, (b) a
+regular hexagon, (c) an isosceles triangle, (d) a parallelogram, (e) a circle. 
+F
+2. Find the interior angle of a regular octagon. Does it tessellate by itself? Explain using division. 
+F
+3. A regular polygon has interior angle 
+. Find the number of sides and decide whether it tessellates
+by itself. 
+F
+4. Explain why a regular pentagon cannot tessellate while a regular hexagon can. Support your answer
+with angle calculations. 
+R
+5. A design has rotational symmetry of order 5. Through what angle does it turn onto itself? If it also has
+5 lines of symmetry, which familiar shape could it be based on? 
+R
+6. Design a square tile with a motif. Describe two different transformations that could be used to repeat
+the motif across a wall so that the pattern has no gaps. 
+P
+7. A floor is tiled with regular octagons and small squares. Show that two octagons and one square fit
+exactly around a vertex. 
+P
+8. Explain why any triangle tessellates, using two congruent copies to form a parallelogram. Extend the
+argument to any quadrilateral. 
+E
+150∘
+Set 
+.
+1
+​ =
+n
+180(n−2)
+150
+Multiply by : 
+.
+2
+n 180n −360 = 150n
+Solve: 
+, so 
+. The polygon is a regular dodecagon.
+3
+30n = 360
+n = 12
+Test the tiling condition: 
+, which is not a whole number. Two tiles leave a 
+gap and three exceed 
+, so it does not tessellate by itself.
+4
+360 ÷ 150 = 2.4
+60∘
+360∘
+n = 12
+150∘
+360∘
+156∘
+
+
+===== [source page 128] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+128
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Application · A tile panel for the community
+centre
+CRITERION D · I, II, III, IV
+SYMMETRY
+DESIGN
+A community centre commissions a rectangular frieze 360 cm long and 60 cm high, made from
+square tiles of side 15 cm. Tiles cost 2.40 units each, and the supplier recommends ordering 8%
+extra for cutting and breakages. The design repeats a four-tile-wide motif along the length, and
+each motif is mirrored in its own vertical centre line.
+1. Calculate the number of tiles along the length and the number of rows. How many tiles
+cover the panel exactly?
+2. Calculate the cost of the exact coverage, then the cost after adding 8% wastage. Round the
+number of tiles ordered up to a whole tile and explain why rounding down would be a
+mistake.
+3. How many repeats of the four-tile motif fit along the frieze? Describe the transformation that
+carries the first motif onto the second, giving the vector in tiles and in centimetres.
+4. The mirror line of each motif runs along a grout line between two columns of tiles. How
+many tiles lie on the mirror line? What would change if the motif were five tiles wide?
+Investigation · The angle that fits
+CRITERION B
+A regular polygon tiles the plane by itself when copies meet edge to edge with no gaps. The
+decisive quantity is the interior angle at each vertex. In this investigation you will test the
+candidates, find the pattern, and prove why only three regular polygons can work.
+1. Explore. Complete a table for regular polygons with 
+ to 
+: the name, the interior angle
+, the value of 
+, and whether the polygon tiles alone. Use a calculator and
+record angles to one decimal place where needed.
+2. Pattern. Which values of  give a whole number in the third column? Describe the pattern in
+words.
+3. Verify. For 
+, calculate the gap left when three pentagons meet. For 
+, calculate the
+gap left when two octagons meet. Confirm that in each case a third or further tile cannot
+repair the fit without overlapping.
+4. Generalise. Show that 
+. Explain why this is a whole number
+exactly when 
+ divides 4, and conclude that  can only be 3, 4 or 6.
+5. Combine. Tilings can mix tile types. Verify that the angles fit exactly at a vertex for: (a) two
+octagons and one square; (b) two hexagons and two triangles; (c) two squares and three
+triangles.
+6. Break it. A student says “a pentagon is close to a hexagon, so with enough pentagons the gaps
+will disappear.” Explain why “enough” cannot help: the gap at each vertex is fixed at 
+, and
+adding more pentagons overshoots 
+.
+7. Create. Design a semi-regular tiling using two tile types. Draw at least six tiles and verify the
+angle sum at two different vertices. Label the transformations that carry one tile onto the
+next.
+A neat drawing suggests a tiling; only the angle sum proves that a vertex closes exactly. A single
+counterexample — one vertex where the angles do not total 
+ — is enough to refute a proposed tiling. State
+which claim your evidence supports.
+n = 3
+10
+​
+n
+180(n−2)
+360 ÷ angle
+n
+n = 5
+n = 8
+360 ÷
+​ =
+n
+180(n−2)
+​ =
+n−2
+2n
+2 +
+​
+n−2
+4
+n −2
+n
+36∘
+360∘
+360∘
+
+
+===== [source page 129] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+129
+5. Each square tile is divided by a diagonal into two triangular pieces for the border motif.
+Prove that the two triangles are congruent, naming the criterion, and state the angles of each
+triangle.
+6. The designer claims the whole panel looks unchanged after a half-turn about its centre. What
+must be true of each motif and of their arrangement for this claim to hold? Is the half-turn
+guaranteed by the design as described?
+7. A contrasting border one tile high runs along the top and bottom edges. How many contrast
+tiles are needed? At 3.10 units each, what is the additional cost, and what is the new total?
+8. Grout lines are 2 mm wide. Show that 24 tiles of 15 cm plus 23 grout lines do not fit into 360
+cm. Propose two practical solutions and evaluate which is better.
+9. Evaluate the design process. Which assumptions (tile size, wastage, grout, labour) are
+uncertain, and what records should the designer keep so that the panel can be reproduced or
+repaired later?
+10. The motif echoes a geometric tradition from another culture. What should the designer
+record and acknowledge? Distinguish between mathematical inspiration and direct copying
+of a specific sacred pattern, and explain why the distinction matters.
+C R I T E R I O N D F O C U S
+Translate a design brief into measurements, justify geometric claims with congruence and symmetry,
+cost the materials honestly, and evaluate the practical and cultural limits of the model.
+
+
+===== [source page 130] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+130
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Criterion task · The kite window
+CRITERIA B AND C
+INVESTIGATING AND COMMUNICATING
+24 MARKS
+A stained-glass studio is making a kite-shaped window 
+, with 
+ and 
+. A
+diagonal bar runs from  to 
+. The studio must be able to justify every geometric claim in its
+construction notes.
+1. Prove that 
+, naming the criterion and giving a reason for each equal part. (5
+marks)
+2. Deduce that 
+ bisects both 
+ and 
+. (4 marks)
+3. Let 
+ be the point where 
+ meets 
+. Prove that 
+. (3 marks)
+4. Prove that 
+ is perpendicular to 
+. (4 marks)
+5. State the number of lines of symmetry and the order of rotational symmetry of the kite,
+justifying each answer from your earlier results. (4 marks)
+6. A second window is a rhombus that is not a square. Using your results, explain why both
+diagonals of the rhombus are lines of symmetry, and state the order of its rotational
+symmetry. (4 marks)
+PLANNING FRAME
+Sketch: copy the given equal lengths onto a diagram and mark the shared side. Prove: list three equal
+parts with reasons under the heading “In 
+ and 
+”. Conclude: name the criterion, then write
+the congruence statement in matching order. Use: extract exactly the corresponding part you need —
+an angle for bisection, a length for a midpoint. Communicate: one reason per line, no unstated
+assumptions.
+BAND
+DESCRIPTOR
+MARKS
+4
+Congruence proved with complete reasons; deductions about angles,
+midpoint and perpendicularity follow logically; symmetry justified from
+earlier results; notation and correspondence accurate.
+19–24
+3
+Congruence proved with most reasons; most deductions valid; symmetry
+stated with partial justification; minor gaps in correspondence or notation.
+13–18
+2
+Some equal parts identified; congruence asserted with limited reasoning; one
+or two deductions attempted; symmetry stated without justification.
+7–12
+1
+Isolated correct statements about the figure; little structure; conclusions do
+not follow from the given information.
+1–6
+CRITERIA: B, C (A)
+ATL: THINKING
+TIME: 55 MINUTES
+CONDITIONS: RULER AND PROTRACTOR ALLOWED
+MAPPED TO:
+ B strands i–iii and C strands i–iv, with A strand ii. The rubric is a course summary, not an official IB descriptor.
+ABCD
+AB = AD
+CB = CD
+A
+C
+△ABC ≅△ADC
+AC
+∠BAD
+∠BCD
+M
+AC
+BD
+BM = DM
+AC
+BD
+△…
+△…
+
+
+===== [source page 131] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+131
+Chapter summary and review
+KEY IDEAS
+A transformation maps every point of an
+object to an image; an isometry preserves all
+distances and angles.
+A translation moves every point by the same
+column vector: 
+. It
+preserves orientation.
+A reflection reverses orientation; the mirror
+line is the perpendicular bisector of every
+segment joining a point to its image.
+Reflections in the axes: 
+ in the
+-axis and 
+ in the -axis; in
+ the coordinates swap.
+A rotation is fixed by its centre, angle and
+direction. About the origin: 
+anticlockwise 
+, 
+, 
+ clockwise
+.
+Congruent figures have equal corresponding
+sides and angles; the rigid transformations
+produce congruent images.
+SSS, SAS, ASA, AAS and RHS are sufficient
+criteria for congruence; AAA and SSA are
+not.
+Correspondence order matters:
+ asserts 
+, 
+,
+.
+A regular -gon has  lines of symmetry,
+rotational symmetry of order , and interior
+angle 
+.
+A regular polygon tiles the plane alone
+exactly when its interior angle divides 
+,
+which happens only for 
+.
+REVISION CHECKLIST
+VOCABULARY
+transformation
+A rule mapping each point of a shape to an image
+point.
+object (pre-image)
+The original shape before a transformation.
+image
+The shape produced by a transformation.
+isometry
+A transformation that preserves all distances and
+angles.
+translation
+A slide specified by a column vector.
+column vector
+Two components giving horizontal and vertical
+displacement.
+reflection
+A flip across a mirror line.
+mirror line
+The line of reflection; it is the perpendicular bisector
+of each point–image segment.
+invariant point
+A point that does not move under a transformation.
+rotation
+(x, y) →(x + p, y + q)
+(x, y) →(x, −y)
+x
+(x, y) →(−x, y)
+y
+y = x
+90∘
+(x, y) →(−y, x) 180∘
+(x, y) →(−x, −y) 90∘
+(x, y) →(y, −x)
+△ABC ≅△DEF
+A ↔D B ↔E
+C ↔F
+n
+n
+n
+​
+n
+180(n−2)
+360∘
+n = 3, 4, 6
+I can translate, reflect and rotate a shape
+and give the image coordinates.
+I can describe a transformation fully,
+including centre, angle and direction
+where needed.
+I can recover a mirror line or translation
+vector from a point and its image.
+I can justify congruence with a named
+criterion and correct correspondence.
+I can explain why AAA and SSA do not
+prove congruence.
+I can count lines of symmetry and the
+order of rotational symmetry.
+I can use interior angles to decide
+whether a regular polygon tessellates.
+
+
+===== [source page 132] =====
+PART III · GEOMETRY, PROOF AND SPACE
+6 · Transformations, congruence and symmetry
+132
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+A turn about a centre through a given angle and
+direction.
+centre of rotation
+The fixed point of a rotation.
+congruent
+Identical in shape and size, with equal corresponding
+parts.
+corresponding parts
+Matching sides and angles in two congruent figures.
+AAA / SSA
+Angle-angle-angle and side-side-angle; neither proves
+congruence.
+line symmetry
+A reflection that maps a shape onto itself.
+rotational symmetry
+A rotation below 
+ that maps a shape onto itself.
+order
+The number of matching positions in one full turn.
+tessellation
+A gap-free, overlap-free tiling of the plane.
+M I X E D P R AC T I C E · C H A P T E R 6
+Connecting the ideas
+FLUENCY Core procedures
+1. Find the image of 
+, 
+ and 
+ under the translation 
+. 
+F
+2. For the triangle with vertices 
+, 
+ and 
+, find the image after (a) a reflection in the -axis, (b) a
+ rotation about the origin. 
+F
+3. State the number of lines of symmetry and the order of rotational symmetry of (a) a regular decagon,
+(b) an isosceles trapezium, (c) a parallelogram. 
+F
+4. Find the interior angle of a regular nonagon and of a regular dodecagon. Decide whether either
+tessellates by itself. 
+F
+REASONING Justify and connect
+1. The point 
+ is rotated 
+ anticlockwise about the origin and then reflected in the -axis. Find the
+final image. Now reverse the order of the two transformations and compare. What does this show? 
+R
+2. 
+ is a triangle and 
+ is a point such that 
+, 
+, with 
+ drawn. Prove 
+and state one consequence about the angles at 
+. 
+R
+3. Explain, with one counterexample for each, why SSA and AAA do not guarantee congruence. 
+R
+4. The line 
+ is translated by 
+. Find the equation of the image line and explain why its
+gradient is unchanged. 
+R
+APPLICATION Use and evaluate
+1. A logo is a square of side 8 cm divided by a diagonal. Prove that the two triangles formed are congruent,
+name the criterion, and state the symmetry of the square. 
+P
+2. A wall panel is 240 cm by 90 cm and is tiled with 30 cm square tiles. Find the number of tiles needed,
+add 10% for wastage, and cost the order at 3.50 units per tile. 
+P
+3. A frieze has its first motif at 
+ and repeats by the vector 
+. Find the starting point of the twelfth
+motif. The motif is also reflected in the line 
+; find the image of 
+. State one symmetry the
+finished frieze definitely has. 
+P
+4. A woven band repeats a unit cell through four quarter-turns about a central point. Explain how one
+quarter specifies the whole design, and why each quarter is congruent to the first. What should the
+designer record about the tradition that inspired it? 
+E
+5. In rectangle 
+, prove that the diagonals 
+ and 
+ are equal in length, naming the criterion you
+use. 
+E
+360∘
+A(4, −2) B(0, 0)
+C(−1, −4)
+​
+(−3
+5 )
+(2, 3) (5, 3)
+(2, 6)
+x
+180∘
+(3, 1)
+90∘
+y
+ABC
+D
+AB = AD BC = DC
+AC
+△ABC ≅△ADC
+C
+y = 2x + 1
+​
+( 3
+−2)
+(2, 4)
+(6, 0)
+y = 6
+(2, 4)
+ABCD
+AC
+BD

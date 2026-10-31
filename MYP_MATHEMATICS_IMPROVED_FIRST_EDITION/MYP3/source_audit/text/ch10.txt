@@ -1,0 +1,2879 @@
+
+
+===== [source page 204] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+204
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+M I X E D P R AC T I C E · C H A P T E R 9
+Connecting the ideas
+FLUENCY Core procedures
+1. Calculate  for 
+, 
+, 
+, 
+, 
+. 
+F
+2. A line of best fit passes through 
+ and 
+. Find its equation and predict  at 
+. 
+F
+3. For the line 
+, calculate the residual at 
+. 
+F
+4. Convert a rise from 
+ to 
+ into percentage points and a relative increase. 
+F
+REASONING Justify and connect
+1. A data set has 
+. Explain why this does not mean that 
+ of the variation is explained by the
+linear model. 
+R
+2. Explain how the same increase in a pass rate can be described as “
+” or “ percentage points”, and why
+the distinction matters. 
+R
+3. A strong correlation is found between the number of books in a home and children’s test scores. Explain
+why a randomised experiment with books would be difficult to run, and what observational evidence
+could still strengthen a causal argument. 
+R
+4. Explain why a line of best fit should not be used to predict beyond the range of the data, using an
+example where the model eventually becomes impossible. 
+R
+APPLICATION Use and evaluate
+1. The age of a used car  (years) and its price  (thousands) give 
+ and 
+. Interpret both
+numbers, predict the price of a 5-year-old car, and state one reason the model may fail for a classic car.
+P
+2. A study of 50 students finds a correlation of 
+ between hours of sport per week and mathematics
+score. A second study of 500 students finds 
+. Explain why the larger study is more trustworthy and
+what the difference suggests about the first sample. 
+P
+3. A health campaign reports that a disease rate fell from 
+ to 
+. Calculate the absolute and relative
+reductions, and write one accurate sentence for a poster. 
+P
+4. A school wants to know whether a new revision app improves scores. Describe an observational
+comparison and a randomised experiment, and explain which provides stronger evidence for
+causation. 
+P
+5. A scatter plot of 20 countries shows a positive association between average income and life expectancy,
+with 
+. Explain why this does not show that raising an individual’s income by a fixed amount adds
+a fixed number of years of life. 
+E
+6. A data set has a strong correlation created almost entirely by one point far from the rest. Describe how
+you would detect this and how you would report the result responsibly. 
+E
+r
+(2, 5) (4, 8) (6, 10) (8, 14) (10, 15)
+(3, 11)
+(7, 23)
+y
+x = 9
+y = 2.5x + 6
+(4, 17)
+24%
+30%
+r = 0.88
+88%
+5%
+5
+x
+y
+r = −0.84
+y = 18 −2.1x
+0.45
+0.12
+0.8%
+0.5%
+r = 0.72
+
+
+===== [source page 205] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+9 · Bivariate data, correlation and causation
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+205
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+Identify variables and describe a scatter plot.
+1 / 2 / 3
+Calculate and interpret the correlation
+coefficient.
+1 / 2 / 3
+Fit and use a line of best fit, including residuals.
+1 / 2 / 3
+Distinguish correlation from causation and name
+confounders.
+1 / 2 / 3
+Evaluate a graph or headline built on bivariate
+data.
+1 / 2 / 3
+Reflection
+A correlation can be genuine, statistically strong and still useless for a decision — or weak
+and still important. What should a reader ask first: how strong the association is, or how
+the data were produced? Write two sentences explaining your order of priorities.
+
+
+===== [source page 206] =====
+PA R T I V · I N T E R P R E T I N G E V I D E N C E
+M Y P Y E A R 3
+C H A P T E R 1 0
+10
+10
+D ATA , C H A N C E A N D E V I D E N C E
+Probability, sampling and
+evidence
+Chance has structure. Outcomes can be listed, events
+compared and long-run frequencies predicted. A
+sample adds a second question: not only what is likely,
+but who was asked, and what their answers can
+reasonably support.
+KEY CONCEPT · LOGIC
+RELATED · QUANTITY
+RELATED · MODELS
+CONTEXT · IDENTITIES AND RELATIONSHIPS
+36 outcomes
+36 outcomes
+I N Q U I R Y
+How can a limited sample support a claim about a whole population —
+and how should the uncertainty in that claim be communicated?
+AT L · C O M M U N I CAT I O N
+A probability is only as good as the assumptions behind it, and a survey is only as good as the people
+it reached. Both have to be explained in plain language: what was counted, what was assumed, who
+was included and how large the uncertainty is. “One in four” and “25%” can describe the same
+number yet leave a reader with different impressions.
+S A D I KO U M O U KO D D I M
+M Y P M AT H E M AT I C S 3
+
+
+===== [source page 207] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+207
+M Y P U N I T P L A N N E R
+Framing the inquiry
+U N I T 1 0 · A P P R OX . 1 3 H O U R S
+AT L F O C U S · C O M M U N I C AT I O N
+KEY AND RELATED CONCEPTS
+Logic. Probability reasons from a clearly defined
+set of outcomes to a quantified conclusion. The
+conclusion is only valid while the assumptions —
+a fair die, a representative sample — remain true.
+Quantity. Probabilities are numbers between 
+and . Expected frequencies scale with the
+number of trials, and a sample proportion is an
+estimate rather than the population value itself.
+Models and justification. A theoretical
+probability and a sampling method are both
+models of a real process. Evidence for a claim
+about a population depends on how the sample
+was selected and how the result is reported.
+GLOBAL CONTEXT AND EXPLORATION
+Identities and relationships. Exploration:
+how surveys about young people’s habits,
+health risks and school decisions are
+sampled, summarised and used — and who
+is left out when a sample is chosen badly.
+Statistical claims shape how groups are
+seen: “most teenagers”, “one in four
+students”, “a 90% accurate test”. The
+mathematics cannot decide the policy, but
+it can show whether the sample represents
+the group, whether a risk is stated fairly,
+and how much confidence a number
+deserves.
+FACTUAL
+How is a probability
+calculated from a sample
+space? How are compound
+events represented? What is a
+random sample, and how is it
+selected?
+CONCEPTUAL
+Why does relative frequency
+approach theoretical
+probability as the number of
+trials grows? Why can a
+larger sample be more
+reliable yet still biased? How
+does the framing of a risk
+change a decision?
+DEBATABLE
+Should a school act on a
+survey of volunteers? When
+is a “90% accurate” test good
+enough to use for screening?
+Who should decide how a
+risk is reported?
+CRITERION
+STRANDS
+DEVELOPED
+EVIDENCE IN THIS CHAPTER
+A · Knowing and
+understanding
+i, ii
+Use sample spaces, probability rules and sampling vocabulary
+correctly; interpret risk statements.
+B · Investigating patterns
+i, ii, iii
+Collect trial data, compare relative frequencies with theory,
+design a simulation and plan a sample survey.
+C · Communicating
+i, ii, iii, iv
+Represent compound events with tables, Venn diagrams and
+trees; report estimates, methods and limitations.
+D · Applying mathematics
+i, ii, iii, iv, v
+Evaluate a screening claim and a sampling claim; recommend a
+fairer method and a clearer form of words.
+0
+1
+S TAT E M E N T O F I N Q U I R Y
+Probability models uncertainty, and a sample supports a claim about
+a population only when the method of selection, the size of the
+sample and the limits of the evidence are communicated honestly.
+
+
+===== [source page 208] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+208
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Learning intentions and success criteria
+YOU ARE LEARNING TO
+SUCCESS CRITERIA
+P R E R E Q U I S I T E C H E C K · 1 2 M I N U T E S , N O CA LC U L ATO R
+1. Write  as a decimal and as a percentage.
+2. A bag contains  red and  blue counters. Find the probability that a counter drawn at random is
+red.
+3. Write 
+ as a fraction and as a percentage.
+4. Find 
+ of 
+.
+5. Order 
+, , 
+ and  from smallest to largest.
+6. Find the mean of 
+.
+Answers are in the Chapter 10 answer section. If more than two are incorrect, review fraction–decimal–percentage
+conversion, simple probability and the mean before continuing.
+BEFORE YEAR 3
+Simple probability as a fraction;
+listing outcomes; conversion
+between fractions, decimals and
+percentages; the mean of a small
+data set.
+YEAR 3 · THIS CHAPTER
+Sample spaces; compound events;
+tree and Venn diagrams; relative
+frequency; simulation; random
+sampling and bias; absolute and
+relative risk.
+LATER
+Conditional probability and Bayes’
+theorem; probability distributions;
+confidence intervals and
+significance tests; large-scale survey
+design and causal inference.
+INQUIRY PATHWAY FOR THIS CHAPTER
+1
+CONTEXT
+Public claims use
+percentages,
+probabilities and
+survey results to
+describe groups
+and risks.
+2
+QUESTION
+What is likely,
+who was asked,
+and what can the
+evidence support?
+3
+CONCEPT
+Probability,
+sample space,
+relative
+frequency,
+sampling, bias
+and risk.
+4
+INVESTIGATION
+Design and carry
+out a small
+random sample;
+compare the
+estimate with a
+census and report
+the limits.
+5
+COMMUNICATION
+Use fractions,
+decimals and
+percentages
+accurately; report
+absolute and
+relative risk; state
+the sample and
+method.
+6
+REFLECTION
+When does a
+probability
+become evidence
+for a decision, and
+what would
+change your
+mind?
+Understand outcomes, events and sample
+spaces, and calculate theoretical probabilities.
+Be able to combine events using tables, Venn
+diagrams and tree diagrams.
+Know how relative frequency estimates
+probability and how simulation tests a model.
+Understand populations, samples, random
+selection and the main sources of bias.
+Be able to interpret absolute and relative risk
+and recognise base-rate errors.
+Be able to design a small sample survey and
+report its estimate with appropriate caution.
+I can list a sample space systematically and
+use it to calculate probabilities.
+I can use the complement rule and the
+addition rule correctly.
+I can draw a tree or Venn diagram for a two-
+stage or two-event problem.
+I can compare experimental relative
+frequency with theoretical probability and
+explain the difference.
+I can identify the population and sample,
+and name a specific source of bias.
+I can report a risk or survey estimate with
+the absolute numbers and the method
+behind it.
+​8
+3
+6
+4
+0.07
+15%
+240
+0.6
+​3
+2 0.65
+​5
+3
+12, 18, 15, 20, 15
+
+
+===== [source page 209] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+209
+ Outcomes, events and probability
+CRITERION A · I, II
+CRITERION C · I, II
+QUANTITY
+Probability begins with a clear question: what could happen? Once the possible outcomes
+are listed, likelihood can be counted rather than guessed.
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+impossible
+impossible
+even chance
+even chance
+certain
+certain
+unlikely
+unlikely
+likely
+likely
+Figure 10.1 Probability is measured on a scale from  to . A probability of 
+ is an even chance, not a guarantee that one of each
+outcome will occur in the next two trials.
+Three rules follow from the definition. First, every probability lies between  and , because an
+event cannot contain fewer than no outcomes or more than all of them. Second, the probabilities of
+all the outcomes in a sample space add to . Third, an event either happens or does not, so
+The complement rule is often the quickest route: if “at least one” is awkward to count, count “none”
+instead and subtract from .
+10.1
+D E F I N I T I O N S
+A probability experiment is a process with an uncertain result; each repetition is a trial. An
+outcome is one possible result, and the sample space is the set of all possible outcomes. An
+event is a set of outcomes. Outcomes are equally likely when each has the same chance of
+occurring. For a finite sample space with equally likely outcomes,
+The complement of , written 
+, consists of all outcomes not in . A coin, die or spinner is
+fair when its outcomes are equally likely.
+P(A) =
+​.
+total number of outcomes
+number of outcomes in A
+A
+A′
+A
+0
+1
+0.5
+0
+1
+1
+P(A) + P(A ) =
+′
+1.
+1
+
+
+===== [source page 210] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+210
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 1 0.1 .1
+ONE FAIR DIE
+PROBLEM
+A fair six-sided die is rolled once. Find (a) 
+, (b) 
+, (c) 
+ and
+(d) 
+.
+ANSWER (a)  (b)  (c)  (d) .
+WO R K E D E X A M P L E 1 0.1 . 2
+A BAG OF COUNTERS
+PROBLEM
+A bag contains  red,  blue and  green counters, all the same size. One counter is drawn at
+random. Find (a) 
+, (b) 
+, (c) 
+, and (d) the number of red
+counters expected in 
+ draws if each counter is replaced after it is drawn.
+ANSWER (a)  (b)  (c) 
+ (d) 
+.
+When an experiment has two stages, a table lists the sample space systematically and prevents
+omissions. The figure below shows every result of rolling two fair dice; each cell is one of 
+ equally
+likely outcomes.
+P(even)
+P(greater than 4)
+P(not prime)
+P(even or prime)
+The sample space is 
+, with  equally likely outcomes.
+1
+{1, 2, 3, 4, 5, 6}
+6
+(a) The even outcomes are 
+, so 
+.
+2
+2, 4, 6
+P(even) =
+​ =
+6
+3
+2
+1
+(b) The outcomes greater than  are 
+, so 
+.
+3
+4
+5, 6
+P(greater than 4) =
+​ =
+6
+2
+​3
+1
+(c) The primes are 
+, so the non-primes are 
+. Hence 
+.
+4
+2, 3, 5
+1, 4, 6
+P(not prime) =
+=
+6
+3
+​2
+1
+(d) “Even or prime” contains 
+. The outcome  is in both events but must be counted
+once, so the probability is , not 
+.
+5
+2, 3, 4, 5, 6
+2
+​6
+5
+​ +
+6
+3
+​ =
+6
+3
+​6
+6
+​2
+1
+​3
+1
+​2
+1
+​6
+5
+5
+3
+2
+P(red)
+P(blue or green)
+P(not blue)
+40
+There are 
+ equally likely counters.
+1
+5 + 3 + 2 = 10
+(a) 
+.
+2
+P(red) =
+​ =
+10
+5
+​2
+1
+(b) The blue and green counters are 
+, so 
+.
+3
+3 + 2 = 5
+P(blue or green) =
+​ =
+10
+5
+​2
+1
+(c) The complement of blue contains the  red and green counters, so 
+.
+4
+7
+P(not blue) =
+​
+10
+7
+(d) In 
+ draws, the expected number of reds is 
+. This is a long-run average, not a
+promise that exactly 
+ of the next 
+ draws will be red.
+5
+40
+40 ×
+​ =
+10
+5
+20
+20
+40
+​2
+1
+​2
+1
+​
+10
+7
+20
+36
+
+
+===== [source page 211] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+211
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+die 1
+die 2
+2
+3
+4
+5
+6
+7
+3
+4
+5
+6
+7
+8
+4
+5
+6
+7
+8
+9
+5
+6
+7
+8
+9
+10
+6
+7
+8
+9
+10
+11
+7
+8
+9
+10
+11
+12
+Figure 10.2 The sample space for the sum of two fair dice. Each of the 
+ cells is equally likely, even though the possible sums are
+not: there is one way to make  and six ways to make .
+WO R K E D E X A M P L E 1 0.1 .3
+TWO FAIR DICE
+PROBLEM
+Two fair dice are rolled and the sum of the faces is recorded. Find (a) 
+, (b)
+, (c) 
+ and (d) 
+.
+ANSWER (a)  (b) 
+ (c) 
+ (d) .
+36
+2
+7
+P(sum 7)
+P(prime sum)
+P(at least one 6)
+P(sum greater than 9)
+There are 
+ equally likely outcomes. Using the table or an ordered list avoids
+counting the same roll twice.
+1
+6 × 6 = 36
+(a) The sums equal to  are 
+, six outcomes. So
+.
+2
+7
+(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)
+P(sum 7) =
+​ =
+36
+6
+​6
+1
+(b) The prime sums are 
+, with 
+ outcomes. So
+.
+3
+2, 3, 5, 7, 11
+1 + 2 + 4 + 6 + 2 = 15
+P(prime sum) =
+​ =
+36
+15
+​
+12
+5
+(c) The complement of “at least one ” is “no ”, which has 
+ outcomes. Hence
+.
+4
+6
+6
+5 × 5 = 25
+P(at least one 6) = 1 −
+​ =
+36
+25
+​
+36
+11
+(d) Sums greater than  are 
+, with 
+ outcomes, so the probability is 
+.
+5
+9
+10, 11, 12
+3 + 2 + 1 = 6
+​ =
+36
+6
+​6
+1
+​6
+1
+​
+12
+5
+​
+36
+11
+​6
+1
+G U I D E D P R AC T I C E · U S E T H E D I C E TA B L E
+Using Figure 10.2, find (a) 
+, (b) 
+, (c) 
+ and (d) 
+. For
+each, first count the favourable outcomes, then divide by 
+. Check (c) with the complement
+rule.
+P(sum 5)
+P(sum 12)
+P(sum not 7)
+P(at least one 3)
+36
+
+
+===== [source page 212] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+212
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 10.1 · SAMPLE SPACES AND PROBABILITY
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–9
+1. A fair coin is tossed once. List the sample space and find 
+. 
+F
+2. A fair eight-sector spinner is numbered  to . Find 
+, 
+ and 
+. 
+F
+3. A bag contains  red,  yellow and  black counters. One counter is drawn at random. Find 
+,
+ and 
+. 
+F
+4. Two fair dice are rolled. Find 
+, 
+ and 
+. 
+R
+5. Explain why a forecast of 
+ does not mean that it will rain for 
+ of the day. 
+R
+6. A student says: “There are two outcomes, win or lose, so the probability of winning is .” Critique the
+statement and give a counterexample. 
+R
+7. A bag contains  red counters and some blue counters. The probability of drawing red is . Find the
+number of blue counters. 
+P
+8. Design a twelve-sector spinner so that 
+, 
+ and the remaining sectors are green.
+State the number of sectors of each colour. 
+P
+9. Two fair dice are rolled. Find one event with probability  and one with probability , other than the
+events in Worked example 10.1.3. Justify each by counting outcomes. 
+E
+ Compound events: tables, trees and Venn
+diagrams
+CRITERION A · I, II
+CRITERION C · I, II, III
+LOGIC
+Most real questions combine events: rain and a delayed bus, a red counter and then
+another red, a student who studies both languages. A representation that makes the
+overlap visible is the safest way to count.
+Venn diagrams are useful when the same individuals can belong to more than one group. Count the
+overlap first, then fill in the “only” regions, and check that all the counts add to the total.
+C O M M O N E R R O R · AS S U M I N G O U TC O M E S A R E E Q UA L LY L I K E LY
+“It either happens or it does not” does not make the probability . A biased coin can land
+heads with probability 
+. Equally likely outcomes must be justified by the physical setup —
+a fair die, a well-balanced spinner, a random draw from a thoroughly mixed bag — not by the
+number of descriptions we can invent.
+​2
+1
+0.8
+P(head)
+1
+8
+P(prime) P(multiple of 4)
+P(not 3)
+4
+6
+2
+P(red)
+P(not black)
+P(red or yellow)
+P(sum 9) P(sum at most 3)
+P(both faces odd)
+P(rain) = 0.3
+30%
+​2
+1
+3
+​4
+1
+P(red) =
+​3
+1 P(blue) =
+​4
+1
+​2
+1
+​3
+1
+10.2
+D E F I N I T I O N S
+A compound event combines two or more events. Two events are mutually exclusive when
+they cannot occur together. They are independent when the occurrence of one does not
+change the probability of the other. A dependent event’s probability does change, as when a
+counter is drawn and not replaced. With replacement means the item is returned before the
+next draw; without replacement means it is not. The union
+ means  or 
+ or both; the
+intersection
+ means both.
+A ∪B
+A
+B
+A ∩B
+
+
+===== [source page 213] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+213
+A
+B
+A ∩ B
+sample space ξ
+Figure 10.3 Two events 
+ and 
+ inside a sample space. Adding 
+ and 
+ counts the overlap twice, so the addition rule
+subtracts it once.
+If  and 
+ are events in the same sample space, then
+The rule is a counting statement: 
+ consists of the outcomes in  only, in 
+ only, and in both.
+Adding the counts of  and 
+ includes the overlap twice, so one copy is subtracted. When  and 
+are mutually exclusive, the intersection is empty and the rule reduces to 
+.
+WO R K E D E X A M P L E 1 0. 2 .1
+A TWO-LANGUAGE CLASS
+PROBLEM
+In a class of 
+ students, 
+ study French, 
+ study Spanish and  study both. A student is
+chosen at random. Find 
+, 
+, 
+, 
+ and 
+.
+ANSWER
+, , , , .
+Two events are independent when one outcome tells you nothing about the other. For independent
+events, the multiplication rule applies:
+This is why a die and a coin are convenient: whatever the die shows, the coin is still equally likely
+to land heads. Drawing without replacement is different, because the first draw changes the
+contents of the bag and therefore the probability on the second draw.
+A
+B
+P (A)
+P (B)
+A
+B
+P(A ∪B) = P(A) + P(B) −P(A ∩B).
+A ∪B
+A
+B
+A
+B
+A
+B
+P(A ∪B) = P(A) + P(B)
+30
+18
+12
+5
+P(French) P(Spanish) P(both) P(French or Spanish)
+P(neither)
+Start with the overlap:  students study both languages.
+1
+5
+French only: 
+. Spanish only: 
+.
+2
+18 −5 = 13
+12 −5 = 7
+Students studying at least one language: 
+, leaving 
+ who study neither.
+3
+13 + 7 + 5 = 25
+30 −25 = 5
+ and 
+.
+4
+P(French) =
+​ =
+30
+18
+​5
+3
+P(Spanish) =
+​ =
+30
+12
+​5
+2
+.
+5
+P(both) =
+​ =
+30
+5
+​6
+1
+Using the addition rule, 
+.
+6
+P(French or Spanish) =
+​ +
+30
+18
+​ −
+30
+12
+​ =
+30
+5
+​ =
+30
+25
+​6
+5
+The complement gives 
+, which agrees with the count of  students.
+7
+P(neither) = 1 −
+​ =
+30
+25
+​6
+1
+5
+​5
+3
+​5
+2
+​6
+1
+​6
+5
+​6
+1
+P(A ∩B) = P(A) × P(B).
+
+
+===== [source page 214] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+214
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 1 0. 2 . 2
+INDEPENDENT EVENTS
+PROBLEM
+A fair die is rolled and a fair coin is tossed. Find (a) 
+, (b)
+ and (c) 
+.
+ANSWER (a) 
+ (b)  (c) 
+.
+A tree diagram shows the stages of an experiment in order. Multiply along a branch to find the
+probability of that sequence, and add the probabilities of all complete branches that satisfy the
+event.
+start
+4/7
+3/7
+3/6
+3/6
+4/6
+2/6
+RR
+4/7×3/6
+RB
+4/7×3/6
+BR
+3/7×4/6
+BB
+3/7×2/6
+Figure 10.4 Drawing twice without replacement from  red and  blue counters. The second-stage denominator is  because one
+counter has already been removed.
+P(a 6 and a tail)
+P(an even number and a head)
+P(a 6 or a head)
+The die and the coin are independent, so multiply the probabilities for “and”.
+1
+(a) 
+ and 
+, so 
+.
+2
+P(6) =
+​6
+1
+P(tail) =
+​2
+1
+P(6 and tail) =
+​ ×
+6
+1
+​ =
+2
+1
+​
+12
+1
+(b) 
+, so 
+.
+3
+P(even) =
+​2
+1
+P(even and head) =
+​ ×
+2
+1
+​ =
+2
+1
+​4
+1
+(c) For “or”, use the addition rule: 
+.
+4
+P(6 or head) =
+​ +
+6
+1
+​ −
+2
+1
+​ =
+12
+1
+​ +
+12
+2
+​ −
+12
+6
+​ =
+12
+1
+​
+12
+7
+​
+12
+1
+​4
+1
+​
+12
+7
+4
+3
+6
+
+
+===== [source page 215] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+215
+WO R K E D E X A M P L E 1 0. 2 .3
+TWO DRAWS WITHOUT REPLACEMENT
+PROBLEM
+A bag contains  red and  blue counters. Two counters are drawn without replacement. Find
+(a) 
+, (b) 
+ and (c) 
+.
+ANSWER (a)  (b)  (c) .
+PRACTICE 10.2 · COMPOUND EVENTS
+SUPPORT 1–3 · CORE 1–7 · EXTENSION 8–10
+1. Two fair coins are tossed. List the sample space and find 
+ and 
+. 
+F
+2. A fair die is rolled and a fair coin is tossed. Find 
+ and 
+. 
+F
+3. 
+, 
+, and  and 
+ are mutually exclusive. Find 
+ and 
+. 
+F
+4. 
+, 
+ and 
+. Find 
+ and decide whether  and 
+ are
+independent. 
+R
+5. In a group of 
+ students, 
+ play football, 
+ play basketball and 
+ play both. Find the probability
+that a student chosen at random plays football, plays basketball, plays both, plays at least one, and
+plays neither. 
+R
+6. A bag contains  red and  green counters. Two are drawn without replacement. Find 
+and 
+. 
+R
+7. Explain why 
+ applies to independent events but not to draws without
+replacement. Give one example of each. 
+R
+8. A bag contains  red and  white counters. Draw a tree diagram for two draws without replacement
+and find 
+ and 
+. 
+P
+9. A game uses two fair dice. A player wins if the sum is  or 
+. Find the probability of winning. In 
+games, how many wins would you expect? 
+P
+10. 
+, 
+ and 
+. Find 
+ and determine whether  and 
+ are
+independent. Justify your answer. 
+E
+4
+3
+P(both red)
+P(one of each colour)
+P(at least one red)
+First draw: 
+ and 
+.
+1
+P(red) =
+​7
+4
+P(blue) =
+​7
+3
+If the first is red,  red and  blue remain: 
+ and 
+.
+2
+3
+3
+P(red second) =
+​6
+3
+P(blue second) =
+​6
+3
+If the first is blue,  red and  blue remain: 
+ and 
+.
+3
+4
+2
+P(red second) =
+​6
+4
+P(blue second) =
+​6
+2
+(a) 
+.
+4
+P(RR) =
+​ ×
+7
+4
+​ =
+6
+3
+​ =
+42
+12
+​7
+2
+(b) One of each colour is RB or BR: 
+.
+5
+​ ×
+7
+4
+​ +
+6
+3
+​ ×
+7
+3
+​ =
+6
+4
+​ +
+42
+12
+​ =
+42
+12
+​ =
+42
+24
+​7
+4
+(c) The complement of “at least one red” is BB: 
+. Hence
+.
+6
+P(BB) =
+​ ×
+7
+3
+​ =
+6
+2
+​ =
+42
+6
+​7
+1
+P(at least one red) = 1 −
+​ =
+7
+1
+​7
+6
+​7
+2
+​7
+4
+​7
+6
+C O M M O N E R R O R · C O N F U S I N G “ M U T UA L LY E XC L U S I V E ” W I T H “ I N D E P E N D E N T ”
+Mutually exclusive events cannot happen together; independent events do not influence each
+other. Drawing a red card and drawing a black card in a single draw are mutually exclusive,
+but not independent: if you draw red, the probability of black is . Rolling a  and tossing a
+head are independent, but not mutually exclusive: both can happen. For independent events,
+use multiplication; for “or” with an overlap, use the addition rule.
+0
+6
+P(two heads)
+P(exactly one head)
+P(odd and tail)
+P(odd or tail)
+P(A) = 0.5 P(B) = 0.3
+A
+B
+P(A ∪B)
+P(neither)
+P(A) = 0.4 P(B) = 0.5
+P(A ∩B) = 0.2
+P(A ∪B)
+A
+B
+80
+30
+25
+10
+5
+4
+P(both green)
+P(at least one red)
+P(A ∩B) = P(A) × P(B)
+3
+2
+P(same colour)
+P(different colours)
+7
+11
+180
+P(A) = 0.6 P(B) = 0.5
+P(A ∪B) = 0.9
+P(A ∩B)
+A
+B
+
+
+===== [source page 216] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+216
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ From theory to experiment
+CRITERION A · I, II
+CRITERION B · I, II
+MODELS
+A theoretical probability is a prediction from assumptions. An experiment gives a
+measurement. Comparing the two is how we test whether the assumptions — and the
+model — are reasonable.
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0
+100
+200
+300
+400
+500
+number of trials
+relative frequency
+theoretical 1/6 ≈ 0.167
+theoretical 1/6 ≈ 0.167
+Figure 10.5 Relative frequencies from repeated trials. Early trials scatter widely; with more trials the values cluster more tightly
+around the theoretical probability.
+10.3
+D E F I N I T I O N S
+The relative frequency of an outcome is 
+. It is also called the
+experimental probability. A simulation imitates a probability experiment using a model
+such as random digits, a spreadsheet or a die. The law of large numbers says, informally, that
+as the number of trials increases, relative frequencies tend to settle near the theoretical
+probabilities, provided the trials are independent and the model is correct.
+​
+number of trials
+number of times it occurred
+
+
+===== [source page 217] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+217
+WO R K E D E X A M P L E 1 0.3.1
+TWO HUNDRED SPINS
+PROBLEM
+A spinner has a green half and a quarter each of red and blue. In 
+ spins, it lands on red 
+times, blue 
+ times and green 
+ times. Calculate the relative frequency of each colour,
+compare with the theoretical probability, and comment.
+ANSWER Red 
+, blue 
+, green 
+; close to 
+. The differences are small and
+plausible for 
+ trials.
+WO R K E D E X A M P L E 1 0.3. 2
+SIMULATING FREE THROWS
+PROBLEM
+A basketball player scores about 
+ of free throws. Simulate 
+ throws using the random
+digits
+4 8 1 0 6 6 9 3 5 0 7 2 1 4 8 3 9 5 0 6
+taking – as a score and – as a miss. Estimate the probability from the simulation and
+compare with 
+.
+ANSWER
+ scores in 
+ trials gives 
+; a small-sample estimate of the 
+ model.
+200
+46
+58
+96
+Relative frequencies: red 
+; blue 
+; green 
+.
+1
+​ =
+200
+46
+0.23
+​ =
+200
+58
+0.29
+​ =
+200
+96
+0.48
+Theoretical probabilities: red 
+, blue 
+, green 
+.
+2
+0.25
+0.25
+0.50
+All three experimental values are close to theory. Blue is 
+ above its theoretical value and
+green 
+ below.
+3
+0.04
+0.02
+These differences are consistent with ordinary sampling variation. They do not, by
+themselves, show that the spinner is biased; more trials would show whether the gap persists.
+4
+0.23
+0.29
+0.48
+0.25, 0.25, 0.50
+200
+70%
+20
+0 6
+7 9
+0.7
+There are  scoring digits out of 
+, so each digit scores with probability 
+.
+1
+7
+10
+0.7
+Scoring digits in the list: 
+ — 
+ scores.
+2
+4, 1, 0, 6, 6, 3, 5, 0, 2, 1, 4, 3, 5, 0, 6
+15
+Misses: 
+ —  misses. Check: 
+.
+3
+8, 9, 7, 8, 9
+5
+15 + 5 = 20
+The simulated relative frequency is 
+, above 
+ but not unreasonable for only 
+trials.
+4
+​ =
+20
+15
+0.75
+0.70
+20
+A second run would give a different value. Averaging over many runs, or using 
+ trials,
+would produce an estimate closer to 
+.
+5
+200
+0.70
+15
+20
+0.75
+0.70
+
+
+===== [source page 218] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+218
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 1 0.3.3
+IS THE DIE FAIR?
+PROBLEM
+A die is rolled 
+ times with the frequencies shown. Calculate the relative frequency of each
+face, compare with , and decide what can and cannot be concluded.
+Face
+1
+2
+3
+4
+5
+6
+Frequency
+18
+22
+19
+21
+17
+23
+Relative frequency
+0.150
+0.183
+0.158
+0.175
+0.142
+0.192
+ANSWER Relative frequencies 
+, all close to 
+. No
+evidence of bias, but fairness is not proved.
+PRACTICE 10.3 · EXPERIMENTAL PROBABILITY
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. A coin is tossed 
+ times and lands heads 
+ times. Find the relative frequency and compare it with the
+theoretical probability. 
+F
+2. A spinner is expected to land red with probability 
+. In 
+ spins it lands red 
+ times. Find the
+relative frequency and the expected number of reds. 
+F
+3. A simulation uses digits – , and success is a digit from  to . State the modelled probability. In 
+trials the successes are 
+. Estimate the probability and compare. 
+R
+4. Explain why rolling a die 
+ times is not enough to decide whether it is biased. 
+R
+5. A fair coin lands heads six times in a row. Find the probability that the next toss is a head, and explain
+your reasoning. 
+R
+6. Design a simulation for the sexes of three children in a family, assuming 
+.
+Explain how to use random digits and how to estimate 
+. 
+P
+7. A game website claims a “
+ win rate” from 
+ plays. Explain why this is weak evidence and describe
+a better way to test the claim. 
+P
+8. Two students simulate 
+ trials each and obtain relative frequencies of 
+ and 
+. One says their
+results prove the true probability is between them. Critique this reasoning and explain what
+combining the trials would show. 
+E
+120
+​6
+1
+The expected frequency of each face in 
+ rolls is 
+.
+1
+120
+120 ×
+​ =
+6
+1
+20
+Each observed frequency is within  of 
+. The relative frequencies lie between 
+ and
+, around 
+.
+2
+3
+20
+0.142
+0.192
+0.167
+These deviations are small and balanced: three faces are above 
+ and three below.
+3
+20
+The data are consistent with a fair die, but they do not prove fairness. A larger number of
+rolls, or a formal test, would be needed to detect a small bias.
+4
+0.150, 0.183, 0.158, 0.175, 0.142, 0.192
+​ ≈
+6
+1
+0.167
+C O M M O N E R R O R · T H E GA M B L E R ’ S FA L L AC Y
+After five heads in a row, some people say a tail is “due”. If the coin is fair, the next toss is still
+. The coin has no memory, and the law of large numbers does not schedule
+compensation; it says that in a very long sequence the proportion of heads will settle near
+one half, not that the next trial must correct the past.
+P(head) = 0.5
+80
+36
+0.2
+250
+60
+0 9
+0
+3
+15
+1, 4, 0, 2, 9, 3, 3, 7, 0, 5, 2, 8, 1, 3, 4
+10
+P(boy) = P(girl) = 0.5
+P(all three the same sex)
+70%
+20
+20
+0.30
+0.45
+
+
+===== [source page 219] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+219
+ Populations, samples and bias
+CRITERION A · I, II
+CRITERION B · I, II, III
+JUSTIFICATION
+A probability describes a model. A survey describes people. The bridge between them is
+the sample: a small group chosen so that what is true of the group is likely to be roughly
+true of the whole.
+biased sample
+random sample
+group A
+group B
+group C
+Figure 10.6 A biased sample over-represents one group, while a random sample gives every group a chance. Sample size alone
+cannot repair a method that systematically misses part of the population.
+Random selection is the strongest defence against bias, but it is not the only decision. A sample also
+needs a complete frame: if the list omits students who are absent, or people without a phone, the
+“random” draw is random only from the part that could be reached. Three common methods are:
+Convenience samples — asking the first 
+ people in the queue — and voluntary-response samples —
+inviting anyone to vote online — are not random. They are cheap, but they systematically favour
+people who are easy to reach or strongly motivated, and no increase in size removes that direction
+of error.
+10.4
+D E F I N I T I O N S
+The population is the whole group about which we want information. A sample is the part
+we actually observe, and the sample size is the number of individuals in it. A census
+measures every member of the population. A random sample gives every member a known,
+non-zero chance of being chosen. The sampling frame is the list from which the sample is
+drawn. Bias is a systematic tendency for a sample or measurement to differ from the
+population in a particular direction. A representative sample has roughly the same
+composition as the population on the characteristics that matter. A stratified sample selects
+from each subgroup in proportion to its size.
+Simple random sample. Number the frame and use a random-number generator to choose
+individuals. Every member has the same chance.
+Systematic sample. Choose every th name on the frame after a random start. Convenient when the
+list is long, provided the list has no repeating pattern that matches .
+k
+k
+Stratified sample. Divide the population into groups such as year levels or regions, then sample
+within each group in proportion to its size. This guarantees representation of every group.
+50
+
+
+===== [source page 220] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+220
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 1 0. 4.1
+A WEBSITE POLL
+PROBLEM
+A school asks visitors to its website to vote on a later start time. Of 
+ responses, 
+support the change. The head teacher says: “Most students want a later start.” Evaluate the
+sample and the claim.
+ANSWER The sample is voluntary and not representative. A random sample from the roll,
+with follow-up, is needed before the claim about all students can be made.
+WO R K E D E X A M P L E 1 0. 4. 2
+A STRATIFIED SAMPLE
+PROBLEM
+A school has 
+ students: 
+ in Year 7, 
+ in Year 8 and 
+ in Year 9. A sample of 
+ students
+is to be selected, stratified by year group. Find the number selected from each year.
+ANSWER
+ from Year 7, 
+ from Year 8 and 
+ from Year 9.
+1,200
+78%
+The population is all students at the school; the sample is the 
+ people who chose to vote.
+1
+1,200
+The sample is self-selected. Students with a strong opinion, easy internet access or an interest
+in the website are more likely to respond; students who are indifferent or offline are under-
+represented.
+2
+Nothing guarantees that respondents are students at all. The poll measures support among
+website visitors, not among the student body.
+3
+A better design would draw a random sample from the school roll, contact each selected
+student, and follow up non-responses. Stratifying by year group would ensure each year is
+represented.
+4
+The claim “most students” is not supported by this poll, even though 
+ is a large percentage
+of a large number of responses.
+5
+78%
+720
+300
+240
+180
+60
+Each year group’s share of the school is its count divided by 
+.
+1
+720
+Year 7: 
+, so 
+ students.
+2
+​ =
+720
+300
+​
+12
+5
+60 ×
+​ =
+12
+5
+25
+Year 8: 
+, so 
+ students.
+3
+​ =
+720
+240
+​3
+1
+60 ×
+​ =
+3
+1
+20
+Year 9: 
+, so 
+ students.
+4
+​ =
+720
+180
+​4
+1
+60 ×
+​ =
+4
+1
+15
+Check: 
+. Within each year group, students should still be chosen at random
+from the roll.
+5
+25 + 20 + 15 = 60
+25
+20
+15
+
+
+===== [source page 221] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+221
+WO R K E D E X A M P L E 1 0. 4.3
+WRITING A FAIR QUESTION
+PROBLEM
+A student writes: “Don’t you agree that the canteen should stop selling unhealthy food? Yes /
+No.” Identify the problems and rewrite the item as two neutral questions.
+ANSWER The original is leading and ambiguous. Ask about frequency with balanced options,
+then about preferred changes with a “no change” option, and keep responses anonymous.
+PRACTICE 10.4 · SAMPLING AND BIAS
+SUPPORT 1–3 · CORE 1–6 · EXTENSION 7–8
+1. A school surveys 
+ of its 
+ students. Identify the population, the sample and the sample size. 
+F
+2. Give one advantage and one disadvantage of a census compared with a sample. 
+F
+3. A year group of 
+ students is numbered  to 
+. Describe how to choose a simple random sample of
+ using random numbers. 
+F
+4. Explain why an online poll on a news website is likely to be biased, even if tens of thousands of people
+respond. 
+R
+5. A school has 
+ students: 
+ in Year 7, 
+ in Year 8 and 
+ in Year 9. A stratified sample of 
+ is
+needed. Find the number from each year. 
+R
+6. A researcher compares a sample of 
+ with a sample of 
+, both randomly chosen from the same
+population. Which estimate is likely to be more accurate, and why? 
+R
+7. A questionnaire asks: “How much do you love sport? A lot / A little.” Critique the item and rewrite it
+with clearer, balanced options. 
+P
+8. Design a sample to estimate the average travel time from home to school. State the population,
+sampling frame, method, sample size and one source of bias you would monitor. 
+E
+The phrase “Don’t you agree” invites a yes; it presents one side as the reasonable position.
+1
+“Unhealthy food” is undefined. Different respondents will classify different items as
+unhealthy, so their answers are not comparable.
+2
+“Yes / No” forces a choice and offers no way to say “don’t know” or “no opinion”.
+3
+A neutral version asks about behaviour and preferences separately: “How often do you buy
+food from the canteen?” with options Never / Less than once a week / 1–3 times a week / 4 or
+more times a week. Then: “Which one change to the canteen would you most like?” with
+several balanced options, including “no change”.
+4
+Assure anonymity and avoid collecting names with the responses; respondents are more
+likely to answer honestly when they cannot be identified.
+5
+C O M M O N E R R O R · “A B I G G E R SA M P L E I S A LWAY S B E T T E R ”
+A larger sample reduces random variation, but it does not remove bias. A voluntary online
+poll with 
+ responses can be far less representative than a random sample of 
+students drawn from a complete roll. Ask first “Who could not be selected?”, then “How many
+were selected?”.
+50,000
+200
+50
+800
+200
+1
+200
+10
+600
+240
+200
+160
+90
+20
+80
+
+
+===== [source page 222] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+222
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+ Risk, base rates and decisions
+CRITERION A · I, II
+CRITERION D · I, II, III
+JUSTIFICATION
+A risk is a probability attached to a consequence. It can be described with different
+denominators, and the choice of words changes what a reader believes. Natural
+frequencies and absolute risks make comparisons fairer.
+Relative risk alone can exaggerate a small danger. A rise from  in 
+ to  in 
+ is a doubling,
+but the absolute increase is only  extra case in 
+ people. A rise from 
+ in 
+ to 
+ in 
+ is
+also a doubling, but it affects 
+ extra people per thousand. Both statements are true; only both
+together are informative.
+WO R K E D E X A M P L E 1 0. 5.1
+RELATIVE AND ABSOLUTE RISK
+PROBLEM
+A report says a new food additive “doubles the risk” of a rare illness. The risk rises from  in
+ to  in 
+. Express the change as an absolute risk and as a percentage-point change.
+Then describe a doubling from 
+ to 
+ in the same two ways and compare the messages.
+ANSWER First: 
+ to 
+, an increase of 
+ percentage points. Second: 
+ to 
+, an
+increase of  percentage points. Both double, but the absolute consequences differ greatly.
+Screening tests are a particularly rich source of confusion because a positive result is not the same
+as having the condition. The table below records 
+ people tested in a clinic. The test detects 
+of true cases, and it also gives a positive result for 
+ of people who do not have the condition.
+10.5
+D E F I N I T I O N S
+Risk is the probability of an unwanted outcome. Absolute risk is stated as a number out of a
+group, such as “ in 
+”. Relative risk compares two risks as a ratio or percentage change,
+such as “twice as likely”. Prevalence is the proportion of a population that has a condition at
+a given time. In a test, a false positive is a positive result for someone without the condition,
+and a false negative is a negative result for someone with it.
+3
+1,000
+1
+10,000
+2
+10,000
+1
+10,000
+20
+1,000
+40
+1,000
+20
+1
+10,000
+2
+10,000
+2%
+4%
+Absolute risk before: 
+. After: 
+.
+1
+​ =
+10,000
+1
+0.0001 = 0.01%
+​ =
+10,000
+2
+0.02%
+The absolute increase is 
+ percentage points, or  extra case per 
+ people.
+2
+0.01
+1
+10,000
+The relative risk is 
+, so “doubles” is correct in relative terms.
+3
+​ =
+0.01
+0.02
+2
+For 
+ to 
+, the relative risk is also , but the absolute increase is  percentage points, or 
+extra cases per 
+ people.
+4
+2%
+4%
+2
+2
+20
+1,000
+The same word “doubles” describes a negligible absolute change in the first case and a
+substantial one in the second. A responsible report gives both the relative and the absolute
+comparison.
+5
+0.01%
+0.02%
+0.01
+2%
+4%
+2
+1,000
+90%
+10%
+
+
+===== [source page 223] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+223
+SCREENING 
+ PEOPLE: TEST RESULT BY TRUE CONDITION
+Test positive
+Test negative
+Total
+Has condition
+No condition
+Total
+WO R K E D E X A M P L E 1 0. 5. 2
+WHAT A POSITIVE TEST MEANS
+PROBLEM
+Using the table, find (a) the probability that a randomly chosen person tests positive, (b) the
+probability that a person has the condition given a positive test, and (c) explain why “
+accurate” is an incomplete description.
+ANSWER (a) 
+ (b) about 
+ (c) “
+ accurate” hides the low prevalence and the false
+positives; the test detects 
+ of cases but only about 
+ of positives are true cases.
+The prevalence matters. If the same test were used where 
+ of people have the condition, 
+ of
+ would be true cases. With 
+ sensitivity, 
+ would test positive; with 
+ false positives
+among the 
+ healthy, another 
+ would test positive. Then 
+, so
+half of the positives would be true cases. The test has not improved; the population has changed.
+1,000
+45
+5
+50
+95
+855
+950
+140
+860
+1,000
+90%
+(a) 
+ of 
+ people test positive, so 
+.
+1
+140
+1,000
+P(positive) =
+​ =
+1,000
+140
+0.14 = 14%
+(b) Of the 
+ positive results, only 
+ belong to people with the condition. So
+, about 
+.
+2
+140
+45
+P(condition ∣positive) =
+​ ≈
+140
+45
+0.321
+32%
+(c) The test is 
+ sensitive: it finds 
+ of true cases. It is also 
+ specific: it correctly
+clears 
+ of healthy people. But because the condition is rare (
+ in 
+), the 
+ false
+positives outnumber the 
+ true positives.
+3
+90%
+​ =
+50
+45
+90%
+90%
+​ =
+950
+855
+90%
+50
+1,000
+95
+45
+Most positive results therefore come from people without the condition. A positive result
+should lead to further testing, not a diagnosis.
+4
+14%
+32%
+90%
+90%
+32%
+10%
+100
+1,000
+90%
+90
+10%
+900
+90
+P(condition ∣positive) =
+=
+180
+90
+0.5
+
+
+===== [source page 224] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+224
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+WO R K E D E X A M P L E 1 0. 5.3
+RISK IN A SCHOOL POPULATION
+PROBLEM
+A leaflet states that “ in  people will experience a mental health problem”. A school of 
+students uses this to predict that 
+ students are currently affected. Identify two errors in
+the interpretation and suggest a more careful statement.
+ANSWER The lifetime figure is being treated as a current rate, and the population is different.
+Report the source, the time frame and the uncertainty rather than converting it into a
+precise count.
+PRACTICE 10.5 · RISK AND EVIDENCE
+SUPPORT 1–3 · CORE 1–8 · EXTENSION 9–12
+1. Write “ in 
+” as a percentage and as a decimal. 
+F
+2. A risk rises from  in 
+ to  in 
+. Find the absolute increase in percentage points and the
+relative increase. 
+F
+3. A condition affects 
+ of a population of 
+. Find the expected number of cases. 
+F
+4. A headline says a risk “doubles” from  in 
+ to  in 
+. Explain why the headline may
+mislead and how it could be written more fairly. 
+R
+5. In 
+ people, 
+ have a condition. A test detects 
+ of cases and has a 
+ false-positive rate.
+Complete a two-way table and find 
+. 
+R
+6. A test is 
+ specific. In 
+ healthy people, how many false positives are expected? Explain why
+this matters when the condition is rare. 
+R
+7. A school proposes screening every student for a rare condition. List two benefits and two harms, and
+state what data you would need before deciding. 
+P
+8. Design a one-paragraph poster statement that reports a doubled risk honestly. Include the absolute
+risk before and after, the relative risk and one reason the change matters. 
+E
+9. A campaign reports that the risk of injury “fell by 
+”, from  in 
+ to  in 
+. Verify the relative
+fall, state the absolute change in percentage points, and write a fairer headline. 
+P
+10. Two clinics use the same test, with 
+ sensitivity and a 
+ false-positive rate. Clinic A tests 
+people when prevalence is 
+; Clinic B tests 
+ people when prevalence is 
+. Find
+ for each clinic and explain the difference. 
+P
+1
+4
+800
+200
+The “ in ” figure usually refers to people who experience a problem at some point in their
+lives, not the proportion affected at this moment.
+1
+1
+4
+The figure may come from a different population, age range or country. Prevalence in Year 3
+students is not necessarily the same as in the general adult population.
+2
+Even if the prevalence applied,  in  of 
+ is 
+ as an expected number, not a count of
+identified students. Many students would not have disclosed a problem.
+3
+1
+4
+800
+200
+A more careful statement: “National surveys suggest that about one in four people experience
+a mental health problem at some point; the number among our students is not known, and
+support should be available without requiring disclosure.”
+4
+C O M M O N E R R O R · I G N O R I N G T H E B AS E R AT E
+A test with a 
+ false-positive rate sounds excellent until the condition is rare. Among 
+healthy people, 
+ is 
+ false alarms. If only 
+ people have the condition, even a perfect
+test would produce as many true positives as false ones. Always ask “Out of how many?”
+before interpreting a positive result or a risk increase.
+1%
+10,000
+1%
+100
+100
+3
+1,000
+4
+1,000
+6
+1,000
+3%
+5,000
+1
+100,000
+2
+100,000
+1,000
+20
+90%
+5%
+P(condition ∣positive)
+99%
+10,000
+25%
+8
+1,000
+6
+1,000
+95%
+4%
+2,000
+2%
+500
+12%
+P(condition ∣positive)
+
+
+===== [source page 225] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+225
+11. A leaflet claims that “
+ survive this disease for five years” and concludes that treatment works for
+nine out of ten patients. Explain two ways this statistic could mislead, even if the number is correct.
+E
+12. A test has 
+ sensitivity and a 
+ false-positive rate, and the condition affects 
+ of people tested.
+Build a table for 
+ people, find 
+, and write two sentences a patient could
+understand. State one harm of leaving the base rate out. 
+E
+Application · The screening test
+CRITERION D · I, II, III, IV
+MODELS
+IDENTITIES AND RELATIONSHIPS
+A clinic evaluates a rapid test for a condition that affects about 
+ of the people who attend. In a
+study of 
+ attendees, 
+ have the condition. The test is positive for 
+ of them. Among the 
+people without the condition, 
+ also test positive. The clinic’s leaflet calls the test “
+ accurate”.
+90%
+90%
+5%
+1%
+10,000
+P(condition ∣positive)
+Investigation · How representative is a sample?
+CRITERIA B AND C
+A school wants to know how long students spend on homework on a typical school night.
+Surveying all 
+ students is impractical, so the council will use a sample. Your task is to design
+the sample, carry it out on a small scale and report what the result can and cannot support.
+PILOT SAMPLE: HOMEWORK MINUTES REPORTED BY TWELVE STUDENTS
+Student
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Minutes
+30
+45
+40
+60
+35
+50
+75
+20
+45
+55
+60
+85
+1. Define. State the population, the variable and the exact wording of the question. Explain why
+a census is impractical and why the definition of “typical school night” matters.
+2. Frame. Obtain the school roll and number every student. Describe how you would use a
+random-number generator to select 
+ students without duplicates.
+3. Ask. Write a neutral question with response options, such as 0–30, 31–60, 61–90 and more than
+90 minutes. Pilot it on two students and revise any wording that suggests a preferred answer.
+4. Collect. Record refusals and absentees as well as responses. Compare the achieved sample
+with the school by year group and check whether any group is under-represented.
+5. Calculate. Use the pilot table to find the mean, the median and the proportion reporting more
+than 
+ minutes. Then calculate the same quantities for your own sample.
+6. Compare. Exchange results with another pair. Explain why two random samples from the
+same school can produce different means, and whether either is “wrong”.
+7. Evaluate. Identify three sources of bias or error — non-response, self-report, ambiguous
+wording, or who is absent — and suggest a remedy for each.
+8. Report. Write a 
+-word report for the school council. State the estimate, the method, the
+sample size, the limitations and one recommendation. Say clearly what the data cannot tell
+you.
+A random sample reduces bias but does not guarantee a representative sample; sample-to-sample variation
+remains. Report an estimate with its method and limits, not a single number presented as exact.
+900
+30
+60
+100
+5%
+1,000
+50
+45
+950
+95
+90%
+
+
+===== [source page 226] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+226
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+STUDY RESULTS FOR 1,000 CLINIC ATTENDEES
+Quantity
+Value
+Note
+People tested
+clinic attendees
+With condition
+confirmed by a second test
+True positives
+test positive and have condition
+False positives
+test positive, no condition
+False negatives
+test negative, have condition
+Sensitivity
+ of 
+ true cases detected
+Specificity
+ of 
+ healthy people cleared
+1. Complete a two-way table with rows “has condition” and “no condition” and columns “test
+positive” and “test negative”. Include the totals.
+2. Find the probability that a randomly chosen attendee tests positive.
+3. Find 
+. Explain in one sentence what this probability means for a person
+who receives a positive result.
+4. The leaflet says the test is “
+ accurate”. Explain why this description is incomplete, using
+the sensitivity and specificity from the table.
+5. Suppose the test were used in a group where 
+ have the condition, with the same
+sensitivity and specificity. Calculate the new 
+ and explain why it differs.
+6. Clinic attendees are not a random sample of the general population. Describe two ways this
+could affect the estimated prevalence and the usefulness of the test.
+7. Who might be harmed by a false positive? Who might be harmed by a false negative? Use
+these consequences to recommend whether the test should be used for screening everyone,
+only for people with symptoms, or not at all.
+8. Write a 
+-word explanation for patients that reports the test’s real performance honestly.
+Include the natural frequencies 
+ true positives and 
+ false positives out of 
+, and state
+what a positive result does and does not mean.
+C R I T E R I O N D F O C U S
+Translate the percentages back into people. A 
+ sensitive test used on a rare condition can still
+produce more false positives than true ones. The quality of the test, the prevalence in the group tested
+and the consequences of each type of error all belong in the decision.
+1,000
+50
+45
+95
+5
+90%
+45
+50
+90%
+855
+950
+P(condition ∣positive)
+90%
+10%
+P(condition ∣positive)
+100
+45
+95
+1,000
+90%
+
+
+===== [source page 227] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+227
+Criterion task · The travel survey
+CRITERIA B AND C
+INVESTIGATING AND COMMUNICATING
+24 MARKS
+The student council wants to know how students travel to school. A group surveys 
+ students
+outside the main gate at 
+ one morning and finds that 
+ walk or cycle. The council tweets: “
+of students travel actively — we need more bike racks than car spaces.” The school has 
+students: 
+ in Year 7, 
+ in Year 8 and 
+ in Year 9.
+1. Identify the population, the sample, the variable and the claim. (3 marks)
+2. Explain two reasons why the gate survey may not represent the whole school. Refer to specific
+groups who could be missed. (3 marks)
+3. Propose a sampling frame and a random method for selecting 
+ students. Calculate how many
+should come from each year group in a stratified sample. (6 marks)
+4. Write two questionnaire items for the survey: one categorical question about usual travel
+mode with balanced options, and one numerical question about journey time. Avoid leading
+wording. (3 marks)
+5. Explain how non-response and self-report could affect the results, and suggest one remedy for
+each. (3 marks)
+6. A random sample of 
+ students finds that 
+ travel actively. Estimate the number of active
+travellers in the school and compare this with the gate survey’s 
+. Which estimate is more
+trustworthy, and why is neither exact? (4 marks)
+7. Write a 
+-word report for the student council. Include the estimate, the method, two
+limitations and one recommendation, using language that does not overstate the evidence. (2
+marks)
+PLANNING FRAME
+Identify: population 
+ students; sample 
+ at the gate; variable usual travel mode; claim that 
+travel actively. Challenge: the gate sample misses bus and car arrivals, late students, absentees and
+students who enter by other gates; walkers are over-represented. Design: school roll as frame;
+random numbers within year groups; 
+ split 
+ in proportion to 
+. Compare:
+, so about 
+ of 
+; the gate figure would suggest 
+, a difference of 
+. Communicate:
+random selection and the larger, structured sample support 
+; report a range and the limits rather
+than “exactly 
+”.
+CRITERIA: B, C
+ATL: COMMUNICATION
+TIME: 60 MINUTES
+CONDITIONS: CALCULATOR ALLOWED
+BAND
+DESCRIPTOR
+MARKS
+4
+Population and sample precise; biases linked to specific missed groups;
+frame, random method and stratified numbers correct; questionnaire neutral
+and well structured; non-response and self-report explained with remedies;
+comparison accurate and caution justified; clear, honest report.
+19–24
+3
+Most identification and bias analysis correct; sampling method workable with
+a minor numerical slip; questionnaire largely neutral; comparison mostly
+accurate; report conveys the estimate with some caution.
+13–18
+2
+Basic identification; bias described vaguely; sampling method not genuinely
+random or numbers incorrect; questionnaire leading or incomplete;
+comparison repeats the claim without evaluating it.
+7–12
+1
+Little correct vocabulary; no clear distinction between sample and
+population; no usable sampling method; report overstates the evidence.
+1–6
+MAPPED TO:
+ B strands i–iii and C strands i–iv. The rubric is a course summary, not an official IB descriptor.
+60
+8:30
+45
+75%
+900
+320
+300
+280
+90
+90
+54
+75%
+120
+900
+60
+75%
+90
+32, 30, 28
+320, 300, 280
+54/90 = 0.6
+540
+900
+675
+135
+60%
+540
+
+
+===== [source page 228] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+228
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Chapter summary and review
+KEY IDEAS
+A sample space lists all possible outcomes;
+for equally likely outcomes, probability is a
+ratio of counts.
+Probabilities lie between  and , and
+.
+For two events,
+; the
+overlap is counted once.
+For independent events,
+; without
+replacement, probabilities change from
+stage to stage.
+Relative frequency estimates probability
+and tends to settle near it as trials increase,
+if the model and trials are sound.
+Simulation replaces a real experiment with a
+random model; the assumptions must match
+the situation.
+A random sample gives every member a
+known chance of selection; bias is a
+systematic direction of error that a larger
+sample does not fix.
+Stratified sampling selects within subgroups
+in proportion to their size.
+Absolute risk, relative risk and natural
+frequencies describe the same data;
+reporting only one can mislead.
+A positive test result depends on prevalence
+as well as test accuracy; base rates cannot be
+ignored.
+REVISION CHECKLIST
+VOCABULARY
+trial One repetition of a probability experiment.
+outcome One possible result of a trial.
+sample space The set of all possible outcomes.
+event A set of outcomes.
+equally likely Outcomes with the same probability.
+complement All outcomes not in the event.
+mutually exclusive Events that cannot occur together.
+independent Events that do not affect each other’s
+probability.
+relative frequency Frequency divided by the number
+of trials.
+simulation A random model used to imitate an
+experiment.
+population The whole group being studied.
+sample The part of the population observed.
+census A measurement of every member of the
+population.
+random sample A sample in which every member has
+a known chance of selection.
+bias A systematic tendency to differ from the
+population.
+sampling frame The list from which a sample is
+drawn.
+stratified sample A sample drawn proportionally from
+each subgroup.
+absolute risk A risk stated as a number out of a group.
+relative risk A ratio comparing two risks.
+false positive A positive result for someone without
+the condition.
+0
+1
+P(A) + P(A ) =
+′
+1
+P(A ∪B) = P(A) + P(B) −P(A ∩B)
+P(A ∩B) = P(A) × P(B)
+I can list a sample space systematically.
+I can calculate probabilities for one-stage
+and two-stage experiments.
+I can use the complement rule and the
+addition rule.
+I can draw and read a Venn diagram or
+tree diagram.
+I can calculate relative frequency and
+compare it with theory.
+I can design a simple simulation.
+I can identify a population, sample and
+sampling frame.
+I can explain selection bias, non-response
+and leading questions.
+I can convert between absolute and
+relative risk.
+I can interpret a test result using natural
+frequencies.
+
+
+===== [source page 229] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+229
+M I X E D P R AC T I C E · C H A P T E R 1 0
+Connecting the ideas
+FLUENCY Core procedures
+1. A bag contains  red,  blue and  green counters. Find 
+, 
+ and 
+. 
+F
+2. Two fair dice are rolled. Find 
+, 
+ and 
+. 
+F
+3. 
+ and 
+, with  and 
+ mutually exclusive. Find 
+ and 
+. 
+F
+4. An experiment has 
+ successes in 
+ trials. Find the relative frequency and the expected number of
+successes in 
+ trials at the same rate. 
+F
+REASONING Justify and connect
+1. A fair coin has landed heads ten times. Explain why the probability of a head on the next toss is still 
+,
+and why this does not contradict the law of large numbers. 
+R
+2. 
+, 
+ and 
+. Show that  and 
+ are independent and find 
+. 
+R
+3. A gardening magazine surveys 
+ of its readers and finds that 
+ grow vegetables. Explain why this
+should not be used to estimate the proportion of all adults who grow vegetables. 
+R
+4. A headline says a risk has “doubled” from  in 
+ to  in 
+. Explain how the same information
+could be reported more fairly. 
+R
+APPLICATION Use and evaluate
+1. A school has 
+ students, equally divided among Years 7, 8 and 9. A stratified sample of 
+ is chosen.
+Find the number from each year. If 
+ of the 
+ walk to school, estimate the number of walkers in the
+school. 
+P
+2. In 
+ people, 
+ have a condition. A test detects 
+ of true cases and has a 
+ false-positive rate.
+Complete a two-way table and find 
+. 
+P
+3. A simulation models a 
+ chance of success with random digits, using 
+ as success. Explain why
+this is appropriate, state the expected number of successes in 
+ trials, and describe how to estimate the
+probability from the results. 
+P
+4. Class A (20 students) improves its mean score by  marks. Class B (5 students) improves by 
+ marks.
+Explain which result is stronger evidence of a real improvement, and why a larger effect is not
+automatically more reliable. 
+P
+5. Explain why increasing a biased sample from 
+ to 
+ responses does not make it representative.
+Use a specific example. 
+E
+6. A condition affects 
+ of a population. A test has 
+ sensitivity and 
+ specificity. Starting with 
+people, find the number of true positives, false positives and 
+. Explain the result.
+E
+7
+5
+3
+P(red) P(not blue)
+P(red or green)
+P(sum 4) P(sum 8)
+P(even sum)
+P(A) = 0.35
+P(B) = 0.4
+A
+B
+P(A ∪B)
+P(neither)
+36
+240
+800
+0.5
+P(A) = 0.4 P(B) = 0.5
+P(A ∩B) = 0.2
+A
+B
+P(A ∪B)
+500
+80%
+1
+20,000
+2
+20,000
+840
+84
+35
+84
+2,000
+100
+95%
+10%
+P(condition ∣positive)
+30%
+0, 1, 2
+40
+6
+10
+500
+50,000
+1%
+99%
+99%
+10,000
+P(condition ∣positive)
+
+
+===== [source page 230] =====
+PART IV · DATA, CHANCE AND EVIDENCE
+10 · Probability, sampling and evidence
+230
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Check your progress
+I CAN …
+CONFIDENCE
+EVIDENCE
+NEXT ACTION
+List a sample space and calculate simple
+probabilities.
+1 / 2 / 3
+Combine events with tables, trees and Venn
+diagrams.
+1 / 2 / 3
+Compare experimental relative frequency with
+theory.
+1 / 2 / 3
+Design a random sample and identify bias.
+1 / 2 / 3
+Interpret absolute and relative risk, including a
+test result.
+1 / 2 / 3
+Reflection
+A probability can be correct and still be poor evidence for a decision: the sample may be
+biased, the risk may be framed unfairly, or the outcome may not be the one that matters.
+Which is more dangerous — an inaccurate number or an accurately calculated number
+presented without its context? Write three sentences defending your view.

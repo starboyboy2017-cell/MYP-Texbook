@@ -1,0 +1,11958 @@
+
+
+===== [source page 239] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+239
+Answers and worked
+solutions
+C O M P L E T E
+S O L U T I O N S
+F O R E V E R Y E X E R C I S E
+An answer ends a calculation; a solution records a decision. The
+entries below show the reasoning behind each result, so a difference
+between your work and mine becomes a precise question rather than
+a guess about what went wrong.
+HOW EACH ENTRY IS ARRANGED
+Exercise numbers match the chapter. Part
+letters follow the number, for example 3c.
+Working is shown wherever it helps you locate
+a disagreement; routine arithmetic is
+compressed to a single line. Units and
+rounding are stated with each result.
+Some questions invite more than one valid
+route. The key gives one efficient method and,
+where useful, a note beginning Alternatively. A
+different correct method is not an error.
+Validity, accuracy and a conclusion that
+answers the question are what count.
+Each chapter closes with a mixed practice set
+and a criterion task. Mixed-practice answers
+are labelled F (fluency), R (reasoning), A
+(application) and E (extension) to match the
+question tags. A marking guide follows the
+criterion task in most chapters.
+INVESTIGATIONS AND CRITERION TASKS
+Open tasks receive sample responses, not a
+single script: representative data, a conjecture,
+a verification and a limitation. Your data may
+differ. Use the sample to judge the
+completeness of your table, the quality of your
+generalisation and the care of your conclusion.
+Academic honesty. These solutions support your
+attempt; they do not replace it. If you use a sample
+response, rewrite the reasoning in your own words
+and explain the choice of method. That is the
+evidence a teacher can assess.
+ACCURACY AND NOTATION
+Unless a question states otherwise, exact
+answers are given for integers, fractions, surds
+and terminating decimals. Measurements are
+rounded to a sensible degree of accuracy,
+generally three significant figures. Never
+round intermediate values; rounding early is a
+common source of “correct method, wrong
+answer”.
+Surds in simplest form with a rationalised
+denominator, for example 
+ rather than 
+.
+​
+2
+​2
+​
+​2
+1
+Fractions in lowest terms; percentages with
+the % symbol and the denominator stated
+where it matters.
+Powers in index form unless a value is asked
+for; scientific notation as 
+ with
+.
+a × 10n
+1 ≤a < 10
+Sets in roster or set-builder form; elements
+listed once. Intervals in either bracket form,
+, or as an inequality.
+[−3, 5)
+Equations of lines in the form 
+unless a context asks otherwise; gradients as
+exact fractions where possible.
+y = mx + c
+Angles with the degree symbol; lengths, areas
+and volumes with units, for example 
+ and
+.
+cm2
+m3
+Trigonometric ratios to three significant
+figures unless an exact value such as 
+ is
+available.
+​
+2
+​3
+Probability as a fraction, decimal or
+percentage; write 
+ and keep sample
+spaces explicit. Risk may be absolute or
+relative.
+P(event)
+Data summaries with the unit and number of
+values; the correlation coefficient  to three
+decimal places.
+r
+Money to two decimal places in currency
+contexts.
+
+
+===== [source page 240] =====
+MYP MATHEMATICS 3
+240
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+Equivalent fractions, surds, ratios and expressions
+can look unlike each other. Test numerical
+equivalence before assuming an error.
+Criterion tasks use course-specific rubrics that paraphrase the MYP criteria; they are not official IB
+descriptors, and sample responses show one level of performance. Criterion D answers depend on the
+assumptions you state, so a different but well-justified model can score full marks.
+Chapter 1 · The real number system
+PREREQUISITE CHECK
+1
+, dividing numerator and denominator by 6.
+2
+.
+3
+ and 
+; the bracket includes the negative
+sign in the base.
+4
+ and 
+, so 
+.
+5
+.
+6
+.
+PRACTICE 1.1 · RATIONAL FORM AND DECIMAL EXPANSION
+1 (a) integer and rational; (b) rational; (c) rational; (d)
+natural, integer and rational.
+2 (a) 
+; (b) 
+; (c) 
+.
+3 (a) 
+; (b) 
+; (c) 
+.
+4 (a) repeats, since 
+; (b) terminates, since
+; (c) repeats, since 
+; (d)
+terminates, since 
+. In lowest terms, the decimal
+terminates exactly when the denominator has no prime
+factor except 2 and 5.
+5 (a) ; (b) 
+; (c) 
+, so 
+ and 
+;
+subtracting gives 
+, so 
+.
+6 The midpoint 
+ lies strictly between. Between
+ and 
+, the midpoint is 
+. Check:
+.
+7 Let 
+. Then 
+, so 
+ and 
+. There is no
+positive gap between 
+ and 1, so “just less than 1” is
+impossible.
+8 Counterexample: 
+ repeats. The denominator 6 has
+prime factor 3, so a denominator below 10 does not
+guarantee only factors 2 and 5;  and  also repeat.
+PRACTICE 1.2 · IRRATIONAL NUMBERS AND SURDS
+1 (a) rational, since 
+; (b) irrational; (c) rational, since
+; (d) irrational.
+2 (a) 4 and 5, since 
+; (b) 8 and 9, since
+; (c) 10 and 11, since 
+.
+3 (a) 
+; (b) 
+; (c) 
+; (d) 
+.
+4
+. Since 
+, 
+;
+also 
+. Since 
+ and
+, 
+.
+5
+, a quotient of integers; 25 is a perfect square.
+But 26 is not a perfect square. If 
+ in lowest terms,
+then 
+. The factor 2 divides 
+, so  is even;
+writing 
+ gives 
+, so 2 divides 
+ and hence
+. Both are even, contradicting lowest terms.
+6 Assume 
+ in lowest terms. Squaring gives 
+, so
+3 divides 
+. Here we use the fact that if 3 divides 
+,
+then 3 divides  (true because 3 is prime). Write 
+.
+Then 
+, so 
+; hence 3 divides 
+ and
+therefore . This contradicts the assumption that  and 
+have no common factor, so 
+ is irrational.
+7
+ and 
+: both are irrational because 2 and 8 are not
+perfect squares, yet 
+, which is
+rational. The product rule 
+ turns the
+product into a perfect square.
+8 A rational decimal must terminate or eventually repeat
+with a fixed block. Here the zero blocks grow without
+limit, so no fixed block can repeat forever. The pattern
+is describable, but describable is not the same as
+periodic; hence the number is irrational.
+PRACTICE 1.3 · ORDER, DISTANCE AND INTERVALS
+1 (a) 
+; (b) 
+; (c) 
+, since
+.
+2 (a) 
+; (b) 
+; (c) 
+.
+3 (a) 
+, or 
+; (b) 
+, or 
+; (c)
+, so 
+, or 
+.
+4
+. Now 
+ and
+, so 
+ is furthest left, then 
+, then
+, then 
+.
+5
+ gives 
+ mm. The length 44.75 mm
+is 0.25 mm below nominal, so reject; 45.15 mm is 0.15
+mm above, so accept.
+6
+ says the distance from  to 5 is at most 2, so 
+runs from 
+ to 
+. Conversely, 
+gives 
+, hence 
+. The two
+descriptions therefore name the same interval.
+7
+ and 
+. Since 
+, 
+.
+Neither 10 nor 11 is a perfect square, so each square root
+is irrational.
+8 False as stated. Counterexample: 
+, but
+. Squaring reverses order when
+both numbers are negative; the statement is true only
+when 
+.
+PRACTICE 1.4 · SURD ARITHMETIC
+1 (a) 
+; (b) 
+; (c)
+.
+2 (a) 
+; (b) 
+; (c) 
+.
+3 (a) 
+; (b) 
+; (c) 
+.
+4 (a) 
+; (b) 
+.
+5 Incorrect. 
+, so 
+, not 4. Also
+, whereas 
+.
+6
+, an integer. This uses the quotient rule
+ for 
+.
+7
+.
+8 Area 
+. For area
+, test 
+, so the
+side is 
+ cm; take the positive root because a
+length is positive.
+PRACTICE 1.5 · CLASSIFICATION, COUNTEREXAMPLE AND PROOF
+1 (a) integer (also rational); (b) rational; (c) natural, since
+; (d) irrational.
+​ =
+24
+18
+​4
+3
+0.35 =
+​ =
+100
+35
+​
+20
+7
+7 =
+2
+49
+(−7) =
+2
+49
+​ =
+4
+3
+​
+28
+21
+​ =
+7
+5
+​
+28
+20
+​ >
+4
+3
+​7
+5
+2.5 × 4 = 10
+1, 4, 9, 16, 25
+​ =
+20
+7
+0.35
+​ =
+8
+13
+1.625
+​ =
+50
+9
+0.18
+0.6
+0.45
+0.583
+14 = 2 × 7
+40 = 2 ×
+3
+5
+30 = 2 × 3 × 5
+64 = 26
+​9
+5
+​ =
+99
+27
+​
+11
+3
+x = 0.41
+10x = 4.11
+100x = 41.1
+90x = 37
+x =
+​
+90
+37
+​
+​ +
+​ =
+2
+1 ( 3
+1
+2
+1)
+​
+12
+5
+​3
+1
+​
+12
+5
+​
+​ +
+​ =
+2
+1 ( 12
+4
+12
+5 )
+​8
+3
+0.333 … < 0.375 < 0.4166 …
+x = 0.9
+10x = 9.9
+9x = 9
+x = 1
+0.9
+​ =
+6
+1
+0.16
+​7
+1
+​9
+1
+​ =
+9
+3
+0. =
+4
+​9
+4
+16 < 20 < 25
+64 < 75 < 81
+100 < 103 < 121
+3
+​2
+4
+​3
+10
+​2
+3
+​5
+​ <
+7
+2.65 <
+​ <
+8
+2.9
+2.65 =
+2
+7.0225 > 7 2.65 >
+​7
+2.65 < 2.8
+2.8 =
+2
+7.84 < 8 < 8.41 = 2.92
+2.83 =
+2
+8.0089 > 8 2.8 <
+​ <
+8
+2.83 < 2.9
+​ =
+25
+5 =
+​1
+5
+​ =
+26
+​b
+a
+a =
+2
+26b2
+a2
+a
+a = 2k
+2k =
+2
+13b2
+b2
+b
+​ =
+3
+​b
+a
+3b =
+2
+a2
+a2
+a2
+a
+a = 3k
+3b =
+2
+9k2
+b =
+2
+3k2
+b2
+b
+a
+b
+​3
+2
+​8
+​ ×
+2
+​ =
+8
+​ =
+16
+4
+​
+​ =
+a
+b
+​
+ab
+−6 < −1
+∣−9∣= 9
+​ >
+17
+4.1
+4.1 =
+2
+16.81 < 17
+∣7 −(−4)∣= 11
+∣−2.5 −(−8)∣= 5.5
+∣3 −11∣= 8
+−3 ≤x < 5
+[−3, 5)
+x > 4
+(4, ∞)
+∣x −10∣≤1.5
+8.5 ≤x ≤11.5
+[8.5, 11.5]
+−3.5 < −
+​ <
+10
+−
+​ <
+7
+22
+−3
+−
+​ ≈
+10
+−3.162
+−
+​ ≈
+7
+22
+−3.143
+−3.5
+−3.162
+−3.143
+−3
+∣L −45∣≤0.2
+44.8 ≤L ≤45.2
+∣x −5∣≤2
+x
+x
+5 −2 = 3
+5 + 2 = 7
+3 ≤x ≤7
+−2 ≤x −5 ≤2
+∣x −5∣≤2
+​
+10
+​
+11
+9 < 10 < 11 < 16 3 <
+​ <
+10
+​ <
+11
+4
+−5 < −2
+(−5) =
+2
+25 > 4 = (−2)2
+0 ≤a < b
+2
+​ +
+3
+3
+​ =
+3
+5
+​3
+5
+​ −
+2
+2
+​ =
+2
+3
+​2
+5
+​ +
+2
+3
+​ =
+2
+8
+​2
+​ =
+36
+6
+6
+​ =
+50
+6 × 5
+​ =
+2
+30
+​2
+​ =
+16
+4
+​ =
+2
+4
+​2
+2
+​2
+​ =
+6
+9
+​6
+​
+2
+3
+​6
+​ =
+3×5
+7
+​5
+​
+15
+7
+​5
+3 −4 = −1
+4 + 4
+​ +
+5
+5 = 9 + 4
+​5
+​ =
+8
+2
+​2
+​ +
+8
+​ =
+2
+3
+​ ≈
+2
+4.243
+(3
+​) =
+2 2
+18
+4 =
+2
+16
+​ =
+​5
+​
+20
+​ =
+​
+5
+20
+​ =
+4
+2
+​ =
+​b
+​a
+​​b
+a
+b =0
+​ ×
+​−1
+5
+1
+​ =
+​+1
+5
+​+1
+5
+​ =
+(
+​) −1
+5 2
+2
+​+1
+5
+​ =
+5−1
+​+1
+5
+​
+4
+​+1
+5
+= (3 +
+​) =
+2 2
+9 + 6
+​ +
+2
+2 = 11 + 6
+​ cm
+2
+2
+14 + 6
+​5
+(3 +
+​) =
+5 2
+9 + 6
+​ +
+5
+5 = 14 + 6
+​5
+3 +
+​5
+​ =
+16
+4
+
+
+===== [source page 241] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+241
+2 (a) always true: the integers are closed under
+multiplication. (b) sometimes true: 
+, but
+; the quotient is an integer only when the
+divisor is nonzero and divides exactly. (c) sometimes
+true: 
+ is rational, while 
+ is
+irrational.
+3 “Not all rational numbers have terminating decimals”,
+equivalently “there is at least one rational number
+whose decimal does not terminate”. The negation is
+true: 
+.
+4 Let 
+ and 
+ with integers 
+, 
+. Then
+. Both 
+ and 
+ are integers and 
+, so 
+ is a
+quotient of integers and is rational.
+5 Let  be rational and  irrational. Suppose 
+ were
+rational. Then 
+. A difference of two rational
+numbers is rational, so  would be rational, a
+contradiction. Hence 
+ is irrational.
+6 Suppose 
+ for an integer . Squaring gives
+, so 
+, which would be rational. But 6
+is not a perfect square, so 
+ is irrational.
+Contradiction; no such integer  exists.
+7 Take 
+. Then 
+ is rational, but  is irrational.
+This shows that the converse of the true statement “if 
+is rational then 
+ is rational” is false; a true implication
+does not guarantee its converse.
+8 Counterexamples: 
+ and
+. Both are sums of irrationals
+with rational totals. Revised claim: the sum of two
+irrational numbers may be rational or irrational;
+however, the sum of a rational number and an
+irrational number is always irrational.
+INVESTIGATION 1 · CHASING 
+ WITH FRACTIONS
+1
+. Then
+, matching
+the table.
+2 The errors are 
+, 
+, 
+, then 
+.
+The decrease is not constant: each error is roughly the
+square of the previous one, so the number of correct
+digits roughly doubles each step. The final zero reflects
+the display; the true error is about 
+.
+3 Since 
+, if 
+ then 
+, and if 
+ then 
+. One value lies below 
+ and the other above,
+so their average lies between them. Also, 
+ rearranges to 
+, so the average is always at least 
+, with
+equality only at 
+. The next estimate is therefore close to 
+, and the process converges.
+4 Use 
+ with 
+:
+;
+;
+. This is already
+ to 8 d.p.
+5 For 
+, 
+. From 
+:
+; 
+;
+. A calculator gives
+, so after three iterations the error is below
+.
+6 Every term is rational: the starting value is rational and the formula uses only addition and division of rationals, so
+rationality is preserved. No term can equal 
+, because then 
+ would be rational, contradicting the proof in Section 1.2.
+The terms approach 
+ as closely as we wish, which shows that the rationals are dense but not complete: there is a “hole”
+in the rational line at 
+, filled only when the real numbers are introduced. The method gives approximations, never the
+exact value in finite form.
+APPLICATION · TOLERANCE IS AN INTERVAL
+1
+, so 
+ mm;
+equivalently 
+.
+2 27.24 mm is definitely acceptable. 27.16 mm is 0.04 mm
+below nominal, inside 
+, so it is also
+acceptable. The recorded 27.25 and 27.15 lie on the limits
+and are borderline because the displayed value could
+represent a true length just outside. No recorded entry
+is a definite reject, though the unrounded values 27.252
+and 27.148 lie outside.
+3 A device reading to 0.01 mm rounds, so a display of 27.25
+represents any true length in 
+. Part of that
+range exceeds 27.25, so the workshop cannot be certain.
+A finer device (0.001 mm), recording more digits, or a
+guard band at the limits would remove the ambiguity.
+4 The second interval is 
+, strictly inside
+, so it is stricter. Using displayed values, all
+four pass 
+, but only 27.24 and 27.16 pass 
+.
+Using unrounded values, only those two pass either
+specification, since 27.252 and 27.148 fail both; rounding
+creates the apparent extra passes.
+5 A wider tolerance reduces machining cost and scrap,
+because a small band requires slower, expensive
+processes. It may still work functionally: a seat post
+with clearance can fit and grip across a range. The
+tolerance describes functional limits; device precision
+describes how finely we measure. The device must be
+finer than the tolerance, but not every part needs the
+finest precision.
+CRITERION TASK · WHY 
+ CANNOT BE WRITTEN AS A FRACTION
+Sample response. A unit square has diagonal  with 
+, so 
+. A rational number is one that can be
+written as  with integers 
+ and 
+. Suppose 
+ were rational, so 
+ in lowest terms. Squaring gives 
+, so 
+is even. An odd number squared is odd, so  is even; write 
+. Then 
+, so 
+, making  even too. This
+contradicts the assumption that  and  are not both even, so 
+ is irrational. Every finite decimal such as 1.414 is a
+fraction with denominator a power of 10, hence rational, so no finite decimal can equal 
+. Thus 
+ reports a
+rounded value, while 
+ is simply false.
+6 ÷ 3 = 2
+5 ÷ 2 = 2.5
+​ +
+2
+(−
+​) =
+2
+0
+​ +
+2
+​3
+​ =
+3
+1
+0.3
+x =
+​b
+a
+y =
+​d
+c
+a, b, c, d b, d =0
+xy =
+​
+bd
+ac
+ac
+bd
+bd =0
+xy
+r
+s
+r + s = q
+s = q −r
+s
+r + s
+​ +
+2
+​ =
+3
+​n
+n
+5 + 2
+​ =
+6
+n
+​ =
+6
+​
+2
+n−5
+​6
+n
+x =
+​2
+x =
+2
+2
+x
+x
+x2
+​ +
+2
+(−
+​) =
+2
+0
+(2 +
+​) +
+2
+(2 −
+​) =
+2
+4
+​2
+x
+​ =
+2
+​
+​ +
+​ =
+2
+1 ( 2
+3
+3
+4)
+​ ×
+2
+1
+​ =
+6
+17
+​ =
+12
+17
+1.41666667
+x
+​ =
+3
+​
+​ +
+​ =
+2
+1 ( 12
+17
+17
+24)
+​ ×
+2
+1
+​ =
+204
+577
+​ =
+408
+577
+1.41421569
+0.0858 0.00245 0.00000212
+0.00000000
+1.6 × 10−12
+x
+​ ×
+n
+​ =
+x
+​n
+2
+2 = (
+​)
+2 2
+x
+​ <
+n
+​2
+​ >
+x
+​n
+2
+​2
+x
+​ >
+n
+​2
+​ <
+x
+​n
+2
+​2
+​2
+(x −
+​) >
+2 2
+0
+x +
+​ >
+x
+2
+2
+​2
+​2
+x =
+​2
+​2
+x
+​ =
+n+1
+​ x
+​ +
+​
+2
+1 (
+n
+x
+​n
+7 )
+x
+​ =
+1
+3
+x
+​ =
+2
+​ 3 +
+​ =
+2
+1 (
+3
+7)
+​ =
+3
+8
+2.6666667
+x
+​ =
+3
+​
+​ +
+​ =
+2
+1 ( 3
+8
+8
+21)
+​ =
+48
+127
+2.6458333
+x
+​ =
+4
+​
+​ +
+​ =
+2
+1 ( 48
+127
+127
+336)
+​ =
+12192
+32257
+2.6457513
+​ =
+7
+2.64575131
+​
+10 x
+​ =
+n+1
+​ x
+​ +
+​
+2
+1 (
+n
+x
+​n
+10)
+x
+​ =
+1
+3
+x
+​ =
+2
+​ =
+6
+19
+3.1666667 x
+​ =
+3
+​ =
+228
+721
+3.1622807
+x
+​ =
+4
+​ =
+328776
+1039681
+3.1622776602
+3.1622776602
+2 × 10−12
+​2
+​2
+​2
+​2
+27.2 −0.05 ≤d ≤27.2 + 0.05
+27.15 ≤d ≤27.25
+∣d −27.2∣≤0.05
+[27.15, 27.25]
+[27.245, 27.255)
+[27.16, 27.24]
+[27.15, 27.25]
+±0.05
+±0.04
+​2
+d
+d =
+2
+1 +
+2
+1 =
+2
+2
+d =
+​2
+​q
+p
+p, q
+q =0
+​2
+​ =
+2
+​b
+a
+a =
+2
+2b2
+a2
+a
+a = 2k
+4k =
+2
+2b2
+b =
+2
+2k2
+b
+a
+b
+​2
+​2
+​ ≈
+2
+1.414
+​ =
+2
+1.414
+
+
+===== [source page 242] =====
+MYP MATHEMATICS 3
+242
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+1 The diagram should show the unit square, one diagonal, and the right triangle with legs 1 and 1. By Pythagoras,
+. A length is positive, so 
+. The diagonal is not a measured approximation; its square is exactly 2,
+which forces the length 
+.
+2 A rational number has the form , where  and  are
+integers and 
+. To say 
+ is rational would mean
+there are integers 
+, with 
+, such that 
+. We
+may also choose the fraction in lowest terms, so  and 
+are not both even.
+3 Assume, for contradiction, that 
+ with 
+ integers, 
+, and no common factor. Squaring both sides: 
+, hence
+. Therefore 
+ is even. Since the square of an odd integer is odd,  must be even; write 
+ for an integer .
+Substituting: 
+, so 
+, hence 
+. Thus 
+ is even, so  is even. But  and  cannot both be even if the
+fraction is in lowest terms. This is the contradiction; therefore the assumption is false and 
+ is irrational.
+4 Any finite decimal, such as 
+, equals 
+, a quotient of
+integers, so it is rational. If a finite decimal equalled 
+,
+then 
+ would be rational, contradicting the proof. A
+finite decimal can only truncate or round the
+expansion; it cannot capture all infinitely many non-
+repeating digits.
+5 The symbol  means “is approximately equal to”, so
+ states that 1.414 is a rounded value, with
+error less than 0.0005. The symbol  asserts exact
+equality, and 
+ is false because
+. The exact form 
+ preserves the
+value; the decimal is useful for measuring and
+comparing.
+Marking guide. Part 1 (4 marks): diagram, Pythagoras, 
+, positive root. Part 2 (4 marks): definition ; 
+; translation
+to 
+; lowest terms. Part 3 (8 marks): assumption; squaring; 
+;  even by parity; 
+; 
+;  even; explicit
+contradiction and conclusion. Part 4 (4 marks): finite decimal over 
+; hence rational; contradiction with irrationality;
+truncation example. Part 5 (4 marks):  as approximation;  as exact and false; meaning of the error; appropriate use of
+each form. Criterion C i–iv: audience, structure, notation and integration of diagram and conclusion. Bands: 19–24
+complete and coherent; 13–18 sound with minor gaps; 7–12 outline with significant gaps; 1–6 fragments or bare result.
+MIXED PRACTICE 1
+F1
+; 
+.
+F2
+.
+F3 (a) 
+; (b) 
+; (c) 
+.
+F4
+.
+R1 Compare squares: 
+ and 
+. Since 40 is
+0.31 above 39.69 but 0.96 below 40.96, 
+ is closer to 6.3
+(about 6.32).
+R2
+, 
+, so the order is
+.
+R3 Let 
+ be rational and  irrational. If 
+ were
+rational, then 
+, a quotient of rationals with 
+,
+so  would be rational. Contradiction; the product is
+irrational.
+R4 The student truncated: 
+, not 
+. The decimal
+repeats forever, so it does not terminate. Also
+, confirming that 0.333 is only an
+approximation.
+A1
+ gives 
+ mm. A pin of 7.96 mm is
+below 7.97 mm, so reject it.
+A2 Area 
+ exactly; to one decimal
+place, 
+.
+A3 Rounded to 0.1 kg, a display of 2.4 kg represents
+ kg. The band “above 2.35 kg” is not
+certain: a true weight could be exactly 2.35 and still
+display as 2.4, yet it is not above 2.35. A more precise
+weight is needed.
+A4 Rational: , since 
+. Irrational:
+, since 
+ places it in the
+interval and 
+ is irrational.
+Common errors. Treating a repeating decimal as terminating (writing 
+); assuming 
+; squaring an
+inequality without checking signs; giving a tolerance as one endpoint instead of a two-sided interval; and offering
+examples as proof of a universal claim. A surd left in the denominator or a lost negative sign is an incomplete answer.
+Chapter 2 · Powers, roots and scientific notation
+PREREQUISITE CHECK
+1
+.
+2
+, since 
+.
+3
+.
+4
+.
+5
+.
+6
+ rounds to 
+, because the hundredths digit is 8.
+PRACTICE 2.1 · EXPONENT LAWS
+1 (a) 
+; (b) 
+; (c) 
+; (d) 
+.
+2 (a) 
+; (b) 
+; (c) 
+; (d) 
+.
+3 (a) 
+; (b) 
+; (c) 
+, since 
+ and each exponent
+is multiplied by 3.
+4
+. But 
+. The
+bases differ: the addition law applies only to powers of
+the same base, and 
+ has fourteen factors of 2, not
+seven.
+5 By the division law, 
+. The same quotient is 1
+because any nonzero number divided by itself is 1.
+Hence 
+; the definition 
+ for 
+ is forced by
+the requirement that the exponent laws stay consistent.
+6 (a) 
+, so 
+; (b) 
+, so 
+ and 
+; (c)
+, so 
+ and 
+.
+7
+.
+8
+, but 
+. In the first, the bracket
+makes the base 
+; in the second, the exponent applies
+only to 2. The distinction matters when substituting
+negative values, for example 
+ versus 
+, and
+when reading calculator or spreadsheet output.
+PRACTICE 2.2 · ROOTS AND RATIONAL EXPONENTS
+1 (a) 
+; (b) ; (c) 
+, since 
+; (d) , since 
+.
+2 (a) 
+; (b) 
+; (c) 
+; (d) 
+.
+d =
+2
+1 +
+2
+1 =
+2
+2
+d =
+​2
+​2
+​q
+p
+p
+q
+q =0
+​2
+a, b
+b =0
+​ =
+2
+​b
+a
+a
+b
+​ =
+2
+​b
+a
+a, b
+b =0
+2 =
+​
+b2
+a2
+a =
+2
+2b2
+a2
+a
+a = 2k
+k
+(2k) =
+2
+2b2
+4k =
+2
+2b2
+b =
+2
+2k2
+b2
+b
+a
+b
+​2
+1.414
+​
+1000
+1414
+​2
+​2
+≈
+​ ≈
+2
+1.414
+=
+​ =
+2
+1.414
+1.414 =
+2
+1.999396 =2
+​2
+d =
+2
+2
+​q
+p q =0
+​ =
+2
+​b
+a
+a =
+2
+2b2 a
+a = 2k b =
+2
+2k2 b
+10n
+≈
+=
+​ =
+8
+11
+1.375
+​ =
+12
+7
+0.583
+0.
+=
+45
+​ =
+99
+45
+​
+11
+5
+7
+​2
+6
+​ −
+2
+2
+​ =
+2
+4
+​2
+​ =
+5
+10
+​5
+2
+​5
+−4 ≤x < 9
+6.3 =
+2
+39.69
+6.4 =
+2
+40.96
+​
+40
+−
+​ ≈
+3
+−1.732 −
+​ ≈
+3
+5
+−1.667
+−
+​ <
+3
+−1.7 < −
+​ <
+3
+5
+−1.65
+r =0
+x
+rx = q
+x =
+​r
+q
+r =0
+x
+​ =
+3
+1
+0.3
+0.333
+3 × 0.333 = 0.999 =1
+∣d −8∣≤0.03
+7.97 ≤d ≤8.03
+=
+​ ×
+5
+​ =
+20
+​ =
+100
+10 cm2
+10.0 cm2
+2.35 ≤w < 2.45
+​2
+3
+2 <
+​
+=
+( 2
+3)
+2
+2.25 < 3
+​ =
+2.5
+​ ≈
+2
+​
+10
+1.581
+2 < 2.5 < 3
+​
+10
+0.
+=
+36
+​
+100
+36
+​ =
+a + b
+​ +
+a
+​b
+3 =
+4
+3 × 3 × 3 × 3 = 81
+​ =
+81
+9
+9 =
+2
+81
+10 =
+5
+100,000
+​ =
+12
+8
+​3
+2
+2.5 × 10 =
+2
+2.5 × 100 = 250
+7.684
+7.7
+a10
+b8
+c10
+9d2
+125
+​
+16
+1
+81
+−32
+3m5
+2p q
+2 3
+8x y
+6
+3
+2 =
+3
+8
+2 ×
+3
+2 =
+4
+8 × 16 = 128 = 27
+4 =
+7
+(2 ) =
+2 7
+2
+=
+14
+16,384
+47
+​ =
+58
+58
+5
+=
+8−8
+50
+5 =
+0
+1
+a =
+0
+1
+a =0
+81 = 34
+n = 4
+32 = 25
+n + 1 = 5
+n = 4
+625 = 54
+2n = 4
+n = 2
+​
+×
+( b2
+2a3 )
+2
+​ =
+a2
+b6
+​ ×
+b4
+4a6
+​ =
+a2
+b6
+4a
+b
+=
+6−2 6−4
+4a b
+4 2
+(−2) =
+4
+16
+−2 =
+4
+−(2 ) =
+4
+−16
+−2
+−x4
+(−x)4
+11
+3
+−4
+(−4) =
+3
+−64
+3
+3 =
+4
+81
+71/2
+51/3
+3−1/2
+x2/5
+
+
+===== [source page 243] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+243
+3 (a) , since 
+; (b) ; (c) ; (d) 
+.
+4 (a) 
+; (b) 
+; (c)
+.
+5 (a) 
+; (b) 
+, since 
+; (c) 
+, since
+.
+6
+, because 
+; an odd root of a
+negative number is real. But 
+ would
+require a real number whose square is 
+, and every
+real square is non-negative. So the even root is not real.
+7
+. The power-of-a-power law gives
+, and the definition of a rational
+exponent gives 
+. The same law also gives
+.
+8 Edge 
+ cm. One face has area 
+, so the
+square's side is 
+ cm. The numbers coincide
+because 
+ and 
+; the units are different (cm
+for length, cm² for area).
+PRACTICE 2.3 · SCIENTIFIC NOTATION
+1 (a) 
+; (b) 
+; (c) 
+; (d) 
+.
+2 (a) 
+; (b) 
+; (c) 
+; (d) 
+.
+3 (a) 
+, so 
+; (b) 
+, so
+.
+4 (a) 
+; (b)
+.
+5 Align the powers: 
+. Then
+. Check:
+.
+6
+. In standard
+form: 
+.
+7
+ kg.
+8
+, so 
+ files.
+PRACTICE 2.4 · ORDERS OF MAGNITUDE AND ESTIMATION
+1 (a) 
+, since 
+; (b) 
+; (c) 
+, since 
+; (d)
+, since 
+.
+2
+ times larger.
+3
+ seconds; a one-significant-
+figure estimate is 
+ s.
+4
+, so the number is about 
+grains. Assumptions: every grain has mass 0.02 g, the
+bag contains only rice, and the total mass is exact.
+5
+ m, so 
+ molecules could fit across the
+gap.
+6
+. The proton is heavier, by a factor of
+about 
+ (roughly 1,835).
+7
+ smartphones. This is
+reasonable: 
+ million GB, or about
+3.2 PB.
+8 Volume 
+ L. At 0.5 L per
+bottle, that is 
+ bottles. A school of about 
+ people is
+three orders of magnitude smaller, so the bottle count is
+roughly 1,000 times the school population.
+PRACTICE 2.5 · SIGNIFICANT FIGURES AND PRECISION
+1 (a) 2; (b) 4; (c) ambiguous, usually 2 unless the trailing
+zeros are declared significant (then 3 or 4); (d) 3.
+2 (a) 
+; (b) 
+; (c) 
+; (d) 
+, since the next digit is
+4.
+3
+ rounds to 
+, but 
+ rounds to 
+. Rounding
+depends on the digit immediately after the retained
+place: 5 rounds up, 4 does not. The values differ by
+0.001, but they fall on opposite sides of the 7.85
+threshold.
+4 The true length lies in 
+ cm; a value of
+exactly 12.45 would round to 12.5, so the upper endpoint
+is excluded.
+5 Relative error 
+.
+6 Area 
+. Both lengths have 2 significant
+figures, so the answer should be given to 2 s.f.: 
+.
+7 The inputs 2.5 and 4.0 each have 2 s.f., so the product has 2
+s.f. The value 10.0 already claims 3 s.f., and 10.000 claims
+5. The correct report is 
+ (ambiguous) or preferably
+, not a string of zeros that invents precision.
+8
+ m has 3 s.f., so the uncertainty is about
+ m. The true value could lie
+roughly between 383.5 million and 384.5 million
+metres. The trailing digits in 384,000,000 are not known,
+so “exactly” is not justified.
+INVESTIGATION 2 · FORTY-TWO FOLDS TO THE MOON
+1 For 
+: 
+ mm 
+ m
+ m. For 
+:
+ mm 
+ m
+ m.
+2 The Moon is 
+ m 
+ mm. Require
+, so 
+. Now
+ is too small, while 
+ is
+large enough. The smallest whole number is 
+,
+giving 
+ mm 
+ m.
+3 For 300 m 
+ mm, require 
+. Since
+ is too small and 
+, 
+gives 419.4 m. For 8,849 m 
+ mm,
+ is too small and 
+, so 
+gives 13.4 km. Table: tower 22 folds, 419 m; Everest 27
+folds, 13.4 km.
+4 A height 
+ metres is 
+ mm, so 
+, i.e.
+. Thus 
+. Using 
+, estimate
+ and round up. Checks: 
+ gives
+about 21.6, so 22; 
+ gives about 26.5, so 27;
+ gives about 42.
+5 The model assumes each fold exactly doubles the thickness and that the sheet can keep folding. In reality the area halves
+each time: after 42 folds it would be about 
+ of the original, a microscopic patch, while the thickness would be
+ m. The sheet would be far longer than it is wide long before that. Paper stiffness, the finite radius of a crease,
+trapped air and imperfect alignment all break the doubling rule. The mathematics correctly predicts the exponential
+growth, but the physical procedure is impossible; a model can be mathematically sound and still not describe a feasible
+action.
+APPLICATION · A SCALE MODEL OF THE SOLAR SYSTEM
+1 Neptune is 
+ km 
+ m. The scale is
+, or 
+.
+2 Distances: Mercury 5.8 m, Earth 15.0 m, Mars 22.7 m,
+Jupiter 77.8 m, Neptune 450 m. Diameters: Mercury
+0.049 cm, Earth 0.127 cm, Mars 0.068 cm, Jupiter 1.4 cm,
+Neptune 0.49 cm.
+3 Earth's model diameter, 0.13 cm, is only just visible as a
+dot; Jupiter's 1.4 cm is clearly visible. At one true scale
+the planets are minute compared with their
+separations, so a model cannot show both distance and
+size clearly. Museums usually exaggerate planet sizes
+(or use separate inset models) while keeping distances
+to scale, and must say so.
+4 Jupiter's diameter is 
+ km 
+ m. A 0.30 m
+model gives scale 
+, or about
+. Neptune would then be
+ m, about 9.6 km from
+the Sun. The 500 m path is far too short.
+8
+8 =
+2
+64
+5
+2
+9
+=
+3/2
+(
+​) =
+9 3
+3 =
+3
+27
+32
+=
+2/5
+(2 )
+=
+5 2/5
+2 =
+2
+4
+64
+=
+−1/3
+​ =
+​
+3 64
+1
+​4
+1
+​
+=
+( 27
+8 )2/3
+​
+=
+( 3
+2)2
+​9
+4
+x = ±12
+x = 5
+5 =
+3
+125
+x = 81
+81
+=
+1/2
+9
+(−8)
+=
+1/3
+​ =
+3 −8
+−2
+(−2) =
+3
+−8
+(−8)
+=
+1/2
+​
+−8
+−8
+a
+=
+m/n
+am×(1/n)
+a
+=
+m×(1/n)
+(a )
+m 1/n
+(a )
+=
+m 1/n
+​
+n am
+(a
+)
+=
+1/n m
+(
+)
+n a m
+=
+​ =
+3 343
+7
+7 =
+2
+49 cm2
+​ =
+49
+7
+343 = 73
+49 = 72
+8.25 × 103
+4.6 × 10−4
+9.1 × 107
+3.05 × 10−7
+5,700
+0.0000902
+160,000,000
+0.45
+2.5 × 4 = 10
+10 × 10 =
+9
+1.0 × 1010
+6.4 × 2.5 = 16
+16 × 10 =
+3
+1.6 × 104
+​ ×
+3.2
+9.6
+10
+=
+8−2
+3.0 × 106
+​ ×
+9
+4.5
+10
+=
+−5−(−9)
+0.5 × 10 =
+4
+5.0 × 103
+3.8 × 10 =
+5
+0.38 × 106
+4.7 × 10 +
+6
+0.38 × 10 =
+6
+5.08 × 106
+4,700,000 + 380,000 = 5,080,000
+3.3 × 10
+<
+−4
+4.1 × 10
+<
+−4
+3.4 × 10
+<
+−3
+2.9 × 10−2
+0.00033 < 0.00041 < 0.0034 < 0.029
+7.5 × 10
+×
+−9
+40 = 300 × 10
+=
+−9
+3.0 × 10−7
+​ =
+4.0×108
+2.0×1012
+0.5 × 10 =
+4
+5.0 × 103
+5,000
+104
+4.8 ≥3.16
+107
+10−4
+2.2 < 3.16
+10−1
+5.0 ≥3.16
+​ =
+3×105
+6×108
+2 × 10 =
+3
+2,000
+24 × 60 × 60 = 86,400 ≈8.6 × 104
+105
+1 kg = 1,000 g
+​ =
+0.02
+1000
+50,000 = 5 × 104
+1 cm = 10−2
+​ =
+10−9
+10−2
+107
+​ ≈
+1.67×10−27
+9.1×10−31
+5.45 × 10−4
+1.8 × 103
+​ =
+1.28×1011
+3.2×1015
+2.5 × 10 =
+4
+25,000
+25,000 × 128 GB ≈3.2
+= 25 × 10 × 2 = 500 m =
+3
+5 × 105
+106
+103
+4.57
+0.00988
+12,300
+8.99
+7.85
+7.9
+7.849
+7.8
+12.35 ≤L < 12.45
+=
+​ ×
+250
+2
+100% = 0.8%
+= 4.2 × 7.5 = 31.5 cm2
+32 cm2
+10
+1.0 × 101
+3.84 × 108
+±0.005 × 10 =
+8
+±5 × 105
+n = 10 0.1 × 2
+=
+10
+0.1 × 1024 = 102.4
+= 0.1024
+= 1.024 × 10−1
+n = 20
+0.1 × 2
+=
+20
+0.1 × 1,048,576 = 104,857.6
+= 104.8576
+= 1.048576 × 102
+3.84 × 108
+= 3.84 × 1011
+0.1 × 2 >
+n
+3.84 × 1011
+2 >
+n
+3.84 × 1012
+2
+=
+41
+2.199 × 1012
+2
+=
+42
+4.398 × 1012
+n = 42
+4.398 × 1011
+= 4.398 × 108
+= 3 × 105
+2 >
+n
+3 × 106
+2
+=
+21
+2.10 × 106
+2
+=
+22
+4.19 × 106 n = 22
+= 8.849 × 106
+2
+=
+26
+6.71 × 107
+2
+=
+27
+1.34 × 108
+n = 27
+H
+1000H
+0.1 × 2 >
+n
+1000H
+2 >
+n
+10 H
+4
+n > log
+​(10 H)
+2
+4
+2
+≈
+10
+103
+n ≈
+​ log
+​(10 H)
+3
+10
+10
+4
+H = 300
+H = 8849
+H = 3.84 × 108
+2 × 10−13
+4.4 × 108
+4.50 × 109
+= 4.50 × 1012
+450 : 4.50 × 10
+=
+12
+1 : 1.0 × 1010
+1 : 10,000,000,000
+1.40 × 105
+= 1.40 × 108
+​ ≈
+1.40×108
+0.30
+2.1 × 10−9
+1 : 4.7 × 108
+4.50 × 10
+×
+12
+2.1 × 10
+≈
+−9
+9.6 × 103
+
+
+===== [source page 244] =====
+MYP MATHEMATICS 3
+244
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+5 Sample label: “This model uses a scale of about 
+: one metre here represents ten billion metres in space. Distances are
+to scale, but the planets are enlarged so that they can be seen; their sizes are therefore not to the same scale as their
+separations. A model that kept sizes to scale would make the planets almost invisible, so one quantity must be
+exaggerated. Neptune orbits 450 m from the Sun, while Earth is only 15 m away and just 1.3 mm across; the Sun itself
+would be 14 cm wide. Scientific notation keeps the design readable: 
+ m becomes 450 m. We quote two significant
+figures because the scale and the orbital distances are approximate.”
+CRITERION TASK · A PUBLIC BRIEFING ON VERY SMALL PARTICLES
+Sample response. A PM2.5 particle is at most 
+ m across, while a human hair is about 
+ m across. The ratio
+is 
+, so about 28 particles would fit across one hair. The measured annual mean is 
+ kg/m³, or 
+,
+compared with the limit of 
+ kg/m³, or 
+. The measurement is 
+ above the limit. Its uncertainty is 
+,
+which is about 
+ kg/m³, giving a range from 
+ to 
+ kg/m³. Even the lowest value is above
+, so the site definitely exceeds the limit. The comparison is reported to two significant figures, matching the
+input data.
+1
+. Because the hair diameter is given
+as “about 
+” (1 s.f.), a cautious report is “about 30
+particles”, i.e. 1 s.f.; 28 is acceptable if the data are
+treated as 2 s.f.
+2 Since 
+ kg, multiply kg/m³ by 
+: measured
+ kg/m³ 
+; limit 
+ kg/m³
+.
+3
+. Equivalently, the measured value is
+1.66 times the limit, so it is 
+ above it.
+4
+ of 
+ is 
+. The interval is
+ kg/m³. The lower bound
+ exceeds 
+, so the site definitely
+exceeds the limit even after allowing for uncertainty.
+5 Sample briefing: “The particles we are measuring are very small: up to 28 of them would fit across the width of a human
+hair. Because they are invisible, the hair comparison is the clearest way to show their scale, and it is a whole-number
+estimate because the hair diameter is itself approximate. The annual average at the tested site was 
+ kilograms
+per cubic metre, or 8.3 micrograms per cubic metre. The health-based limit is 5.0 micrograms per cubic metre, so the site
+is about 66% above the limit. The measurement has an uncertainty of 
+, which means the true annual average is likely
+between 7.8 and 8.8 micrograms per cubic metre. Even the lowest estimate is well above 5.0, so the site exceeds the limit.
+We report the comparison to two significant figures, because the measurement and its uncertainty do not justify more;
+the figures are rounded so that they inform without pretending to be exact.”
+Marking guide. Part 1 (4 marks): correct ratio; division of mantissas and subtraction of indices; answer 28; appropriate
+significant-figure comment. Part 2 (3 marks): correct conversion factor 
+; both values converted; units 
+. Part 3 (4
+marks): correct difference; division by the limit; multiplication by 100; answer 66%. Part 4 (5 marks): uncertainty
+; correct interval; comparison of lower bound with the limit; justified “definitely exceeds”; clear units. Part 5 (8
+marks): particle–hair comparison; measured value and limit; uncertainty; conclusion; scientific notation used; precision
+of each number justified; readable for a non-specialist. Criterion D strands i–v are addressed through identifying
+quantities, selecting ratios and conversions, justifying accuracy, and evaluating the message. Bands: 19–24 correct and
+well justified; 13–18 mostly correct with minor uncertainty errors; 7–12 some relevant work; 1–6 little correct
+mathematics.
+MIXED PRACTICE 2
+F1 (a) 
+; (b) 
+; (c) 
+.
+F2 (a) 
+; (b) 
+; (c)
+.
+F3
+; 
+.
+F4
+ and 
+, so 
+.
+R1
+. Directly, 
+, so 
+; a negative
+exponent records division by a positive power.
+R2 No: 
+ is larger. Its power of 10 is ten times 
+, and
+the mantissas 5.2 and 4.9 are close, so the difference in
+exponent dominates; the ratio is about 
+.
+R3 The student added mantissas and exponents as if
+multiplying. Addition needs a common exponent:
+, so 
+.
+Check: 
+.
+R4 Four significant figures: 7, 0, 8 and the final 0. The leading
+zeros are not significant; the zero between 7 and 8 is;
+the trailing zero after the decimal point is a deliberate
+precision claim.
+A1
+ m, so 
+ cells, about
+5,000.
+A2
+, about 
+ or 1.25 million photos.
+A3
+ bacteria.
+A4 Relative error 
+. For an 8.4 g
+measurement this is moderately precise, but for a 100 g
+sample the same 
+ g is only 
+; the smaller sample
+carries the larger relative uncertainty, so 8.4 g is not a
+precise way to represent a 100 g quantity.
+Common errors. Multiplying exponents when powers are multiplied instead of adding them; writing 
+ rather
+than 
+; losing the negative sign in 
+; adding exponents when adding numbers in scientific notation; leaving a
+mantissa outside 
+; and counting leading zeros as significant. A related error is reporting every calculator digit
+as if it were measured.
+Chapter 3 · Functions, expressions and algebraic reasoning
+PREREQUISITE CHECK
+1
+.
+2
+.
+3
+.
+4
+.
+5
+, so 
+.
+6 The terms increase by 3: 
+.
+1 : 1010
+4.5 × 1012
+2.5 × 10−6
+7 × 10−5
+​ =
+2.5×10−6
+7×10−5
+28
+8.3 × 10−9
+8.3 μg/m3
+5.0 × 10−9
+5.0 μg/m3
+66%
+±6%
+±0.50 × 10−9
+7.8 × 10−9
+8.8 × 10−9
+5.0 × 10−9
+​ =
+2.5×10−6
+7×10−5
+2.8 × 10 =
+1
+28
+7 × 10−5
+1 μg = 10−9
+109
+8.3 × 10−9
+= 8.3 μg/m3
+5.0 × 10−9
+= 5.0 μg/m3
+​ ×
+5.0
+8.3−5.0
+100% = 66%
+66%
+6%
+8.3 × 10−9
+0.498 × 10
+≈
+−9
+0.50 × 10−9
+7.8 × 10
+≤
+−9
+c ≤8.8 × 10−9
+7.8 × 10−9
+5.0 × 10−9
+8.3 × 10−9
+±6%
+109
+μg/m3
+0.50 × 10−9
+x
+=
+7−3
+x4
+3 a =
+3
+6
+27a6
+​m
+=
+2
+8
+6−(−2)
+4m8
+81
+=
+3/4
+(3 )
+=
+4 3/4
+3 =
+3
+27
+27
+=
+−2/3
+​ =
+(
+​)
+3 27 2
+1
+​9
+1
+​ =
+3 −125
+−5
+0.000903 = 9.03 × 10−4 28,400,000 = 2.84 × 107
+2.4 × 5.0 = 12
+10
+=
+−4+7
+103
+12 × 10 =
+3
+1.2 × 104
+​ =
+24
+21
+2
+=
+1−4
+2−3
+​ =
+16
+2
+​8
+1
+2
+=
+−3
+​8
+1
+4.9 × 105
+104
+9.4
+4.0 × 10 =
+4
+0.40 × 105
+3.6 × 10 +
+5
+0.40 × 10 =
+5
+4.00 × 105
+360,000 + 40,000 = 400,000
+10 cm = 10−1
+​ =
+2×10−5
+10−1
+0.5 × 10 =
+4
+5 × 103
+​ =
+3.2×106
+4.0×1012
+1.25 × 106
+1.3 × 106
+5.0 × 10 ×
+3
+2 =
+8
+5.0 × 10 ×
+3
+256 = 1.28 × 106
+=
+​ ×
+8.4
+0.1
+100% ≈1.2%
+±0.1
+0.1%
+(2x) =
+3
+2x3
+8x3
+a−n
+1 ≤a < 10
+4(5) + 3 = 20 + 3 = 23
+(7 −2 + 3)a = 8a
+3(2x + 4) = 6x + 12
+(−3) =
+2
+(−3) × (−3) = 9
+2x = 17 −5 = 12
+x = 6
+16,  19
+
+
+===== [source page 245] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+245
+PRACTICE 3.1 · EXPRESSIONS AND SUBSTITUTION
+1 (a) Coefficient , constant 
+. (b) Coefficient 
+, constant .
+(c) Coefficient of  is 
+, constant ; the coefficient of 
+is 1.
+2 (a) 
+. (b) 
+. (c)
+.
+3 (a) 
+. (b) 
+. (c)
+.
+4 (a) 
+. (b)
+. (c)
+.
+5
+ and 
+ have the same variable part, so the distributive
+law gives 
+. The 2 in 
+ is a constant, not
+a like term, so no common factor of  exists; the
+expression is already as simple as possible.
+6 Writing 
+ as 
+ squares 3 first and then applies the
+minus sign, giving 
+. The input is the whole number
+, so brackets are needed: 
+. Correct value .
+7
+ (the same unit
+as ).
+8 For example 
+ and 
+: at 
+ both equal 4, but at 
+they give 9 and 12, so they are not identical. One
+matching input tests only one case; equivalence
+requires equal values for every permitted input, which
+a single substitution cannot establish.
+PRACTICE 3.2 · FUNCTIONS, DOMAIN AND RANGE
+1 (a) 
+. (b) 
+. (c)
+.
+2 (a) 
+. (b) 
+. (c)
+.
+3
+, so 
+ and 
+. Check: 
+.
+4 (a) All real  except 
+ (division by zero). (b) 
+, so
+that 
+ and the root is real. (c) All real .
+5 For 
+ the equation gives two outputs, 
+and 
+; for example 
+ gives 
+ and
+. A vertical line therefore meets the circle twice,
+so one input has two outputs and the relation is not a
+function.
+6
+. Solving 
+ gives 
+, so the input
+is 
+.
+7 A sensible domain is 
+ (whole numbers of
+posters), since a fraction of a poster cannot be printed.
+ units.
+8
+ is one example. The denominator 
+excludes 4 from the domain; the numerator is chosen so
+that 
+. Any rule of the form 
+ also
+works.
+PRACTICE 3.3 · EXPANDING AND FACTORISING
+1 (a) 
+. (b) 
+. (c) 
+.
+2 (a) 
+. (b)
+. (c)
+.
+3 (a) 
+. (b)
+. (c)
+.
+4 (a) 
+. (b) 
+. (c) 
+. (d)
+.
+5
+, since 
+ and
+. For 
+ the constants would need sum 0 and
+product 9; no integers satisfy both (3 and 3 give sum 6).
+It is a sum, not a difference, of squares, so it does not
+factorise over the integers.
+6 Expanding: 
+. Substituting
+: left side 
+, right side 
+. Both
+checks agree, so the factorisation is correct.
+7
+, so 
+and 
+.
+8 Integer factors of 7 are 1 and 7, or 
+ and 
+, with sums 8
+and 
+; neither sum is 4. So no integer 
+ exist. Since
+, the graph is a parabola with
+minimum 
+ and no -intercepts: the equation 
+has no real solutions.
+PRACTICE 3.4 · REARRANGING FORMULAS
+1 (a) 
+. (b) 
+. (c) 
+, so 
+.
+2
+, so 
+ (for 
+).
+3
+, so 
+.
+4
+.
+5 Divide by 5: 
+, so 
+. Check with
+: 
+, and 
+.
+6
+, then 
+, so 
+.
+7
+, so 
+, provided 
+; if 
+ then
+ for every  and no unique subject exists.
+8
+, so 
+. With 
+, 
+:
+, so 
+ (2 s.f.).
+PRACTICE 3.5 · SEQUENCES AND GENERALISATION
+1 (a) Add 5: 
+. (b) Subtract 4: 
+. (c) Multiply by 3:
+.
+2 (a) 
+. (b) 
+. (c) 
+.
+3
+: 
+; 
+: 
+; 
+: 
+.
+4 Solve 
+: 
+, 
+. Since 17 is a positive
+whole number, yes : 71 is the 17th term.
+5 First differences are 
+, which change, so there is no
+constant difference and the rule is not of the form
+. The second differences are constant, so the
+sequence is quadratic, with nth term 
+.
+6 Differences are 4, so the rule is 
+: 
+,
+, 
+. Structurally, each stage has 2
+central tiles and 4 arms of  tiles, giving 
+.
+7
+ (double each time) gives 2, 4, 8, 16. A second rule,
+, also gives 2, 4, 8,
+16 but gives 56 for 
+. Four terms therefore do not
+determine a unique pattern: a rule needs a structural
+reason or a proof that it continues.
+8 First differences 
+; second differences 
+,
+constant, so the rule is quadratic. 
+, since
+, 
+, 
+. Equivalently
+.
+INVESTIGATION 3 · THE MATCHSTICK TRIANGLES
+1 Stage 5 needs 11 matchsticks and stage 6 needs 13. The first
+differences remain 2, 2, 2, 2, so each new triangle still
+adds two matchsticks.
+2
+. The first triangle uses 3 matchsticks. Each additional triangle shares one side with the row, so only two of its
+three sides are new: 
+. Check: 
+ gives 9, matching the table. The rule is structural, not merely
+fitted to the numbers.
+7
+−4
+−2
+9
+x
+−5
+1
+x2
+(8 −3 + 2)y = 7y
+(4p −p) + (7q −3q) = 3p + 4q
+(6 −1)x +
+2
+2x = 5x + 2x
+2
+6a + 8 + 5a = 11a + 8
+10x −5 −3x = 7x −5
+12m + 8 −2m + 10 = 10m + 18
+2(4) + 3(2) −4 = 8 + 6 −4 = 10
+2(1) + 3(−1) −4 = 2 −3 −4 = −5
+2(0.25) + 1.5 −4 = 0.5 + 1.5 −4 = −2
+5x
+2x
+(5 + 2)x = 7x
+5x + 2
+x
+x2
+−32
+−9
+−3
+(−3) =
+2
+9
+9
+P = 2((3x + 1) + (x −2)) = 2(4x −1) = 8x −2
+x
+x2
+4x
+x = 2
+x = 3
+3(2) −5 = 1
+3(0) −5 = −5
+3(−4) −5 = −12 −5 = −17
+3 +
+2
+1 = 10
+(−3) +
+2
+1 = 10
+0.5 +
+2
+1 = 0.25 + 1 = 1.25
+10 −2x = 4
+2x = 6
+x = 3
+h(3) = 10 −6 = 4
+x
+x = 0
+x ≥3
+x −3 ≥0
+x
+−5 < x < 5
+y =
+​
+25 −x2
+y = −
+​
+25 −x2
+x = 0
+y = 5
+y = −5
+f(x) = 2x −3
+2x −3 = 11
+2x = 14
+x = 7
+n = 0, 1, 2, 3, …
+C(40) = 25 + 1.5(40) = 25 + 60 = 85
+f(x) =
+​
+x −4
+2x −4
+x −4
+f(0) =
+​ =
+−4
+−4
+1
+1 +
+​
+x −4
+kx
+8x + 12
+−3x + 15
+2x(3x) + 2x(4) = 6x + 8x
+2
+x +
+2
+7x + 2x + 14 = x + 9x + 14
+2
+x +
+2
+5x −4x −20 = x + x −20
+2
+x −
+2
+2x −6x + 12 = x −8x + 12
+2
+3x −
+2
+6x + x −2 = 3x −5x −2
+2
+4x +
+2
+10x −10x −25 = 4x −25
+2
+x +
+2
+8x + 8x + 64 = x + 16x + 64
+2
+5x(x + 3)
+(x −7)(x + 7)
+(x + 4)(x + 5)
+(x −4)(x + 3)
+x +
+2
+6x + 9 = x +
+2
+2(3)x + 3 =
+2
+(x + 3)2
+3 + 3 = 6
+3 × 3 = 9
+x +
+2
+9
+x +
+2
+3x + 2x + 6 = x +
+2
+5x + 6
+x = 1
+3 × 4 = 12
+1 + 5 + 6 = 12
+(x −7)(x + 2) = x +
+2
+2x −7x −14 = x −5x −14
+2
+b = −5
+c = −14
+−1
+−7
+−8
+a, b
+x +
+2
+4x + 7 = (x + 2) +
+2
+3
+(−2, 3)
+x
+y = 0
+x = y −5
+x =
+​4
+y
+y + 3 = 2x
+x =
+​
+2
+y + 3
+v −u = at
+t =
+​
+a
+v −u
+a =0
+2A = bh
+h =
+​
+b
+2A
+r =
+​
+2π
+C
+x −2 =
+​5
+y
+x =
+​ +
+5
+y
+2 =
+​
+5
+y + 10
+y = 15 x = 5
+5(5 −2) = 15
+2A = (a + b)h
+a + b =
+​
+h
+2A
+b =
+​ −
+h
+2A
+a
+y = x(a + b)
+x =
+​
+a + b
+y
+a + b =0
+a + b = 0
+y = 0
+x
+S −2πr =
+2
+2πrh
+h =
+​
+2πr
+S −2πr2
+S = 300 r = 4
+h =
+​ =
+8π
+300 −32π
+​ ≈
+25.13
+199.47
+7.9366
+h = 7.9 cm
+21,  26
+18,  14
+54,  162
+5n −1
+15 −3n
+2n −1
+n = 1 5 −2 = 3 n = 5 25 −2 = 23 n = 20 100 −2 = 98
+4n + 3 = 71 4n = 68 n = 17
+3, 5, 7, …
+an + b
+n2
+4n + 2 4(1) + 2 = 6
+4(2) + 2 = 10 4(3) + 2 = 14
+n
+2 + 4n
+T(n) = 2n
+T(n) = 2 +
+n
+(n −1)(n −2)(n −3)(n −4)
+n = 5
+5, 7, 9, 11
+2, 2, 2
+T(n) = n +
+2
+2n
+1 + 2 = 3 4 + 4 = 8 9 + 6 = 15
+T(n) = (n + 1) −
+2
+1
+M(n) = 2n + 1
+M = 3 + 2(n −1) = 2n + 1
+n = 4
+
+
+===== [source page 246] =====
+MYP MATHEMATICS 3
+246
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+3
+; 
+.
+4 Solve 
+: 
+, so 
+. Exactly 30 complete
+triangles can be made and no matchsticks remain ,
+because 61 is odd and every value of 
+ is odd.
+5 In a ring every triangle has one free outer side and two shared sides, so there are  free sides and  shared sides:
+. The domain is 
+, since a ring must close and 
+ or 
+ cannot form one. Compared with the row,
+the ring always uses one fewer matchstick (
+ against 
+): the two end triangles of the row, each with an extra outer
+side, are joined. The difference is constant, so the ring is still linear.
+6 The zigzag has the same count, 
+. Each new triangle still shares exactly one complete side with the previous
+triangle, so exactly two of its three sides are new; placing it above or below the previous triangle changes the shape but
+not the count. Diagram: draw stages 1–3 alternating up and down and mark the shared side; each stage adds two sticks.
+APPLICATION · PAINTING A COMMUNITY HALL
+1 Four walls have area 
+. Subtract
+the door and four windows:
+ square
+metres.
+2 Two coats cover 
+ square metres, and one litre covers 10,
+so 
+ litres. Round up
+because paint is bought in whole litres (and whole tins):
+a fractional litre cannot be purchased, and running
+short would leave a coat unfinished.
+3
+. 
+,
+so buy 
+. Tins: 
+, so 
+ five-litre tins (50 L,
+with 3.6 L spare).
+4 Paint: 
+ units. Extras: 
+ units.
+Total 
+ units.
+5 From 
+: 
+, so
+. With 
+, 
+, 
+:
+, so 
+.
+6 The model ignores the ceiling, paint absorbed unevenly by the surface, spillage, masking and trim, and it assumes every
+litre covers exactly 
+. The opening areas are also fixed, although a real hall may have different windows. It could be
+improved without measuring every wall by sampling one wall to estimate absorption, using the manufacturer's coverage
+range for the paint type, and adding a wastage allowance of about 5–10%. Rounding up litres suits a purchasing decision
+because tins are indivisible and a small surplus is cheaper than an unfinished job; the cost is driven by whole tins, so the
+answer should report both 47 L and 10 tins. Since 44 L was itself rounded, the height 4.75 m is approximate.
+CRITERION TASK · THE GROWING SQUARE FRAME
+Sample response. Frames 1 to 5 contain 4, 8, 12, 16 and 20 tiles, with constant first difference 4, so 
+. The structure
+gives the same result: an outer square of side 
+ loses an inner square of side 
+, and 
+. Frame 25
+therefore has 100 tiles, and 100 tiles make exactly Frame 25. A rectangular frame of width 
+ and height 
+, with the
+centre removed, has 
+, which is still linear.
+1 Frame 1: a 
+ block, 4 tiles. Frame 2: 
+ with a 1-tile
+hole, 8 tiles. Frame 3: 
+ with a 
+ hole, 12 tiles.
+Table: 
+ gives 
+.
+2 First differences: 
+, 
+, 
+,
+. They are constant, so the pattern is linear
+with gradient 4.
+3
+. Structurally, the four sides each contain  tiles when each corner is
+counted once, so 
+; equivalently, two opposite sides have 
+ tiles and the other two have 
+, giving
+. Verification: 
+, which matches the drawing.
+4
+ because 
+. The form 
+ shows four arms of  tiles with every corner counted exactly once; the
+form 
+ separates the four corner tiles from the 
+ non-corner tiles along each side. Both describe the same
+frame, which is why the expressions are equivalent.
+5
+ tiles. For 100 tiles, 
+ gives 
+,
+so the largest frame is Frame 25 , using all 100 tiles with
+none left over.
+6 Outer area 
+, hole 
+, so
+. Values 6, 10, 14, 18, 22
+have constant difference 4, so the relationship is linear;
+the extra 2 is the two tiles by which the height exceeds
+the width.
+Marking guide. Q1 (4): two for a complete, correct table for 
+ to 4, one for 
+, one for the three labelled drawings. Q2
+(4): two for the four first differences, two for the conclusion and reason. Q3 (6): two for 
+, three for a structural
+explanation (outer square minus hole, or sides with corners counted once), one for verifying 
+. Q4 (4): two for
+showing both forms equal 
+, two for the meaning of each form. Q5 (4): two for 100, two for 
+ with remainder 0. Q6
+(2): one for 
+, one for the linear justification. Criterion B strands i–iii are addressed by the table and drawings (i), the
+difference analysis (ii), and the generalisation with verification (iii). Criterion C strands ii–iii are credited within the same
+marks for correct notation 
+, labelled table and diagrams, and a coherent chain from pattern to rule.
+MIXED PRACTICE 3
+F1
+.
+F2
+; 
+; 
+.
+F3
+.
+F4
+ (sum 11, product 24);
+.
+F5
+, so 
+.
+F6 Difference 4, first term 9, so 
+.
+R1 At 
+: 
+, while 
+. Since 
+, one
+counterexample shows the expressions are not
+equivalent; the square must also produce the middle
+term 
+.
+R2
+ is the -coordinate of the point on the graph with
+: move vertically from 3 on the -axis to the graph,
+then read across to the -axis. To solve 
+, draw
+the horizontal line 
+ and read the -coordinates of
+its intersections with the graph.
+R3 At 
+ the denominator is zero, and division by zero is
+undefined, so 
+ must be excluded. Domain: all real 
+except 
+, i.e. 
+.
+R4
+, a constant
+negative difference, so the sequence is decreasing . Its
+terms are 
+A1
+, in units, for 
+ megabytes.
+ units.
+A2 Area 
+. At
+: 
+ square units.
+A3 Sum 
+. Table: 
+ gives sums 1, 4, 9,
+16, 25, that is 
+; each new odd number adds the next
+odd difference.
+A4
+, so 
+ (positive root for a length). 
+:
+, so 
+.
+M(20) = 2(20) + 1 = 41 M(100) = 2(100) + 1 = 201
+2n + 1 = 61 2n = 60
+n = 30
+2n + 1
+n
+n
+M = n + n = 2n
+n ≥3
+n = 1
+n = 2
+2n
+2n + 1
+M = 2n + 1
+2LH + 2WH = 2(L + W)H
+A = 2(L + W)H −2.0 −4(1.5) = 2(L + W)H −8.0
+2A
+N =
+​ =
+10
+2A
+​ =
+5
+A
+​
+5
+2(L + W)H −8
+A = 2(18 + 12)(4) −8 = 240 −8 = 232 m2 N =
+​ =
+10
+2(232)
+46.4
+47 L
+47 ÷ 5 = 9.4
+10
+10 × 42 = 420
+0.08 × 420 = 33.6
+= 420 + 33.6 = 453.6
+5N = 2(L + W)H −8 2(L + W)H = 5N + 8
+H =
+​
+2(L + W)
+5N + 8
+L = 15 W = 9 N = 44
+H =
+​ =
+48
+220 + 8
+4.75
+H = 4.75 m
+10 m2
+T = 4n
+n + 1
+n −1
+(n + 1) −
+2
+(n −1) =
+2
+4n
+n + 1
+n + 2
+T = (n + 1)(n + 2) −n(n −1) = 4n + 2
+2 × 2
+3 × 3
+4 × 4
+2 × 2
+n = 1, 2, 3, 4, 5
+T = 4, 8, 12, 16, 20
+8 −4 = 4 12 −8 = 4 16 −12 = 4
+20 −16 = 4
+T = (n + 1) −
+2
+(n −1) =
+2
+(n +
+2
+2n + 1) −(n −
+2
+2n + 1) = 4n
+n
+4n
+n + 1
+n −1
+2(n + 1) + 2(n −1) = 4n
+T(5) = 20
+4n = 4(n −1) + 4
+4n −4 + 4 = 4n
+4n
+n
+4(n −1) + 4
+n −1
+T(25) = 4(25) = 100
+4n = 100
+n = 25
+(n + 1)(n + 2)
+n(n −1)
+T = n +
+2
+3n + 2 −(n −
+2
+n) = 4n + 2
+n = 1
+n = 5
+T = 4n
+n = 5
+4n
+n = 25
+4n + 2
+T(n)
+(6 −4)x +
+2
+(−2 + 7)x + (3 −8) = 2x + 5x −5
+2
+f(0) = 4 f(2) = 4 −6 = −2 f(−1) = 4 + 3 = 7
+2x +
+2
+12x −x −6 = 2x + 11x −6
+2
+x +
+2
+11x + 24 = (x + 3)(x + 8)
+x −
+2
+64 = (x −8)(x + 8)
+3x = 12 −2y
+x =
+​ =
+3
+12 −2y
+4 −
+​y
+3
+2
+T(n) = 4n + 5
+x = 1 (1 + 5) =
+2
+36
+1 +
+2
+25 = 26
+36 =26
+10x
+f(3)
+y
+x = 3
+x
+y
+f(x) = 2
+y = 2
+x
+x = −1
+−1
+x
+−1
+x =−1
+T(n + 1) −T(n) = 7 −2(n + 1) −(7 −2n) = −2
+5, 3, 1, −1, …
+C(m) = 12 + 0.08m
+m
+C(500) = 12 + 0.08(500) = 12 + 40 = 52
+= (x + 3)(x −1) = x +
+2
+3x −x −3 = x + 2x −3
+2
+x = 6 36 + 12 −3 = 45
+= 30 =
+2
+900
+n = 1, 2, 3, 4, 5
+n2
+s =
+2
+​6
+A
+s =
+​​6
+A
+A = 150
+s =
+2
+25
+s = 5 cm
+
+
+===== [source page 247] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+247
+Common errors. Expanding 
+ as 
+, which drops the middle term 
+; substituting a negative without
+brackets, so that 
+ becomes 
+; combining unlike terms such as 
+ into 
+; dividing only the first term when
+rearranging, as in 
+ giving 
+; and treating three terms of a sequence as proof of a rule. In 
+, the
+negative gradient means the sequence falls, so the tenth term is 
+, not 7.
+Chapter 4 · Linear relationships and graphs
+PREREQUISITE CHECK
+1
+ is the origin; 
+ is in quadrant 1; 
+ is in
+quadrant 2 (1 left, 4 up).
+2
+.
+3
+, so 
+.
+4 Add 4 each time: 
+.
+5
+.
+6
+ hours.
+PRACTICE 4.1 · COORDINATES, TABLES AND GRAPHS
+1
+: quadrant 1. 
+: quadrant 2. 
+:
+quadrant 3. 
+: quadrant 4. 
+: on the
+negative -axis, not in a quadrant.
+2
+ gives 
+. The points lie on a straight
+line through 
+, rising 3 for each step of 1 right.
+3 First differences 
+ are constant, so the relationship is
+linear . At 
+, 
+, so 
+.
+4 (a) Differences 
+: linear, 
+. (b) Differences
+: not linear. (c) Differences 
+: linear,
+. (d) Differences 
+: not linear (triangular
+numbers).
+5
+ gives 
+ cm. The rule is
+; at 
+, 
+.
+6
+ is horizontal: every point has height 3, so the vertical
+change is 0. 
+ is vertical: the input 
+ has
+infinitely many -values, so it fails the vertical line test;
+its gradient is undefined.
+7 Gradient 
+ units per km; intercept 4.50
+units. So 
+, and at 
+,
+ units.
+8 Example: a repair shop charges a 15-unit call-out fee plus
+0.40 units per GB recovered;  is GB, 
+ is units. The
+model fails for very large jobs if the shop caps its charge
+or charges separately for parts.
+PRACTICE 4.2 · GRADIENT AND RATE OF CHANGE
+1 (a) 
+. (b) 
+. (c) 
+.
+(d) 
+. (e) Run 
+, so the gradient is
+undefined .
+2
+. From 
+ to 
+ is a step of 2, so
+.
+3 Rate 
+ L/min: the tank loses 20 litres each
+minute. 
+ gives 
+ minutes.
+4 Sketches: a rising line 
+ (positive:  increases with
+); a falling line 
+ (negative:  decreases as 
+increases); a horizontal line 
+ (zero: no change); a
+vertical line 
+ (undefined: no horizontal change).
+5 Gradient 0 means the vertical change is 0, so the line is
+horizontal, for example 
+. An undefined gradient
+means the horizontal change is 0, so the formula
+divides by zero; the line is vertical, for example 
+,
+and is not a function. Zero is a number; undefined is
+not.
+6 The -coordinates were subtracted in the opposite order to
+the -coordinates: the denominator should be 
+, not
+. Correct: 
+.
+7 A: 
+ km/min 
+ km/h. B: 
+ km/min
+ km/h, so the gradients are equal. B's 2 km start
+raises its intercept by 2 km, shifting the line up without
+changing its steepness.
+8 Gradient 
+. This is exactly the guideline
+limit, so the ramp is acceptable but has no margin . At 
+,
+a rise of 0.6 m needs a run of 
+, the same
+run.
+PRACTICE 4.3 · EQUATIONS OF LINES
+1 (a) 
+, 
+. (b) 
+, 
+. (c) 
+, so
+, 
+. (d) 
+, so 
+, 
+. (e)
+, so 
+, 
+.
+2 (a) 
+. (b) 
+. (c) 
+. (d) 
+.
+3 (a) 
+, 
+: 
+. (b) 
+;
+, so 
+: 
+. (c) 
+;
+, so 
+: 
+. (d) 
+: 
+.
+4 Gradient 
+, intercept 6: 
+.
+5
+: 
+ ✓. 
+: 
+ ✓. 
+: 
+ ✗.
+: 
+ ✓. So 
+, 
+ and 
+ lie on the
+line; 
+ does not.
+6 Parallel: 
+, 
+, so 
+: 
+.
+Perpendicular: 
+, 
+, so 
+: 
+.
+7 Gradient 
+ m/min: height falls 0.15 m each minute.
+Intercept 2.4 m: initial height. 
+.
+Empty when 
+, so 
+ min; domain
+.
+8 Infinitely many, one for each gradient: 
+,
+, 
+. Gradient 0 gives 
+; undefined
+gradient gives 
+. Both pass through 
+, since a
+point fixes the intercept once the gradient is chosen.
+PRACTICE 4.4 · DIRECT PROPORTION
+1 (a) Yes : 
+ is 
+ with 
+. (b) No : intercept 10.
+(c) Yes : 
+. (d) No : 
+ is not linear; 
+, not 
+,
+is constant. (e) No : intercept 3 and negative gradient,
+so 
+ changes.
+2
+. 
+, so 
+.
+3
+, so 
+ and 
+. At 
+, 
+; at 
+,
+.
+4
+, so 
+ and 
+. For 20 muffins, 
+cups; for 7.5 cups, 
+ muffins.
+5
+. 250 dollars gives 232.50 euros; 500 euros gives
+ dollars. Domain 
+. Commission,
+fees and daily rate changes make the model
+approximate.
+(x + 5)2
+x +
+2
+25
+10x
+(−3)2
+−9
+3x + 4
+7x
+2y = 6x −8
+y = 3x −8
+23 −3n
+−7
+(0, 0)
+(2, 3)
+(−1, 4)
+3(4) + 2 = 12 + 2 = 14
+2x = 6
+x = 3
+21,  25
+​ =
+5 −1
+8 −2
+​ =
+4
+6
+1.5
+90 ÷ 60 = 1.5
+A(3, 2)
+B(−2, 4)
+C(−3, −1)
+D(4, −3)
+E(0, −2)
+y
+y = 3x −2
+−5, −2, 1, 4, 7
+(0, −2)
+3, 3, 3, 3
+x = 0 y = 5
+y = 3x + 5
+3, 3, 3
+y = 3x + 4
+2, 4, 8
+−2, −2, −2
+y = 11 −2x
+2, 3, 4
+w = 0, 1, 2, 3, 4
+h = 12, 14.5, 17, 19.5, 22
+h = 12 + 2.5w
+w = 10 h = 12 + 25 = 37 cm
+y = 3
+x = 3
+x = 3
+y
+=
+​ =
+2 −0
+9.00 −4.50
+2.25
+C = 4.50 + 2.25d
+d = 11
+C = 4.50 + 24.75 = 29.25
+x
+C
+​ =
+6 −2
+5 −1
+1
+​ =
+3 −(−1)
+−4 −4
+​ =
+4
+−8
+−2
+​ =
+2 −(−2)
+5 −(−3)
+​ =
+4
+8
+2
+​ =
+7 −4
+0 −0
+0
+5 −5 = 0
+m =
+​ =
+3 −1
+11 −2
+4.5
+x = 7
+x = 9
+y = 29 + 2(4.5) = 38
+=
+​ =
+8 −0
+340 −500
+−20
+500 −20t = 0
+t = 25
+y = x + 1
+y
+x
+y = −x + 3
+y
+x
+y = 2
+x = 1
+y = 2
+x = 3
+x
+y
+5 −2
+2 −5
+m =
+​ =
+5 −2
+−1 −3
+−
+​3
+4
+12 ÷ 40 = 0.3
+= 18
+9 ÷ 30 = 0.3
+= 18
+=
+​ =
+7.2
+0.6
+​ ≈
+12
+1
+0.0833
+​
+12
+1
+0.6 × 12 = 7.2 m
+m = 4 c = −7
+m = −0.5 c = 2
+y = −2x + 5
+m = −2 c = 5
+y = 5 −3x
+m = −3 c = 5
+y = 3x −4
+m = 3 c = −4
+y = 3x −2
+y = −
+​x +
+3
+2
+4
+y = −3
+x = 5
+m =
+​ =
+4 −0
+10 −2
+2 c = 2 y = 2x + 2
+m =
+​ =
+3 −1
+1 −5
+−2
+5 = −2 + c
+c = 7 y = 7 −2x
+m =
+​ =
+2 −(−2)
+0 −4
+−1
+4 = 2 + c
+c = 2 y = 2 −x
+m = 0 y = −1
+=
+​ =
+1 −0
+4 −6
+−2
+y = 6 −2x
+(1, −1) 2 −3 = −1
+(2, 1) 4 −3 = 1
+(3, 4) 6 −3 = 3 =4
+(0, −3) 0 −3 = −3
+(1, −1) (2, 1)
+(0, −3)
+(3, 4)
+m = −1 5 = −2 + c
+c = 7 y = −x + 7
+m = 1 5 = 2 + c
+c = 3 y = x + 3
+−0.15
+h(8) = 2.4 −1.2 = 1.2 m
+2.4 −0.15t = 0
+t = 16
+0 ≤t ≤16
+y = x + 3
+y = 2x + 1 y = −x + 7
+y = 5
+x = 2
+(2, 5)
+C = 4n
+y = kx
+k = 4
+k = 0.5
+y =
+​x
+2
+xy
+y/x
+y/x
+y = 7(8) = 56 63 = 7x
+x = 9
+45 = 9k
+k = 5
+y = 5x
+x = 12 y = 60
+y = 100
+x = 20
+3 = 12k
+k = 0.25
+c = 0.25M
+c = 5
+M = 7.5 ÷ 0.25 = 30
+E = 0.93D
+D =
+​ ≈
+0.93
+500
+537.63
+D ≥0
+
+
+===== [source page 248] =====
+MYP MATHEMATICS 3
+248
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+6 Table 
+ gives 
+; ratios 
+ are not
+constant, and 
+ at 
+, so the graph does not pass
+through the origin.
+7
+ is 
+ with 
+, and 
+ gives 
+. For 300
+km, 
+; domain 
+. Starting 20 km from home
+gives 
+, which is linear but not proportional ,
+because the intercept is 20, not 0.
+8 If 
+, replacing  by 
+ gives 
+. For
+: 
+ gives 5, 
+ gives 7, not 10. The fixed 3
+breaks the doubling, so proportional reasoning needs a
+zero intercept.
+PRACTICE 4.5 · BUILDING AND EVALUATING MODELS
+1 (a) 
+ (units;  hours). (b) 
+ (units;
+ km). (c) 
+ (units per month;  GB).
+2 (a) 30 units per hour; 45 units call-out. (b) 2.20 units per
+km; 3.50 units fixed. (c) 0.40 units per GB; 18 units
+monthly fee.
+3
+: A costs 
+; B costs
+. A is cheaper at 0, 3 and 6 months, B at 9
+and 12. 
+ gives 
+, so A is cheaper
+below 7.5 months (up to 7 whole months) and B above.
+4
+ gives 
+, and both cost 45 units at
+. Below 10, the first plan is cheaper; above 10, the
+second.
+5
+ and 
+. 
+ gives 
+ visits. The
+gradient is 0 because the annual cost does not depend
+on visits.
+6 Gradient 5: 5 more marks per hour of study. Intercept 40:
+score with no study. 
+. 
+ is extrapolation
+outside 
+; it predicts 240, above any plausible
+maximum, and ignores diminishing returns.
+7 5 GB: A costs 25, B 45, so A is cheaper by 20. 40 GB: A costs
+60, B 45, so B is cheaper by 15. A suits light, low-income
+users; B protects heavy users but is regressive for light
+ones. Assumptions: steady use, truly unlimited data,
+equal reliability.
+8
+: at 
+ both charge 50. Below 10 the 10-unit
+lower intercept outweighs the extra 1 per item; above 10
+the higher gradient makes it dearer. It benefits light
+users.
+INVESTIGATION 4 · THE CANDLE CLOCK
+1 The points form a falling straight line; the first differences
+are all 
+ cm, so height falls 1.6 cm each hour.
+2 Using 
+ and 
+: 
+. Using 
+ and 
+: 
+. Units are cm per hour, since
+the rise is in cm and the run in hours; the gradient is negative because height falls as time increases.
+3
+. The intercept 18.0 cm is the initial height. At
+, 
+ cm, matching the table.
+4
+. Burn-out: 
+.
+Domain 
+ for the model; the data support
+only 
+.
+5
+, so 
+ (6 h 45 min). This is inside the
+model domain but beyond the measured 5 hours, so it is
+extrapolation.
+6 Draughts make one side burn faster; the melting wax pool and changing wick length alter the rate; the candle may soften or
+change diameter, and parallax adds error. Improve by shielding the candle, trimming the wick to a fixed length,
+measuring every 15 minutes with a clamped ruler, repeating with identical candles and controlling temperature.
+7
+ and 
+. 
+ is initial height in cm,  the rate in cm per hour,  the time in hours,  the burning time. The
+formulas assume constant  and 
+.
+8
+, so 
+ and 
+; the common height is 
+ (check: 
+). The answer is exact for the
+models but approximate in reality, and 7.5 h is beyond the 5 h of data.
+APPLICATION · A LIBRARY OF THINGS
+1
+, 
+. A: 36 units membership before any
+hire; 3 units per hire. B: no fixed charge; 9 units per
+hire.
+2
+: 
+;
+.
+3
+ gives 
+, both costing 54 units. The lines
+cross at 
+: six hires a year cost the same; B is
+cheaper below 6, A above 6.
+4 3 hires: A = 45, B = 27, so B (saving 18). 15 hires: A = 81, B =
+135, so A (saving 54).
+5 A demands 36 units before any tool is borrowed, a barrier
+for low-income households even though A is cheaper
+over a year of frequent use. B is cheaper for light users
+but not necessarily fairer: its high per-hire charge
+penalises heavy users. Fairness depends on access and
+need, not only the annual total.
+6
+: 
+ for 
+. B
+is cheapest below 4 hires, C from 4 to 8, A above 8. At
+, 
+; at 
+, 
+. C benefits
+moderate users and those who can afford a small fee
+but not 36 units upfront.
+7 Assumptions: every hire costs the same, membership is paid for a full year, and there is no limit on hires. The models ignore
+staff time, maintenance and replacement, insurance, late fees and seasonal demand. Collect anonymised hire records by
+household, a survey of income band and willingness to pay, and the cost of servicing one hire; compare predicted and
+actual annual totals.
+8 Recommendation: offer C, with the 12-unit fee waived for low-income households, and keep A for frequent users. At 2 hires C
+costs 24 against B's 18; at 6 hires C costs 48 against 54 for both A and B; at 12 hires C costs 84 against A's 72. C covers
+moderate use at a lower entry cost than A, while A rewards very frequent use and gives reliable income. The waiver
+protects occasional users who cannot pay a joining fee; widespread use of it would need a subsidy or a higher per-hire
+charge.
+CRITERION TASK · TWO WAYS TO PAY FOR THE SCHOOL BUS
+Sample response. A costs 240 units whatever the number of trips; B costs 
+. B is cheaper until 100 trips, where both
+cost 240 units; A is cheaper beyond 100. A student making 30 trips pays 100 units under B, not 240; one making 110 trips
+pays 240 under A, not 260. The break-even is 100 trips, so the recommendation depends on expected use and on ability to
+pay upfront.
+1
+ and 
+. A: gradient 0 units per trip,
+intercept 240 units per year. B: gradient 2 units per trip,
+intercept 40 units.
+2
+: 
+ throughout;
+.
+3 A is horizontal at 240, cutting the axis at 
+; B rises
+from 
+ with gradient 2, meeting A at 
+. B
+lies below A until the intersection, then above it.
+4
+ gives 
+ trips. The table shows both costs
+240 at 
+, and the graphs intersect there. In context,
+100 trips is the break-even: below it B is cheaper, above
+it A is cheaper.
+x = 1, 2, 3
+y = 5, 7, 9
+5, 3.5, 3
+y = 3
+x = 0
+d = 80t
+y = kx
+k = 80
+t = 0
+d = 0
+t = 3.75 h
+t ≥0
+d = 20 + 80t
+y = kx
+x
+2x
+k(2x) = 2kx = 2y
+y = 2x + 3 x = 1
+x = 2
+C = 45 + 30h
+h
+C = 3.50 + 2.20d
+d
+C = 18 + 0.40g
+g
+m = 0, 3, 6, 9, 12
+10, 22, 34, 46, 58
+25, 31, 37, 43, 49
+10 + 4m = 25 + 2m
+m = 7.5
+15 + 3n = 30 + 1.5n
+n = 10
+(10, 45)
+M = 120
+P = 3v 3v = 120
+v = 40
+S(12) = 100 h = 40
+0 ≤h ≤20
+C = 20 + 3x
+x = 10
+−1.6
+(0, 18.0)
+(5, 10.0) m =
+​ =
+5 −0
+10.0 −18.0
+−1.6
+(1, 16.4)
+(4, 11.6) m =
+​ =
+3
+−4.8
+−1.6
+h = 18 −1.6t
+t = 3 h = 18 −4.8 = 13.2
+h(2.5) = 18 −4 = 14.0 cm
+t = 18 ÷ 1.6 = 11.25 h
+0 ≤t ≤11.25
+0 ≤t ≤5
+18 −1.6t = 7.2
+t = 6.75 h
+h(t) = H −rt
+T =
+​
+r
+H H
+r
+t
+T
+r
+0 ≤t ≤T
+24 −2.4t = 18 −1.6t
+0.8t = 6
+t = 7.5 h
+6 cm
+24 −18 = 6
+C
+=
+A
+36 + 3h C
+​ =
+B
+9h
+h = 0, 2, 4, 6, 8, 10, 12 C
+​ =
+A
+36, 42, 48, 54, 60, 66, 72
+C
+​ =
+B
+0, 18, 36, 54, 72, 90, 108
+36 + 3h = 9h
+h = 6
+(6, 54)
+C
+​ =
+C
+12 + 6h 12, 24, 36, 48, 60, 72, 84
+h = 0, 2, 4, 6, 8, 10, 12
+h = 4 C
+​ =
+B
+C
+​ =
+C
+36
+h = 8 C
+​ =
+A
+C
+​ =
+C
+60
+40 + 2t
+C
+=
+A
+240
+C
+​ =
+B
+40 + 2t
+t = 0, 20, 40, 60, 80, 100, 120 C
+​ =
+A
+240
+C
+​ =
+B
+40, 80, 120, 160, 200, 240, 280
+(0, 240)
+(0, 40)
+(100, 240)
+40 + 2t = 240
+t = 100
+t = 100
+
+
+===== [source page 249] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+249
+5 30 trips: A = 240, B = 100; recommend B , saving 140 units.
+110 trips: A = 240, B = 260; recommend A , saving 20
+units. B's low intercept wins for light use, but its
+gradient of 2 overtakes 240 after 100 trips.
+6 B is fairer for rare travellers, who pay a small registration fee and then only for trips made; A favours frequent travellers and
+large families, since 240 per child is fixed. Three children making 110 trips each cost 720 under A and 780 under B, so A is
+better; at 60 trips each, B costs 480 and A 720, so B is better. A's 240-unit upfront payment may exclude students who
+cannot pay a lump sum, even when A would be cheaper. Assumptions: each trip costs 2 units, there is no cap or
+concession, and the pass is unlimited and non-transferable. Modification: allow instalments, or cap B's annual charge at
+240 units.
+Marking guide. Q1 (3): one per equation, one for units. Q2 (4): one for each pair of columns at 
+, one for the row
+at 120. Q3 (5): two for accurate lines and labelled intercepts, two for the horizontal and rising behaviour, one for 
+.
+Q4 (4): two for 
+, two for interpreting the break-even and which option is cheaper. Q5 (4): two for each student's
+comparison and recommendation. Q6 (4): two for rare travellers, families and upfront payment, one for assumptions, one
+for a modification. D strands i–v: defining (i), representing (ii), applying (iii), interpreting (iv), evaluating (v); C strands i–
+iv: notation, tables and graphs, units, coherent justification.
+MIXED PRACTICE 4
+F1
+, so 
+, 
+.
+F2
+.
+F3
+.
+F4
+; 
+, so 
+: 
+.
+F5
+; 
+, so at 
+, 
+.
+F6 Gradient 0.4 units per unit of use; intercept 25 units.
+ units.
+R1 Table 
+ gives 
+; ratios 
+ change,
+and 
+ at 
+, so the graph misses the origin.
+R2 Equal gradients 3, different intercepts 
+ and 5: the lines
+are parallel and never meet, the second being 7 units
+above the first at every .
+R3 The horizontal change is missing: 
+.
+.
+R4 The object is stationary; distance is constant, so the
+gradient is 0. It has not disappeared: the same distance
+is held for 10 minutes.
+A1
+ units. 
+ gives 
+MB. Gradient 0.08: each extra MB costs 0.08 units.
+A2
+: X = 24, Y = 30. 
+: both 36. 
+: X = 48, Y = 42. X
+is cheaper for 
+, Y for 
+.
+A3 Initial height 20 cm; burning rate 2.5 cm per hour.
+ gives 
+ h; domain 
+.
+A4
+. This is extrapolation far
+beyond the 6-week range. Request data beyond week 6,
+seasonal information, promotions and capacity limits.
+Common errors. Subtracting coordinates in different orders, which changes the sign of the gradient; reading the
+intercept of 
+ as 
+ instead of 5; dividing only one term when rewriting 
+; confusing a gradient of 0 with
+an undefined gradient; treating every linear relationship as proportional; and quoting a gradient without units.
+Predictions outside the stated domain should be labelled extrapolation.
+Chapter 5 · Equations, inequalities and systems
+PREREQUISITE CHECK
+1
+, 
+. Check: 
+.
+2
+.
+3
+, 
+. Check: 
+.
+4
+, 
+, 
+; the points lie on one straight line.
+5
+.
+6 19, 23; add 4 each time.
+PRACTICE 5.1 · LINEAR EQUATIONS
+1 (a) 
+, 
+. (b) 
+, 
+. (c) 
+, 
+.
+2 (a) 
+, 
+. (b) 
+, 
+, 
+. (c)
+, 
+, 
+.
+3 Multiply by 12: 
+, 
+,
+, 
+. Check: 
+.
+4
+, 
+. Check: 
+.
+5 The first expands to 
+, then 
+, true for
+every : an identity, infinitely many solutions. The
+second gives 
+, then 
+, false for every
+: no solution. The variable terms cancel; the constants
+decide.
+6 The 
+ multiplies both terms: 
+, so
+. Then 
+, 
+, 
+. Check:
+.
+7 Width , length 
+: 
+, 
+, 
+.
+The rectangle is 11 cm by 8 cm. Check: 
+.
+8 Sample: 
+. Expanding: 
+,
+, 
+. Check: 
+.
+PRACTICE 5.2 · INEQUALITIES
+1 (a) 
+: open circle 5, shade left. (b) 
+: filled 4, shade
+right. (c) 
+, 
+: open 3, shade left. (d) 
+:
+filled 
+, shade right.
+2 (a) 
+, 
+. (b) 
+, 
+. (c) 
+, 
+.
+3 (a) 
+, so 
+, or 
+. (b) 
+, so
+, or 
+.
+4
+ and 
+ are the same statement read from opposite
+ends: both say 5 is greater than . Multiplying by 
+reflects the number line about 0 and reverses order:
+ but 
+. Test 
+: both true; 
+: both false.
+5 Dividing by 
+ must reverse the sign: 
+, not 
+.
+Test 
+: 
+ is true and 
+ is true, but 
+ is
+false, so the student's set loses a solution.
+6
+, 
+, 
+: at most 14 people. Check:
+ costs 40; 
+ costs 42.
+7
+, 
+, 
+. The drone is above 6 m after
+14 minutes. The model starts at 
+, so negative times
+are excluded; with 
+, the contextual solution is
+.
+8 Sample: 
+ is equivalent to 
+. No
+solution: 
+ and 
+; no number is both strictly
+below 2 and at least 2.
+t = 0, 40, 80
+(100, 240)
+t = 100
+y = −2x + 5
+m = −2 c = 5
+m =
+​ =
+5 −(−3)
+10 −2
+​ =
+8
+8
+1
+y = 3x −4
+m =
+​ =
+6 −2
+9 −1
+2 1 = 4 + c
+c = −3 y = 2x −3
+k = 7 ÷ 2 = 3.5 y = 3.5x
+x = 8 y = 28
+C(60) = 25 + 24 = 49
+x = 1, 2, 3
+y = 5, 9, 13
+5, 4.5, 4.33
+y = 1
+x = 0
+−2
+x
+4 −1 = 3
+m =
+​ =
+4 −1
+8 −2
+​ =
+3
+6
+2
+C(250) = 15 + 20 = 35
+31 = 15 + 0.08m
+m = 200
+n = 4
+n = 8
+n = 12
+n < 8
+n > 8
+5 = 20 −2.5t
+t = 6
+0 ≤t ≤8
+S(30) = 800 + 1200 = 2000
+y = 5 −2x
+−2
+2y = 6x −8
+2x = 12 x = 6
+2(6) + 5 = 17
+3x −6
+−2x = −4 x = 2
+5 −2(2) = 1
+(0, −1) (1, 1) (2, 3)
+3(4) + 2(1) = 14
+4x = 32 x = 8
+−2x = 12 x = −6
+x + 2 = 7 x = 5
+14 = 2x x = 7
+5x −5 = 3x + 7 2x = 12 x = 6
+1 −3x = 10 −3x = 9 x = −3
+4(2x + 1) = 3(x −2) 8x + 4 = 3x −6
+5x = −10 x = −2
+​ =
+3
+−4+1
+−1 =
+​
+4
+−4
+0.4x = 1.6 x = 4
+0.4(4) + 1.2 = 2.8
+3x + 6 = 3x + 6
+6 = 6
+x
+3x + 6 = 3x + 1
+6 = 1
+x
+−2
+−2(x −1) = −2x + 2
+5 −2x + 2 = 9
+7 −2x = 9 −2x = 2 x = −1
+5 −2(−2) = 9
+w
+w + 3 2(2w + 3) = 38 4w + 6 = 38 w = 8
+2(11 + 8) = 38
+−3(x −2) = 2x −14
+−3x + 6 = 2x −14
+−5x = −20 x = 4
+−3(2) = −6 = 2(4) −14
+x < 5
+x ≥4
+−x > −3 x < 3
+x ≥−4
+−4
+2x > 10 x > 5
+−3x ≤6 x ≥−2
+−3x < −6 x > 2
+−3 < 3x < 9
+−1 < x < 3
+(−1, 3)
+6 ≤2x ≤12
+3 ≤x ≤6
+[3, 6]
+x < 5
+5 > x
+x
+−1
+2 < 5
+−2 > −5
+x = 4
+x = 6
+−3
+x > −4
+x < −4
+x = 0 0 < 12
+0 > −4
+0 < −4
+12 + 2n ≤40 2n ≤28 n ≤14
+n = 14
+n = 15
+1.8 + 0.3t > 6 0.3t > 4.2 t > 14
+t = 0
+t ≥0
+t > 14
+−2 ≤x < 5
+−1 ≤x + 1 < 6
+x < 2
+x ≥2
+
+
+===== [source page 250] =====
+MYP MATHEMATICS 3
+250
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+PRACTICE 5.3 · GRAPHICAL AND SUBSTITUTION METHODS
+1 (a) 
+, 
+, 
+: 
+. Check:
+. (b) 
+, 
+, 
+,
+: 
+. Check: 
+.
+2 (a) 
+, 
+, 
+: 
+. (b) 
+,
+, 
+, 
+: 
+. (c) 
+, 
+, 
+:
+.
+3 (a) Add: 
+, 
+, 
+: 
+. Check: 
+,
+. (b) 
+, 
+, 
+, 
+:
+.
+4 The intersection lies on both lines, so its coordinates
+satisfy both equations at once. Parallel lines never
+meet, so there is no common point: no solution.
+Coincident lines give infinitely many.
+5
+, 
+, 
+; then 
+, so
+. The student must substitute 
+ to find , then
+check both originals: 
+, 
+.
+6
+, 
+. From the second 
+, so
+, 
+, 
+. Adult 11 units, child 8 units.
+Check: 
+, 
+.
+7 (a) Substitute:  is isolated, so 
+, 
+, 
+:
+. (b) Eliminate by adding: the -coefficients are
+opposites, so 
+, 
+, 
+: 
+. Choose the
+method that avoids rearranging.
+8 Sample: 
+, 
+; both hold at 
+:
+, 
+. Construct two different lines
+through 
+, e.g. 
+ and 
+. A second
+system: 
+, 
+. Infinitely many systems
+work: any two distinct lines through the point.
+PRACTICE 5.4 · ELIMINATION AND SPECIAL SYSTEMS
+1 (a) Add: 
+, 
+, 
+. (b) Add: 
+, 
+, 
+.
+(c) Add: 
+, 
+; 
+, 
+. Check:
+.
+2 (a) Subtract: 
+, 
+; 
+, 
+. (b) Double the
+first: 
+; add: 
+, 
+; 
+,
+. Check: 
+.
+3 Subtract: 
+, 
+; 
+, 
+. Check: 
+,
+.
+4
+ is 
+, the same line as 
+.
+Every point on it satisfies both equations: infinitely
+many solutions.
+5 Dividing 
+ by 2 gives 
+, contradicting
+; eliminating gives 
+, false. The lines have
+equal gradient 
+ and different intercepts, so they are
+parallel: no solution.
+6
+, 
+. First 
+, second 
+: 
+,
+; subtract: 
+, 
+; 
+,
+. Adult 18, child 10. Check: 
+.
+7 (a) Substitute, since  is isolated: 
+, 
+,
+, 
+: 
+. (b) Add, since the -terms cancel:
+, 
+; 
+, 
+: 
+. Check: 
+.
+8 No solution: 
+, 
+; equal gradients,
+different intercepts, so parallel. Infinitely many:
+, 
+; the second is twice the first, the
+same line with gradient 3 and intercept 
+.
+PRACTICE 5.5 · FEASIBLE REGIONS AND OBJECTIVES
+1 The triangle with vertices 
+, 
+, 
+, bounded by the
+solid line 
+ and the axes.
+2
+: 
+, 
+, feasible (on the boundary). 
+: 
+,
+, feasible. 
+: 
+ but 
+ is false, not feasible.
+The region is above the solid 
+ and below the
+dashed 
+.
+3
+, 12, 
+, 6. Maximum 13 at 
+; minimum 0 at
+.
+4
+, 
+, 
+, 
+. The triangle with vertices
+, 
+, 
+: left of 
+, above 
+,
+right of the -axis; lattice points only.
+5
+, 
+, 
+, 
+. Vertices 
+, 
+, 
+,
+. Two allocations: 
+ uses 8 plots and 16 water
+units; 
+ uses 8 plots and 14 water units.
+6
+, 24, 
+, 15. Maximum 28 at 
+, the same
+vertex as for ; both objectives increase with  and , so
+the ranking is unchanged, though the margins differ.
+7 At 
+, 
+ is false, so the origin is not in the set;
+shading its side is the error. The correct region is the
+other half-plane, with a solid boundary: above and
+right of 
+.
+8 The least total is 
+, so the region is empty.
+Change: raise the total to at least 20, or lower a
+minimum, e.g. 
+, 
+. Trade-off: more plots use
+more land and labour; lowering a minimum cuts the
+allocation guaranteed to that group.
+INVESTIGATION 5 · THE THREE WEIGHINGS
+1 From 
+: 
+ with 
+. Testing in 
+, only 
+ works: 
+. Verify: 
+and 
+.
+2
+, 
+. From the first 
+; then 
+, 
+, 
+, 
+. Agrees with the table and is
+exact.
+3 Each equation is a line in the 
+-plane. 
+ has intercepts 
+, 
+; 
+ has 
+, 
+. Gradients 
+and 
+ differ, so the lines cross once at 
+; mark it.
+4
+ is the sum of the first two equations: 
+. Every solution of the first two satisfies it, so
+it adds no new information; the solution remains 
+.
+5
+ gives 
+, but the first two give 
+. No pair satisfies all three: the third weighing is inconsistent.
+This suggests misreading, limited precision or non-identical objects.
+6 For 
+ and 
+: different gradients, one solution; equal gradients with different intercepts, parallel, no
+solution; equal gradient and intercept, coincident, infinitely many solutions.
+7 Sample: 
+, 
+ gives 
+, 
+. No solution: 
+, 
+. Exchange: the partner checks by substitution
+and by comparing gradients and intercepts.
+Limitation. The table is one valid data set. The algebra is exact only if the objects are identical and the scale readings are
+exact; a balance measures to limited precision.
+APPLICATION · THE WATER REFILL STATION
+1
+ = 5-litre refills,  = 12-litre refills: 
+, 
+.
+2
+: 
+, 
+, 
+, 
+.
+3
+, 
+. Revenue 
+units.
+4
+ units per litre. The 12-litre refill
+costs 
+ per litre, the 5-litre 
+: the
+larger container is better value (about 0.42 against 0.40).
+5 Revenue 
+ units, up 40 (14.3%). The 5-
+litre buyers are hit hardest: their price rises 50%, while
+12-litre buyers pay the same. If small-container buyers
+are poorer, the change is regressive.
+x + 1 = −x + 5 x = 2 y = 3 (2, 3)
+3 = 2 + 1 = −2 + 5
+2x −3 = −x + 3 3x = 6 x = 2
+y = 1 (2, 1)
+1 = 4 −3 = −2 + 3
+3x + x + 4 = 16 x = 3 y = 7 (3, 7)
+x + 3(2x −1) = 11
+7x = 14 x = 2 y = 3 (2, 3)
+x + 2x −5 = 7 x = 4 y = 3
+(4, 3)
+3x = 12 x = 4 y = 1 (4, 1)
+8 + 1 = 9
+4 −1 = 3
+3x + 2(x + 3) = 16 5x = 10 x = 2 y = 5
+(2, 5)
+3x + 2x + 1 = 11 5x = 10 x = 2
+y = 2(2) + 1 = 5
+(2, 5)
+x = 2
+y
+3(2) + 5 = 11 5 = 2(2) + 1
+2a + 3c = 46 a + 2c = 27
+a = 27 −2c
+54 −c = 46 c = 8 a = 11
+22 + 24 = 46 11 + 16 = 27
+y
+2x + 4x −1 = 11 x = 2 y = 7
+(2, 7)
+y
+2x = 6 x = 3 y = 2 (3, 2)
+x + y = 1 x −y = 5
+(3, −2)
+3 + (−2) = 1 3 −(−2) = 5
+(3, −2)
+y = x −5
+y = −2x + 4
+2x + y = 4 x + 2y = −1
+2x = 14 x = 7 y = 3
+5x = 15 x = 3 y = 5
+6x = 24 x = 4 16 + 3y = 25 y = 3
+8 −9 = −1
+2x = 8 x = 4 4 + 2y = 8 y = 2
+10x −4y = 38
+13x = 39 x = 3 15 −2y = 19
+y = −2
+9 −8 = 1
+2x = 8 x = 4 4 + 2y = 8 y = 2
+12 + 4 = 16
+4 + 4 = 8
+4x + 2y = 12
+2(2x + y) = 2(6)
+2x + y = 6
+4x + 2y = 10
+2x + y = 5
+2x + y = 6
+0 = 2
+−2
+3a + 2c = 74 2a + 3c = 66
+×3
+×2 9a + 6c = 222
+4a + 6c = 132
+5a = 90 a = 18 54 + 2c = 74
+c = 10
+36 + 30 = 66
+y
+3x + 2(2x −3) = 8 7x = 14
+x = 2 y = 1 (2, 1)
+y
+6x = 24 x = 4 16 + 3y = 18 y =
+​3
+2 (4,
+​)
+3
+2
+8 −2 = 6
+y = 2x + 1 y = 2x −3
+y = 3x −2 2y = 6x −4
+−2
+(0, 0) (6, 0) (0, 6)
+x + y = 6
+(2, 3) 3 ≥3 3 < 4
+(0, 0) 0 ≥−1
+0 < 4
+(3, 8) 8 ≥5
+8 < 4
+y = 2x −1
+y = 4
+P = 0
+9 + 4 = 13
+(3, 2)
+(0, 0)
+x + y ≤120 y ≥30 x ≥0 y ≥0
+(0, 30) (90, 30) (0, 120)
+x + y = 120
+y = 30
+y
+x + y ≤8 3x + y ≤18 x ≥0 y ≥0
+(0, 0) (6, 0) (5, 3)
+(0, 8)
+(4, 4)
+(3, 5)
+Q = 0
+18 + 10 = 28
+(3, 2)
+P
+x
+y
+(0, 0) 0 ≥5
+x + y = 5
+10 + 10 = 20 > 15
+x ≥5 y ≥10
+2c + s = 14 c = 0, 1, … , 7
+s = 14, 12, 10, 8, 6, 4, 2, 0
+c + 2s = 13
+(5, 4)
+5 + 8 = 13
+10 + 4 = 14
+5 + 8 = 13
+2c + s = 14 c + 2s = 13
+s = 14 −2c
+c + 28 −4c = 13 −3c = −15 c = 5 s = 4
+(c, s)
+2c + s = 14
+(7, 0) (0, 14) c + 2s = 13
+(13, 0) (0, 6.5)
+−2
+−
+​2
+1
+(5, 4)
+3c + 3s = 27
+(2c + s) + (c + 2s) = 3c + 3s = 27
+(5, 4)
+3c + 3s = 28
+c + s =
+​ ≈
+3
+28
+9.33
+c + s = 9
+y = m
+​x +
+1
+c
+​1
+y = m
+​x +
+2
+c
+​2
+c + s = 5 2c −s = 4
+c = 3 s = 2
+c + s = 5 c + s = 7
+x
+y
+x + y = 80 5x + 12y = 680
+x = 80 −y 400 + 7y = 680 7y = 280 y = 40 x = 40
+40 + 40 = 80 200 + 480 = 680
+= 40(2) + 40(5) = 280
+280 ÷ 680 = 0.4117 … ≈0.41
+5 ÷ 12 = 0.4167
+2 ÷ 5 = 0.40
+= 40(3) + 40(5) = 320
+
+
+===== [source page 251] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+251
+6
+ litres exceeds 700 by 48, so the rise cannot
+be met from the same mix; 700 litres is the cap
+whatever the mix. With smaller containers, 80 refills (42
+large, 38 small) total 
+ litres, but that is
+less than 748. If refills rise to 88, at most 37 can be large:
+. More, smaller refills are possible; the
+748-litre volume is not.
+7
+ bottles. Assumption: each 5-litre refill
+displaces exactly three 1.5-litre bottles that would
+otherwise be bought; 12-litre refills are excluded and no
+extra bottles are bought.
+8 The model ignores leakage, free refills, container reuse (which avoids more bottles), customers buying both sizes, price
+elasticity, queueing and the water source. “Replaced” bottles are an estimate, not a count. Better data: metered volume,
+counts by size, receipts, a reuse survey and a spill log.
+CRITERION TASK · PLANNING A YOUTH CENTRE PROGRAMME
+Sample response.
+ art workshops,  music sessions: 
+, 
+, 
+, 
+. Vertices 
+, 
+, 
+,
+; 
+, so 
+ is optimal. Requiring 
+ gives 
+, 
+, a fairer balance at a cost of one point.
+1
+: at most 8 venue slots. 
+: art uses 2 tutor hours, music 1, with 16 available. 
+: art uses 1 equipment
+unit, music 2, with 14 available. 
+, 
+: negative sessions are impossible.
+2 Boundaries 
+, 
+, 
+ and the axes. Vertices 
+; 
+; 
+, where 
+ meets 
+ (tutor
+); 
+, where 
+ meets the -axis. The quadrilateral is bounded because 
+ with 
+confines it to 
+, 
+.
+3
+: 
+, 
+, 
+, feasible. 
+: 
+, so it fails the venue limit, although 
+ and 
+. This matches the
+graph: 
+ is inside, 
+ beyond the venue line.
+4
+, 64, 
+, 63. Maximum 70 at 
+: 2 art, 6 music. A linear objective attains its maximum at a vertex, and 70 is
+the largest vertex value.
+5 The optimum maximises total participation, not art provision. Music scores 9 against 8 and uses less equipment, so the
+model favours music; 2 art workshops may fail the centre's duty to art demand. Change: 
+. New vertices 
+, 
+,
+, with 
+; the optimum is 
+, 3 art and 5 music, costing one point. Raising the art weight instead is blunt:
+ sends the optimum to 
+.
+6 With 10 slots, 
+. The line 
+ meets both 
+ and 
+ at the single point 
+; the earlier vertex
+ remains, while 
+ is infeasible because 
+. Vertices 
+, 
+, 
+, 
+; 
+; new
+optimum 
+, 
+. The original 
+ remains feasible (
+, 
+, 
+), with 
+, but is no longer optimal.
+Marking guide. Criterion A: constraints, graph, vertices, tests and objective values correct. Criterion D: units and
+interpretation; fairness discussed with demand evidence; one specific change with its calculated effect; correct treatment
+of the 10-slot limit. Criterion C: labels, notation and a conclusion that answers the question. 24 marks: Q1 5, Q2 5, Q3 4, Q4
+4, Q5 4, Q6 2.
+MIXED PRACTICE 5
+1
+, 
+.
+2
+, 
+.
+3
+, 
+; filled 3, shade left.
+4
+.
+5 Add: 
+, 
+, 
+: 
+.
+6 Add: 
+, 
+; 
+, 
+: 
+.
+7
+: 
+, 
+, 
+: 
+.
+8
+ is true, but 
+, so 
+ satisfies only
+the first equation; not a solution.
+9 Dividing by 
+ requires reversing: 
+. Test : 
+and 
+ are true; 
+ is false.
+10 Equal gradients 3, different intercepts 1 and 
+: parallel.
+Algebraically 
+ gives 
+, false; no
+solution.
+11 Add, since the -coefficients are opposites: 
+, 
+,
+: 
+.
+12
+, 20, 21, 12; maximum 21 at 
+.
+13
+ (chairs) and 
+ (minimum tables); also
+, 
+.
+14
+, 
+. Doubling the first and
+subtracting: 
+, 
+, 
+. Check: 
+.
+15 The optimum maximises a total score, which may weight
+groups unequally, so a group can fall below its request;
+the objective does not measure fairness. Add a
+minimum constraint, e.g. 
+, and report the loss in
+total output.
+Common errors. Reverse the inequality only when multiplying or dividing by a negative. A negative sign before a
+bracket multiplies every term inside. A system solution is an ordered pair: find both variables and check both originals.
+Elimination needs equal or opposite coefficients first. Test a half-plane with a point off the boundary;  and  use a solid
+line. Evaluate a linear objective at the vertices, then check integer constraints in context.
+Chapter 6 · Transformations, congruence and symmetry
+PREREQUISITE CHECK
+1
+ is in the first quadrant; 
+ in the second; 
+ on
+the negative -axis.
+2
+.
+3
+, 
+.
+4 Triangle 
+; quadrilateral 
+.
+5
+; 
+.
+6 Perimeter 
+ cm; area 
+ cm .
+PRACTICE 6.1 · TRANSLATIONS AND VECTORS
+1
+, 
+, 
+, 
+.
+2
+, 
+, 
+: 2 units left, 3 up. Check:
+, lengths preserved.
+3
+; 
+. Check: 
+.
+680 × 1.1 = 748
+504 + 190 = 694
+444 + 255 = 699
+40 × 3 = 120
+x
+y
+x + y ≤8 2x + y ≤16 x + 2y ≤14 x, y ≥0
+(0, 0) (8, 0) (2, 6)
+(0, 7) P = 0, 64, 70, 63
+(2, 6)
+x ≥3
+(3, 5) P = 69
+x + y ≤8
+2x + y ≤16
+x + 2y ≤14
+x ≥0 y ≥0
+x + y = 8 2x + y = 16 x + 2y = 14
+(0, 0) (8, 0) (2, 6)
+x + y = 8
+x + 2y = 14
+4 + 6 = 10 ≤16
+(0, 7)
+x + 2y = 14
+y
+x + y ≤8
+x, y ≥0
+0 ≤x ≤8 0 ≤y ≤8
+(4, 4) 8 ≤8 12 ≤16 12 ≤14
+(6, 3) 9 > 8
+15 ≤16
+12 ≤14
+(4, 4)
+(6, 3)
+P = 0
+16 + 54 = 70
+(2, 6)
+x ≥3
+(3, 0) (8, 0)
+(3, 5)
+P = 24, 64, 69
+(3, 5)
+10x + 9y
+(8, 0)
+x + y ≤10
+x + y = 10
+2x + y = 16
+x + 2y = 14
+(6, 4)
+(8, 0)
+(10, 0)
+2(10) + 0 = 20 > 16
+(0, 0) (8, 0) (6, 4) (0, 7) P = 0, 64, 84, 63
+(6, 4) P = 84
+(2, 6)
+8 ≤10 10 ≤16 14 ≤14
+P = 70
+3x = 15 x = 5
+4x −4 = 3x + 5 x = 9
+−2x ≥−6 x ≤3
+−3 ≤x < 3
+2x = 16 x = 8 y = 4 (8, 4)
+4x = 20 x = 5 15 + 2y = 19 y = 2 (5, 2)
+x = 7 −y 14 + y = 16 y = 2 x = 5 (5, 2)
+3 = 2(2) −1
+2 + 3 = 5 =6
+(2, 3)
+−3
+x > −3
+0 4 < 13
+0 > −3
+0 < −3
+−4
+3x + 1 = 3x −4
+1 = −4
+y
+3x = 12 x = 4
+y = 5 (4, 5)
+P = 0
+(3, 3)
+g ≤120
+t ≥2
+0 ≤t ≤30 g ≥0
+n + p = 35 4n + 2p = 100
+2n = 30 n = 15 p = 20
+60 + 40 = 100
+x ≥4
+≤
+≥
+(2, 1)
+(−3, 4)
+(0, −2)
+y
+(4, 2)
+2x = 8 x = 4
+180∘
+360∘
+360 ÷ 6 = 60 360 ÷ 5 = 72
+4(4) = 16
+4 =
+2
+16
+2
+A (5, 1)
+′
+B (2, −4)
+′
+C (3, −7)
+′
+D (−1, −6)
+′
+P (−1, 5)
+′
+Q (2, 5)
+′
+R (−1, 8)
+′
+P Q =
+′
+′
+3 = PQ
+​
+(−7
+5 ) B (−7, 5)
+′
+A −
+′
+A = (−7, 5)
+
+
+===== [source page 252] =====
+MYP MATHEMATICS 3
+252
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+4 Vector 
+; images 
+, 
+, 
+, 
+. Area 4 square
+units; a translation preserves lengths, so the side
+remains 2.
+5
+. It is unique: a translation is fixed by the image of one
+point, and both endpoints give the same vector. A
+different vector would not send 
+ to 
+.
+6
+, 
+, 
+, 
+; they are collinear with the origin,
+on a line of gradient 
+.
+7
+. Single vector
+.
+8 Vector 
+; reverse it: 
+. Check:
+.
+PRACTICE 6.2 · REFLECTIONS AND MIRROR LINES
+1
+: 
+, then 
+. 
+: 
+, then 
+. 
+: 
+,
+then 
+. 
+: 
+, then 
+; 
+ lies on the -axis, so
+the second reflection fixes it.
+2
+: 
+, 
+, 
+.
+3 (a) 
+. (b) 
+. (c) 
+.
+4
+-axis: 
+; then -axis: 
+.
+Reversing gives 
+, then 
+. Order does not
+matter; the composite is a half-turn about the origin.
+5 Midpoint 
+, 
+ vertical, so the mirror is 
+. Image
+of 
+: 
+.
+6
+: 
+; 
+.
+7
+. Each point is 4 units from 
+:
+ and 
+.
+8 A reflection reverses orientation; a non-zero translation
+preserves it. A reflection fixes every point of its mirror
+line, while a translation fixes none. A reflection also
+moves different points by different vectors; a
+translation moves all points by one vector.
+PRACTICE 6.3 · ROTATIONS AND IMAGE COORDINATES
+1
+, 
+, 
+, 
+.
+2
+, 
+, 
+.
+3 (a) 
+. (b) 
+. (c) 
+.
+4
+, which is the half-turn rule; two
+quarter-turns make a half-turn.
+5 Subtract 
+: 
+; rotate:
+; add 
+:
+. The image is the same square
+with its vertices cycled, so a 
+ turn maps it onto itself:
+rotational symmetry of order 4.
+6 Subtract 
+: 
+; rotate: 
+; add: 
+.
+7
+ (also 
+ and 
+); order 4.
+8 Subtract 
+: 
+; rotate:
+; add: 
+, 
+, 
+.
+ and 
+.
+PRACTICE 6.4 · PROVING CONGRUENCE
+1 (a) SSS. (b) SAS. (c) ASA if the side is included between the
+equal angles; otherwise AAS. (d) RHS.
+2
+, the equal angle at  is between 
+ and 
+ (and at
+ between 
+ and 
+), and 
+, so SAS.
+; 
+, 
+, 
+.
+3
+, 
+, 
+ common: SSS. Hence
+, so 
+ and 
+ bisects
+.
+4 AAA fixes shape but not size. Equilateral triangles of side 1
+cm and 2 cm all have 
+ angles but different sides, so
+they are not congruent; a length is needed.
+5 The perpendicular distance from 
+ to the ray is
+ cm, less than 6 cm, so the circle of radius 6
+meets the ray twice, at
+, about 11.4 cm and
+2.5 cm. Both satisfy the data but differ, so SSA is
+ambiguous.
+6 ASA, because the 40 m side is included between the 
+and 
+ angles. Third angle: 
+.
+7 Not congruent: SSS needs all three corresponding sides
+equal, and 
+. The first is right-angled; the second
+is not.
+8
+ and 
+ (opposite sides), 
+ common: SSS,
+so 
+. Alternatively RHS: right angles at 
+and 
+, common hypotenuse 
+, 
+. Hence
+; the diagonal divides the rectangle into
+two congruent triangles.
+PRACTICE 6.5 · SYMMETRY AND TILINGS
+1 (a) 4 lines, order 4. (b) 6 lines, order 6. (c) 1 line, order 1. (d)
+0 lines, order 2. (e) infinitely many lines, rotational
+symmetry of every angle (infinite order).
+2
+. 
+, not a whole number; two
+octagons leave 
+ and three overlap by 
+, so no.
+3
+, 
+, 
+, 
+.
+, not whole; no tessellation.
+4 Pentagon: 
+; 
+, gap 
+; 
+, overlap
+. Hexagon: 
+; 
+ exactly, so it tiles.
+5
+. A regular pentagon (5 lines, order 5).
+6 Translate the tile by one tile side horizontally, and by one
+side vertically for the next row; reflect it in a shared
+edge (or rotate 
+ about an edge midpoint) to make
+mirror pairs. Four 
+ corners meet at each vertex, so
+squares leave no gaps; the motif must meet the tile
+edges consistently.
+7
+, so two octagons and one square
+close exactly around a vertex.
+8 Two congruent copies of a triangle, one rotated 
+ about
+the midpoint of a side, form a parallelogram;
+parallelograms tile by translation, so the triangle tiles.
+For a quadrilateral, the four angles sum to 
+, so four
+copies fit around a point; half-turns about side
+midpoints make adjacent edges coincide.
+INVESTIGATION 6 · THE ANGLE THAT FITS
+1
+: triangle, 
+, 
+, yes. 
+: square, 
+, 4, yes. 
+: pentagon, 
+, 3.33, no. 
+: hexagon, 
+, 3, yes. 
+:
+heptagon, 
+, 2.8, no. 
+: octagon, 
+, 2.67, no. 
+: nonagon, 
+, 2.57, no. 
+: decagon, 
+, 2.5, no.
+2 Only 
+ give whole numbers. The quotient falls as  rises (6, 4, 3.33, 3, 2.8, …), and no later value returns to an integer.
+3
+: 
+, gap 
+; four give 432, overlap 
+. 
+: 
+, gap 
+; three give 405, overlap 
+. A further tile
+overshoots, and part of a tile cannot fill the gap.
+4
+. This is whole exactly when 
+ divides 4; with 
+, 
+, so 
+.
+5 (a) 
+. (b) 
+. (c) 
+. All three vertices close exactly.
+6 The number of pentagons at a vertex is whole: three leave 
+, four exceed by 
+, and more increase the overshoot. The gap
+is fixed and cannot be filled by a partial pentagon, so “enough” pentagons never help.
+​
+(4
+3)
+(4, 3) (6, 3) (6, 5) (4, 5)
+​
+(3
+3)
+(−2, 1)
+(1, 4)
+(2, 3) (4, 6) (6, 9) (8, 12)
+​ =
+2
+3
+1.5
+(14, 9) + 4(−5, −3) = (−6, −3)
+4
+​
+=
+(−5
+−3)
+​
+(−20
+−12)
+​
+( 3
+−2)
+(0, 0) −
+​
+=
+( 3
+−2)
+(−3, 2)
+(−3 + 3, 2 −2) = (0, 0)
+A (3, −2)
+(−3, −2) B (−1, −4)
+(1, −4) C (−2, 3)
+(2, 3) D (0, −5)
+(0, −5) D
+y
+(x, y) →(4 −x, y) (3, 1) (0, 1) (3, 3)
+(2, −3)
+(−2, 3)
+(2(−1) −(−3), 2) = (1, 2)
+y
+(a, b) →(−a, b)
+x
+(−a, b) →(−a, −b)
+(a, −b)
+(−a, −b)
+(5, 5) PP ′
+y = 5
+(2, 3) (2, 2(5) −3) = (2, 7)
+(x, y) →(8 −x, y) (1, 2) →(7, 2) (3, 5) →(5, 5)
+(2(3) −7, −2) = (−1, −2)
+x = 3
+7 −3 = 4
+3 −(−1) = 4
+A (−1, 3)
+′
+B (−4, −2)
+′
+C (2, −3)
+′
+D (5, 0)
+′
+(−1, −2) (−4, −2) (−1, −5)
+(−3, −2)
+(2, −3)
+(3, 2)
+(a, b) →(−b, a) →(−a, −b)
+(1, 1) (−1, −1), (1, −1), (1, 1), (−1, 1)
+(1, −1), (1, 1), (−1, 1), (−1, −1)
+(1, 1)
+(2, 0), (2, 2), (0, 2), (0, 0)
+90∘
+(2, 2) (3, 0)
+(0, 3)
+(2, 5)
+90∘
+180∘
+270∘
+(2, 0) (−2, 0), (2, 0), (−2, 3)
+(0, −2), (0, 2), (−3, −2)
+A (2, −2)
+′
+B (2, 2)
+′
+C (−1, −2)
+′
+AB = 4 = A B
+′
+′
+AC = 3 = A C
+′
+′
+PQ = ST
+P
+PQ
+PR
+S
+ST
+SU
+PR = SU
+△PQR ≅△STU QR = TU ∠Q = ∠T ∠R = ∠U
+AB = AD BC = DC AC
+△ABC ≅△ADC
+∠BCA = ∠DCA
+AC
+∠BCD
+60∘
+B
+8 sin 30 =
+∘
+4
+AC = 8 cos 30 ±
+∘
+​ ≈
+36 −16
+6.93 ± 4.47
+65∘
+42∘
+180 −65 −42 = 73∘
+50 =52
+AB = DC
+BC = AD
+AC
+△ABC ≅△CDA
+B
+D
+AC AB = CD
+∠BAC = ∠DCA
+​ =
+8
+180(8−2)
+135∘360 ÷ 135 = 2.67
+90∘
+45∘
+​ =
+n
+180(n−2)
+156 180n −360 = 156n 24n = 360 n = 15
+360 ÷ 156 = 2.31
+108∘3(108) = 324
+36∘4(108) = 432
+72∘
+120∘3(120) = 360
+360 ÷ 5 = 72∘
+180∘
+90∘
+2(135) + 90 = 270 + 90 = 360
+180∘
+360∘
+n = 3
+60∘360 ÷ 60 = 6
+n = 4
+90∘
+n = 5
+108∘
+n = 6
+120∘
+n = 7
+128.6∘
+n = 8
+135∘
+n = 9
+140∘
+n = 10
+144∘
+n = 3, 4, 6
+n
+n = 5 3(108) = 324
+36∘
+72∘n = 8 2(135) = 270
+90∘
+45∘
+360 ÷
+​ =
+n
+180(n−2)
+​ =
+180(n−2)
+360n
+​ =
+n−2
+2n
+2 +
+​
+n−2
+4
+n −2
+n ≥3 n −2 = 1, 2, 4
+n = 3, 4, 6
+270 + 90 = 360
+240 + 120 = 360
+180 + 180 = 360
+36∘
+72∘
+
+
+===== [source page 253] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+253
+7 Sample: a 
+ tiling (one square, two octagons), 
+; or 
+ (three triangles, two squares),
+. Draw at least six tiles; label translations by edge vectors and reflections or rotations carrying one tile to
+the next.
+Limitation. A neat drawing is evidence, not proof; only the angle sum at every vertex proves that a tiling closes. A single
+vertex whose angles miss 
+ refutes the proposed tiling.
+APPLICATION · A TILE PANEL FOR THE COMMUNITY CENTRE
+1
+ along the length; 
+ rows; 
+tiles.
+2 Exact: 
+ units. With 8%: 
+, so
+order 104 tiles, cost 
+. Rounding down
+to 103 leaves only 7 spare (7.3%), below the allowance;
+cutting and breakages could leave the panel short, and
+tiles are sold whole.
+3
+ repeats. Translation by 4 tiles 
+ cm: 
+ tiles
+or 
+ cm.
+4 None: the mirror is a grout line between columns, so it
+cuts no tile; the 24 columns form 12 mirror pairs. A five-
+wide motif would put the mirror through the middle of
+the third column, so 4 tiles would lie on it; also
+, so whole motifs would not fit.
+5 Diagonal 
+: 
+, 
+, 
+ common, so SSS (or
+RHS with right angles and equal legs). Each triangle has
+angles 
+, legs 15 cm and hypotenuse
+ cm.
+6 Not guaranteed. With 6 columns and 4 rows, the half-turn sends motif positions to motif positions, but each motif must also
+map onto itself under 
+, or be paired with a half-turned copy. A motif with only a vertical mirror line need not have
+half-turn symmetry, and the border or any asymmetric detail must also match. The claim needs an extra condition, such
+as symmetry about both centre lines or motifs arranged in half-turn pairs.
+7
+ contrast tiles; 
+; total
+ if the border is additional. If it
+replaces the top and bottom rows, 48 standard tiles are
+saved: extra 
+, exact total 264.00.
+8
+ cm, which exceeds 360
+cm. Solutions: use 23 columns, 
+cm, leaving 10.6 cm for a feature border or wider joints;
+or specify 14.81 cm tiles, since 
+; or trim
+the two edge columns. The 23-column plus border
+option is best: standard tiles, no cut edges, and the 10.6
+cm becomes deliberate.
+9 Uncertain assumptions: exact 15 cm tiles, 2 mm grout, 8% wastage, no further breakage, labour time and a true wall.
+Records: a dimensioned drawing, batch and shade codes, grout width, adhesive, cutting plan, supplier, photographs, cost
+log and maintenance notes.
+10 Record the tradition, place, makers, permission or protocol, the source motif, what was changed and what is original;
+acknowledge it in the brief and label. Mathematical inspiration uses symmetry and tessellation ideas; direct copying
+reproduces a specific sacred pattern, which may be restricted or misrepresented. The distinction matters for respect,
+accuracy and credit.
+CRITERION TASK · THE KITE WINDOW
+Sample response.
+ and 
+ are given and 
+ is common, so 
+ by SSS. Hence 
+ bisects the
+angles at  and 
+; congruent triangles 
+ and 
+ give 
+, and the adjacent angles at 
+ are both 
+, so
+. The kite has one line of symmetry, 
+, and rotational order 1; a non-square rhombus has both diagonals as
+mirror lines and order 2.
+1
+ (given); 
+ (given); 
+ (common). Therefore 
+ by SSS, with 
+, 
+, 
+.
+2 From the congruence, 
+, so 
+ bisects 
+. Also 
+, so 
+ bisects 
+.
+3 In 
+ and 
+: 
+ (given), 
+ (proved in Q2), 
+ common. SAS gives 
+, so
+.
+4 From Q3, 
+. Since 
+ are collinear, these adjacent angles sum to 
+, so each is 
+; hence 
+.
+5 One line of symmetry, 
+: reflection in 
+ fixes  and 
+ and swaps 
+ and 
+, and the kite maps onto itself. Rotational order
+1: a half-turn would require 
+, so 
+ would be the midpoint of 
+, which is not true for a general kite. No second
+mirror line exists, since only 
+ bisects both angles at  and 
+.
+6 A rhombus has all sides equal, so 
+ and 
+: the kite results apply. 
+ bisects the angles at  and 
+ and is
+perpendicular to 
+; applying the same argument to diagonal 
+ shows it bisects the angles at 
+ and 
+ and is
+perpendicular to 
+. Hence both diagonals are lines of symmetry. The order is 2: a 
+ turn about 
+ swaps 
+ and
+, while 
+ does not (the rhombus is not a square).
+Marking guide. Criterion B: a complete chain from the three equal parts to the congruence, then to angle bisection,
+midpoint and perpendicularity; each deduction justified. Criterion C: correct correspondence and notation, one reason
+per line, and a clear distinction between given, common and proved. Criterion A: symmetry counts and the rhombus
+extension justified from earlier results. 24 marks: Q1 5, Q2 4, Q3 3, Q4 4, Q5 4, Q6 4.
+MIXED PRACTICE 6
+1
+, 
+, 
+.
+2 (a) 
+, 
+, 
+. (b) 
+, 
+, 
+.
+3 (a) 10 lines, order 10. (b) 1 line, order 1. (c) 0 lines, order 2.
+4 Nonagon 
+; dodecagon 
+. 
+ and
+, neither whole, so neither tessellates.
+5 Rotate: 
+; reflect in -axis: 
+. Reverse: reflect
+, rotate 
+. Different results, so the order
+matters; these transformations do not commute.
+6
+, 
+, 
+ common: SSS. 
+, so
+; 
+ bisects 
+.
+7 SSA: 
+, 
+, 
+ gives two triangles, because
+the circle of radius 6 meets the ray twice. AAA:
+equilateral triangles of side 1 and 2.
+8 A point 
+ maps to 
+. Substituting gives
+, so the image line is 
+. The
+gradient stays 2 because every point shifts by the same
+vector, preserving the slope.
+9 Sides 8, 8 and the diagonal: SSS (or RHS with the right
+angles). Each triangle is right isosceles, 
+. The
+square has 4 lines of symmetry and rotational order 4.
+10
+ tiles; 
+, so order 27; 
+units.
+11 Twelfth motif: 
+. Reflection in 
+:
+. The frieze has reflection symmetry
+in 
+ (and translations by 
+).
+4.8.8
+90 + 135 + 135 = 360
+3.3.3.4.4
+180 + 180 = 360
+360∘
+360 ÷ 15 = 24
+60 ÷ 15 = 4
+24 × 4 = 96
+96(2.40) = 230.40
+96(1.08) = 103.68
+104(2.40) = 249.60
+24 ÷ 4 = 6
+= 60
+​
+(4
+0)
+​
+(60
+0 )
+24 ÷ 5 = 4.8
+AC AB = CD BC = DA AC
+45 , 45 , 90
+∘
+∘
+∘
+15
+​ ≈
+2
+21.2
+180∘
+2 × 24 = 48
+48(3.10) = 148.80
+249.60 + 148.80 = 398.40
+48(0.70) = 33.60
+24(15) + 23(0.2) = 360 + 4.6 = 364.6
+23(15) + 22(0.2) = 349.4
+24s + 4.6 = 360
+AB = AD
+CB = CD
+AC
+△ABC ≅△ADC
+AC
+A
+C
+ABM
+ADM
+BM = DM
+M
+90∘
+AC ⊥BD
+AC
+AB = AD
+CB = CD
+AC = AC
+△ABC ≅△ADC
+A ↔A B ↔D C ↔C
+∠BAC = ∠DAC
+AC
+∠BAD
+∠BCA = ∠DCA
+AC
+∠BCD
+△ABM
+△ADM AB = AD
+∠BAM = ∠DAM
+AM
+△ABM ≅△ADM
+BM = DM
+∠AMB = ∠AMD
+B, M, D
+180∘
+90∘
+AC ⊥BD
+AC
+AC
+A
+C
+B
+D
+A ↔C
+M
+AC
+AC
+A
+C
+AB = AD
+CB = CD
+AC
+A
+C
+BD
+BD
+B
+D
+AC
+180∘
+M
+A ↔C
+B ↔D
+90∘
+A (1, 3)
+′
+B (−3, 5)
+′
+C (−4, 1)
+′
+(2, −3) (5, −3) (2, −6)
+(−2, −3) (−5, −3) (−2, −6)
+140∘
+150∘360 ÷ 140 = 2.57
+360 ÷ 150 = 2.4
+(−1, 3)
+y
+(1, 3)
+(−3, 1)
+(−1, −3)
+AB = AD BC = DC AC
+△ABC ≅△ADC
+∠BCA = ∠DCA AC
+∠BCD
+AB = 8 BC = 6 ∠A = 30∘
+(x, y)
+(x + 3, y −2)
+y + 2 = 2(x −3) + 1
+y = 2x −7
+45 , 45 , 90
+∘
+∘
+∘
+8 × 3 = 24
+24(1.10) = 26.4
+27(3.50) = 94.50
+(2 + 11(6), 4) = (68, 4)
+y = 6
+(2, 2(6) −4) = (2, 8)
+y = 6
+(6, 0)
+
+
+===== [source page 254] =====
+MYP MATHEMATICS 3
+254
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+12 One quarter, rotated 
+ three times about the centre,
+generates the other three; each quarter is congruent
+because rotation is an isometry. Record the tradition,
+permission, attribution and the changes made.
+13 In rectangle 
+, 
+ is common, 
+ and
+, so SAS gives 
+;
+hence 
+.
+14 Interior angle 
+. For 
+, it is at least 
+:
+two tiles are below 
+, three exceed it, so no whole
+number fits. Equivalently 
+ lies
+between 2 and 3, never an integer.
+Common errors. Reflection in the -axis changes , not ; in 
+ the coordinates swap. A 
+ clockwise turn is 
+anticlockwise. Reverse a translation by subtracting its vector. Congruence statements must list vertices in corresponding
+order, and SSA and AAA are not criteria. A rectangle's diagonals are not lines of symmetry. Count the starting position
+once when finding the order, and test tessellation with 
+.
+Chapter 7 · Similarity, proof and trigonometry
+PREREQUISITE CHECK
+1
+; as a fraction .
+2
+, so 
+ and 
+.
+3
+, 
+, 
+.
+4
+ to one decimal place is 
+; to two significant figures it
+is also 
+, because the third digit is  and does not
+round up.
+5 The angle sum is 
+; each angle of an equilateral triangle
+is 
+.
+6 The hypotenuse is the side opposite the right angle; it is
+the longest side.
+PRACTICE 7.1 · SIMILARITY AND SCALE
+1 Taking the  cm and 
+ cm sides as corresponding,
+, so 
+ cm. Check:
+.
+2
+, so 
+ cm and
+ cm.
+3
+; the longer side becomes 
+ cm.
+Area ratio 
+, that is 
+ (new : old).
+4
+ cm 
+ m and 
+ cm 
+ m.
+Real area 
+.
+5 The area ratio is 
+, so 
+. Area is the
+product of two lengths, so it scales by the square of the
+length factor.
+6 The single factor is 
+, because lengths multiply.
+The area multiplier is 
+; equivalently
+, since area depends on two
+lengths.
+7
+ cm represents 
+ km, so 
+ represents 
+.
+Area 
+ ha.
+8
+, so 
+ and 
+ cm. Then A is 
+ and B is
+; 
+ (A to B). Both have side ratio 
+.
+PRACTICE 7.2 · SIMILAR TRIANGLES
+1 (a) Similar by AA; the third angles are both 
+. (b) Similar
+by SSS; 
+. (c) Similar by SAS;
+ and the included angles are both 
+.
+2 By the intercept theorem, 
+: 
+, so 
+ cm
+and 
+ cm.
+3
+; 
+ cm. Area ratio
+.
+4
+, so 
+ m. Assumptions: level ground,
+post and building vertical, parallel sun's rays giving
+equal elevation angles, shadows measured together.
+5 Equal angles force the third pair to be equal, so AA gives
+similarity and one common side ratio. Three
+proportional sides fix shape but not size: 
+ and
+ are similar with 
+, yet not congruent.
+Congruence needs 
+.
+6
+ m. If the distance is 
+ m,
+ m; the estimate falls by 
+ m, about
+.
+7 Area ratio 
+, so the real area is
+.
+8 The perimeter ratio equals the length ratio, so 
+.
+Larger area 
+. The heights
+are in the ratio 
+.
+PRACTICE 7.3 · PYTHAGORAS AND ITS CONVERSE
+1
+ cm.
+2
+ m.
+3
+ m.
+4 The height bisects the base, giving  cm: 
+cm. Area 
+.
+5 Horizontal difference , vertical difference : distance
+ units.
+6 (a) 
+: right-angled. (b)
+, but 
+: not right-angled; the angle
+opposite 
+ is obtuse. (c)
+: right-angled.
+7 First height 
+ m. Second height
+ m. The top slides down by
+ m.
+8 Let the legs be  and 
+. Then 
+, so
+, 
+,
+. Hence 
+ and the legs are 
+ cm
+and 
+ cm.
+PRACTICE 7.4 · SINE, COSINE AND TANGENT
+1
+, 
+, 
+.
+2
+ cm.
+3
+ m.
+4 (a) 
+. (b) 
+. (c)
+.
+5 (a) 
+. (b) 
+.
+6
+, so 
+ m.
+7 Height 
+ m.
+8 The side opposite 
+ is 
+, the shorter
+leg. The adjacent side is 
+, the
+longer leg.
+90∘
+ABCD AB
+BC = AD
+∠ABC = ∠BAD = 90∘
+△ABC ≅△BAD
+AC = BD
+= 180 −
+​
+n
+360
+n ≥7
+128.6∘
+360∘
+360 ÷ angle = 2 +
+​
+n−2
+4
+x
+y
+x
+y = x
+90∘
+270∘
+360 ÷ interior angle
+12 : 18 = 2 : 3
+​3
+2
+​ =
+4
+3
+​
+12
+x
+4x = 36
+x = 9
+7 =
+2
+49 12 =
+2
+144 13 =
+2
+169
+6.847
+6.8
+6.8
+4
+180∘
+60∘
+4
+10
+k =
+​ =
+4
+10
+2.5
+x = 6 × 2.5 = 15
+4 : 6 = 10 : 15 = 2 : 3
+k =
+​ =
+PQ
+ST
+​ =
+8
+12
+1.5
+TU = 10 × 1.5 = 15
+US = 14 × 1.5 = 21
+k =
+​ =
+10
+25
+2.5
+15 × 2.5 = 37.5
+= 2.5 =
+2
+6.25
+25 : 4
+7.5 × 200 = 1500
+= 15
+5 × 200 = 1000
+= 10
+= 15 × 10 = 150 m2
+k =
+2
+​ =
+36
+81
+​4
+9
+k =
+​ =
+2
+3
+1.5
+1.5 × 2 = 3
+3 =
+2
+9
+1.5 ×
+2
+2 =
+2
+2.25 × 4 = 9
+1
+0.5
+1 cm2
+0.5 =
+2
+0.25 km2
+= 18 × 0.25 = 4.5 km =
+2
+450
+​ =
+d
+8
+​
+18
+d
+d =
+2
+144
+d = 12
+8 × 12
+12 × 18 k =
+​ =
+8
+12
+1.5
+2 : 3
+65∘
+3 : 6 = 4 : 8 = 5 : 10 = 1 : 2
+​ =
+6
+4
+​ =
+9
+6
+​3
+2
+50∘
+=
+DB
+AD
+EC
+AE
+=
+3
+6
+​
+EC
+8
+EC = 4
+AC = 8 + 4 = 12
+k =
+​ =
+AB
+XY
+​ =
+9
+6
+​3
+2 Y Z = 12 ×
+​ =
+3
+2
+8
+XY Z : ABC =
+​
+=
+( 3
+2)
+2
+4 : 9
+​ =
+1.5
+h
+​
+2.1
+28
+h =
+​ =
+2.1
+1.5×28
+20
+3, 4, 5
+6, 8, 10
+k = 2
+k = 1
+h =
+​ =
+3.0
+1.7×12.0
+6.8
+11.8
+h =
+​ =
+3.0
+1.7×11.8
+6.69
+0.11
+1.7%
+= 1.25 =
+2
+1.5625
+0.24 × 1.5625 = 0.375 m2
+k =
+​3
+5
+= 27 ×
+​
+=
+( 3
+5)
+2
+27 ×
+​ =
+9
+25
+75 cm2
+3 : 5
+​ =
+6 + 8
+2
+2
+​ =
+100
+10
+​ =
+17 −8
+2
+2
+​ =
+289 −64
+​ =
+225
+15
+​ =
+5 + 12
+2
+2
+​ =
+169
+13
+6
+h =
+​ =
+10 −6
+2
+2
+8
+=
+​ ×
+2
+1
+12 × 8 = 48 cm2
+6
+8
+=
+​ =
+6 + 8
+2
+2
+10
+7 +
+2
+24 =
+2
+49 + 576 = 625 = 252
+9 +
+2
+12 =
+2
+225
+16 =
+2
+256
+16
+10 +
+2
+24 =
+2
+100 + 576 = 676 = 262
+=
+​ =
+4.5 −1.8
+2
+2
+​ =
+17.01
+4.12
+=
+​ =
+4.5 −2.7
+2
+2
+​ =
+12.96
+3.60
+4.12 −3.60 = 0.52
+x
+x + 5
+x +
+2
+(x + 5) =
+2
+252
+2x +
+2
+10x + 25 = 625 x +
+2
+5x −300 = 0
+(x −15)(x + 20) = 0
+x = 15
+15
+20
+sin θ =
+​
+25
+7
+cos θ =
+​
+25
+24 tan θ =
+​
+24
+7
+x = 20 sin 38 =
+∘
+20 × 0.6157 = 12.3
+y = 14 cos 55 =
+∘
+14 × 0.5736 = 8.03
+θ = tan
+0.85 =
+−1
+40.4∘
+θ = sin
+0.4 =
+−1
+23.6∘
+θ = cos
+0.25 =
+−1
+75.5∘
+​ +
+2
+​2
+​ =
+2
+​3
+​ ≈
+2
+​+
+​
+2
+3
+1.573
+​ ×
+3
+​ =
+​3
+1
+1
+tan 58 =
+∘
+​
+s
+14
+s =
+​ =
+tan 58∘
+14
+8.75
+= 32 sin 41 =
+∘
+32 × 0.6561 = 21.0
+30∘
+2x sin 30 =
+∘
+2x ×
+=
+2
+1
+x
+2x cos 30 =
+∘
+2x ×
+​ =
+2
+​3
+x
+​3
+
+
+===== [source page 255] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+255
+PRACTICE 7.5 · ELEVATION AND DEPRESSION
+1
+ m.
+2
+ m.
+3 Height above eye level 
+ m, so the
+flagpole is 
+ m.
+4
+ m.
+5
+ m 
+ km (about 
+ km).
+6 Let the height be . Then 
+, so
+ and 
+ m.
+7
+, so 
+. Sloping length
+ m.
+8 The vertical drop is 
+ m, so the
+shorter building is 
+ m tall.
+INVESTIGATION 7 · THE SHADOW RULE
+1 Sample data at one moment on level ground, to the nearest centimetre: door 
+ m with shadow 
+ m; post 
+ m with 
+m; student 
+ m with 
+ m. Ratios 
+, 
+, 
+; mean 
+.
+2 The ratios agree to within 
+, about 
+, which is within the precision of the measurements. Conjecture: for every
+vertical object at that moment, 
+ with 
+; equivalently, height and shadow length are proportional.
+3 Each object and shadow forms a right triangle: the object is vertical and the shadow lies on level ground, so the foot angle is
+. Parallel sun's rays make the same angle  with the ground in both triangles. Two equal angles give AA similarity, so
+corresponding sides share one ratio, 
+.
+4
+, about 
+ m. A clinometer estimate might give 
+ m; the 
+ m difference is smaller than the
+uncertainty in the shadow tip, so the methods agree within precision.
+5 An extra 
+ m of shadow changes the estimate by 
+ m. The reference measurements dominate: 
+ cm is 
+ of the
+ m pole shadow and 
+ of its 
+ m height, but only 
+ of the 
+ m tree shadow. Small lengths carry the largest
+relative error.
+6 Conditions: level ground, vertical objects, one fixed sun angle (same time). Sloping ground makes the adjacent side non-
+horizontal; a leaning object changes the angle at its foot and is not similar to a vertical one; a different time changes  and
+. The shadow must also be straight and unobstructed.
+7 In the right triangle, 
+. Using the metre rule, 
+, so the sun's elevation was about 
+.
+8 A 
+ m building casts a 
+ m shadow. Percentage precision is unchanged, but 
+ of 
+ m is 
+ m, so absolute error grows.
+Trust it only if the ground is level and clear for 
+ m and the shadow tip is visible. Improve reliability with a longer
+reference pole, several objects averaged, measurements near midday, and a clinometer cross-check. Limitation: one
+constant sun angle is assumed, which fails if cloud or time changes the light.
+APPLICATION · THE LIBRARY RAMP
+1
+ m, so the minimum run is verified. With
+ m, the gradient is 
+;
+; sloping length 
+m.
+2 Gradient 
+, steeper than 
+;
+. At 
+, 
+ m of run allows a rise
+of 
+ m, so the rise is 
+ m (about 
+ cm) too
+great; equivalently the run is 
+ m short.
+3 (i) Reduce the rise to 
+ m or less by regrading the approach or lowering the threshold: cheap and a single straight flight,
+but it may conflict with drainage and door heights. (ii) Use a switchback with two flights and a landing: it fits the length,
+but costs more, occupies more width, needs turning space and more maintenance.
+4 Each flight rises 
+ m, so its run is
+ m. With a 
+ m square turning landing,
+the switchback is about 
+ m long and
+ m wide: a 
+ footprint. The single
+ramp is 
+ (plus a 
+ top landing),
+so the switchback uses about 
+ more ground but fits
+the 
+ m site length, which the single ramp does not.
+5 Deck area 
+, cost 
+. Landing 
+, cost
+. Handrails 
+ m, cost 
+. Total 
+;
+with 
+ contingency, 
+, about 
+ units.
+6 Each strip covers 
+. 
+,
+so 
+ strips are needed. The supplier rounds up and
+adds a margin because edge strips must be cut, some
+break, and later batches may differ in colour; ordering
+exactly 
+ would leave the deck short.
+7 A rise error of 
+ m changes the required run by
+ m. Main entrance: required 
+,
+that is 
+ to 
+ m; the 
+ m available leaves 
+ m
+spare, so it has ample tolerance. Side entrance: required
+ to 
+ m; only 
+ m is available, so it is
+between 
+ m and 
+ m short and has no tolerance.
+The side design fails at every possible measurement.
+8 Uncertain: level ground, constant gradient, a rigid deck, dry weather, and users keeping to the ramp. Records: survey dates,
+instruments and readings with precision; calculations and chosen gradient; material and handrail specifications;
+inspection and maintenance dates; as-built drawings and photographs.
+CRITERION TASK · THE LIGHTHOUSE
+Sample response. The diagram is a vertical line for the cliff and tower, a horizontal line for sea level, the lamp as a point
+at height , position  at horizontal distance , and position 
+ m nearer the cliff. The angles of elevation 
+ and 
+ are
+marked at  and 
+, each between the horizontal and the line of sight to the lamp.
+1 With  the lamp height above sea level and  the horizontal distance from  to the cliff: both lines of sight lie in one vertical
+plane, the cliff face is vertical, the lamp is a point, sea level is horizontal, and the eye is at sea level. The diagram labels
+the 
+ m cliff, the tower, , , the 
+ m baseline and both angles.
+2 In the triangle from : 
+, so 
+. From 
+: 
+, so 
+. Subtract:
+. Hence 
+ m, or 
+ m to the nearest metre.
+3 From the unrounded , 
+ m and 
+ m; their difference is 
+ m. With 
+, the distances round to 
+ m
+and 
+ m, again 
+ m apart. This is an internal consistency check: both distances come from the same  and angles, so
+the subtraction must return the baseline. It does not test the physical assumptions (vertical cliff, horizontal sea level,
+correct angles), so it does not prove the answer exact.
+4 Tower height 
+ m above the cliff. A 
+ m tower on a 
+ m cliff is plausible. Because  is rounded, the
+tower is between about 
+ m and 
+ m.
+5 From 
+ m horizontally, 
+, so 
+.
+6 For 
+ m, 
+ m; for 
+ m, 
+ m: about 
+ m to 
+ m. The angles contribute more: a half-degree error changes
+ by 
+ and 
+ by 
+, so the difference changes by 
+, about 
+ or  m. The baseline changes  by 
+,
+about 
+. A small angle error at 
+ moves the intersection a long way.
+h = 80 tan 35 =
+∘
+80 × 0.7002 = 56.0
+d =
+​ =
+tan 42∘
+70
+​ =
+0.9004
+70
+77.7
+= 40 tan 23 =
+∘
+16.98
+16.98 + 1.7 = 18.7
+d =
+​ =
+tan 61∘
+25
+​ =
+1.8040
+25
+13.9
+d =
+​ =
+tan 17∘
+900
+2943.8
+= 2.94
+2.9
+h
+​ −
+tan 40∘
+h
+​ =
+tan 55∘
+h
+50
+h(1.1918 −0.7002) = 50
+h =
+​ =
+0.4915
+50
+101.7
+tan θ =
+​
+11
+0.8
+θ = 4.2∘
+=
+​ =
+0.8 + 11
+2
+2
+​ =
+121.64
+11.03
+24 tan 15 =
+∘
+24 × 0.2679 = 6.43
+30 −6.43 = 23.6
+2.00
+1.50
+1.20
+0.90
+1.65
+1.24
+1.333 1.333 1.331
+k = 1.332
+0.002
+0.15%
+h = ks
+k ≈1.33
+90∘
+θ
+h
+​/s
+​ =
+1
+1
+h /s
+​
+2
+2
+h = 1.332 × 9.60 = 12.79
+12.8
+12.7
+0.1
+0.10
+0.13
+±0.5
+0.56%
+0.90
+0.42%
+1.20
+0.05%
+9.60
+θ
+k
+tan θ =
+​ =
+shadow
+height
+​ =
+s
+h
+k
+θ = tan
+1.333 =
+−1
+53.1∘
+53∘
+30
+22.5
+1%
+30
+0.3
+22.5
+12 × 0.72 = 8.64
+12.00
+0.72 : 12 = 1 : 16.7
+θ = tan
+​ =
+−1
+12
+0.72
+3.4∘
+=
+​ =
+0.72 + 12
+2
+2
+12.02
+= 1.05 : 11.50 = 1 : 10.95
+1 : 12
+θ = tan
+​ =
+−1
+11.5
+1.05
+5.2∘
+1 : 12 11.50
+​ =
+12
+11.50
+0.958
+0.092
+9.2
+1.10
+0.958
+1.05 ÷ 2 = 0.525
+12 × 0.525 = 6.30
+1.5
+6.30 + 1.5 = 7.80
+2 × 1.5 = 3.00
+23.4 m2
+11.5 × 1.5 = 17.25 m2
+2.25 m2
+20%
+11.5
+= 18.03 m2
+865.55
+= 2.25 m2
+108.00
+= 24.04
+769.38
+= 1742.93
+10%
+1917.23
+1917
+0.30 × 0.30 = 0.09 m2 18.03 ÷ 0.09 = 200.4
+201
+200
+±0.02
+12 × 0.02 = 0.24
+8.64 ± 0.24
+8.40
+8.88
+12.00
+3.12
+12.36
+12.84
+11.50
+0.86
+1.34
+h
+A
+d
+B 120
+21∘
+35∘
+A
+B
+h
+d
+A
+78
+h d
+120
+A tan 21 =
+∘
+​d
+h
+d = h cot 21∘
+B tan 35 =
+∘
+​
+d−120
+h
+d −120 = h cot 35∘
+120 = h(cot 21 −
+∘
+cot 35 ) ≈
+∘
+1.1769h
+h =
+​ =
+1.1769
+120
+101.96
+102
+h d = 265.6
+d
+​ =
+B
+145.6
+120.0
+h = 102
+266
+146
+120
+h
+= h −78 = 102 −78 = 24
+24
+78
+h
+23.5
+24.5
+250
+tan θ =
+​ =
+250
+102
+0.408
+θ = tan
+0.408 =
+−1
+22.2∘
+118
+h = 100.3
+122
+h = 103.7
+100
+104
+cot 21∘
+0.068
+cot 35∘
+0.027
+0.095
+8%
+8
+h
+2/120
+1.7%
+21∘
+
+
+===== [source page 256] =====
+MYP MATHEMATICS 3
+256
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+7 Eye height matters: ignoring it makes  a height above eye level, so about  m must be added. A rough sea makes the boat
+rise, fall and tilt, so angles vary; a sloping or overhanging cliff means the distance to the face is not the distance to the
+vertical below the lamp. Improve by measuring from a fixed shore station of known height with a theodolite, using a
+longer baseline, repeating and averaging readings, and surveying the baseline rather than estimating it from boat
+movement.
+Marking guide. Criterion B: a labelled model with variables and both tangent equations; correct elimination and
+solution; a distance check; sensitivity to baseline and angles; assumptions evaluated. Criterion C: correct notation, units
+at every answer, logical sequence, and a conclusion separating the mathematical result from the physical measurement.
+Criterion D strand iii: precision and assumptions assessed, with one justified improvement. The 24 marks are spread
+across the parts (3, 5, 3, 3, 3, 4, 3), with method marks for correct ratios.
+MIXED PRACTICE 7
+Numbering. The chapter restarts numbering in each section, so items are labelled F (Fluency), R (Reasoning) and A
+(Application) with their section numbers.
+F1
+, so 
+ and 
+.
+F2
+ cm.
+F3
+ cm.
+F4
+, so 
+ m.
+R1
+. Curved surface areas: 
+, ratio 
+.
+Volumes: 
+, ratio 
+.
+R2 The horizontal lines through  and 
+ are parallel, and
+the line of sight is a transversal. The two angles are
+alternate angles, so they are equal. The relationship is
+“alternate angles are equal”.
+R3
+: 
+, so right-angled. 
+:
+, but 
+; not right-angled, and since
+ the angle opposite 
+ cm is obtuse.
+R4
+. For an acute angle the opposite side is
+shorter than the hypotenuse, so the ratio is less than .
+A value of 
+ would require the opposite side to be
+longer than the hypotenuse, which is impossible; the
+fraction was probably inverted.
+A1
+, so 
+. Foot distance
+ m.
+A2 Distances 
+ m and 
+ m; the cars
+are 
+ m apart.
+A3
+ cm represents 
+ km, so 
+ represents 
+. Area
+.
+A4 Horizontal 
+ m; direct 
+ m.
+A5 Minimum run 
+ m; sloping length
+ m. With 
+ m, the gradient is
+, steeper than 
+; the run is 
+ m
+short.
+A6 With 
+, the estimates are 
+ m and 
+ m, a change
+of 
+ m. The shadow method needs level ground,
+vertical objects and steady sun; it fails on a cloudy day
+or uneven ground. The angle method needs a clear line
+of sight and a measurable horizontal distance; it fails
+when the base is inaccessible or the angle is too small.
+Common errors. Using  instead of 
+ for area and 
+ for volume; mismatching sides in a similarity statement; adding a
+fixed length instead of multiplying by ; choosing the hypotenuse by appearance rather than by the right angle; adding
+squares when a leg is required; placing a depression angle at the foot of the diagram; forgetting eye height; and leaving
+the calculator in radian mode. Round only at the end and give units.
+Chapter 8 · Three-dimensional solids and measurement
+PREREQUISITE CHECK
+1 Rectangle 
+; triangle 
+.
+2 Circumference 
+ cm; area
+.
+3
+, 
+, 
+, 
+.
+4
+ cm; 
+ L.
+5
+ cm.
+6
+ to two decimal places is 
+; to three significant
+figures it is also 
+.
+PRACTICE 8.1 · SOLIDS, NETS AND VIEWS
+1 Triangular prism 
+, 
+, 
+; square pyramid
+, 
+, 
+; tetrahedron 
+, 
+, 
+;
+pentagonal prism 
+, 
+, 
+.
+2
+.
+3
+; a cuboid (rectangular
+prism).
+4 A cross of six 
+ squares folds into the cube; total area
+.
+5 A sphere has no flat polygonal faces, no straight edges and
+no vertices, so , 
+ and 
+ are undefined and Euler's
+relationship does not apply. A net of flat polygons
+cannot wrap a sphere without stretching or
+overlapping, because the sphere is curved in two
+directions; any flat map of it distorts distances.
+6 For an -sided prism, 
+ (two bases plus the lateral
+edges). 
+, so 
+: the base is a decagon.
+7 Base 
+; four sides
+. Cardboard
+.
+8
+ cubes. An edge cube that is not a corner has exactly two
+painted faces. The four edges of length  contribute
+; the four edges of length  contribute
+; the four edges of length  contribute .
+Total 
+.
+PRACTICE 8.2 · SURFACE AREA OF PRISMS AND CYLINDERS
+1
+.
+2
+.
+3
+.
+4
+, 
+.
+.
+5 One base plus curved surface:
+.
+6
+, so 
+, 
+ cm; 
+.
+7
+, so 
+ and 
+ cm.
+8
+, so 
+, 
+, hence
+. Check: 
+ and curved area 
+.
+h
+2
+k =
+​ =
+6
+8
+​3
+4
+EF = 9 ×
+​ =
+3
+4
+12
+DF = 12 ×
+​ =
+3
+4
+16
+​ =
+7 + 24
+2
+2
+​ =
+625
+25
+15 sin 42 =
+∘
+15 × 0.6691 = 10.0
+​ =
+1.8
+h
+​
+2.4
+6.0
+h = 1.8 × 2.5 = 4.5
+k =
+​ =
+6
+15
+2.5
+k =
+2
+6.25
+25 : 4
+k =
+3
+15.625
+125 : 8
+A
+B
+9, 12, 15 81 + 144 = 225 = 152
+9, 12, 17
+81 + 144 = 225
+17 =
+2
+289
+289 > 225
+17
+sin θ =
+​
+hypotenuse
+opposite
+1
+1.4
+sin θ =
+​ =
+6
+5.4
+0.9
+θ = 64.2∘
+=
+​ =
+6 −5.4
+2
+2
+​ =
+6.84
+2.62
+=
+​ =
+tan 28∘
+40
+75.23
+​ =
+tan 42∘
+40
+44.42
+75.23 −44.42 = 30.8
+1
+0.2
+1 cm2
+0.04 km2
+= 6.5 × 0.04 = 0.26 km2
+=
+​ =
+tan 38∘
+120
+153.6
+=
+​ =
+sin 38∘
+120
+194.9
+= 12 × 1.1 = 13.2
+=
+​ =
+1.1 + 13.2
+2
+2
+13.25
+12
+1.1 : 12 = 1 : 10.9
+1 : 12
+1.2
+k =
+​3
+4
+12.8
+12.4
+0.4
+k
+k2
+k3
+k
+= 8 × 5 = 40 cm2
+=
+​ ×
+2
+1
+8 × 5 = 20 cm2
+= 2 ×
+​ ×
+7
+22
+7 = 44
+=
+​ ×
+7
+22
+7 =
+2
+154 cm2
+2 =
+2
+4 2 =
+3
+8 3 =
+2
+9 3 =
+3
+27
+1.5 m = 150
+2500 cm =
+3
+2.5
+​ =
+6 + 8
+2
+2
+​ =
+100
+10
+3.14159
+3.14
+3.14
+F = 5 E = 9 V = 6
+F = 5 E = 8 V = 5
+F = 4 E = 6 V = 4
+F = 7 E = 15 V = 10
+V = E + 2 −F = 14 + 2 −9 = 7
+F = E + 2 −V = 12 + 2 −8 = 6
+4 × 4
+= 6 × 16 = 96 cm2
+F E
+V
+n
+E = 3n
+30 = 3n
+n = 10
+20 × 15 = 300
+2(20 × 10) + 2(15 × 10) = 400 + 300 = 700
+= 1000 cm2
+12
+4
+4 × (4 −2) = 8
+3
+4 × (3 −2) = 4
+2
+0
+8 + 4 = 12
+SA = 2(10 × 4 + 10 × 3 + 4 × 3) = 2(40 + 30 + 12) = 164 cm2
+SA = 2π(5 ) +
+2
+2π(5)(12) = 50π + 120π = 170π = 534.1 cm2
+SA = 6 × 9 =
+2
+6 × 81 = 486 cm2
+B =
+​(5)(12) =
+2
+1
+30 P = 5 + 12 + 13 = 30
+SA = 2(30) + 30(20) = 60 + 600 = 660 cm2
+π(3.5 ) +
+2
+2π(3.5)(8) = 12.25π + 56π = 68.25π = 214.4 cm2
+6s =
+2
+294
+s =
+2
+49 s = 7
+V = 7 =
+3
+343 cm3
+2π(25) + 2π(5)h = 150π
+50 + 10h = 150
+h = 10
+2πr +
+2
+2πrh = 3(2πrh)
+2r +
+2
+2rh = 6rh 2r =
+2
+4rh
+h =
+​2
+r
+SA = 3πr2
+= πr2
+
+
+===== [source page 257] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+257
+PRACTICE 8.3 · PYRAMIDS AND CONES
+1
+, lateral 
+;
+.
+2
+.
+3
+; 
+.
+4 Slant height 
+ cm;
+.
+5
+; 
+.
+6
+, so 
+ cm; 
+ cm.
+7 Lateral 
+, cost 
+ units. With
+floor: 
+, cost 
+ units.
+8 Let 
+, 
+. Then 
+, so 
+,
+. Hence 
+ cm, 
+ cm (and 
+ cm).
+PRACTICE 8.4 · VOLUME OF PRISMS AND CYLINDERS
+1
+.
+2
+.
+3
+; 
+.
+4
+ L.
+5
+; 
+.
+6
+ L.
+7
+, so 
+ cm.
+8 Volume 
+; 
+ cm.
+PRACTICE 8.5 · VOLUME AND COMPOSITE SOLIDS
+1
+.
+2
+.
+3
+.
+4
+.
+5
+; 
+.
+6
+. Surface areas 
+, ratio 
+; volumes
+, ratio 
+.
+7 Cylinder 
+; hemisphere
+. Total 
+.
+8 The cut is halfway up, so the small cone has 
+: radius 
+cm, height  cm, 
+. Whole cone 
+,
+so the frustum is 
+.
+PRACTICE 8.6 · MEASUREMENT AND PRECISION
+1
+.
+2
+ L.
+3
+.
+4
+, so mass 
+ g 
+ kg.
+5
+; 
+.
+6
+.
+7 Greatest 
+; least
+. The design value is
+.
+8 The side is  cm to the nearest centimetre, so 
+cm. Cubing: 
+. The stated 
+ is
+only the central estimate; the rounding of the side
+allows this wide range.
+INVESTIGATION 8 · THE 330 ML CAN
+1 Sample cans, measured with a paper strip and a ruler to the nearest millimetre. Can A (330 mL): circumference 
+ cm, so
+ cm, 
+ cm. Can B (500 mL): 
+ cm, 
+ cm, 
+ cm. Can C (250 mL): 
+ cm, 
+ cm,
+ cm. Volumes: 
+, 
+ and 
+; surface areas 
+, 
+ and 
+.
+2 Completed ratios: A 
+, 
+; B 
+, 
+; C 
+, 
+. The larger can has the
+lowest material per millilitre, but it also has the largest volume, so this does not yet isolate the effect of shape.
+3 Comparing cans of different volume is unfair: a bigger container has a smaller surface-to-volume ratio whatever its shape.
+To compare shapes, fix the volume. At 
+, the table shows the least material near 
+ cm, where 
+, and
+the most at the extremes of the table.
+4 Surface area falls from 
+ to 
+ and then rises to 
+, so the minimum lies between 
+ and 
+, close to 
+cm with 
+ cm. A finer search gives 
+ cm, 
+ cm, 
+. Consecutive rows confirm that the
+change of sign occurs around the 
+ cm row.
+5 Conjecture: at the minimum, 
+, so 
+. The table's minimum row has 
+, which is 
+ below 
+; with a 
+cm grid this is consistent with the conjecture, but the table alone cannot prove it.
+6 Since 
+, 
+. For very small , the term 
+ is huge (a tall, thin can with a large curved
+surface); for very large , 
+ is huge (a flat, wide can with large discs). One term falls and the other rises, so a minimum
+lies between.
+7 A real 330 mL can typically has 
+ cm and 
+ cm, giving 
+ and 
+, about 
+ more material than
+the optimum. Manufacturers choose this shape for grip and stability, for vending machines and shelves, for the domed
+ends and seams that the model ignores, and for marketing.
+8 Assumptions: uniform metal thickness, no seams, no domed ends or rim, and equal cost per square centimetre. The most
+unrealistic is uniform thickness with no domed ends: real cans have thicker rims and shaped ends, and the body and
+ends are made and printed separately. Removing that assumption changes the position of the optimum and makes a taller
+can relatively more expensive, so the true best shape is not exactly 
+.
+APPLICATION · THE RAINWATER TANK
+1
+, capacity 
+ L,
+about 
+ kL.
+2 Mass 
+ kg, about 
+ tonnes. Spread over the
+ base, the average load is about
+ (roughly 
+); directly under the tank
+footprint it is about 
+. The average is modest
+for soil, but the concentrated load and the 
+ m slab
+make mesh reinforcement advisable.
+3 Curved side 
+; top
+. Painted area 
+;
+cost 
+ units, about 
+ units.
+4 Base volume 
+; cost 
+units. But a 
+ m margin on every side would need a
+base of 
+ m, not 
+ m. The stated 
+m square gives only 
+ m margin, so the specification
+is inconsistent. At 
+ m the volume would be 
+and the cost 
+ units.
+5
+ m, so the annual harvest is
+ L. This is 
+full tanks. The tank stores only about one-fifteenth of
+the annual harvest, so overflow and timing, not
+rainfall, limit the supply; most water will be lost unless
+it is used between storms.
+6
+ minutes, which is 
+ hours,
+or 
+ hours to the nearest 
+ hour (12 h 34 min).
+7 The radius is 
+ m and the height 
+ m.
+Greatest 
+; least
+. As percentages of 
+,
+this is 
+ and 
+, about 
+. The radius
+contributes more because it is squared: its 
+relative error doubles to about 
+, while the height
+contributes only 
+.
+B = 8 =
+2
+64
+=
+​(32)(10) =
+2
+1
+160
+SA = 64 + 160 = 224 cm2
+SA = π(3 ) +
+2
+π(3)(7) = 9π + 21π = 30π = 94.2 cm2
+l =
+​ =
+5 + 12
+2
+2
+13 SA = 25π + 65π = 90π = 282.7 cm2
+l =
+​ =
+8 + 6
+2
+2
+10
+SA = 144 +
+​(48)(10) =
+2
+1
+144 + 240 = 384 cm2
+r = 8 SA = 64π + 136π = 200π = 628.3 cm2
+36π + 6πl = 90π
+l = 9
+h =
+​ =
+9 −6
+2
+2
+​ =
+45
+6.7
+=
+​(12)(2.5) =
+2
+1
+15 m2
+15 × 12 = 180
+15 + 9 = 24 m2
+288
+r = 3x l = 5x
+9x +
+2
+15x =
+2
+216
+24x =
+2
+216
+x = 3
+r = 9
+l = 15
+h = 12
+V = 9 × 7 × 4 = 252 cm3
+V = π(6 )(10) =
+2
+360π = 1131.0 cm3
+r = 5 V = π(25)(14) = 350π = 1099.6 cm3
+3.2 m =
+3
+3.2 × 1000 = 3200
+B =
+​(10)(6) =
+2
+1
+30 cm2 V = 30 × 25 = 750 cm3
+120 × 80 × 60 = 576 000 cm =
+3
+576
+2000 = π(25)h
+h =
+​ =
+25π
+2000
+25.5
+= 20 × 10 × 5 = 1000 cm3 h =
+​ =
+25π
+1000
+12.7
+V =
+​(36)(10) =
+3
+1
+120 cm3
+V =
+​π(9)(7) =
+3
+1
+21π = 66.0 cm3
+V =
+​π(27) =
+3
+4
+36π = 113.1 cm3
+V =
+​ ×
+2
+1
+​π(216) =
+3
+4
+144π = 452.4 cm3
+r = 5 V =
+​π(25)(12) =
+3
+1
+100π = 314.2 cm3
+k =
+​ =
+4
+10
+2.5
+k =
+2
+6.25
+25 : 4
+k =
+3
+15.625
+125 : 8
+= π(16)(15) = 240π
+=
+​ ×
+2
+1
+​π(64) =
+3
+4
+​
+3
+128π
+=
+​ =
+3
+848π
+888.0 cm3
+k =
+​2
+1
+3
+4
+V = 12π = 37.7 cm3
+= 96π
+96π −12π = 84π = 263.9 cm3
+2.4 L = 2400 cm =
+3
+0.0024 m3
+5000 ÷ 1000 = 5
+ρ =
+​ =
+300
+810
+2.7 g/cm3
+2.5 L = 2500 cm3
+= 2500 × 1 = 2500
+= 2.5
+V = 2 × 5 × 8 = 80 cm3 ρ =
+​ =
+80
+624
+7.8 g/cm3
+​ ×
+5.0
+∣4.8−5.0∣
+100% = 4%
+= π(3.05 )(10.05) =
+2
+293.7 cm3
+= π(2.95 )(9.95) =
+2
+272.0 cm3
+90π = 282.7 cm3
+4
+3.5 ≤s < 4.5
+42.875 ≤V < 91.125 cm3
+64 cm3
+20.7
+r = 3.30
+h = 9.6
+C = 21.4
+r = 3.40
+h = 13.8
+C = 18.2
+r = 2.90
+h = 9.5
+328 501
+251 cm3
+267.5 367.4
+225.9 cm2
+r/h = 0.344 SA/V = 0.814
+r/h = 0.247 SA/V = 0.733
+r/h = 0.305 SA/V = 0.900
+330 cm3
+r = 3.7
+SA/V = 0.801
+276.5
+264.4
+271.6
+r = 3.4
+r = 4.0
+r = 3.7
+h = 7.67
+r ≈3.75
+h ≈7.49
+SA ≈264.4 cm2
+3.7
+h = 2r
+r/h = 0.5
+r/h = 0.482
+3.6%
+0.5
+0.3
+h =
+​
+πr2
+V
+SA = 2πr +
+2
+2πr
+​ =
+( πr2
+V )
+2πr +
+2
+​
+r
+2V
+r
+​
+r
+2V
+r 2πr2
+r ≈3.3
+h ≈9.6
+r/h = 0.344
+SA/V = 0.814
+1.6%
+h = 2r
+V = πr h =
+2
+3.142 × 1.20 ×
+2
+2.00 = 9.049 m3
+9049
+9.05
+= 9049
+9.05
+3.00 × 3.00 = 9.00 m2
+1005 kg/m2
+10 kN/m2
+2000 kg/m2
+0.15
+= 2πrh = 2 × 3.142 × 1.2 × 2 = 15.08 m2
+= πr =
+2
+3.142 × 1.44 = 4.52 m2
+= 19.61 m2
+= 19.61 × 8.50 = 166.65
+167
+= 3.00 ×
+2
+0.15 = 1.35 m3
+= 1.35 × 240 = 324
+0.60
+2.40 + 2(0.60) = 3.60
+3.00
+3.00
+0.30
+3.60
+1.944 m3
+466.56
+750 mm = 0.75
+0.75 × 180 = 135 m =
+3
+135 000
+135 ÷ 9.049 = 14.9
+9049 ÷ 12 = 754.1
+754.1 ÷ 60 = 12.57
+12.6
+0.1
+1.20 ± 0.025
+2.00 ± 0.025
+= π(1.225 )(2.025) =
+2
+9.548 m3
+= π(1.175 )(1.975) =
+2
+8.567 m3
+9.049
++5.5%
+−5.3%
+±5.4%
+2.08%
+4.2%
+1.25%
+
+
+===== [source page 258] =====
+MYP MATHEMATICS 3
+258
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+8 Uncertainties: the ground may not be level, the tank may not be exactly cylindrical, the base may settle, and the rainfall and
+demand vary. Siting must be shaded, level and accessible, with overflow directed away from the building. Maintenance
+needs an inlet screen, a first-flush diverter and periodic cleaning; standing water raises quality and mosquito concerns. A
+full tank weighs about  tonnes, so the base and ground must be checked. A cylinder uses less material per litre than a
+cuboid, but a cuboid may fit a corner better. Recommend a first-flush diverter and leaf screen, with the overflow led to a
+garden bed; this improves water quality and reduces waste at modest cost.
+CRITERION TASK · THE SCHOOL GREENHOUSE
+Sample response. The cross-section is a 
+ m by 
+ m rectangle with a semicircle of radius 
+ m on top; the length is 
+m. The door is a 
+ m by 
+ m rectangle in one end wall.
+1 Labelled cross-section: width 
+ m, side walls 
+ m, semicircular roof of radius 
+ m. The sketch shows a half-cylinder on a
+rectangular prism, with the door in one end. Assumptions: the roof is an exact half-cylinder, the walls are vertical and the
+dimensions are internal, the door is the only opening, and the frame has negligible width.
+2 Floor 
+. Rectangular part 
+. Half-cylinder 
+. Total
+.
+3 Curved roof 
+. Two long side walls 
+. Each end
+, so two ends 
+. Glazing before the door 
+; total
+covered surface 
+.
+4 Door area 
+, deducted from the glazed area: glass 
+. Polycarbonate cost
+; glass cost 
+. Total 
+, about 
+ units.
+5 Base perimeter 
+ m; four vertical corners 
+ m; two roof edges 
+ m; two gable
+arcs 
+ m. Total 
+ m; cost 
+, about 
+ units.
+6 Use 
+ m for each dimension. The width lies from 
+ to 
+, the height from 
+ to 
+, the length from 
+ to
+, and the roof radius is half the width, from 
+ to 
+. Greatest volume
+; least 
+. The design
+ lies between, about 
+ either side, a total range of 
+.
+7 Condensation will form on single-layer polycarbonate, so vents or a slight slope are needed; ventilation must avoid
+overheating in summer; the large curved surface catches wind, so the frame must be anchored; orientation should admit
+winter light without overheating; glazing needs cleaning and panel replacement. Recommend opening ridge vents at
+both gable ends with closable flaps. They remove humid air in summer, reduce condensation, and are cheaper than
+mechanical ventilation; the cost is small compared with the glazing and the benefit is direct.
+Marking guide. Criterion C: a clear labelled cross-section and sketch, correct formulas, units carried through, and a
+logical sequence from decomposition to totals. Criterion D: a valid model of the real greenhouse, correct areas, volumes
+and costs, the door deducted once from the glazing, bounds interpreted as a range, and an evaluation that links at least
+two limitations to a specific, justified modification. Award the 24 marks across the seven parts (3, 5, 5, 4, 2, 3, 2), with
+follow-through marks for consistent earlier errors.
+MIXED PRACTICE 8
+Numbering. The chapter restarts numbering in each section, so items are labelled F (Fluency), R (Reasoning) and A
+(Application) with their section numbers.
+F1
+;
+.
+F2
+;
+.
+F3
+; 
+;
+.
+F4
+;
+.
+R1
+. Surface areas: 
+, ratio 
+. Volumes:
+, ratio 
+. Area depends on two lengths and
+volume on three, so the factors are squared and cubed.
+R2
+. As  becomes very small, 
+ grows
+without limit; as  becomes very large, 
+ grows
+without limit. Between the two extremes the sum has a
+minimum, so the surface area cannot be arbitrarily
+small.
+R3 Cube: 
+, 
+. Sphere: 
+,
+ cm, 
+. The sphere uses less
+material. Containers are not spherical because spheres
+roll, stack poorly, waste shipping space and are
+awkward to fill, label and open.
+R4
+ becomes 
+, so the volume is four
+times larger, not double. The curved area doubles (
+), but the total surface area becomes
+, so it is not simply doubled either.
+A1
+ L. Glass
+.
+A2 Painted area
+.
+Two coats 
+; paint 
+ L, so 
+drums of 
+ L.
+A3 Cone 
+; hemisphere
+. Total 
+.
+A4
+, 
+ L. At
+ L per day this lasts 
+ days.
+A5 Box A 
+; box B
+. Box A uses less cardboard
+for the same volume.
+A6
+. Exposed
+area 
+.
+Common errors. Using the diameter where the radius is required; omitting one or both bases; using vertical height
+instead of slant height for a cone or pyramid; forgetting the factor  for pyramids and cones; cubing the diameter in the
+sphere formula; counting the glued faces of a composite solid; mixing 
+ with 
+; converting cubic units by 
+ instead
+of 
+; and using 
+ rather than 
+ for a measurement to the nearest 
+.
+9
+3.0
+1.0
+1.5
+6.0
+0.9
+1.9
+3.0
+1.0
+1.5
+= 3.0 × 6.0 = 18 m2
+= 3.0 × 1.0 × 6.0 = 18 m3
+=
+​π(1.5 )(6.0) =
+2
+1
+2
+6.75π = 21.21 m3
+= 39.21 m3
+=
+​(2πrh) =
+2
+1
+π(1.5)(6.0) = 9π = 28.27 m2
+= 2(1.0 × 6.0) = 12.00 m2
+= 3.0 × 1.0 +
+​π(1.5 ) =
+2
+1
+2
+3.00 + 3.53 = 6.53 m2
+= 13.07 m2
+= 12.00 + 13.07 = 25.07 m2
+= 28.27 + 25.07 = 53.34 m2
+= 0.9 × 1.9 = 1.71 m2
+= 25.07 −1.71 = 23.36 m2
+= 28.27 × 42 = 1187.52
+= 23.36 × 55 = 1284.72
+= 2472.24
+2472
+= 2(3.0 + 6.0) = 18.0
+= 4 × 1.0 = 4.0
+= 2 × 6.0 = 12.0
+= 2π(1.5) = 9.42
+= 43.42
+= 43.42 × 18 = 781.65
+782
+±0.025
+2.975
+3.025
+0.975
+1.025
+5.975
+6.025
+1.4875
+1.5125
+= 3.025 × 1.025 × 6.025 +
+​π(1.5125 )(6.025) =
+2
+1
+2
+40.33 m3
+= 2.975 × 0.975 × 5.975 +
+​π(1.4875 )(5.975) =
+2
+1
+2
+38.10 m3
+39.21 m3
+2.8%
+5.7%
+SA = 2(12 × 7 + 12 × 4 + 7 × 4) = 2(84 + 48 + 28) = 320 cm2
+V = 12 × 7 × 4 = 336 cm3
+SA = 2π(36) + 2π(6)(9) = 72π + 108π = 180π = 565.5 cm2
+V = π(36)(9) = 324π = 1017.9 cm3
+l =
+​ =
+4 + 3
+2
+2
+5 SA = 16π + 20π = 36π = 113.1 cm2
+V =
+​π(16)(3) =
+3
+1
+16π = 50.3 cm3
+SA = 4π(25) = 100π = 314.2 cm2
+V =
+​π(125) =
+3
+4
+​ =
+3
+500π
+523.6 cm3
+k =
+​ =
+6
+9
+1.5
+k =
+2
+2.25
+9 : 4
+k =
+3
+3.375
+27 : 8
+SA = 2πr +
+2
+​
+r
+2V
+r
+​
+r
+2V
+r
+2πr2
+s = 10 SA = 600 cm2
+r =
+3
+​ =
+π
+750
+238.7
+r = 6.20
+SA = 4πr =
+2
+483.6 cm2
+V = πr h
+2
+π(2r) h =
+2
+4πr h
+2
+2πrh →4πrh
+8πr +
+2
+4πrh
+V = 60 × 30 × 35 = 63 000 cm =
+3
+63
+= 60 × 30 + 2(60 × 35) + 2(30 × 35) = 1800 + 4200 + 2100 = 8100 cm =
+2
+0.81 m2
+= 2π(2.5)(8) + π(2.5 ) =
+2
+40π + 6.25π = 46.25π = 145.30 m2
+= 290.60 m2
+= 290.60 × 0.2 = 58.12
+3
+20
+=
+​π(9)(12) =
+3
+1
+36π = 113.10 cm3
+=
+​π(27) =
+3
+2
+18π = 56.55 cm3
+= 54π = 169.6 cm3
+r = 0.75 V = π(0.5625)(2) = 1.125π = 3.534 m =
+3
+3534
+180
+3534 ÷ 180 = 19.6
+= 2(100 + 120 + 120) = 680 cm2
+= 2(80 + 120 + 150) = 700 cm2
+V = π(1 )(2) +
+2
+​π(1 ) =
+3
+2
+3
+2π +
+​ =
+3
+2π
+​ =
+3
+8π
+8.38 m3
+= 2π(1)(2) + 2π(1 ) =
+2
+4π + 2π = 6π = 18.85 m2
+​3
+1
+cm2
+cm3
+100
+1 000 000
+±0.05
+±0.025
+0.05
+
+
+===== [source page 259] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+259
+Chapter 9 · Bivariate data, correlation and causation
+PREREQUISITE CHECK
+1 Points plotted at 
+, 
+, 
+, 
+, with both axes
+labelled and scaled from  to .
+2
+.
+3 Gradient 
+; 
+, so 
+ and 
+.
+4 Gradient ; intercept 
+, so the line crosses the -axis at
+.
+5
+; 
+.
+6
+, so the score is  percentage points below the
+mean.
+PRACTICE 9.1 · TWO VARIABLES AT ONCE
+1 (a) Explanatory: hours of revision; response: test score. (b)
+Explanatory: age of car; response: resale value. (c)
+Explanatory: daily rainfall; response: umbrella sales.
+2 (a) Negative: pressure falls as altitude rises. (b) Negative in
+most cities: price tends to fall with distance from the
+centre. (c) Positive: more practice is associated with
+faster typing.
+3 The points rise from left to right and lie close to a straight
+line, so the association is positive, linear and strong.
+The point 
+ sits slightly below the trend but is
+not an outlier; there are no clusters or gaps.
+4 “Going up” gives only the direction. A complete
+description also states the form (linear or curved), the
+strength (how closely the points follow the form), any
+outliers or clusters, and the variables and units on the
+axes.
+5 The form changes: growth is roughly linear at first, then
+levels off. A single straight line cannot follow both
+parts, so it will under-predict the early heights or over-
+predict the later ones, and its residuals will show a
+pattern rather than random scatter.
+6 The point is far from the other -values, so it has high
+leverage: the line is pulled towards it. Because it is also
+far vertically from the trend, removing it could change
+the gradient substantially. Being unusual and being
+influential are related but not identical; always check
+both.
+7 Check the unit: 600 minutes is 10 hours per day, which
+may be a weekly total entered in the daily column.
+Check the source with the student or teacher, and
+compare with the rest of the distribution. Only after
+confirming the value should it be treated as genuine; if
+it is genuine, report it and consider analysing the data
+with and without it.
+8 A single line through both clusters would mainly describe
+the difference between weekdays and weekends, not
+the trend within either. It could show a steep slope that
+no individual day follows, and it would hide two
+distinct patterns. Plot the clusters separately or include
+a group variable.
+PRACTICE 9.2 · MEASURING LINEAR ASSOCIATION
+1 Means 
+, 
+. 
+, 
+,
+. 
+.
+2 Means 
+, 
+. Products total 
+, 
+,
+. 
+.
+3 Means 
+, 
+. Products total 
+, 
+,
+. 
+.
+4 A moderately strong negative linear association: students
+who watch more television tend to report fewer
+minutes of moderate exercise. The value does not show
+that television causes inactivity; diet, schedule, health
+and age could influence both.
+5 The formula is symmetric in  and : the product
+ is unchanged when the variables are
+swapped, and so are the two squared sums. The
+correlation measures the same linear pattern
+whichever variable is called explanatory.
+6
+ is not a percentage or a proportion of strength. Squaring
+gives 
+, so the linear model accounts for about
+ of the variation in the response; 
+ is
+unexplained. Strength is also about scatter around a
+line, not a fraction of a maximum.
+7 One valid choice is 
+, far to the right of the original
+points and below the trend. The new mean point is
+; the point’s deviations have a large negative
+product that outweighs the positive products, giving
+. Other points far below the trend also work;
+the key is a large negative contribution to
+.
+8 In the first case the points lie close to a line throughout its
+length; in the second, most points may be scattered
+while one extreme point creates the line. A scatter plot
+reveals the difference: the correlation coefficient alone
+cannot, because both data sets can give 
+.
+PRACTICE 9.3 · THE LINE OF BEST FIT
+1 Gradient 
+; 
+, so 
+ and 
+.
+2
+; 
+.
+3 (a) 
+ is inside  to 
+: interpolation. (b) 
+ is above the
+range: extrapolation. (c)  is below the range:
+extrapolation.
+4 Predictions: 
+, 
+, 
+,
+, 
+. Residuals 
+:
+. Their total is , not , because the line does
+not pass exactly through the mean point 
+; it gives
+ there, a residual of 
+.
+5 If the line passes through the mean point, the positive and
+negative vertical distances balance, so the residuals
+sum to zero. Moving the line away from the mean point
+makes the total positive or negative, which means the
+line is systematically too high or too low. The least-
+squares line also chooses the gradient that minimises
+the sum of squared residuals.
+6 The trend in 1950–2020 may not continue: birth rates,
+migration, ageing and policy can change the rate of
+growth, and a straight line will eventually predict
+implausible values. A prediction for 2200 is far outside
+the observed range, so it is extrapolation with no data
+to check it.
+7 The intercept  is the fixed charge when 
+, likely a
+booking or minimum fare. The gradient 
+ is the cost
+per kilometre. At 
+: 
+, so about
+. At 
+: 
+; this may be valid only if the
+company charges the model’s minimum, since the
+observed data may start at longer journeys.
+8 Calculate or estimate the residuals at several well-spaced
+-values and compare the sums of squared residuals;
+the line with the smaller total fits better overall. The
+lines cross where 
+, so 
+ and
+. If the data lie mostly below 
+, the second line is
+higher; above 
+, the first is higher. The better choice
+depends on where the data actually are, not on algebra
+alone.
+PRACTICE 9.4 · CORRELATION AND CAUSE
+1 (a) Age: older children have larger feet and read better. (b)
+Hot weather: more ice cream is sold and more people
+swim. (c) Size of the fire: it requires more firefighters
+and causes more damage.
+2 An observational study records variables as they occur
+without intervening; a controlled experiment
+deliberately changes the explanatory variable and
+compares outcomes under otherwise similar
+conditions.
+(1, 3) (2, 5) (3, 4) (4, 7)
+0
+8
+​ =
+5
+4 + 6 + 7 + 9 + 14
+​ =
+5
+40
+8
+​ =
+3 −1
+11 −5
+3 5 = 3(1) + c
+c = 2
+y = 3x + 2
+4
+−7
+y
+(0, −7)
+​ ≈
+2.5
+1.58
+​ =
+0.64
+0.80
+62 −70 = −8
+8
+(2.5, 4.6)
+x
+=
+xˉ
+2.5
+​ =
+yˉ
+4.75
+(x −
+∑
+)(y −
+xˉ
+​) =
+yˉ
+9.5
+(x −
+∑
+) =
+xˉ 2
+5
+(y −
+∑
+​) =
+yˉ 2
+18.75 r =
+​ =
+​
+5 × 18.75
+9.5
+​ ≈
+9.682
+9.5
+0.981
+=
+xˉ
+3
+​ =
+yˉ
+13
+17
+(x −
+∑
+) =
+xˉ 2
+10
+(y −
+∑
+​) =
+yˉ 2
+34 r =
+​ ≈
+​
+340
+17
+0.922
+=
+xˉ
+3
+​ =
+yˉ
+16.8
+−18
+(x −
+∑
+) =
+xˉ 2
+10
+(y −
+∑
+​) =
+yˉ 2
+38.8 r =
+​ ≈
+​
+388
+−18
+−0.914
+x
+y
+(x −)(y −
+xˉ
+​)
+yˉ
+r
+r =
+2
+0.25
+25%
+75%
+(10, 2)
+(4, 4.2)
+r ≈−0.199
+(x −
+∑
+)(y −
+xˉ
+​)
+yˉ
+r = 0.85
+​ =
+5 −1
+19 −7
+3 7 = 3(1) + c
+c = 4
+y = 3x + 4
+y = 4(6) + 3 = 27 y = 4(10) + 3 = 43
+12
+5
+25
+30
+4
+3(1) −2 = 1 3(2) −2 = 4 3(3) −2 = 7
+3(4) −2 = 10 3(5) −2 = 13
+y
+​ −
+obs
+y
+​
+pred
+1, −1, 1, −1, 1
+1
+0
+(3, 7.2)
+7
+0.2
+4
+d = 0
+2.1
+d = 12 C = 4 + 2.1(12) = 29.2
+$29.20
+d = 1 C = 6.10
+x
+2x + 5 = 1.8x + 8
+0.2x = 3
+x = 15
+15
+15
+
+
+===== [source page 260] =====
+MYP MATHEMATICS 3
+260
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+3 People who are already healthy or motivated may be more
+likely to download and use a fitness app, so better
+health could lead to app use rather than the reverse.
+4 Plausible confounders include family income, parental
+education and support, sleep, prior attainment and
+school quality. One way to reduce their influence is to
+compare students with similar backgrounds, or to
+randomise access to breakfast; a controlled comparison
+is stronger than an unadjusted group comparison.
+5 Group averages remove the variation within each group,
+so a correlation between averages can be stronger or
+weaker than the correlation between individuals. A
+pattern across countries, for example, need not hold for
+individuals within a country; this is the ecological
+fallacy.
+6 Evidence would include a longitudinal design measuring
+sociability before and after gaming, a comparison
+group with similar baseline sociability, controls for age,
+sleep and family context, a clear measure of sociability,
+and a plausible mechanism. A single correlation cannot
+distinguish gaming causing isolation from isolated
+teenagers choosing gaming.
+7 Use several plants of the same variety and age, assign half
+at random to plant food and half to water only, and keep
+light, soil, pot size, water and temperature the same.
+The response is tomato yield, for example total mass
+harvested over a fixed period. Compare mean yields
+and the variability within each group.
+8 House prices may have risen for other reasons: wider
+market growth, new shops or schools, or buyers
+anticipating the tram and moving in before it opened.
+Areas near the line may also differ from other areas in
+ways that affect price. A stronger comparison would
+use similar areas without a tram and compare price
+changes before and after.
+PRACTICE 9.5 · READING CLAIMS CRITICALLY
+1 (a) 
+ to 
+: 
+ percentage points; relative increase
+. (b) 
+ to 
+: 
+ percentage points; relative
+decrease 
+. (c) 
+ to 
+: 
+ percentage
+points; relative increase 
+.
+2 On an axis from 
+ to 
+, a change from 
+ to 
+ uses  of
+the 
+ units, so the bars differ by about 
+ of the axis
+height. On an axis from  to 
+, the same change is 
+of the height. The truncated axis magnifies the visual
+difference.
+3 “Doubles” hides the tiny absolute risk: it rises by 
+percentage points, from  in 
+ to  in 
+. The
+relative change is large, but the chance of injury
+remains small; both facts should be reported.
+4 An outlier far from the other points in both variables can
+create a strong linear trend that the remaining points
+do not follow. The outlier has high leverage and can
+dominate 
+; removing it may leave little
+or no pattern, so the correlation should be reported
+with and without it.
+5 Minor cases: Clinic A 
+; Clinic B 
+.
+Clinic B treats mostly minor cases, which have a higher
+recovery rate, so its overall rate is pulled up. Clinic A
+has the higher rate in both subgroups, yet the lower
+overall rate: the comparison reverses because the case
+mix differs.
+6 The sample is self-selected from readers of a fitness
+magazine, who are likely to be more interested in
+exercise than adults in general. The 
+ describes that
+readership, not all adults; a larger sample of the same
+readers would not fix the bias. A random sample of
+adults, with a good response rate, is needed.
+7 Students were selected because their scores were low, so
+some of the rise is regression to the mean: extreme
+scores tend to move towards the average on retesting
+even without an intervention. A control group of
+similarly low-scoring students who did not receive the
+programme is needed to separate the programme’s
+effect from this natural variation.
+8 A confounder is overall health or fitness: healthier people
+can walk more and also tend to have lower blood
+pressure. Reverse causation is also plausible: people
+with lower blood pressure may feel able to walk more.
+The association alone does not show that walking
+lowers blood pressure.
+9 Ask: How many staff were in the programme, and how
+many in a comparison group? What was the previous
+average, so that the 
+ can be interpreted? Over what
+period was it measured, and were other changes
+introduced at the same time? Also ask whether 
+ is
+relative or percentage points, and whether staff chose to
+take part.
+10 Each axis can be scaled independently, so two series with
+different units can be made to rise and fall together
+visually; the apparent match is partly an artefact of the
+chosen scales. Plot both series as standardised values or
+index both to the same starting value, or use a scatter
+plot of the two variables with a correlation. State the
+scales explicitly.
+11 The large trial is more trustworthy: a sample of 
+ has
+much less random variation than one of 
+, and small
+trials are more likely to produce extreme results by
+chance. A larger measured effect is not automatically
+more important: a 
+ relative improvement in a tiny
+trial may be imprecise, and the absolute benefit and the
+outcome being measured also matter.
+12 Example: “Ice cream sales cause more swimming
+accidents.” A accurate rewrite is: “Ice-cream sales and
+swimming accidents rise together in hot weather;
+supervision and water safety matter.” The rewrite
+replaces “cause” with “rise together”, names the
+common cause (hot weather), and avoids implying that
+buying ice cream is dangerous.
+INVESTIGATION 9 · ARM SPAN AND HEIGHT
+Model results for the sample table. Individual measurements will differ; the reasoning and method are the assessable
+points.
+2 Plot arm span on the horizontal axis and height on the
+vertical axis, both in centimetres, with a scale that uses
+most of the grid. The points rise from left to right,
+follow a straight line closely and show no obvious
+outliers, so the association is positive, linear and very
+strong.
+3 Mean arm span 
+ cm; mean height 
+ cm.
+The mean point 
+ lies near the centre of the
+pattern. For the sample, 
+: an extremely strong
+positive linear association.
+4 A line through the mean point with gradient about 
+ has
+equation 
+. The gradient means that each
+extra centimetre of arm span is associated with about
+ cm more height; the intercept is the model’s
+prediction at arm span , which has no physical
+meaning.
+5 At 
+: 
+ cm. This is
+interpolation, since 
+ lies within 
+ to 
+. At 
+:
+ cm; at 
+: 
+ cm. Both are
+extrapolation and unreliable: a 
+ cm arm span is far
+below the sample, and a 
+ cm span far above it.
+30%
+36% +6
+​ =
+30
+6
+20%
+80%
+72% −8
+​ =
+80
+8
+10%
+2.0%
+2.5% +0.5
+​ =
+2.0
+0.5
+25%
+90
+100
+92
+95
+3
+10
+30%
+0
+100
+3%
+0.2
+2
+1,000
+4
+1,000
+(x −
+∑
+)(y −
+xˉ
+​)
+yˉ
+​ ≈
+350
+87
+24.9%
+​ ≈
+350
+270
+77.1%
+90%
+12%
+12%
+4,000
+40
+30%
+≈
+xˉ
+171.7
+​ =
+yˉ
+173.0
+(171.7, 173.0)
+r ≈0.998
+0.97
+y ≈0.97x + 6.4
+0.97
+0
+x = 170 y ≈0.970(170) + 6.43 ≈171.4
+170
+152
+190
+x = 120
+y ≈122.9
+x = 210 y ≈210.2
+120
+210
+
+
+===== [source page 261] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+261
+6 Predictions for another pair’s students should be
+compared with measured heights; small residuals of
+varying sign suggest the model generalises. A run of
+large residuals in one direction suggests the other
+sample differs systematically, perhaps in age or
+measurement technique.
+7 If arm span equals height on average, the gradient should
+be about : a  cm increase in arm span corresponds to a
+ cm increase in height. The fitted value 
+ is close to 
+and supports the conjecture approximately. Individual
+variation, posture, shoes and measurement error
+prevent an exact match, and the intercept absorbs the
+average offset.
+8 Limitations include the narrow age range, the small
+sample of 
+, posture and footwear, timing of
+measurement, and who volunteered. A larger random
+sample across ages, with a standardised measurement
+protocol, would be more reliable. The data cannot
+support a claim that arm span causes height, nor that
+one measurement determines the other.
+Marking guide. Criterion B: a clear plan for measurement and plotting, correct use of  and a line of best fit, and an
+evaluation that distinguishes interpolation from extrapolation. Criterion C: axes labelled with units, the model stated
+with its equation, predictions reported with units, and limitations described precisely rather than as a generic list.
+APPLICATION · THE SCREEN-TIME CLAIM
+1 The gradient 
+ means that, in this sample, each
+additional hour of screen time is associated with 
+fewer hours of sleep on average. It does not show that
+an extra hour causes 
+ hours less sleep: the study is
+observational, and other differences between students
+could explain part or all of the association.
+2 The intercept 
+ is the model’s predicted sleep for a
+student with zero screen time: 
+ hours. No student in
+the sample has zero screen time; the observed range
+starts at 
+ hours, so 
+ is outside the data. The value
+is an extrapolation and should not be interpreted as a
+real “no-screen” sleep duration.
+3 At 
+: 
+ hours. At 
+:
+ hours. Both  and  lie within the
+observed range 
+ to 
+, so both are interpolation.
+4 Predicted sleep at 
+ is 
+ hours.
+Residual 
+ hours, so the point lies 
+hours below the line. The outlier may strengthen the
+apparent negative correlation and pull the line towards
+itself; its influence should be checked by refitting
+without it.
+5
+, so about 
+ of the variation in sleep
+is associated with the linear model; about 
+ is
+unexplained. This is a statement about fit, not cause:
+sleep, screen time and other variables such as
+homework, health and age may all influence one
+another.
+6 Volunteers may be more health-conscious or have more
+extreme sleep habits than non-volunteers, and self-
+report can under- or over-estimate both screen time
+and sleep. A better method is a random sample from the
+school roll, with anonymous diaries or device logs and
+follow-up of non-responders.
+7 Plausible confounders include caffeine or energy-drink
+use, stress and homework load, age and chronotype,
+and physical or mental health. For example, heavy
+homework may delay bedtime and increase screen use,
+producing both less sleep and more screen time
+without either causing the other.
+8 Sample headline: “Survey of 40 students links more screen
+time with less sleep.” Changes: “links” replaces “steals”,
+which asserts causation; the sample size and the word
+“survey” are stated; the claim is limited to the students
+studied. An editorial note can add that the correlation is
+moderate and that other factors may explain part of it.
+9 A randomised follow-up could assign students to a screen
+curfew or their usual routine, then compare sleep
+measured by a device over several weeks. Explanatory
+variable: curfew condition; response: sleep duration;
+comparison: curfew versus usual routine; keep
+constant: bedtime, caffeine rules, homework load and
+measurement method. Random allocation and a control
+group make the comparison stronger than the original
+survey.
+CRITERION TASK · THE BREAKFAST CLAIM
+Sample response. Marks depend on the quality of the reasoning, not on matching this wording.
+1 Explanatory: breakfast frequency (days per week).
+Response: test score. The study is observational:
+students were asked about their usual breakfast and
+their scores were supplied; nothing was changed by the
+researchers.
+2
+ is a weak-to-moderate positive linear association:
+students who eat breakfast more often tend to score
+somewhat higher, but the points are widely scattered.
+The group difference is 
+ points, which is
+ of the overall mean of 
+. This is a
+noticeable difference but not a precise individual effect.
+3
+ gives 
+, so the linear model accounts for
+only about 
+ of the variation in scores; other factors
+explain the rest. The “12 points higher” compares the
+averages of two groups, not the effect of changing one
+student’s breakfast. Group differences can arise from
+confounding and selection, so the headline’s causal
+reading is not supported.
+4 Three plausible confounders: family income (affects food
+security, resources and school support); parental
+education and support (affects routines and help with
+schoolwork); sleep and prior attainment (affect both
+morning appetite and test performance). School quality
+or attendance could also influence both. Each could
+raise breakfast consumption and scores without
+breakfast causing the score.
+5 Selection affects who eats breakfast: students with
+crowded mornings, long journeys, food insecurity or
+low appetite may skip it, and these circumstances also
+affect learning. A breakfast club may attract students
+who are already well supported. One way to reduce
+selection bias is to randomise the offer of breakfast
+provision and compare all eligible students, including
+those who decline.
+6 A stronger study would randomly allocate breakfast
+provision to some classes or schools and not others,
+then compare changes in test scores over a fixed period.
+Keep the test, teaching, attendance and socio-economic
+mix as similar as possible, monitor whether students
+actually eat, and use a control group with usual
+provision. The comparison should be between score
+changes, not just final averages.
+7 Newsletter summary: “A survey of 600 students in 12
+schools found that those who usually ate breakfast
+scored about 12 points higher on average than those
+who did not (64 overall), but the link is modest
+(correlation 0.31). The study cannot show that breakfast
+raises attainment: family income, sleep and prior
+support may also matter. Offering breakfast may still be
+worthwhile for reasons of equity and nutrition. We
+recommend a small trial that randomly offers breakfast
+and compares progress before making a whole-school
+claim.”
+Marking guide. Criterion C: correct identification of variables and design, accurate use of , 
+ and the group difference,
+and clear, cautious communication. Criterion D: confounders explained rather than listed, selection and non-response
+1
+1
+1
+0.97
+1
+12
+r
+−0.42
+0.42
+0.42
+9.1
+9.1
+0.5
+t = 0
+t = 2 s = 9.1 −0.42(2) = 8.26
+t = 5
+s = 9.1 −0.42(5) = 7.0
+2
+5
+0.5
+5.5
+t = 5.5
+9.1 −0.42(5.5) = 6.79
+= 5.0 −6.79 = −1.79
+1.79
+r =
+2
+(−0.62) =
+2
+0.3844
+38%
+62%
+r = 0.31
+68 −56 = 12
+​ =
+64
+12
+18.75%
+64
+r = 0.31
+r ≈
+2
+0.096
+10%
+r r2
+
+
+===== [source page 262] =====
+MYP MATHEMATICS 3
+262
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+discussed, a workable randomised design, and a recommendation that matches the strength of the evidence. Band 4
+requires three specific confounders with mechanisms and a design with allocation, comparison, response variable and
+controls.
+MIXED PRACTICE 9
+1 Means 
+, 
+. 
+, 
+,
+. 
+.
+2 Gradient 
+; 
+, so 
+ and 
+.
+At 
+, 
+.
+3 Predicted 
+; observed 
+; residual
+, so the point lies  unit above the line.
+4
+ percentage points; relative increase 
+.
+5
+ is not a percentage: 
+, so the linear model
+accounts for about 
+ of the variation, not 
+. The
+remaining 
+ is unexplained, and a strong correlation
+still does not establish causation.
+6 “
+” is ambiguous: it may mean  percentage points (for
+example 
+ to 
+) or a 
+ relative increase (for
+example 
+ to 
+). The two differ substantially. A
+pass rate rise from 
+ to 
+ is  percentage points and
+a 
+ relative increase; the report should say which.
+7 A randomised experiment with books is difficult because
+families cannot be assigned a reading culture, and
+giving books only to some children may be impractical
+or ethically fraught. Observational evidence can still be
+strengthened by longitudinal measurement (scores
+before and after books arrive), controlling for income
+and parental education, looking for a dose–response
+pattern, and identifying a plausible mechanism such as
+shared reading time.
+8 A line fitted to a candle’s height over time may predict a
+negative height after enough hours, which is
+impossible. Similarly, a linear model of a child’s height
+against age could predict unrealistic adult heights. The
+model is only supported within the observed range;
+outside it, the mechanism may change or the line may
+cross a natural boundary.
+9
+: strong negative linear association between age
+and price. The gradient 
+ means each extra year is
+associated with about 
+ lower price; the intercept
+ is the model’s price for a new car, about 
+. At 
+years: 
+, about 
+. A classic car
+may rise in value with age, so the linear model fails
+outside the ordinary used-car market; it is also
+extrapolation if the data do not include classics.
+10 The larger study is more trustworthy because a sample of
+ has much less random variation than one of 
+. The
+first study’s 
+ may be an unusually strong result from
+a small or selected sample; the second suggests the true
+association is weak. Neither proves causation, and the
+difference between the studies should be investigated
+(age range, measure, setting).
+11 Absolute reduction: 
+ percentage points.
+Relative reduction: 
+. Poster sentence: “The
+disease rate fell from 8 in 1,000 to 5 in 1,000 — a fall of 3
+cases per 1,000 people.” This reports the natural
+frequencies and avoids implying a 
+ drop in
+individual risk.
+12 Observational comparison: compare students who chose
+to use the app with those who did not, recording scores
+before and after. Randomised experiment: allocate app
+access at random, compare score gains, and keep
+teaching and testing the same. The randomised
+experiment gives stronger evidence for causation
+because it balances unmeasured confounders such as
+motivation and prior attainment.
+13 The correlation is between country averages, not
+individuals. A country with higher average income may
+also have better health systems, education, nutrition
+and safety, which affect life expectancy. Raising one
+person’s income by a fixed amount need not add a fixed
+number of years; the relationship may be nonlinear and
+the individual circumstances differ. This is the
+ecological fallacy.
+14 Plot the data and look for a point far from the main
+cluster; calculate  with and without it and compare. If
+the correlation collapses, report that it depends on one
+influential point. Investigate whether the point is a
+recording error or a genuine case; do not silently
+remove it. Report both analyses and describe the point
+and its effect.
+Common errors. A correlation is not a percentage; square it before interpreting explained variation. A line of best fit is a
+summary inside the observed range, not a law. “Correlation does not imply causation” needs a named alternative
+explanation. Percentage points and relative percentages are different quantities. Group averages can reverse or
+exaggerate individual patterns, and one influential point can create an entire correlation.
+Chapter 10 · Probability, sampling and evidence
+PREREQUISITE CHECK
+1
+.
+2
+.
+3
+.
+4
+.
+5
+ and 
+, so 
+, then 
+, then 
+.
+Order: 
+.
+6 Mean 
+.
+GUIDED PRACTICE · USE THE DICE TABLE
+(a) Sum : 
+, so 
+.
+(b) Sum 
+: only 
+, so 
+.
+(c) Sum not : 
+.
+(d) At least one : the complement is “no ”, with 
+outcomes, so 
+.
+=
+xˉ
+6
+​ =
+yˉ
+10.4
+(x −
+∑
+)(y −
+xˉ
+​) =
+yˉ
+52
+(x −
+∑
+) =
+xˉ 2
+40
+(y −
+∑
+​) =
+yˉ 2
+69.2 r =
+​ =
+​
+40 × 69.2
+52
+​ ≈
+52.61
+52
+0.988
+​ =
+7 −3
+23 −11
+3 11 = 3(3) + c
+c = 2
+y = 3x + 2
+x = 9 y = 29
+y = 2.5(4) + 6 = 16
+17
+= 17 −16 = +1
+1
+30 −24 = 6
+​ =
+24
+6
+25%
+r
+r =
+2
+0.7744
+77%
+88%
+23%
+5%
+5
+40%
+45%
+5%
+40%
+42%
+40%
+45%
+5
+12.5%
+r = −0.84
+−2.1
+$2,100
+18
+$18,000
+5
+y = 18 −2.1(5) = 7.5
+$7,500
+500
+50
+0.45
+0.8 −0.5 = 0.3
+​ =
+0.8
+0.3
+37.5%
+37.5%
+r
+​ =
+8
+3
+0.375 = 37.5%
+P(red) =
+​ =
+10
+6
+​5
+3
+0.07 =
+​ =
+100
+7
+7%
+0.15 × 240 = 36
+0.6 =
+​5
+3
+0.65 =
+​
+20
+13
+0.6 = 0.60
+0.65
+​ ≈
+3
+2
+0.667
+0.6 =
+​ <
+5
+3
+0.65 < 3
+2
+=
+​ =
+5
+12 + 18 + 15 + 20 + 15
+​ =
+5
+80
+16
+5 (1, 4), (2, 3), (3, 2), (4, 1)
+​ =
+36
+4
+​9
+1
+12
+(6, 6)
+​
+36
+1
+7 1 −P(sum 7) = 1 −
+​ =
+36
+6
+​6
+5
+3
+3
+5 × 5 = 25
+1 −
+​ =
+36
+25
+​
+36
+11
+
+
+===== [source page 263] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+263
+PRACTICE 10.1 · SAMPLE SPACES AND PROBABILITY
+1 Sample space 
+; 
+.
+2 Primes 
+: 
+. Multiples of : 
+, so
+. Not : 
+.
+3 Total 
+. 
+; 
+;
+.
+4 Sum : 
+, so 
+. Sum at most :
+sums 
+ have 
+ outcomes, so 
+. Both odd:
+ outcomes, so 
+.
+5 A forecast probability describes the chance that rain
+occurs at some point in the forecast area and period,
+based on a model. It is not a statement that it will rain
+for 
+ of the day; the rain could fall in a short burst or
+not at all.
+6 “Win or lose” are not necessarily equally likely. A stronger
+player or a biased game makes one outcome more
+probable; a football team that wins most matches has a
+win probability well above . Equally likely outcomes
+must be justified by the setup, not by counting two
+descriptions.
+7
+, so 
+ and 
+. There are 
+blue counters.
+8 Red: 
+ sectors. Blue: 
+ sectors. Green:
+ sectors. Check: 
+.
+9 Examples: 
+, because each of the 
+even face values on the first die can pair with  even
+and  odd values to make an even sum, or by counting
+the table. 
+: sums
+ occur 
+ times.
+PRACTICE 10.2 · COMPOUND EVENTS
+1 Sample space 
+. 
+;
+.
+2
+. 
+.
+3 Mutually exclusive, so 
+.
+.
+4
+. Since
+, the events are
+independent.
+5 Total 
+. 
+; 
+;
+; 
+;
+.
+6
+.
+.
+7 Multiplication applies to independent events because the
+first outcome does not change the second probability:
+for a die and a coin, 
+. Without
+replacement the bag changes: from  red and  blue,
+, not 
+.
+8 Tree: first draw red , white ; second draw denominators
+.
+.
+.
+9 Winning sums  and 
+: 
+ outcomes, so 
+.
+Expected wins in 
+ games: 
+.
+10
+.
+But 
+, so the events are
+not independent. They overlap less than independence
+would predict.
+PRACTICE 10.3 · EXPERIMENTAL PROBABILITY
+1 Relative frequency 
+. The theoretical probability
+is 
+; the result is 
+ below, which is plausible
+variation for 
+ tosses.
+2 Relative frequency 
+. Expected number
+, so 
+ is 
+ above expectation,
+consistent with ordinary variation.
+3 Modelled probability 
+. Successes in the list:
+, which is  of 
+, so the estimate is 
+.
+It is above 
+, but 
+ trials are too few to conclude that
+the model is wrong.
+4 With 
+ rolls, each face is expected only about 
+ times.
+Random variation is large: even a fair die can show
+several repeats or a missing face. Many more rolls are
+needed before a persistent departure from  would be
+evidence of bias.
+5
+. The coin has no memory, and the tosses are
+independent; the previous run does not change the next
+toss. The law of large numbers describes the long-run
+proportion, not a debt that must be repaid.
+6 Use digits – for a boy and – for a girl (or a coin). Read
+three digits per family to represent the three children;
+repeat for many families, for example 
+. Count the
+families with all three the same sex (BBB or GGG) and
+divide by the number of simulated families. The
+theoretical value is 
+.
+7 Twenty plays are too few: a 
+ win rate could easily arise
+by chance, and the website may report only successful
+periods or define “win” loosely. A better test uses a
+large, pre-specified number of plays, records every
+outcome, checks that plays are independent, and
+reports a range of uncertainty.
+8 Two samples of 
+ can easily give 
+ and 
+ from the
+same true probability; the values do not prove that the
+truth lies between them. Combining the trials gives
+, a better estimate, though still
+subject to sampling variation. A range or interval, not a
+claim of proof, is appropriate.
+PRACTICE 10.4 · SAMPLING AND BIAS
+1 Population: all 
+ students. Sample: the 
+ students
+surveyed. Sample size: 
+.
+2 Advantage: a census avoids sampling error because every
+member is measured, and it can describe small
+subgroups exactly. Disadvantage: it is costly and slow,
+and non-response or measurement error can still bias
+the result.
+3 Number the students  to 
+. Use a random-number
+generator to produce numbers between  and 
+,
+ignoring repeats, until 
+ different students are
+selected. Every student then has the same chance of
+inclusion.
+4 Respondents choose themselves, so people with strong
+views, easy internet access or an interest in the news
+site are over-represented; some may vote more than
+once, and the readership may not resemble the
+population. Tens of thousands of responses reduce
+random variation but do not remove this systematic
+bias.
+5 Year 7: 
+. Year 8: 
+. Year 9:
+. Check: 
+.
+{H, T} P(head) =
+​2
+1
+2, 3, 5, 7 P =
+​ =
+8
+4
+​2
+1
+4 4, 8
+P =
+​ =
+8
+2
+​4
+1
+3 P =
+​8
+7
+4 + 6 + 2 = 12 P(red) =
+​ =
+12
+4
+​3
+1 P(not black) =
+=
+12
+10
+​6
+5
+P(red or yellow) =
+​ =
+12
+10
+​6
+5
+9 (3, 6), (4, 5), (5, 4), (6, 3)
+​ =
+36
+4
+​9
+1
+3
+2, 3
+1 + 2 = 3
+​ =
+36
+3
+​
+12
+1
+3 × 3 = 9
+​ =
+36
+9
+​4
+1
+30%
+​2
+1
+P(red) =
+​ =
+3 + B
+3
+​4
+1
+12 = 3 + B
+B = 9
+9
+​ ×
+3
+1
+12 = 4
+​ ×
+4
+1
+12 = 3
+12 −4 −3 = 5
+​ +
+12
+4
+​ +
+12
+3
+​ =
+12
+5
+1
+P(even sum) =
+​ =
+36
+18
+​2
+1
+6
+3
+3
+P(sum is a multiple of 3) =
+=
+36
+12
+​3
+1
+3, 6, 9, 12
+2 + 5 + 4 + 1 = 12
+{HH, HT, TH, TT} P(two heads) =
+​4
+1
+P(exactly one head) =
+​ =
+4
+2
+​2
+1
+P(odd and tail) =
+​ ×
+2
+1
+​ =
+2
+1
+​4
+1 P(odd or tail) =
+​ +
+2
+1
+​ −
+2
+1
+​ =
+4
+1
+​4
+3
+P(A ∪B) = 0.5 + 0.3 = 0.8
+P(neither) = 1 −0.8 = 0.2
+P(A ∪B) = 0.4 + 0.5 −0.2 = 0.7
+P(A) × P(B) = 0.4 × 0.5 = 0.2 = P(A ∩B)
+80 P(F) =
+​ =
+80
+30
+​8
+3 P(B) =
+​ =
+80
+25
+​
+16
+5
+P(F ∩B) =
+​ =
+80
+10
+​8
+1 P(F ∪B) =
+​ =
+80
+30 + 25 −10
+​ =
+80
+45
+​
+16
+9
+P(neither) =
+​ =
+80
+35
+​
+16
+7
+P(GG) =
+​ ×
+9
+4
+​ =
+8
+3
+​ =
+72
+12
+​6
+1
+P(at least one red) = 1 −P(GG) = 1 −
+​ =
+6
+1
+​6
+5
+P(6 and H) =
+​ ×
+6
+1
+​ =
+2
+1
+​
+12
+1
+4
+3
+P(red then red) =
+​ ×
+7
+4
+​ =
+6
+3
+​7
+2
+​
+(7
+4)
+2
+​5
+3
+​5
+2
+4
+P(same) = P(RR) + P(WW) =
+​ ×
+5
+3
+​ +
+4
+2
+​ ×
+5
+2
+​ =
+4
+1
+​ +
+20
+6
+​ =
+20
+2
+​ =
+20
+8
+​5
+2
+P(different) = 1 −
+​ =
+5
+2
+​5
+3
+7
+11 6 + 2 = 8
+P =
+​ =
+36
+8
+​9
+2
+180
+180 ×
+​ =
+9
+2
+40
+P(A ∩B) = P(A) + P(B) −P(A ∪B) = 0.6 + 0.5 −0.9 = 0.2
+P(A) × P(B) = 0.6 × 0.5 = 0.3 =0.2
+=
+​ =
+80
+36
+0.45
+0.5
+0.05
+80
+=
+​ =
+250
+60
+0.24
+= 250 × 0.2 = 50
+60
+10
+=
+​ =
+10
+4
+0.4
+1, 0, 2, 3, 3, 0, 2, 1, 3
+9
+15
+0.6
+0.4
+15
+10
+1.67
+​6
+1
+P(head) = 2
+1
+0 4
+5 9
+200
+​ =
+8
+2
+​4
+1
+70%
+20
+0.30
+0.45
+​ =
+40
+6 + 9
+​ =
+40
+15
+0.375
+800
+50
+50
+1
+200
+1
+200
+10
+​ ×
+600
+240
+90 = 36
+​ ×
+600
+200
+90 = 30
+​ ×
+600
+160
+90 = 24
+36 + 30 + 24 = 90
+
+
+===== [source page 264] =====
+MYP MATHEMATICS 3
+264
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+6 The sample of 
+ is likely to be more accurate: a larger
+random sample has less sampling variation, so its
+estimate tends to be closer to the population value. Both
+could still be biased if the sampling frame is
+incomplete, but random selection removes the main
+source of systematic error.
+7 The item is leading and undefined: “love” sets a positive
+tone, and “a lot / a little” gives no neutral option or
+frequency. A better item asks about behaviour with
+balanced options: “How often do you take part in sport
+or physical activity in a typical week? Never / 1–2 times /
+3–4 times / 5 or more times.” A separate enjoyment item
+could use a balanced scale from “not at all” to “very
+much”.
+8 Population: all students at the school. Sampling frame: the
+school roll, numbered. Method: a stratified random
+sample by year group, proportional to size, with 
+students selected. Bias to monitor: non-response and
+absentees, especially if students with long journeys are
+more likely to be absent; follow up non-responders and
+compare the achieved sample with the roll.
+PRACTICE 10.5 · RISK AND EVIDENCE
+1
+.
+2
+ in 
+;  in 
+. Absolute increase 
+percentage points. Relative increase 
+.
+3
+ expected cases.
+4 The absolute increase is  case per 
+, or 
+percentage points, which is tiny. A fair report says: “The
+risk doubled in relative terms, from 1 in 100,000 to 2 in
+100,000 — one extra case per 100,000 people.”
+5 Of 
+ with the condition, 
+ detected: 
+ true positives
+and  false negatives. Of the 
+ without it, 
+ false
+positives: 
+ false positives and 
+ true negatives.
+Positives total 
+, so
+, about 
+.
+6
+ specific means 
+ of healthy people test positive:
+ false positives. When the condition is
+rare, these false positives can outnumber the true cases,
+so a positive result is not a diagnosis.
+7 Benefits: early detection and treatment, reassurance for
+those who test negative, and information for planning
+support. Harms: anxiety and stigma from false
+positives, unnecessary treatment and cost, false
+reassurance from false negatives, and privacy risks.
+Needed data: prevalence, sensitivity and specificity, the
+effectiveness and harms of treatment, the cost of
+confirmatory testing, and how many people would be
+affected by each type of error.
+8 Poster: “A doubled risk — from 1 in 10,000 to 2 in 10,000. In
+a group of 10,000 people, this means one additional
+case. The relative risk has doubled, but the absolute
+risk remains small; the change may still matter for
+those affected.” The statement gives both the natural
+frequencies and the relative comparison, and says why
+the change matters without exaggeration.
+9 The fall is 
+ injuries per 
+, and 
+, so “fell
+by 
+” is correct relative to the starting risk. In
+percentage points, the risk falls from 
+ to 
+, a
+decrease of 
+ percentage points. A fairer headline:
+“Injury risk fell from 8 to 6 per 1,000 players — two
+fewer injuries per 1,000.”
+10 Clinic A: 
+ people have the condition, so 
+true positives and  false negatives; of the 
+ healthy
+people, 
+ is 
+, about 
+ false positives. Then
+, about 
+.
+Clinic B: 
+ have the condition, so 
+ true
+positives; of 
+ healthy people, 
+ is 
+, about 
+ false
+positives; 
+, or 
+. The test is identical; a
+higher prevalence means the people tested are more
+likely to have the condition, so a positive result is more
+informative. Clinic B tests fewer people but a higher-
+risk group.
+11 Two acceptable explanations: (i) lead-time bias —
+screening finds the disease earlier without delaying
+death, so the five-year clock starts sooner and
+“survival” rises although lives are not extended; (ii)
+overdiagnosis — some detected cases would never have
+caused symptoms or death, so they inflate the survival
+figure. Other answers: the statistic says nothing about
+quality of life or about people who die within five years;
+“survival” is not “cure”; and without a comparison
+group the figure cannot show that treatment caused the
+outcome.
+12 In 
+ people, 
+ is 
+ with the condition: 
+ true
+positives and 
+ false negatives. Of the 
+ healthy
+people, 
+ is 
+ false positives, leaving 
+ true
+negatives. Positives total 
+, so
+, about 
+. Patient
+wording: “Of every 100 people with a positive result,
+about 15 have the condition and about 85 do not. A
+positive result is therefore a reason for a confirmatory
+test, not a diagnosis.” Harm of omitting the base rate:
+patients may assume a positive result almost certainly
+means disease, causing unnecessary anxiety or
+treatment, or may distrust a test once they discover the
+true figure.
+INVESTIGATION 10 · HOW REPRESENTATIVE IS A SAMPLE?
+Model results for the pilot sample. Students’ own samples will differ; the method and interpretation are the assessable
+points.
+1 Population: all 
+ students. Variable: minutes of
+homework on a typical school night. A census is
+impractical because it would require contacting every
+student and would take too long; “typical” must be
+defined, for example “the most recent night that was
+not before a test or holiday”, so that answers are
+comparable.
+2 Number the 
+ students on the roll. Use a random-
+number generator to produce numbers from  to 
+,
+ignoring repeats, until 
+ different students are chosen.
+This gives every student the same chance and avoids
+choosing only volunteers.
+3 A neutral question: “On your most recent typical school
+night, how many minutes did you spend on homework?
+0–30 / 31–60 / 61–90 / more than 90.” Avoid “Don’t you
+think homework takes too long?”; pilot the wording and
+revise any option that suggests a preferred answer.
+4 Record refusals and absentees, not just responses.
+Compare the achieved sample with the school by year
+group; if Year 9 is under-represented, report it and
+consider following up or weighting. A high response
+rate matters as much as a large nominal sample.
+5 Pilot mean 
+ minutes. Sorted data:
+; median
+ minutes. More than 
+ minutes: 
+ and
+, so 
+. A student’s own sample will give its
+own values.
+6 Two random samples can differ because each selects
+different students and homework times vary. Neither is
+“wrong”; each is an estimate with sampling variation. A
+larger sample or repeated samples would give a more
+stable picture, and the spread between samples
+indicates the uncertainty.
+80
+100
+​ =
+1000
+3
+0.003 = 0.3%
+4
+1,000 = 0.4% 6
+1,000 = 0.6%
+= 0.2
+=
+​ =
+0.4
+0.2
+50%
+0.03 × 5000 = 150
+1
+100,000
+0.001
+20
+90%
+18
+2
+980
+5%
+49
+931
+18 + 49 = 67
+P(condition ∣positive) =
+​ ≈
+67
+18
+0.269
+26.9%
+99%
+1%
+0.01 × 10,000 = 100
+8 −6 = 2
+1,000
+​ =
+8
+2
+0.25
+25%
+0.8%
+0.6%
+0.2
+2,000 × 0.02 = 40
+38
+2
+1,960
+4%
+78.4
+78
+P(condition ∣positive) =
+​ ≈
+38 + 78
+38
+0.328
+32.8%
+500 × 0.12 = 60
+57
+440
+4%
+17.6
+18
+P =
+​ =
+75
+57
+0.76
+76%
+10,000
+1%
+100
+90
+10
+9,900
+5%
+495
+9,405
+90 + 495 = 585
+P(condition ∣positive) =
+​ ≈
+585
+90
+0.154
+15.4%
+900
+900
+1
+900
+30
+=
+​ =
+12
+600
+50
+20, 30, 35, 40, 45, 45, 50, 55, 60, 60, 75, 85
+=
+​ =
+2
+45 + 50
+47.5
+60
+75
+85
+​ ≈
+12
+2
+16.7%
+
+
+===== [source page 265] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+265
+7 Sources of bias: non-response (students who are busy or
+disengaged may not reply); self-report (students may
+round or misremember); ambiguous wording
+(“typical”); absentees. Remedies: follow up non-
+responders, use a diary or app, pilot and clarify the
+question, and include absent students on another day.
+8 Report: “We surveyed a random sample of 
+ students
+from the school roll about homework on a typical
+school night. The mean was about 
+ minutes and the
+median 
+ minutes in our pilot; our own sample gave
+a similar estimate. The estimate is not exact: non-
+response and self-report may bias it, and another
+sample would differ. We recommend using the figure as
+a guide, not a precise count, and repeating the survey
+each term.” State clearly that the data cannot tell us why
+homework takes that long or what would happen if it
+changed.
+Marking guide. Criteria B and C: a complete design with population, frame, random method and sample size; correct
+calculation of mean, median and proportion; comparison of samples with an explanation of sampling variation; three
+specific sources of bias with remedies; a report that states the estimate, method, limitations and a modest
+recommendation.
+APPLICATION · THE SCREENING TEST
+1 Two-way table: has condition — positive 
+, negative ,
+total 
+; no condition — positive 
+, negative 
+, total
+; column totals 
+ and 
+; grand total 
+.
+2
+.
+3
+, about 
+. A positive
+result means there is roughly a one-in-three chance that
+the person actually has the condition; most positives
+are false positives.
+4 The test detects 
+ of true cases (sensitivity) and
+correctly clears 
+ of healthy people (specificity), but “
+ accurate” does not say which. Because only 
+ in
+ have the condition, the 
+ false positives
+outnumber the 
+ true positives. A positive result
+therefore needs confirmation, and the leaflet should
+report sensitivity, specificity and the positive
+predictive value.
+5 With 
+ prevalence, 
+ of 
+ have the condition: 
+true positives and 
+ false negatives. Of the 
+ healthy,
+ false positives and 
+ true negatives. Positives total
+, so 
+, or 
+. The test
+is unchanged; the higher prevalence means a positive
+result is more likely to be genuine.
+6 Clinic attendees are more likely to have symptoms or a
+referral, so prevalence is higher than in the general
+population; the positive predictive value estimated here
+would not apply to everyone. Attendees may also differ
+in age, health and risk factors, which affects sensitivity
+and specificity. Screening the general population would
+produce more false positives and a lower predictive
+value.
+7 A false positive can cause anxiety, stigma, unnecessary
+treatment, cost and time off work; a false negative can
+delay treatment, give false reassurance and, if the
+condition is infectious, allow onward transmission.
+Screening everyone is justified only if the condition is
+serious, treatment is effective and the harms of false
+positives are manageable; otherwise test people with
+symptoms or high risk, and confirm every positive with
+a second test.
+8 Patient explanation: “This test is good at finding the
+condition: it detects about 9 in 10 true cases. But it also
+gives a positive result for about 1 in 10 people who do
+not have it. In 1,000 people like those tested here, about
+45 with the condition and 95 without it would test
+positive — so of every 140 positives, only about 45 are
+true. A positive result means you need a second test; it
+does not mean you have the condition. A negative result
+is reassuring but not a guarantee.”
+CRITERION TASK · THE TRAVEL SURVEY
+Sample response. Marks depend on the quality of the design and communication, not on matching this wording.
+1 Population: all 
+ students. Sample: the 
+ students
+surveyed at the gate. Variable: usual mode of travel to
+school. Claim: that 
+ of students travel actively, so
+more bike racks than car spaces are needed.
+2 The gate sample misses students who arrive by bus or car
+through another entrance, students who arrive later,
+absentees and those who use a different gate. Walkers
+and cyclists may be more visible or more likely to use
+that gate, so 
+ over-represents active travel. The
+weather and the particular morning also affect who
+walks.
+3 Use the school roll as the sampling frame, number all 
+students and select with a random-number generator. A
+stratified sample of 
+ in proportion to year size: Year 7
+; Year 8 
+; Year 9 
+.
+Check: 
+.
+4 Categorical item: “How do you usually travel to school?
+Walk / Cycle / Bus / Car / Other (please state).”
+Numerical item: “How long does your journey to school
+usually take? ______ minutes (one way).” Both avoid
+leading wording, offer balanced options and define
+“usually”.
+5 Non-response: students who are absent or busy may differ
+from responders, so the achieved sample may be
+biased; remedy by following up, offering several ways
+to respond and reporting the response rate. Self-report:
+students may misremember or give socially desirable
+answers; remedy with a travel diary, a parent check or
+objective counts at each entrance.
+6
+, so the estimate is 
+ active travellers.
+The gate survey’s 
+ would suggest 
+, a difference of
+ students. The random sample is more trustworthy
+because it covers all year groups and entrances and
+does not depend on who was at the gate. Neither is
+exact: sampling variation, non-response and definition
+of “active” remain.
+7 Report: “We surveyed a stratified random sample of 90
+students from the school roll. About 60% (54 of 90)
+usually travel actively, which suggests roughly 540 of
+900 students. This is an estimate, not a count: non-
+response and self-report may affect it, and another
+sample would give a slightly different figure. The
+earlier gate survey’s 75% probably over-represented
+walkers and cyclists. We recommend adding bike racks
+in stages and repeating the survey after installation,
+rather than treating 540 as exact.”
+Marking guide. Criteria B and C: precise identification of population, sample and claim; two specific biases tied to missed
+groups; a genuine random method and correct stratified numbers 
+; neutral questionnaire items; non-response
+and self-report explained with workable remedies; correct estimate 
+ and a justified comparison with 
+; a report that
+states the method, limitations and a modest recommendation.
+30
+50
+47.5
+45
+5
+50
+95
+855
+950
+140
+860
+1,000
+P(positive) =
+​ =
+1000
+140
+0.14 = 14%
+P(condition ∣positive) =
+​ ≈
+140
+45
+0.321
+32%
+90%
+90%
+90%
+50
+1,000
+95
+45
+10%
+100
+1,000
+90
+10
+900
+90
+810
+180
+P(condition ∣positive) =
+​ =
+180
+90
+0.5
+50%
+900
+60
+75%
+75%
+900
+90
+​ ×
+900
+320
+90 = 32
+​ ×
+900
+300
+90 = 30
+​ ×
+900
+280
+90 = 28
+32 + 30 + 28 = 90
+​ =
+90
+54
+0.6
+0.6 × 900 = 540
+75%
+675
+135
+32, 30, 28
+540
+675
+
+
+===== [source page 266] =====
+MYP MATHEMATICS 3
+266
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+MIXED PRACTICE 10
+1 Total 
+. 
+; 
+;
+.
+2 Sum :  outcomes, so 
+. Sum :  outcomes, so 
+.
+Even sum: 
+ outcomes, so 
+.
+3 Mutually exclusive: 
+;
+.
+4 Relative frequency 
+. Expected successes in
+: 
+.
+5 Each toss is independent, so the coin has no memory and
+ again. The law of large numbers says the
+long-run proportion will approach 
+; it does not
+require the next toss to compensate for the past ten
+heads.
+6
+, so the events are
+independent. 
+.
+7 Readers of a gardening magazine are a self-selected group
+with a strong interest in growing plants, so 
+describes them, not all adults. The sample is biased in a
+known direction; a larger sample of the same readers
+would not fix it. A random sample of adults is needed.
+8 Absolute increase:  case per 
+, or 
+ percentage
+points. A fair report says: “The risk rose from 1 in 20,000
+to 2 in 20,000 — one extra case per 20,000 people.” This
+gives the natural frequencies alongside the relative
+doubling.
+9 Each year has 
+ students. A sample of 
+ takes
+ from each year. Walkers: 
+, so
+ estimated walkers.
+10
+ have the condition: 
+ true positives and  false
+negatives. Of 
+ healthy, 
+ false positive gives 
+false positives and 
+ true negatives. Positives total
+, so 
+.
+11 Digits 
+ represent success in 
+ equally likely digits, so
+the modelled probability is 
+. Expected successes in 
+trials: 
+. Estimate the probability by
+repeating many trials and dividing the total successes
+by the total trials; one run of 
+ is only an estimate.
+12 Class A’s result is stronger evidence: its improvement is
+based on 
+ students, while Class B’s 
+-mark
+improvement is based on only  and could easily be
+chance. A larger measured effect is not automatically
+more reliable; precision depends on sample size and
+variability, and practical importance depends on the
+outcome, not just the size of the number.
+13 Increasing the sample does not remove bias because the
+same people remain more likely to respond. For
+example, an online poll on a fitness site may receive
+ responses, but its respondents are still
+disproportionately fitness-oriented; the estimate
+remains systematically different from the population.
+14 Of 
+ people, 
+ have the condition: 
+ true
+positives and  false negative. Of 
+ healthy, 
+ false
+positive gives 
+ false positives and 
+ true negatives.
+Positives total 
+, so 
+,
+or 
+. Even a 
+ sensitive and specific test gives a
+positive result that is correct only half the time when
+prevalence is 
+.
+Common errors. Do not assume outcomes are equally likely just because there are two descriptions. “And” usually
+multiplies only for independent events; without replacement, update the denominator. A larger sample reduces random
+variation but not bias. Absolute risk and relative risk answer different questions, and a positive test result depends on
+prevalence as well as accuracy.
+Cumulative review · Worked solutions
+PAPER A · KNOWING AND UNDERSTANDING
+1
+.
+2
+, so 
+.
+3
+, that is 
+.
+4
+.
+5
+.
+6 Difference of two squares: 
+.
+7
+, so 
+ and 
+.
+8 From the second equation 
+. Substituting:
+, so 
+, 
+ and 
+.
+9
+ with 
+, so 
+; hence 
+.
+10 Dividing by 2: 
+; gradient , -intercept 
+.
+11
+, so 
+ and 
+.
+12
+. Since the square on the
+longest side equals the sum of the squares on the other
+two, the converse of Pythagoras gives a right angle
+opposite the 25 cm side.
+13 Opposite 
+ cm to three significant figures.
+14
+.
+15
+ of a full turn.
+16 Mean 
+; the middle of five ordered
+values is the third, the median .
+17 Strong negative correlation: as one variable increases, the
+other tends to decrease, and the points lie close to a
+downward line.
+18 The primes on a die are 
+, so 
+.
+19
+; 
+.
+20
+ means the distance from  to 8 is at most 3, so
+.
+Marking guide (Paper A, 37 marks). Award the method mark for a correct first step even if arithmetic slips, and the
+answer mark only for the correct final value with units where required. Common errors: writing 
+ (a factor
+taken out that is not a square root); dropping the negative sign in 
+ when subtracting the index 
+; using the
+two shorter sides in Q12 without checking which side is longest; leaving a volume without its cubic unit.
+PAPER B · INVESTIGATING PATTERNS
+1 Figure 1: 1 tile, perimeter 4. Figure 2: 3 tiles, perimeter 8.
+Figure 3: 6 tiles, perimeter 12. Figure 4: 10 tiles,
+perimeter 16. Figure 5: 15 tiles, perimeter 20.
+2 First differences of : 
+. Second difference: 
+,
+constant. A constant second difference means  is a
+quadratic function of , so the rule looks like
+, not a direct proportion.
+3 The tiles form the triangular numbers, 
+. For
+: 
+. Counting: 
+,
+which agrees.
+4
+. For 
+: bottom edge 4, right side 4, left side 1,
+four top edges 4, and three vertical drops between the
+columns 3; these total 
+, as
+required.
+15 P(red) =
+​
+15
+7
+P(not blue) =
+​ =
+15
+10
+​3
+2
+P(red or green) =
+​ =
+15
+10
+​3
+2
+4 3
+​ =
+36
+3
+​
+12
+1
+8 5
+​
+36
+5
+18
+​ =
+36
+18
+​2
+1
+P(A ∪B) = 0.35 + 0.4 = 0.75
+P(neither) = 1 −0.75 = 0.25
+=
+​ =
+240
+36
+0.15
+800 800 × 0.15 = 120
+P(head) = 0.5
+0.5
+P(A) × P(B) = 0.4 × 0.5 = 0.2 = P(A ∩B)
+P(A ∪B) = 0.4 + 0.5 −0.2 = 0.7
+80%
+1
+20,000
+0.005
+280
+84
+​ ×
+840
+280
+84 = 28
+​ =
+84
+35
+​
+12
+5
+840 ×
+​ =
+12
+5
+350
+100
+95
+5
+1,900
+10%
+190
+1,710
+285
+P(condition ∣positive) =
+​ =
+285
+95
+​ ≈
+3
+1
+33.3%
+0, 1, 2
+10
+0.3
+40
+40 × 0.3 = 12
+40
+20
+10
+5
+50,000
+10,000
+1% = 100
+99
+1
+9,900
+1%
+99
+9,801
+198
+P(condition ∣positive) =
+​ =
+198
+99
+0.5
+50%
+99%
+1%
+4.7 × 10
+=
+−3
+0.0047
+98 = 49 × 2
+​ =
+98
+​
+​ =
+49
+2
+7
+​2
+(3 × 2) × 10
+=
+4−6
+6 × 10−2
+0.06
+2
+=
+−2+5−(−1)
+2 =
+4
+16
+x +
+2
+7x −4x −28 = x +
+2
+3x −28
+x −
+2
+9 = (x −3)(x + 3)
+4x −2x = 5 + 7
+2x = 12
+x = 6
+y = x −1
+2x + (x −1) = 11
+3x = 12 x = 4
+y = 3
+y = −3x + c
+−1 = −3(2) + c
+c = 5
+y = −3x + 5
+y = 3x −4
+3 y
+−4
+3x −6 ≤x + 8
+2x ≤14
+x ≤7
+7 +
+2
+24 =
+2
+49 + 576 = 625 = 252
+= 20 sin 35 =
+∘
+11.5
+V = πr h =
+2
+π(5 )(12) =
+2
+300π ≈942 cm3
+​ =
+360
+135
+​8
+3
+=
+​ =
+5
+4+6+6+7+12
+​ =
+5
+35
+7
+6
+2, 3, 5
+P(prime) =
+​ =
+6
+3
+​2
+1
+P(red) =
+​ =
+10
+4
+​5
+2 P(not red) =
+​ =
+10
+6
+​5
+3
+∣x −8∣≤3
+x
+5 ≤x ≤11
+​ =
+98
+49
+​2
+2
+×
+−2
+2 ÷
+5
+2−1
+−1
+T 2, 3, 4, 5
+1, 1, 1
+T
+n
+T = an +
+2
+bn + c
+T =
+​
+2
+n(n+1)
+n = 6 T =
+​ =
+2
+6×7
+21
+1 + 2 + 3 + 4 + 5 + 6 = 21
+P = 4n
+n = 4
+4 + 4 + 1 + 4 + 3 = 16 = 4(4)
+
+
+===== [source page 267] =====
+MYP MATHEMATICS 3
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+267
+5 Need 
+, i.e. 
+. 
+ gives
+ and 
+; 
+ gives 
+ and
+. The least figure is Figure 14.
+6
+ is four times a whole number, so it is always
+divisible by 4 and therefore always even. The claim is
+true; the rule for  explains why and generalises the
+observation from a few figures.
+7 The model assumes unit squares that fit exactly with no
+gaps or trimming, and counts an ideal perimeter
+ignoring the wall or grout. To check a large figure, use
+the rule 
+ in a spreadsheet and compare with a
+careful drawing of, say, Figure 10 on squared paper.
+Marking guide (Paper B, 24 marks). Look for an ordered table, differences computed correctly, a rule that is verified
+rather than merely guessed, and a conclusion that names a limitation. A rule stated without verification earns the pattern
+mark but not the verification mark. Common errors: treating the first differences as constant; assuming 
+ rather than
+; claiming a perimeter of 
+ by counting only two sides.
+PAPER C · COMMUNICATING
+1
+, because 
+, 
+ and 
+ are all radii of the
+same circle, and the radius of a circle is constant. 
+ is
+a diameter, so 
+ is its midpoint.
+2 Triangle 
+ is isosceles since 
+; triangle 
+ is
+isosceles since 
+. In each case the equal sides
+are radii.
+3 In triangle 
+: 
+, 
+, and
+, because 
+ splits the
+angle at 
+. The angles of a triangle sum to 
+, so
+, giving 
+ and
+therefore 
+.
+4 By step 3, 
+. Since 
+ was any point on
+the circumference (other than  and 
+), the angle in a
+semicircle is a right angle in every case.
+5 Let the integers be , 
+ and 
+. Their sum is
+, which is 3 multiplied by the integer
+, so it is divisible by 3.
+6 The invalid step is dividing both sides by 
+. Because 
+, 
+, and division by zero is undefined, so the step is
+not permitted. For example, with 
+, the factor 
+; multiplying by zero has already destroyed the information
+that distinguished the two sides, and no legitimate operation can reconstruct it. The conclusion 
+ is therefore
+spurious, and the assumption 
+ never allows the division.
+Marking guide (Paper C, 24 marks). Statements must be ordered and connected; each must be justified by a named fact
+(radii are equal; base angles of an isosceles triangle are equal; angles of a triangle sum to 
+). Award full credit for a
+proof that reaches 
+ with every step justified, even if the wording differs. In step 6 the crucial insight is that
+, so the division is undefined; a response that only says “because 
+” without naming the zero factor is
+incomplete.
+PAPER D · APPLYING MATHEMATICS
+1
+ and 
+ euros per week.
+2
+: X 
+, Y 
+. 
+: X 
+, Y 
+. 
+: X 
+, Y
+. 
+: X 
+, Y 
+. 
+: X 
+, Y 
+.
+3 Setting 
+ gives 
+, so 
+ km.
+The graphs cross at 
+, where each cost is €
+.
+4 For distances below 
+ km, Tariff X is cheaper; for
+distances above 
+ km, Tariff Y is cheaper. At exactly 
+km the two tariffs cost the same.
+5 At 
+ km: 
+ and
+. Tariff Y is cheaper, saving
+ euros per week.
+6 Now 
+. Setting 
+ gives
+, so the break-even distance rises to 
+ km.
+Tariff Y is now cheaper only above 
+ km. At 
+ km:
+ and 
+, so Y is still
+cheaper, saving 
+ euros. The
+recommendation is unchanged, but the advantage is
+smaller and the fixed weekly saving has shrunk.
+7 Assumptions: the charge is based on exactly the
+kilometres driven, and the fixed and per-kilometre
+rates stay constant for the whole year, with no other
+fees. A real quotation might include tolls, fuel
+surcharges, waiting time, vehicle-size bands or annual
+price reviews, any of which would change the total.
+8 Two equal sides use 
+ m, so the third fenced side is
+ m. The area is 
+ square
+metres.
+9
+; 
+; 
+; 
+; 
+; 
+;
+. The greatest area in the table is 
+, at
+ m. (The table is symmetric, which is the sign of a
+maximum at the middle value.)
+10 The table tests only every  m, so the true maximum may
+lie between two rows; the answer is therefore an
+estimate. Test closer values such as
+, or plot  against  and read the
+highest point.
+Marking guide (Paper D, 33 marks). A model must define its variables and units, produce correct calculations and end
+with a justified recommendation. Full credit for the evaluation requires named assumptions and a reason they might fail,
+not a general remark. Common errors: swapping the fixed and per-kilometre parts of a tariff; reading the break-even from
+the intercepts instead of the intersection; forgetting to subtract to find the saving; reporting the area without units.
+YEAR 3 EXIT TASK · DOES THE REVISION APP WORK?
+1 With hours on the horizontal axis and score on the vertical
+axis, the points rise together and lie close to a straight
+line: a strong positive correlation. This matches
+, a value close to .
+2 A line through the middle of the cloud gives a gradient of
+about 
+ and an intercept near 
+, so
+. Accept any line with gradient between
+about 
+ and 
+ and intercept between about 
+ and 
+,
+provided it passes through the cloud.
+3 Substituting 
+: 
+. The prediction is
+unreliable: 
+ hours lies beyond the largest value in the
+data (
+ hours), so this is extrapolation, and 
+ is close
+to the top of the scale, leaving little room for the trend
+to continue.
+4 The two students differ by  hours, so the expected
+difference is 
+ marks. Using the line, 
+hours gives about 
+ and  hours gives about 
+, a gap
+of about 
+. The claim of “about 
+ marks more”
+understates the trend; the true difference is nearer 
+ to
+ marks.
+​ >
+2
+n(n+1)
+100
+n(n + 1) > 200 n = 13
+13 × 14 = 182
+T = 91 n = 14
+14 × 15 = 210
+T = 105
+P = 4n
+P
+T =
+​
+2
+n(n+1)
+T ∝n
+T ∝n2
+2n
+OA = OB = OC
+OA OB
+OC
+AB
+O
+OAC
+OA = OC
+OBC
+OB = OC
+ABC ∠A = α ∠B = β
+∠C = ∠OCA + ∠OCB = α + β
+OC
+C
+180∘
+α + β + (α + β) = 180∘
+2(α + β) = 180∘
+α + β = 90∘
+∠ACB = α + β = 90∘
+C
+A
+B
+n n + 1
+n + 2
+3n + 3 = 3(n + 1)
+n + 1
+(a −b)
+a = b (a −b) = 0
+a = b = 1
+a −b = 0
+2 = 1
+a = b
+180∘
+α + β = 90∘
+(a −b) = 0
+a = b
+C
+​ =
+X
+8 + 0.90k
+C
+​ =
+Y
+20 + 0.40k
+k = 0
+= 8
+= 20 k = 10
+= 17
+= 24 k = 20
+= 26
+= 28 k = 30
+= 35
+= 32 k = 40
+= 44
+= 36
+8 + 0.90k = 20 + 0.40k
+0.50k = 12
+k = 24
+k = 24
+29.60
+24
+24
+24
+900
+C
+​ =
+X
+8 + 0.90(900) = 818
+C
+​ =
+Y
+20 + 0.40(900) = 380
+818 −380 = 438
+C
+​ =
+Y
+20 + 0.60k
+8 + 0.90k = 20 + 0.60k
+0.30k = 12
+k = 40
+40
+900
+C
+​ =
+X
+818
+C
+​ =
+Y
+20 + 0.60(900) = 560
+818 −560 = 258
+2x
+40 −2x
+A = x(40 −2x) = 40x −2x2
+x = 4 ⇒128 6 ⇒168 8 ⇒192 10 ⇒200 12 ⇒192 14 ⇒168
+16 ⇒128
+200 m2
+x = 10
+2
+x = 9,  9.5,  10,  10.5,  11
+A
+x
+r ≈0.985
+1
+​ ≈
+12−1
+90−52
+3.5
+48
+y ≈3.5x + 48
+3.4
+3.6
+47
+50
+x = 14 y ≈3.5(14) + 48 = 97
+14
+12
+97
+5
+5 × 3.5 ≈17.5
+12
+90
+7
+72.5
+17.5
+12
+17
+18
+
+
+===== [source page 268] =====
+MYP MATHEMATICS 3
+268
+MYP MATHEMATICS 3 · STUDENT COURSEBOOK
+5 A high correlation does not establish cause. A third factor
+— for example how motivated or able a student already
+is — could increase both app use and test score,
+producing the pattern without the app causing it. To
+test causation fairly, run a controlled experiment:
+assign students at random to use the app or to a
+comparison group, keep other conditions the same, and
+compare the change in scores.
+6 About 
+ of 
+ is 
+ students. This may be
+too high because the 
+ figure came from a different
+school with a different intake, or because it recorded
+full-price purchases in another context; a free offer still
+costs students time, and other schools may respond
+differently.
+7 Sample recommendation: strength — the data show a
+strong positive association (
+) and a consistent
+upward trend; limitation — the sample is small (12
+students), the data are observational, and the
+prediction for 
+ hours is an extrapolation; request — a
+larger random sample, a controlled trial, and data on
+prior attainment to separate the app’s effect from other
+factors.
+Marking guide (exit task, 30 marks). Credit clear axes and a sensible line of best fit; correct substitution and honest
+comment on extrapolation; an explanation of correlation versus causation that names a specific confounding variable
+and a realistic experiment; and a recommendation that balances a strength against a limitation. Common errors: reading
+the gradient from the first and last points without regard to the spread; claiming the data “prove” the app works;
+predicting beyond the data without comment; and reporting a percentage estimate as an exact count.
+30%
+200
+0.30 × 200 = 60
+30%
+r ≈0.985
+14
